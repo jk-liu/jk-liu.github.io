@@ -8,14 +8,22 @@ function collectInfo() {
 	var urlFull = UWAPI_URL+"buildings/"+building+"/"+roomNumber+"/courses.json?"+API_key;
 	var roomSchedule;
 	
+	$("#displayOpenTimes").slideUp();
+	$("#displayStatus").slideUp();
+	$("#displayTimes").slideUp();
+
 	$.getJSON(urlFull, function(data) {
 		roomSchedule = data.data;
 		var metaStatus = data.meta.status;
 		// if input returns no information
 		if (metaStatus != 200) {
+			$("#displayOpenTimes").slideUp(800);
+			$("#displayStatus").slideDown(800);
+			$("#displayTimes").slideUp(800);
+
 			document.getElementById("displayStatus").innerHTML="<strong>Room selected has no classes scheduled.</strong>";
-			document.getElementById("displayTimes").innerHTML="";
-			document.getElementById("displayOpenTimes").innerHTML="";
+			// document.getElementById("displayTimes").innerHTML="";
+			// document.getElementById("displayOpenTimes").innerHTML="";
 		}
 		
 		// otherwise process the room schedule
@@ -114,6 +122,10 @@ function collectInfo() {
 			outputString+="building closes</li>"
 			outputString+="</ul>";
 			document.getElementById("displayOpenTimes").innerHTML=outputString;
+			
+			$("#displayOpenTimes").slideDown(800);
+			$("#displayStatus").slideDown(800);
+			$("#displayTimes").slideDown(800);
 		}
 	});
 }
