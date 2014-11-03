@@ -22,8 +22,6 @@ function collectInfo() {
 			$("#displayTimes").slideUp(800);
 
 			document.getElementById("displayStatus").innerHTML="<strong>Room selected has no classes scheduled.</strong>";
-			// document.getElementById("displayTimes").innerHTML="";
-			// document.getElementById("displayOpenTimes").innerHTML="";
 		}
 		
 		// otherwise process the room schedule
@@ -45,6 +43,7 @@ function collectInfo() {
 				var endTime = data.data[i].end_time;
 				var courseSub = data.data[i].subject;
 				var courseNum = data.data[i].catalog_number;
+				var courseSec = data.data[i].section;
 				var courseTitle = data.data[i].title;
 				var courseInstr = data.data[i].instructors;
 				var courseEnroll = data.data[i].enrollment_total;
@@ -52,7 +51,7 @@ function collectInfo() {
 
 				if (whichDays.indexOf(dayOfWeek) > -1) {
 					if (dayOfWeek=="T" && whichDays!="Th"){
-						outputStr+="<li>" + startTime+" - "+endTime+" "+courseSub+" "+courseNum;
+						outputStr+="<li>" + startTime+" - "+endTime+" "+courseSub+" "+courseNum+" "+courseSec;
 						if (showDaysChk.checked) { outputStr+=" "+whichDays; }
 						if (showCoursesChk.checked) { outputStr+=" - "+courseTitle; }
 						if (showInstrChk.checked) { outputStr+=" - "+courseInstr; }
@@ -69,7 +68,7 @@ function collectInfo() {
 					}
 
 					else if (dayOfWeek!="T"){
-						outputStr+="<li>" + startTime+" - "+endTime+" "+courseSub+" "+courseNum;
+						outputStr+="<li>" + startTime+" - "+endTime+" "+courseSub+" "+courseNum+" "+courseSec;
 						if (showDaysChk.checked) { outputStr+=" "+whichDays; }
 						if (showCoursesChk.checked) { outputStr+=" - "+courseTitle; }
 						if (showInstrChk.checked) { outputStr+=" - "+courseInstr; }
@@ -105,14 +104,20 @@ function collectInfo() {
 			for (var i=3; i<84; i++) {
 				if (timeArray[i]==0 && timeArray[i+1]==0 && lastTimeOccupied==0) {
 					outputString+="<li>";
-					outputString+=(Math.floor(i/6)+8)%12+":"+i%6+"0";
+					// don't change to 12 hour until at least 1pm
+					if (i<30) { outputString+=(Math.floor(i/6)+8)+":"+i%6+"0"; }
+					else { outputString+=(Math.floor(i/6)+8)%12+":"+i%6+"0"; }
+					
 					if (i<=23) { outputString+=" am"; }
 					else { outputString+=" pm"; }
 					outputString+=" - "
 					lastTimeOccupied=1;
 				}
 				else if (timeArray[i]==1 && lastTimeOccupied==1) {
-					outputString+=(Math.floor(i/6)+8)%12+":"+i%6+"0";
+					// don't change to 12 hour until at least 1pm
+					if (i<30) { outputString+=(Math.floor(i/6)+8)+":"+i%6+"0"; }
+					else { outputString+=(Math.floor(i/6)+8)%12+":"+i%6+"0"; }
+					
 					if (i<=23) { outputString+=" am"; }
 					else { outputString+=" pm"; }
 					outputString+="</li>";
