@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":2417,
+    "timestamp":1415081543,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8544,
+      "subject":"ARCH",
+      "catalog_number":"393",
+      "title":"Design Studio",
+      "section":"STU 003",
+      "weekdays":"MTh",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Beesley,Phillip"
+      ],
+      "building":"ARC",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    },
+    {
+      "class_number":8544,
+      "subject":"ARCH",
+      "catalog_number":"393",
+      "title":"Design Studio",
+      "section":"STU 003",
+      "weekdays":"MTh",
+      "start_time":"13:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Beesley,Phillip"
+      ],
+      "building":"ARC",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    }
+  ]
+}

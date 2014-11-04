@@ -1,0 +1,74 @@
+{
+  "meta":{
+    "requests":2414,
+    "timestamp":1415081542,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3510,
+      "subject":"DRAMA",
+      "catalog_number":"301",
+      "title":"Dramaturgical Analysis",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Houston,Andrew"
+      ],
+      "building":"AL",
+      "room":"6",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:41-05:00"
+    },
+    {
+      "class_number":3373,
+      "subject":"DRAMA",
+      "catalog_number":"343",
+      "title":"Theatre Management and Technology 1",
+      "section":"LAB 001",
+      "weekdays":"MW",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Rainville,Janelle"
+      ],
+      "building":"AL",
+      "room":"6",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:42-05:00"
+    },
+    {
+      "class_number":3155,
+      "subject":"DRAMA",
+      "catalog_number":"409",
+      "title":"Theatre Criticism",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Malone,Toby"
+      ],
+      "building":"AL",
+      "room":"6",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:42-05:00"
+    }
+  ]
+}

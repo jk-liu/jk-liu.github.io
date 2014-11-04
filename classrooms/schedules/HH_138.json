@@ -1,0 +1,294 @@
+{
+  "meta":{
+    "requests":2587,
+    "timestamp":1415081596,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8360,
+      "subject":"ANTH",
+      "catalog_number":"400",
+      "title":"Special Topics in Anthropology",
+      "section":"SEM 002",
+      "weekdays":"T",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Hayes,Nicole"
+      ],
+      "building":"HH",
+      "room":"138",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:36-05:00"
+    },
+    {
+      "class_number":7929,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 011",
+      "weekdays":"MTTh",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "White,Stephanie"
+      ],
+      "building":"HH",
+      "room":"138",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":7933,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 015",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Lobb,Diana Frances"
+      ],
+      "building":"HH",
+      "room":"138",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":3172,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"TUT 103",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Brey,Elizabeth"
+      ],
+      "building":"HH",
+      "room":"138",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":8279,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"TUT 110",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Miletic,Philip"
+      ],
+      "building":"HH",
+      "room":"138",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":8280,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"TUT 111",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Van De Kemp,Jessica-Leigh"
+      ],
+      "building":"HH",
+      "room":"138",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":3183,
+      "subject":"ENGL",
+      "catalog_number":"208C",
+      "title":"Studies in Children's Literature",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Clement,Ryan"
+      ],
+      "building":"HH",
+      "room":"138",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:07-05:00"
+    },
+    {
+      "class_number":7838,
+      "subject":"ENGL",
+      "catalog_number":"309C",
+      "title":"Contemporary Rhetoric",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Hirschkop,Kenneth"
+      ],
+      "building":"HH",
+      "room":"138",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:09-05:00"
+    },
+    {
+      "class_number":8491,
+      "subject":"ESL",
+      "catalog_number":"129R",
+      "title":"Written Academic English",
+      "section":"LEC 007",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"138",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":3110,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"LEC 001",
+      "weekdays":"MThF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Kaminskaia,Svetlana"
+      ],
+      "building":"HH",
+      "room":"138",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3405,
+      "subject":"FR",
+      "catalog_number":"203",
+      "title":"Introduction to Phonetics of French",
+      "section":"LEC 001",
+      "weekdays":"MThF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Kaminskaia,Svetlana"
+      ],
+      "building":"HH",
+      "room":"138",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3238,
+      "subject":"SPAN",
+      "catalog_number":"201A",
+      "title":"Intermediate Spanish 1",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Atoche,Cristina"
+      ],
+      "building":"HH",
+      "room":"138",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3239,
+      "subject":"SPAN",
+      "catalog_number":"201A",
+      "title":"Intermediate Spanish 1",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Atoche,Cristina"
+      ],
+      "building":"HH",
+      "room":"138",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3662,
+      "subject":"WS",
+      "catalog_number":"302",
+      "title":"Thinking Through Gender: Feminist Perspectives",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Gewurtz,Michelle"
+      ],
+      "building":"HH",
+      "room":"138",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:55-05:00"
+    }
+  ]
+}

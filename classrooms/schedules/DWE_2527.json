@@ -1,0 +1,814 @@
+{
+  "meta":{
+    "requests":2489,
+    "timestamp":1415081566,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5008,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 011",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":5008,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 011",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":5008,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 011",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":5008,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 011",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/19",
+      "end_date":"09\/19",
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":5008,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 011",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/03",
+      "end_date":"10\/03",
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":5008,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 011",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/17",
+      "end_date":"10\/17",
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":5008,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 011",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":5008,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 011",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/14",
+      "end_date":"11\/14",
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":5008,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 011",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/28",
+      "end_date":"11\/28",
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":5186,
+      "subject":"CIVE",
+      "catalog_number":"221",
+      "title":"Advanced Calculus",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":73,
+      "instructors":[
+        "Gracie,Robert R"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:26-05:00"
+    },
+    {
+      "class_number":4536,
+      "subject":"CIVE",
+      "catalog_number":"265",
+      "title":"Structure and Properties of Materials",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":75,
+      "instructors":[
+        "Walbridge,Scott"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:27-05:00"
+    },
+    {
+      "class_number":5188,
+      "subject":"CIVE",
+      "catalog_number":"265",
+      "title":"Structure and Properties of Materials",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":75,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:27-05:00"
+    },
+    {
+      "class_number":5963,
+      "subject":"CO",
+      "catalog_number":"456",
+      "title":"Introduction to Game Theory",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        "Koenemann,Jochen"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:31-05:00"
+    },
+    {
+      "class_number":4898,
+      "subject":"ECE",
+      "catalog_number":"105",
+      "title":"Physics of Electrical Engineering 1",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":5268,
+      "subject":"ERS",
+      "catalog_number":"310",
+      "title":"Environmental Analysis and Solutions V: Environmental Thought",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":71,
+      "instructors":[
+        "Gibson,Robert B"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":5118,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 011",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":5118,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 011",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":5118,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 011",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":5654,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 008",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Ahmadi,Seyed Saeed"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5654,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 008",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Ahmadi,Seyed Saeed"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5654,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 008",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Ahmadi,Seyed Saeed"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5654,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 008",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"09\/25",
+      "end_date":"09\/25",
+      "enrollment_total":84,
+      "instructors":[
+        "Ahmadi,Seyed Saeed"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5654,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 008",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"10\/09",
+      "end_date":"10\/09",
+      "enrollment_total":84,
+      "instructors":[
+        "Ahmadi,Seyed Saeed"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5654,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 008",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":84,
+      "instructors":[
+        "Ahmadi,Seyed Saeed"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5654,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 008",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"11\/06",
+      "end_date":"11\/06",
+      "enrollment_total":84,
+      "instructors":[
+        "Ahmadi,Seyed Saeed"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5654,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 008",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":84,
+      "instructors":[
+        "Ahmadi,Seyed Saeed"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5664,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"TUT 110",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":8168,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 008",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":88,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":8168,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 008",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":88,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":8168,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 008",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":88,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":8168,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 008",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"09\/18",
+      "end_date":"09\/18",
+      "enrollment_total":88,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":8168,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 008",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"10\/02",
+      "end_date":"10\/02",
+      "enrollment_total":88,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":8168,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 008",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"10\/16",
+      "end_date":"10\/16",
+      "enrollment_total":88,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":8168,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 008",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"10\/30",
+      "end_date":"10\/30",
+      "enrollment_total":88,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":8168,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 008",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"11\/13",
+      "end_date":"11\/13",
+      "enrollment_total":88,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":8168,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 008",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"11\/27",
+      "end_date":"11\/27",
+      "enrollment_total":88,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":4794,
+      "subject":"MSCI",
+      "catalog_number":"261",
+      "title":"Engineering Economics: Financial Management for Engineers",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":76,
+      "instructors":[
+        "Koo,Bonwoo B."
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4795,
+      "subject":"MSCI",
+      "catalog_number":"261",
+      "title":"Engineering Economics: Financial Management for Engineers",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":76,
+      "instructors":[
+        "Manuel,Irene Ornella"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4089,
+      "subject":"PSCI",
+      "catalog_number":"252",
+      "title":"Global South: Introduction to International Development",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        "Mufti,Mariam"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":3955,
+      "subject":"PSCI",
+      "catalog_number":"255",
+      "title":"Comparative Political Economy of Advanced Industrial Democracies",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":87,
+      "instructors":[
+        "Huo,Jingjing"
+      ],
+      "building":"DWE",
+      "room":"2527",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    }
+  ]
+}

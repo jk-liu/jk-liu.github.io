@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":2472,
+    "timestamp":1415081560,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4925,
+      "subject":"NE",
+      "catalog_number":"450L",
+      "title":"Nanoprobing and Lithography Laboratory",
+      "section":"LAB 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":98,
+      "instructors":[
+        "Siu,Howard Chun-Kui"
+      ],
+      "building":"DC",
+      "room":"3702",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    }
+  ]
+}

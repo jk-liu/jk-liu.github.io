@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":2542,
+    "timestamp":1415081582,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3280,
+      "subject":"FINE",
+      "catalog_number":"472",
+      "title":"Honours Studio Thesis 1",
+      "section":"STU 001",
+      "weekdays":"WF",
+      "start_time":"09:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Taylor,Bruce"
+      ],
+      "building":"ECH",
+      "room":"2105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:22-05:00"
+    },
+    {
+      "class_number":3280,
+      "subject":"FINE",
+      "catalog_number":"472",
+      "title":"Honours Studio Thesis 1",
+      "section":"STU 001",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Taylor,Bruce"
+      ],
+      "building":"ECH",
+      "room":"2105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:22-05:00"
+    },
+    {
+      "class_number":3806,
+      "subject":"FINE",
+      "catalog_number":"474",
+      "title":"Honours Studio Practicum 1",
+      "section":"STU 001",
+      "weekdays":"WF",
+      "start_time":"09:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Taylor,Bruce"
+      ],
+      "building":"ECH",
+      "room":"2105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:22-05:00"
+    },
+    {
+      "class_number":3806,
+      "subject":"FINE",
+      "catalog_number":"474",
+      "title":"Honours Studio Practicum 1",
+      "section":"STU 001",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Taylor,Bruce"
+      ],
+      "building":"ECH",
+      "room":"2105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:22-05:00"
+    }
+  ]
+}

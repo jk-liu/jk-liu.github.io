@@ -1,0 +1,875 @@
+{
+  "meta":{
+    "requests":2427,
+    "timestamp":1415081546,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7041,
+      "subject":"BIOL",
+      "catalog_number":"364",
+      "title":"Mathematical Modelling in Biology",
+      "section":"LAB 101",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Cuddington,Kim"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7137,
+      "subject":"BIOL",
+      "catalog_number":"458",
+      "title":"Quantitative Ecology",
+      "section":"LAB 101",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Cuddington,Kim"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7098,
+      "subject":"CHEM",
+      "catalog_number":"140",
+      "title":"Introduction to Scientific Calculations",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Fisher,Jacob"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":7099,
+      "subject":"CHEM",
+      "catalog_number":"140",
+      "title":"Introduction to Scientific Calculations",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Fisher,Jacob"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":7100,
+      "subject":"CHEM",
+      "catalog_number":"140",
+      "title":"Introduction to Scientific Calculations",
+      "section":"LEC 003",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Fisher,Jacob"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":7101,
+      "subject":"CHEM",
+      "catalog_number":"140",
+      "title":"Introduction to Scientific Calculations",
+      "section":"LEC 004",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Fisher,Jacob"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":8005,
+      "subject":"CHEM",
+      "catalog_number":"140",
+      "title":"Introduction to Scientific Calculations",
+      "section":"LEC 005",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Fisher,Jacob"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":8403,
+      "subject":"CHEM",
+      "catalog_number":"140",
+      "title":"Introduction to Scientific Calculations",
+      "section":"LEC 006",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Fisher,Jacob"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":8405,
+      "subject":"CHEM",
+      "catalog_number":"140",
+      "title":"Introduction to Scientific Calculations",
+      "section":"LEC 007",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Fisher,Jacob"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6964,
+      "subject":"CHEM",
+      "catalog_number":"140",
+      "title":"Introduction to Scientific Calculations",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Fisher,Jacob"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6965,
+      "subject":"CHEM",
+      "catalog_number":"140",
+      "title":"Introduction to Scientific Calculations",
+      "section":"LAB 102",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Fisher,Jacob"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6966,
+      "subject":"CHEM",
+      "catalog_number":"140",
+      "title":"Introduction to Scientific Calculations",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Fisher,Jacob"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6967,
+      "subject":"CHEM",
+      "catalog_number":"140",
+      "title":"Introduction to Scientific Calculations",
+      "section":"LAB 104",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Fisher,Jacob"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":8006,
+      "subject":"CHEM",
+      "catalog_number":"140",
+      "title":"Introduction to Scientific Calculations",
+      "section":"LAB 105",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Fisher,Jacob"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":8404,
+      "subject":"CHEM",
+      "catalog_number":"140",
+      "title":"Introduction to Scientific Calculations",
+      "section":"LAB 106",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Fisher,Jacob"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":8406,
+      "subject":"CHEM",
+      "catalog_number":"140",
+      "title":"Introduction to Scientific Calculations",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Fisher,Jacob"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6624,
+      "subject":"EARTH",
+      "catalog_number":"342",
+      "title":"Geomorphology and GIS Applications",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":95,
+      "instructors":[
+        "Li,Changcheng"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:44-05:00"
+    },
+    {
+      "class_number":3753,
+      "subject":"LS",
+      "catalog_number":"280",
+      "title":"Social Statistics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"17:30",
+      "end_time":"19:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":76,
+      "instructors":[
+        "Gallupe,Owen"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:07-05:00"
+    },
+    {
+      "class_number":7679,
+      "subject":"NE",
+      "catalog_number":"111",
+      "title":"Intro to Engineering Computing",
+      "section":"LEC 001",
+      "weekdays":"WTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":121,
+      "instructors":[
+        "Abukhdeir,Nasser Mohieddin"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7678,
+      "subject":"NE",
+      "catalog_number":"216",
+      "title":"Advanced Calculus 1 for Nanotechnology Engineering",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":94,
+      "instructors":[
+        "Teertstra,Peter Michael",
+        "Razavipour,Ghasem"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4859,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4860,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/09",
+      "end_date":"09\/09",
+      "enrollment_total":42,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4860,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":42,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4860,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":42,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4860,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":42,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4860,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":42,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4860,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":42,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4861,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":42,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4861,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":42,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4861,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":42,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4861,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":42,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4861,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":42,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4861,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":42,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":7074,
+      "subject":"PHYS",
+      "catalog_number":"236",
+      "title":"Computational Physics 1",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":111,
+      "instructors":[
+        "Taylor,James"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7074,
+      "subject":"PHYS",
+      "catalog_number":"236",
+      "title":"Computational Physics 1",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":111,
+      "instructors":[
+        "Taylor,James"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7075,
+      "subject":"PHYS",
+      "catalog_number":"236",
+      "title":"Computational Physics 1",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"19:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":111,
+      "instructors":[
+        "Taylor,James"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":8084,
+      "subject":"REC",
+      "catalog_number":"371",
+      "title":"Statistical Techniques Applied to Leisure Studies",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"09\/19",
+      "end_date":"09\/19",
+      "enrollment_total":108,
+      "instructors":[
+        "Havitz,Mark"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:15-05:00"
+    },
+    {
+      "class_number":8084,
+      "subject":"REC",
+      "catalog_number":"371",
+      "title":"Statistical Techniques Applied to Leisure Studies",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/03",
+      "end_date":"10\/03",
+      "enrollment_total":108,
+      "instructors":[
+        
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:15-05:00"
+    },
+    {
+      "class_number":8084,
+      "subject":"REC",
+      "catalog_number":"371",
+      "title":"Statistical Techniques Applied to Leisure Studies",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/17",
+      "end_date":"10\/17",
+      "enrollment_total":108,
+      "instructors":[
+        
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:15-05:00"
+    },
+    {
+      "class_number":8084,
+      "subject":"REC",
+      "catalog_number":"371",
+      "title":"Statistical Techniques Applied to Leisure Studies",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":108,
+      "instructors":[
+        
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:15-05:00"
+    },
+    {
+      "class_number":8084,
+      "subject":"REC",
+      "catalog_number":"371",
+      "title":"Statistical Techniques Applied to Leisure Studies",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"11\/14",
+      "end_date":"11\/14",
+      "enrollment_total":108,
+      "instructors":[
+        
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:15-05:00"
+    },
+    {
+      "class_number":8084,
+      "subject":"REC",
+      "catalog_number":"371",
+      "title":"Statistical Techniques Applied to Leisure Studies",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"11\/28",
+      "end_date":"11\/28",
+      "enrollment_total":108,
+      "instructors":[
+        
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:15-05:00"
+    },
+    {
+      "class_number":3217,
+      "subject":"SOC",
+      "catalog_number":"280",
+      "title":"Social Statistics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"17:30",
+      "end_time":"19:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Gallupe,Owen"
+      ],
+      "building":"B1",
+      "room":"370",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:34-05:00"
+    }
+  ]
+}

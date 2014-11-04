@@ -1,0 +1,374 @@
+{
+  "meta":{
+    "requests":2497,
+    "timestamp":1415081568,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3447,
+      "subject":"ECON",
+      "catalog_number":"361",
+      "title":"Cost-Benefit Analysis and Project Evaluation",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Rahman,Fiona Tasnim"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:58-05:00"
+    },
+    {
+      "class_number":5331,
+      "subject":"GEOG",
+      "catalog_number":"319",
+      "title":"Economic Analyses for Regional Planning",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Parker,Dawn Cassandra"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:33-05:00"
+    },
+    {
+      "class_number":6148,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 113",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":4814,
+      "subject":"MSCI",
+      "catalog_number":"100",
+      "title":"Management Engineering Concepts",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Mantin,Binyamin"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4814,
+      "subject":"MSCI",
+      "catalog_number":"100",
+      "title":"Management Engineering Concepts",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Mantin,Binyamin"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4814,
+      "subject":"MSCI",
+      "catalog_number":"100",
+      "title":"Management Engineering Concepts",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":82,
+      "instructors":[
+        "Mantin,Binyamin"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4814,
+      "subject":"MSCI",
+      "catalog_number":"100",
+      "title":"Management Engineering Concepts",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":82,
+      "instructors":[
+        "Mantin,Binyamin"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4814,
+      "subject":"MSCI",
+      "catalog_number":"100",
+      "title":"Management Engineering Concepts",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":82,
+      "instructors":[
+        "Mantin,Binyamin"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4814,
+      "subject":"MSCI",
+      "catalog_number":"100",
+      "title":"Management Engineering Concepts",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":82,
+      "instructors":[
+        "Mantin,Binyamin"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4814,
+      "subject":"MSCI",
+      "catalog_number":"100",
+      "title":"Management Engineering Concepts",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":82,
+      "instructors":[
+        "Mantin,Binyamin"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4816,
+      "subject":"MSCI",
+      "catalog_number":"100",
+      "title":"Management Engineering Concepts",
+      "section":"TUT 201",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4948,
+      "subject":"MSCI",
+      "catalog_number":"332",
+      "title":"Deterministic Optimization Models and Methods",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"15:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":58,
+      "instructors":[
+        "Hosseininasab,Amin"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4949,
+      "subject":"MSCI",
+      "catalog_number":"333",
+      "title":"Simulation Analysis and Design",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        "He,Qi-Ming"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4959,
+      "subject":"MSCI",
+      "catalog_number":"446",
+      "title":"Data Warehousing and Mining",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        "Golab,Lukasz"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":7159,
+      "subject":"PHYS",
+      "catalog_number":"358",
+      "title":"Thermal Physics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "Mir,Faizal"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:55-05:00"
+    },
+    {
+      "class_number":5330,
+      "subject":"PLAN",
+      "catalog_number":"320",
+      "title":"Economic Analyses for Regional Planning",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Parker,Dawn Cassandra"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:58-05:00"
+    },
+    {
+      "class_number":7630,
+      "subject":"UNIV",
+      "catalog_number":"101",
+      "title":"Strategies and Skills for Academic Success",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Forristal,Stephanie Joan"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:52-05:00"
+    },
+    {
+      "class_number":8296,
+      "subject":"MSCI",
+      "catalog_number":"760",
+      "title":"Topics in Other Areas of Management Sciences",
+      "section":"RDG 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Golab,Lukasz"
+      ],
+      "building":"E2",
+      "room":"1303",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:50-05:00"
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "meta":{
+    "requests":2565,
+    "timestamp":1415081589,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8223,
+      "subject":"GEOG",
+      "catalog_number":"187",
+      "title":"Problem Solving in Geomatics",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:31-05:00"
+    },
+    {
+      "class_number":8224,
+      "subject":"GEOG",
+      "catalog_number":"187",
+      "title":"Problem Solving in Geomatics",
+      "section":"LAB 102",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:31-05:00"
+    },
+    {
+      "class_number":8225,
+      "subject":"GEOG",
+      "catalog_number":"187",
+      "title":"Problem Solving in Geomatics",
+      "section":"LAB 103",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:31-05:00"
+    },
+    {
+      "class_number":8104,
+      "subject":"GEOG",
+      "catalog_number":"310",
+      "title":"Geodesy and Surveying",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:33-05:00"
+    },
+    {
+      "class_number":8105,
+      "subject":"GEOG",
+      "catalog_number":"310",
+      "title":"Geodesy and Surveying",
+      "section":"LAB 102",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:33-05:00"
+    },
+    {
+      "class_number":5397,
+      "subject":"GEOG",
+      "catalog_number":"371",
+      "title":"Advanced Remote Sensing Techniques",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:33-05:00"
+    },
+    {
+      "class_number":5398,
+      "subject":"GEOG",
+      "catalog_number":"371",
+      "title":"Advanced Remote Sensing Techniques",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:33-05:00"
+    },
+    {
+      "class_number":5483,
+      "subject":"GEOG",
+      "catalog_number":"371",
+      "title":"Advanced Remote Sensing Techniques",
+      "section":"LAB 103",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:33-05:00"
+    },
+    {
+      "class_number":5490,
+      "subject":"GEOG",
+      "catalog_number":"371",
+      "title":"Advanced Remote Sensing Techniques",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:33-05:00"
+    },
+    {
+      "class_number":5476,
+      "subject":"GEOG",
+      "catalog_number":"387",
+      "title":"Spatial Databases",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:33-05:00"
+    },
+    {
+      "class_number":5479,
+      "subject":"GEOG",
+      "catalog_number":"387",
+      "title":"Spatial Databases",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:33-05:00"
+    },
+    {
+      "class_number":7840,
+      "subject":"GEOG",
+      "catalog_number":"387",
+      "title":"Spatial Databases",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:33-05:00"
+    },
+    {
+      "class_number":8088,
+      "subject":"GEOG",
+      "catalog_number":"387",
+      "title":"Spatial Databases",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:33-05:00"
+    },
+    {
+      "class_number":5475,
+      "subject":"PLAN",
+      "catalog_number":"387",
+      "title":"Spatial Databases",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:59-05:00"
+    },
+    {
+      "class_number":5478,
+      "subject":"PLAN",
+      "catalog_number":"387",
+      "title":"Spatial Databases",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:59-05:00"
+    },
+    {
+      "class_number":7826,
+      "subject":"PLAN",
+      "catalog_number":"387",
+      "title":"Spatial Databases",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:59-05:00"
+    },
+    {
+      "class_number":7827,
+      "subject":"PLAN",
+      "catalog_number":"387",
+      "title":"Spatial Databases",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"1002A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:59-05:00"
+    }
+  ]
+}

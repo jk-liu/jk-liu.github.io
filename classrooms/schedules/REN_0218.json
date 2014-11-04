@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":2727,
+    "timestamp":1415081638,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8257,
+      "subject":"BASE",
+      "catalog_number":"42",
+      "title":"Academic Skills",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Morgan,Christine Elizabeth"
+      ],
+      "building":"REN",
+      "room":"0218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":8259,
+      "subject":"BASE",
+      "catalog_number":"46",
+      "title":"Oral Skills",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":6445,
+      "subject":"JAPAN",
+      "catalog_number":"202R",
+      "title":"Second-Year Japanese 2",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Kunizane,Kumiko"
+      ],
+      "building":"REN",
+      "room":"0218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:57-05:00"
+    },
+    {
+      "class_number":5595,
+      "subject":"ESL",
+      "catalog_number":"601R",
+      "title":"Speaking English for Professional Purposes",
+      "section":"LEC 002",
+      "weekdays":"M",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Schuller,Christa"
+      ],
+      "building":"REN",
+      "room":"0218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:28-05:00"
+    }
+  ]
+}

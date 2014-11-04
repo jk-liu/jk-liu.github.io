@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":2456,
+    "timestamp":1415081555,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7628,
+      "subject":"MUSIC",
+      "catalog_number":"390",
+      "title":"Special Topics in Music 1",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Sum,Maisie"
+      ],
+      "building":"CGR",
+      "room":"1301",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:27-05:00"
+    },
+    {
+      "class_number":7629,
+      "subject":"MUSIC",
+      "catalog_number":"391",
+      "title":"Special Topics in Music 2",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Sum,Maisie"
+      ],
+      "building":"CGR",
+      "room":"1301",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:27-05:00"
+    },
+    {
+      "class_number":4386,
+      "subject":"PACS",
+      "catalog_number":"401",
+      "title":"Senior Research Seminar",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Neufeldt,Reina"
+      ],
+      "building":"CGR",
+      "room":"1301",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:39-05:00"
+    },
+    {
+      "class_number":3929,
+      "subject":"PACS",
+      "catalog_number":"601",
+      "title":"Systems of Peace, Order, and Good Governance",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Neufeldt,Reina"
+      ],
+      "building":"CGR",
+      "room":"1301",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:51-05:00"
+    }
+  ]
+}

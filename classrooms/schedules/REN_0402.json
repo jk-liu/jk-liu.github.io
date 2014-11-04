@@ -1,0 +1,314 @@
+{
+  "meta":{
+    "requests":2729,
+    "timestamp":1415081639,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8371,
+      "subject":"ESL",
+      "catalog_number":"129R",
+      "title":"Written Academic English",
+      "section":"LEC 005",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Astley,Joanne"
+      ],
+      "building":"REN",
+      "room":"0402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":8372,
+      "subject":"ESL",
+      "catalog_number":"129R",
+      "title":"Written Academic English",
+      "section":"LEC 006",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Pop,Maria Victoria"
+      ],
+      "building":"REN",
+      "room":"0402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":3435,
+      "subject":"HIST",
+      "catalog_number":"239",
+      "title":"History of Modern China, 1911 to the Present",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Cai,Kevin"
+      ],
+      "building":"REN",
+      "room":"0402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":6520,
+      "subject":"JAPAN",
+      "catalog_number":"272R",
+      "title":"Japanese Culture and Society",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Uchida,Michiyo"
+      ],
+      "building":"REN",
+      "room":"0402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:58-05:00"
+    },
+    {
+      "class_number":6507,
+      "subject":"SDS",
+      "catalog_number":"311R",
+      "title":"Public Policy and Native Peoples in Canada",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:00",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Laurila,Kelly I"
+      ],
+      "building":"REN",
+      "room":"0402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:25-05:00"
+    },
+    {
+      "class_number":6508,
+      "subject":"SDS",
+      "catalog_number":"354R",
+      "title":"Values and the Contemporary Family",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Romkey,Theresa Lea"
+      ],
+      "building":"REN",
+      "room":"0402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:26-05:00"
+    },
+    {
+      "class_number":7983,
+      "subject":"SOCWK",
+      "catalog_number":"240R",
+      "title":"Palliative Care",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Cadell,Susan A"
+      ],
+      "building":"REN",
+      "room":"0402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:36-05:00"
+    },
+    {
+      "class_number":7984,
+      "subject":"SOCWK",
+      "catalog_number":"367R",
+      "title":"Social Work with the Elderly",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Donahue,Peter John Douglas"
+      ],
+      "building":"REN",
+      "room":"0402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:37-05:00"
+    },
+    {
+      "class_number":6493,
+      "subject":"SWREN",
+      "catalog_number":"311R",
+      "title":"Public Policy and Native Peoples in Canada",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:00",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Laurila,Kelly I"
+      ],
+      "building":"REN",
+      "room":"0402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:47-05:00"
+    },
+    {
+      "class_number":6448,
+      "subject":"SWREN",
+      "catalog_number":"414R",
+      "title":"Interviewing and Assessment in Social Work Practice",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "McMillan,Colleen Vera"
+      ],
+      "building":"REN",
+      "room":"0402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:47-05:00"
+    },
+    {
+      "class_number":6456,
+      "subject":"SWREN",
+      "catalog_number":"422R",
+      "title":"Advanced Macro Practice",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Hogarth,Kathleen"
+      ],
+      "building":"REN",
+      "room":"0402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:47-05:00"
+    },
+    {
+      "class_number":8291,
+      "subject":"SWREN",
+      "catalog_number":"422R",
+      "title":"Advanced Macro Practice",
+      "section":"LEC 003",
+      "weekdays":"T",
+      "start_time":"18:00",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Miller,Wayne Alan"
+      ],
+      "building":"REN",
+      "room":"0402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:47-05:00"
+    },
+    {
+      "class_number":6453,
+      "subject":"SWREN",
+      "catalog_number":"423R",
+      "title":"Advanced Social Group Work Practice",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Schmidt Hanbidge,Alice Jasmine"
+      ],
+      "building":"REN",
+      "room":"0402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:47-05:00"
+    },
+    {
+      "class_number":6457,
+      "subject":"SWREN",
+      "catalog_number":"441R",
+      "title":"Practicum 1",
+      "section":"PRA 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Noordstra,Patricia Ann"
+      ],
+      "building":"REN",
+      "room":"0402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:48-05:00"
+    },
+    {
+      "class_number":5594,
+      "subject":"ESL",
+      "catalog_number":"601R",
+      "title":"Speaking English for Professional Purposes",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Rehm,Stefan"
+      ],
+      "building":"REN",
+      "room":"0402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:28-05:00"
+    }
+  ]
+}

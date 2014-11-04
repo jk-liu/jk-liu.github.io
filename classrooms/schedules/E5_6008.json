@@ -1,0 +1,234 @@
+{
+  "meta":{
+    "requests":2526,
+    "timestamp":1415081577,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4834,
+      "subject":"SYDE",
+      "catalog_number":"101",
+      "title":"Introduction to Systems Design Engineering",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "MacGregor,Carolyn G"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:49-05:00"
+    },
+    {
+      "class_number":5160,
+      "subject":"SYDE",
+      "catalog_number":"101",
+      "title":"Introduction to Systems Design Engineering",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "MacGregor,Carolyn G"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:49-05:00"
+    },
+    {
+      "class_number":4884,
+      "subject":"SYDE",
+      "catalog_number":"113",
+      "title":"Matrices and Linear Systems",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Scott,Katharine Andrea"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:49-05:00"
+    },
+    {
+      "class_number":4885,
+      "subject":"SYDE",
+      "catalog_number":"113",
+      "title":"Matrices and Linear Systems",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"15:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Scott,Katharine Andrea"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:49-05:00"
+    },
+    {
+      "class_number":4639,
+      "subject":"SYDE",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"13:30",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":85,
+      "instructors":[
+        "Scott,Stacey"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:49-05:00"
+    },
+    {
+      "class_number":4424,
+      "subject":"SYDE",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"15:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":85,
+      "instructors":[
+        "Scott,Stacey"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:49-05:00"
+    },
+    {
+      "class_number":4425,
+      "subject":"SYDE",
+      "catalog_number":"161",
+      "title":"Introduction to Design",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":88,
+      "instructors":[
+        "MacGregor,Carolyn G"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":4425,
+      "subject":"SYDE",
+      "catalog_number":"161",
+      "title":"Introduction to Design",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":88,
+      "instructors":[
+        "MacGregor,Carolyn G"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":4426,
+      "subject":"SYDE",
+      "catalog_number":"161",
+      "title":"Introduction to Design",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":88,
+      "instructors":[
+        "MacGregor,Carolyn G"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":4427,
+      "subject":"SYDE",
+      "catalog_number":"181",
+      "title":"Physics 1 (Statics)",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Heppler,Glenn R"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":4428,
+      "subject":"SYDE",
+      "catalog_number":"181",
+      "title":"Physics 1 (Statics)",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Heppler,Glenn R"
+      ],
+      "building":"E5",
+      "room":"6008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    }
+  ]
+}

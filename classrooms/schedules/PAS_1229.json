@@ -1,0 +1,375 @@
+{
+  "meta":{
+    "requests":2658,
+    "timestamp":1415081617,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3741,
+      "subject":"AFM",
+      "catalog_number":"471",
+      "title":"Cases and Applications in Corporate Finance",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":75,
+      "instructors":[
+        "Nguyen,Tu"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:25-05:00"
+    },
+    {
+      "class_number":3087,
+      "subject":"ANTH",
+      "catalog_number":"201",
+      "title":"Principles of Archaeology",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Watts,Christopher"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:33-05:00"
+    },
+    {
+      "class_number":7799,
+      "subject":"ANTH",
+      "catalog_number":"311",
+      "title":"Anthropology of Religion",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Dagtas,Mahiye Secil"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:35-05:00"
+    },
+    {
+      "class_number":3211,
+      "subject":"CLAS",
+      "catalog_number":"221",
+      "title":"Principles of Archaeology",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Watts,Christopher"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:28-05:00"
+    },
+    {
+      "class_number":5720,
+      "subject":"CS",
+      "catalog_number":"348",
+      "title":"Introduction to Database Management",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":79,
+      "instructors":[
+        "Ataullah,Ahmed Ayaz"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:38-05:00"
+    },
+    {
+      "class_number":7591,
+      "subject":"CS",
+      "catalog_number":"458",
+      "title":"Computer Security and Privacy",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Elahi,Mohammad Tariq"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:39-05:00"
+    },
+    {
+      "class_number":5723,
+      "subject":"CS",
+      "catalog_number":"488",
+      "title":"Introduction to Computer Graphics",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Mann,Stephen"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:40-05:00"
+    },
+    {
+      "class_number":3198,
+      "subject":"ECON",
+      "catalog_number":"221",
+      "title":"Statistics for Economists",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":74,
+      "instructors":[
+        "Chakraborty,Liton"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:56-05:00"
+    },
+    {
+      "class_number":4227,
+      "subject":"ECON",
+      "catalog_number":"363",
+      "title":"Contemporary Canadian Problems",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Ferrer,Ana"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:59-05:00"
+    },
+    {
+      "class_number":3207,
+      "subject":"ECON",
+      "catalog_number":"421",
+      "title":"Econometrics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Skuterud,Mikal"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":3954,
+      "subject":"FR",
+      "catalog_number":"297",
+      "title":"French Culture & Literature: 1715 to the Present",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Miraglia,Anne Marie"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:25-05:00"
+    },
+    {
+      "class_number":3796,
+      "subject":"GER",
+      "catalog_number":"100",
+      "title":"Zeitgeist and Popular Culture",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":"09\/08",
+      "end_date":"12\/01",
+      "enrollment_total":73,
+      "instructors":[
+        "Malone,Paul",
+        "Betz,Emma"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:35-05:00"
+    },
+    {
+      "class_number":3754,
+      "subject":"LS",
+      "catalog_number":"321",
+      "title":"Introduction to Research Methods",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Gallupe,Owen"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:07-05:00"
+    },
+    {
+      "class_number":7800,
+      "subject":"RS",
+      "catalog_number":"361",
+      "title":"Anthropology of Religion",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Dagtas,Mahiye Secil"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:22-05:00"
+    },
+    {
+      "class_number":3218,
+      "subject":"SOC",
+      "catalog_number":"321",
+      "title":"Introduction to Research Methods",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Gallupe,Owen"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:34-05:00"
+    },
+    {
+      "class_number":3550,
+      "subject":"WS",
+      "catalog_number":"202",
+      "title":"Women Across Cultures: Canadian and Global Perspectives",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Maitra,Srabani"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:55-05:00"
+    },
+    {
+      "class_number":7582,
+      "subject":"CS",
+      "catalog_number":"658",
+      "title":"Computer Security and Privacy",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Elahi,Mohammad Tariq"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:13-05:00"
+    },
+    {
+      "class_number":5800,
+      "subject":"CS",
+      "catalog_number":"688",
+      "title":"Introduction to Computer Graphics",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Mann,Stephen"
+      ],
+      "building":"PAS",
+      "room":"1229",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:13-05:00"
+    }
+  ]
+}

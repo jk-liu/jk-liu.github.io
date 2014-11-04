@@ -1,0 +1,594 @@
+{
+  "meta":{
+    "requests":2712,
+    "timestamp":1415081633,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8250,
+      "subject":"BASE",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":8337,
+      "subject":"BASE",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 004",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":8337,
+      "subject":"BASE",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 004",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":8339,
+      "subject":"BASE",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 004",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":8142,
+      "subject":"BIOL",
+      "catalog_number":"310",
+      "title":"Invertebrate Zoology",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Pinheiro,Marcel Diniz Oliveira"
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:57-05:00"
+    },
+    {
+      "class_number":7005,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/12",
+      "end_date":"09\/12",
+      "enrollment_total":27,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7005,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/26",
+      "end_date":"09\/26",
+      "enrollment_total":27,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7005,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/10",
+      "end_date":"10\/10",
+      "enrollment_total":27,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7005,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/24",
+      "end_date":"10\/24",
+      "enrollment_total":27,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7005,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/07",
+      "end_date":"11\/07",
+      "enrollment_total":27,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7005,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/21",
+      "end_date":"11\/21",
+      "enrollment_total":27,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7008,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 104",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/19",
+      "end_date":"09\/19",
+      "enrollment_total":24,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7008,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 104",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/03",
+      "end_date":"10\/03",
+      "enrollment_total":24,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7008,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 104",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/17",
+      "end_date":"10\/17",
+      "enrollment_total":24,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7008,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 104",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":24,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7008,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 104",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/14",
+      "end_date":"11\/14",
+      "enrollment_total":24,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7008,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 104",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/28",
+      "end_date":"11\/28",
+      "enrollment_total":24,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6613,
+      "subject":"EARTH",
+      "catalog_number":"123L",
+      "title":"Field Methods in Hydrology",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Conant Jr,Brewster"
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:44-05:00"
+    },
+    {
+      "class_number":5265,
+      "subject":"ERS",
+      "catalog_number":"110",
+      "title":"Environmental Analysis and Solutions I: Foundations",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:15-05:00"
+    },
+    {
+      "class_number":3259,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"ORL 102",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3120,
+      "subject":"GER",
+      "catalog_number":"101",
+      "title":"Elementary German I",
+      "section":"LEC 004",
+      "weekdays":"TWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Rocker,Maike"
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:35-05:00"
+    },
+    {
+      "class_number":4707,
+      "subject":"ME",
+      "catalog_number":"100",
+      "title":"Introduction to Mechanical Engineering Practice 1",
+      "section":"TUT 208",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:15-05:00"
+    },
+    {
+      "class_number":4626,
+      "subject":"MSCI",
+      "catalog_number":"311",
+      "title":"Organizational Design and Technology",
+      "section":"TUT 105",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Iroko,Toluwanimi"
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":3136,
+      "subject":"RUSS",
+      "catalog_number":"101",
+      "title":"Elementary Russian I",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Reichert,Tetyana"
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:22-05:00"
+    },
+    {
+      "class_number":5006,
+      "subject":"ME",
+      "catalog_number":"652",
+      "title":"Convective Heat Transfer",
+      "section":"LEC 001",
+      "weekdays":"TWTh",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Renksizbulut,Metin"
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:47-05:00"
+    },
+    {
+      "class_number":5147,
+      "subject":"ME",
+      "catalog_number":"780",
+      "title":"Special Topics in Mechatronics",
+      "section":"LEC 003",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Erkorkmaz,Kaan"
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:49-05:00"
+    },
+    {
+      "class_number":5147,
+      "subject":"ME",
+      "catalog_number":"780",
+      "title":"Special Topics in Mechatronics",
+      "section":"LEC 003",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Erkorkmaz,Kaan"
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:49-05:00"
+    },
+    {
+      "class_number":7648,
+      "subject":"PACS",
+      "catalog_number":"661",
+      "title":"Ethnic Conflict and Conflict Resolution I",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Jaworsky,John S"
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:52-05:00"
+    },
+    {
+      "class_number":7649,
+      "subject":"PSCI",
+      "catalog_number":"655",
+      "title":"Ethnic Conflict and Conflict Resolution I",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Jaworsky,John S"
+      ],
+      "building":"RCH",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:03-05:00"
+    }
+  ]
+}

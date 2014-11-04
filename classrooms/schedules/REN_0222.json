@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":2728,
+    "timestamp":1415081638,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8253,
+      "subject":"BASE",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"11:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0222",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":8247,
+      "subject":"EFAS",
+      "catalog_number":"36",
+      "title":"Oral Skills",
+      "section":"LEC 003",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0222",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":6533,
+      "subject":"EFAS",
+      "catalog_number":"44",
+      "title":"Writing Skills",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0222",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:01-05:00"
+    },
+    {
+      "class_number":7963,
+      "subject":"KOREA",
+      "catalog_number":"102R",
+      "title":"First-Year Korean 2",
+      "section":"TUT 201",
+      "weekdays":"W",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Kim,Soojin"
+      ],
+      "building":"REN",
+      "room":"0222",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:05-05:00"
+    }
+  ]
+}

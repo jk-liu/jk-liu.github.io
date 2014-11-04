@@ -1,0 +1,1414 @@
+{
+  "meta":{
+    "requests":2585,
+    "timestamp":1415081595,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5269,
+      "subject":"ERS",
+      "catalog_number":"310",
+      "title":"Environmental Analysis and Solutions V: Environmental Thought",
+      "section":"SEM 101",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":3597,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 101",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":15,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3597,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 101",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":15,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3597,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 101",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":15,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3597,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 101",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":15,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3597,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 101",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":15,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3598,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 102",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":15,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3598,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 102",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":15,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3598,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 102",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":15,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3598,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 102",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":15,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3598,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 102",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":15,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3599,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":8,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3599,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":8,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3599,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":8,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3599,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":8,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3599,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":8,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3720,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":8,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3720,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":8,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3720,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":8,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3720,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":8,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3720,
+      "subject":"HIST",
+      "catalog_number":"250",
+      "title":"The Art and Craft of History",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":8,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":7756,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 101",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":13,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7756,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 101",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":13,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7756,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 101",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":13,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7756,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 101",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":13,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7756,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 101",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":13,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7757,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":14,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7757,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":14,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7757,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":14,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7757,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":14,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7757,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":14,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7758,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 103",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":15,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7758,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 103",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":15,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7758,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 103",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":15,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7758,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 103",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":15,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7758,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 103",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":15,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4215,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 101",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"09\/26",
+      "end_date":"09\/26",
+      "enrollment_total":9,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4215,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 101",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/10",
+      "end_date":"10\/10",
+      "enrollment_total":9,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4215,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 101",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/24",
+      "end_date":"10\/24",
+      "enrollment_total":9,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4215,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 101",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/07",
+      "end_date":"11\/07",
+      "enrollment_total":9,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4215,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 101",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/21",
+      "end_date":"11\/21",
+      "enrollment_total":9,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4216,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 102",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/03",
+      "end_date":"10\/03",
+      "enrollment_total":2,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4216,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 102",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/17",
+      "end_date":"10\/17",
+      "enrollment_total":2,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4216,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 102",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":2,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4216,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 102",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/14",
+      "end_date":"11\/14",
+      "enrollment_total":2,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4216,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 102",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/28",
+      "end_date":"11\/28",
+      "enrollment_total":2,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4217,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":11,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4217,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":11,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4217,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":11,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4217,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":11,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4217,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":11,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4218,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":4,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4218,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":4,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4218,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":4,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4218,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":4,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4218,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":4,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7774,
+      "subject":"HIST",
+      "catalog_number":"389",
+      "title":"Canada in World Affairs",
+      "section":"DIS 101",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":6,
+      "instructors":[
+        "Muirhead,Bruce"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7774,
+      "subject":"HIST",
+      "catalog_number":"389",
+      "title":"Canada in World Affairs",
+      "section":"DIS 101",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":6,
+      "instructors":[
+        "Muirhead,Bruce"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7774,
+      "subject":"HIST",
+      "catalog_number":"389",
+      "title":"Canada in World Affairs",
+      "section":"DIS 101",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":6,
+      "instructors":[
+        "Muirhead,Bruce"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7774,
+      "subject":"HIST",
+      "catalog_number":"389",
+      "title":"Canada in World Affairs",
+      "section":"DIS 101",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":6,
+      "instructors":[
+        "Muirhead,Bruce"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7774,
+      "subject":"HIST",
+      "catalog_number":"389",
+      "title":"Canada in World Affairs",
+      "section":"DIS 101",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":6,
+      "instructors":[
+        "Muirhead,Bruce"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7775,
+      "subject":"HIST",
+      "catalog_number":"389",
+      "title":"Canada in World Affairs",
+      "section":"DIS 102",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":0,
+      "instructors":[
+        "Muirhead,Bruce"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7775,
+      "subject":"HIST",
+      "catalog_number":"389",
+      "title":"Canada in World Affairs",
+      "section":"DIS 102",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":0,
+      "instructors":[
+        "Muirhead,Bruce"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7775,
+      "subject":"HIST",
+      "catalog_number":"389",
+      "title":"Canada in World Affairs",
+      "section":"DIS 102",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":0,
+      "instructors":[
+        "Muirhead,Bruce"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7775,
+      "subject":"HIST",
+      "catalog_number":"389",
+      "title":"Canada in World Affairs",
+      "section":"DIS 102",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":0,
+      "instructors":[
+        "Muirhead,Bruce"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7775,
+      "subject":"HIST",
+      "catalog_number":"389",
+      "title":"Canada in World Affairs",
+      "section":"DIS 102",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":0,
+      "instructors":[
+        "Muirhead,Bruce"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":8134,
+      "subject":"HIST",
+      "catalog_number":"402A",
+      "title":"Medieval Europe",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Kroeker,Greta"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":3878,
+      "subject":"HIST",
+      "catalog_number":"403A",
+      "title":"Canadian",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Milligan,Ian"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":3399,
+      "subject":"HIST",
+      "catalog_number":"409A",
+      "title":"American",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":4243,
+      "subject":"HIST",
+      "catalog_number":"607",
+      "title":"Human Rights in Historical Perspective I",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Walker,James W"
+      ],
+      "building":"HH",
+      "room":"123",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:37-05:00"
+    }
+  ]
+}

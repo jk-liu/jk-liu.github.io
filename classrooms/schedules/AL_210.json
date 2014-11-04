@@ -1,0 +1,394 @@
+{
+  "meta":{
+    "requests":2412,
+    "timestamp":1415081541,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5961,
+      "subject":"ACTSC",
+      "catalog_number":"471",
+      "title":"Advanced Corporate Finance",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Douglas,Alan V S"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:12-05:00"
+    },
+    {
+      "class_number":8249,
+      "subject":"BASE",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":3223,
+      "subject":"CLAS",
+      "catalog_number":"486",
+      "title":"Senior Seminar",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Kroeker,Ronald"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:29-05:00"
+    },
+    {
+      "class_number":8555,
+      "subject":"EFAS",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 004",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":5271,
+      "subject":"ERS",
+      "catalog_number":"310",
+      "title":"Environmental Analysis and Solutions V: Environmental Thought",
+      "section":"SEM 103",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":5463,
+      "subject":"ERS",
+      "catalog_number":"311",
+      "title":"Environmental Research Project I: Systems Thinking for Interdisciplinary Research",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":3943,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"TUT 210",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Coakley,Laura Justine"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3945,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"TUT 212",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Munroe,Kelly Lynn"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3262,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"ORL 105",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3520,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"ORL 103",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3951,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"ORL 109",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3134,
+      "subject":"LAT",
+      "catalog_number":"201",
+      "title":"Intermediate Latin",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Kroeker,Ronald"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:06-05:00"
+    },
+    {
+      "class_number":5429,
+      "subject":"PLAN",
+      "catalog_number":"102",
+      "title":"Professional Communication",
+      "section":"TUT 107",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:57-05:00"
+    },
+    {
+      "class_number":5430,
+      "subject":"PLAN",
+      "catalog_number":"102",
+      "title":"Professional Communication",
+      "section":"TUT 108",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:57-05:00"
+    },
+    {
+      "class_number":3240,
+      "subject":"SPAN",
+      "catalog_number":"201A",
+      "title":"Intermediate Spanish 1",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3680,
+      "subject":"SPAN",
+      "catalog_number":"301A",
+      "title":"Composition and Conversation 1",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Nunez,Camelia Gianina"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:39-05:00"
+    },
+    {
+      "class_number":3681,
+      "subject":"SPAN",
+      "catalog_number":"301A",
+      "title":"Composition and Conversation 1",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Nunez,Camelia Gianina"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:39-05:00"
+    },
+    {
+      "class_number":4127,
+      "subject":"CLAS",
+      "catalog_number":"600",
+      "title":"Research Methods in Classical Studies",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Hardiman,Craig"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:09-05:00"
+    },
+    {
+      "class_number":7702,
+      "subject":"CLAS",
+      "catalog_number":"651",
+      "title":"Topics in Greed History",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Kroeker,Ronald"
+      ],
+      "building":"AL",
+      "room":"210",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:09-05:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":2516,
+    "timestamp":1415081574,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8523,
+      "subject":"ME",
+      "catalog_number":"780",
+      "title":"Special Topics in Mechatronics",
+      "section":"LEC 004",
+      "weekdays":"F",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Waslander,Steven"
+      ],
+      "building":"E3",
+      "room":"4117",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:49-05:00"
+    }
+  ]
+}

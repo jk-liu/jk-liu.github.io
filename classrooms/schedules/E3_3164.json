@@ -1,0 +1,74 @@
+{
+  "meta":{
+    "requests":2515,
+    "timestamp":1415081574,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4728,
+      "subject":"MTE",
+      "catalog_number":"220",
+      "title":"Sensors and Instrumentation",
+      "section":"LAB 201",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"3164",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4999,
+      "subject":"MTE",
+      "catalog_number":"220",
+      "title":"Sensors and Instrumentation",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"3164",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5000,
+      "subject":"MTE",
+      "catalog_number":"220",
+      "title":"Sensors and Instrumentation",
+      "section":"LAB 203",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"3164",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":2657,
+    "timestamp":1415081617,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4253,
+      "subject":"RS",
+      "catalog_number":"700",
+      "title":"Religious Diversity in North America",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Seljak,David A"
+      ],
+      "building":"PAS",
+      "room":"1053",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:11-05:00"
+    }
+  ]
+}

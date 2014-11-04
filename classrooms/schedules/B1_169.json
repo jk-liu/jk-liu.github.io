@@ -1,0 +1,74 @@
+{
+  "meta":{
+    "requests":2423,
+    "timestamp":1415081544,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8145,
+      "subject":"BIOL",
+      "catalog_number":"321",
+      "title":"Plant Anatomy and Morphogenesis",
+      "section":"LAB 101",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Lolle,Susan J"
+      ],
+      "building":"B1",
+      "room":"169",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:57-05:00"
+    },
+    {
+      "class_number":7168,
+      "subject":"BIOL",
+      "catalog_number":"325",
+      "title":"Flowering Plants",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Cook,Rachel Erin"
+      ],
+      "building":"B1",
+      "room":"169",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:57-05:00"
+    },
+    {
+      "class_number":7169,
+      "subject":"BIOL",
+      "catalog_number":"325",
+      "title":"Flowering Plants",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Cook,Rachel Erin"
+      ],
+      "building":"B1",
+      "room":"169",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:57-05:00"
+    }
+  ]
+}

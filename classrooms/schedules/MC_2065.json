@@ -1,0 +1,634 @@
+{
+  "meta":{
+    "requests":2619,
+    "timestamp":1415081606,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5626,
+      "subject":"ACTSC",
+      "catalog_number":"232",
+      "title":"Introduction to Actuarial Mathematics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":122,
+      "instructors":[
+        "Adcock,James"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:09-05:00"
+    },
+    {
+      "class_number":7004,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":148,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6897,
+      "subject":"BIOL",
+      "catalog_number":"439",
+      "title":"Environmental and Natural Products Biochemistry",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":200,
+      "instructors":[
+        "Greenberg,Bruce M"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":4475,
+      "subject":"CHE",
+      "catalog_number":"100",
+      "title":"Chemical Engineering Concepts 1",
+      "section":"TUT 201",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Grove,Jason Andrew"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4551,
+      "subject":"CHE",
+      "catalog_number":"100",
+      "title":"Chemical Engineering Concepts 1",
+      "section":"TUT 202",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Grove,Jason Andrew"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4552,
+      "subject":"CHE",
+      "catalog_number":"100",
+      "title":"Chemical Engineering Concepts 1",
+      "section":"TUT 203",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Grove,Jason Andrew"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4553,
+      "subject":"CHE",
+      "catalog_number":"100",
+      "title":"Chemical Engineering Concepts 1",
+      "section":"TUT 204",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Grove,Jason Andrew"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4737,
+      "subject":"CHE",
+      "catalog_number":"100",
+      "title":"Chemical Engineering Concepts 1",
+      "section":"TUT 205",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Croiset,Eric"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4738,
+      "subject":"CHE",
+      "catalog_number":"100",
+      "title":"Chemical Engineering Concepts 1",
+      "section":"TUT 206",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Grove,Jason Andrew"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4478,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":140,
+      "instructors":[
+        "Grove,Jason Andrew"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4483,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":126,
+      "instructors":[
+        "Chen,Pu"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4483,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":126,
+      "instructors":[
+        "Chen,Pu"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4502,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 006",
+      "weekdays":"TTh",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":137,
+      "instructors":[
+        "Meunier,Sarah Margaret"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4529,
+      "subject":"CIVE",
+      "catalog_number":"204",
+      "title":"Statics and Solid Mechanics 2",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":151,
+      "instructors":[
+        "Potapenko,Stan"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:26-05:00"
+    },
+    {
+      "class_number":6037,
+      "subject":"CS",
+      "catalog_number":"137",
+      "title":"Programming Principles",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"09\/19",
+      "end_date":"09\/19",
+      "enrollment_total":139,
+      "instructors":[
+        "Clarke,Charles L.A"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":6037,
+      "subject":"CS",
+      "catalog_number":"137",
+      "title":"Programming Principles",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"10\/03",
+      "end_date":"10\/03",
+      "enrollment_total":139,
+      "instructors":[
+        "Clarke,Charles L.A"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":6037,
+      "subject":"CS",
+      "catalog_number":"137",
+      "title":"Programming Principles",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"10\/17",
+      "end_date":"10\/17",
+      "enrollment_total":139,
+      "instructors":[
+        "Clarke,Charles L.A"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":6037,
+      "subject":"CS",
+      "catalog_number":"137",
+      "title":"Programming Principles",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":139,
+      "instructors":[
+        "Clarke,Charles L.A"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":6037,
+      "subject":"CS",
+      "catalog_number":"137",
+      "title":"Programming Principles",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"11\/14",
+      "end_date":"11\/14",
+      "enrollment_total":139,
+      "instructors":[
+        "Clarke,Charles L.A"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":6037,
+      "subject":"CS",
+      "catalog_number":"137",
+      "title":"Programming Principles",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"11\/28",
+      "end_date":"11\/28",
+      "enrollment_total":139,
+      "instructors":[
+        "Clarke,Charles L.A"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":5709,
+      "subject":"CS",
+      "catalog_number":"246",
+      "title":"Object-Oriented Software Development",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":103,
+      "instructors":[
+        "Naeem,Nomair Ahmed"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:37-05:00"
+    },
+    {
+      "class_number":5399,
+      "subject":"ENBUS",
+      "catalog_number":"204",
+      "title":"Principles of Industrial Ecology",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":113,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:02-05:00"
+    },
+    {
+      "class_number":5526,
+      "subject":"GEOG",
+      "catalog_number":"453",
+      "title":"Urban Stormwater Management",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":77,
+      "instructors":[
+        "Stone,Micheal"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:34-05:00"
+    },
+    {
+      "class_number":2797,
+      "subject":"HLTH",
+      "catalog_number":"341",
+      "title":"Immunobiology and Public Health",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":140,
+      "instructors":[
+        "Hoffman-Goetz,Laurie"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:45-05:00"
+    },
+    {
+      "class_number":5829,
+      "subject":"MATH",
+      "catalog_number":"114",
+      "title":"Linear Algebra for Science",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":192,
+      "instructors":[
+        "Knoll,Carolyn Alexis"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5832,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":143,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5757,
+      "subject":"MATH",
+      "catalog_number":"127",
+      "title":"Calculus 1 for the Sciences",
+      "section":"TUT 103",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":100,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5697,
+      "subject":"MATH",
+      "catalog_number":"137",
+      "title":"Calculus 1 for Honours Mathematics",
+      "section":"LEC 006",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":170,
+      "instructors":[
+        "Sivaloganathan,Sivabal"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":3908,
+      "subject":"PHIL",
+      "catalog_number":"226",
+      "title":"Biomedical Ethics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":154,
+      "instructors":[
+        "Lowry,Christopher"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:48-05:00"
+    },
+    {
+      "class_number":5527,
+      "subject":"PLAN",
+      "catalog_number":"453",
+      "title":"Urban Stormwater Management",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":76,
+      "instructors":[
+        "Stone,Micheal"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:59-05:00"
+    },
+    {
+      "class_number":5908,
+      "subject":"STAT",
+      "catalog_number":"371",
+      "title":"Statistics for Business 1",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":106,
+      "instructors":[
+        "Ramezan,Reza"
+      ],
+      "building":"MC",
+      "room":"2065",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:44-05:00"
+    }
+  ]
+}

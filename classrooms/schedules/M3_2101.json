@@ -1,0 +1,154 @@
+{
+  "meta":{
+    "requests":2607,
+    "timestamp":1415081602,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6115,
+      "subject":"ACTSC",
+      "catalog_number":"611",
+      "title":"Financial Mathematics I",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:00",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Weng,Chengguo"
+      ],
+      "building":"M3",
+      "room":"2101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:58-05:00"
+    },
+    {
+      "class_number":6115,
+      "subject":"ACTSC",
+      "catalog_number":"611",
+      "title":"Financial Mathematics I",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"10:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Weng,Chengguo"
+      ],
+      "building":"M3",
+      "room":"2101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:58-05:00"
+    },
+    {
+      "class_number":6116,
+      "subject":"ACTSC",
+      "catalog_number":"612",
+      "title":"Life Insurance Mathematics I",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"15:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Tan,Ken S"
+      ],
+      "building":"M3",
+      "room":"2101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:58-05:00"
+    },
+    {
+      "class_number":6117,
+      "subject":"ACTSC",
+      "catalog_number":"613",
+      "title":"Statistics for Actuarial Science",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Skrzydlo,Diana Katherine"
+      ],
+      "building":"M3",
+      "room":"2101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:58-05:00"
+    },
+    {
+      "class_number":6118,
+      "subject":"ACTSC",
+      "catalog_number":"614",
+      "title":"Corporate Finance",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Ali,Javid"
+      ],
+      "building":"M3",
+      "room":"2101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:58-05:00"
+    },
+    {
+      "class_number":6119,
+      "subject":"ACTSC",
+      "catalog_number":"615",
+      "title":"Economics",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"10:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Banerjee,Suryapratim"
+      ],
+      "building":"M3",
+      "room":"2101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:58-05:00"
+    },
+    {
+      "class_number":6119,
+      "subject":"ACTSC",
+      "catalog_number":"615",
+      "title":"Economics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Banerjee,Suryapratim"
+      ],
+      "building":"M3",
+      "room":"2101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:58-05:00"
+    }
+  ]
+}

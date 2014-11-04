@@ -1,0 +1,114 @@
+{
+  "meta":{
+    "requests":2540,
+    "timestamp":1415081581,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3619,
+      "subject":"FINE",
+      "catalog_number":"150",
+      "title":"Appreciation and Expression",
+      "section":"STU 001",
+      "weekdays":"MW",
+      "start_time":"18:30",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Taylor,Bruce"
+      ],
+      "building":"ECH",
+      "room":"1224A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:19-05:00"
+    },
+    {
+      "class_number":4324,
+      "subject":"FINE",
+      "catalog_number":"220",
+      "title":"Oil Painting",
+      "section":"STU 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Carver,Matthew"
+      ],
+      "building":"ECH",
+      "room":"1224A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:20-05:00"
+    },
+    {
+      "class_number":3804,
+      "subject":"FINE",
+      "catalog_number":"221",
+      "title":"Acrylic and Mixed Media",
+      "section":"STU 001",
+      "weekdays":"MW",
+      "start_time":"15:30",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Dignan,Paul"
+      ],
+      "building":"ECH",
+      "room":"1224A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:20-05:00"
+    },
+    {
+      "class_number":8035,
+      "subject":"FINE",
+      "catalog_number":"226",
+      "title":"Experimental Drawing",
+      "section":"STU 001",
+      "weekdays":"TTh",
+      "start_time":"18:30",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Birke,Lisa"
+      ],
+      "building":"ECH",
+      "room":"1224A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:20-05:00"
+    },
+    {
+      "class_number":3803,
+      "subject":"FINE",
+      "catalog_number":"274",
+      "title":"Figure and Anatomy",
+      "section":"STU 001",
+      "weekdays":"MW",
+      "start_time":"09:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Carson,Linda Christine"
+      ],
+      "building":"ECH",
+      "room":"1224A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:21-05:00"
+    }
+  ]
+}

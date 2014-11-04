@@ -1,0 +1,214 @@
+{
+  "meta":{
+    "requests":2747,
+    "timestamp":1415081644,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3455,
+      "subject":"LS",
+      "catalog_number":"401",
+      "title":"Senior Honours Seminar in Legal Studies I",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Desroches,Frederick J"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:07-05:00"
+    },
+    {
+      "class_number":3532,
+      "subject":"LS",
+      "catalog_number":"401",
+      "title":"Senior Honours Seminar in Legal Studies I",
+      "section":"SEM 002",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Brophy,Susan"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:07-05:00"
+    },
+    {
+      "class_number":3644,
+      "subject":"LS",
+      "catalog_number":"401",
+      "title":"Senior Honours Seminar in Legal Studies I",
+      "section":"SEM 003",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Broll,Ryan"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:07-05:00"
+    },
+    {
+      "class_number":8394,
+      "subject":"LS",
+      "catalog_number":"401",
+      "title":"Senior Honours Seminar in Legal Studies I",
+      "section":"SEM 004",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Burrows,Kevin"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:07-05:00"
+    },
+    {
+      "class_number":3791,
+      "subject":"LS",
+      "catalog_number":"402",
+      "title":"Senior Honours Seminar in Legal Studies II",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Prioreschi,Alessandra"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:07-05:00"
+    },
+    {
+      "class_number":3792,
+      "subject":"LS",
+      "catalog_number":"402",
+      "title":"Senior Honours Seminar in Legal Studies II",
+      "section":"SEM 002",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Burrows,Kevin"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:07-05:00"
+    },
+    {
+      "class_number":7723,
+      "subject":"PSYCH",
+      "catalog_number":"463",
+      "title":"Honours Seminar in Special Topics",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Drysdale,Maureen"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:11-05:00"
+    },
+    {
+      "class_number":7738,
+      "subject":"SOC",
+      "catalog_number":"408",
+      "title":"Contemporary Debates in Sociological Theory",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Bonner,Kieran M."
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:35-05:00"
+    },
+    {
+      "class_number":8361,
+      "subject":"CT",
+      "catalog_number":"602",
+      "title":"The History of Catholicism",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Tataryn,Myroslaw"
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:15-05:00"
+    },
+    {
+      "class_number":7739,
+      "subject":"SOC",
+      "catalog_number":"708",
+      "title":"Contemporary Debates in Sociological Theory",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Bonner,Kieran M."
+      ],
+      "building":"STJ",
+      "room":"3020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:11-05:00"
+    }
+  ]
+}

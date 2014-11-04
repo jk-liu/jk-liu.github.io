@@ -1,0 +1,1316 @@
+{
+  "meta":{
+    "requests":2705,
+    "timestamp":1415081631,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8537,
+      "subject":"BET",
+      "catalog_number":"100",
+      "title":"Essentials of Entrepreneurship",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":58,
+      "instructors":[
+        "Rose,David George"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:50-05:00"
+    },
+    {
+      "class_number":7135,
+      "subject":"BIOL",
+      "catalog_number":"225",
+      "title":"Plants and Civilization",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":99,
+      "instructors":[
+        "Chuong,Simon S.D.X."
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6870,
+      "subject":"BIOL",
+      "catalog_number":"345",
+      "title":"Microorganisms in Foods",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":94,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6597,
+      "subject":"BIOL",
+      "catalog_number":"434",
+      "title":"Human Molecular Genetics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":99,
+      "instructors":[
+        "Duncker,Bernard"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":4666,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 009",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":102,
+      "instructors":[
+        "Chan,Wan-Ju Ariel"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4793,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 010",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":94,
+      "instructors":[
+        "Chan,Wan-Ju Ariel"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4793,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 010",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":94,
+      "instructors":[
+        "Chan,Wan-Ju Ariel"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4793,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 010",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":94,
+      "instructors":[
+        "Chan,Wan-Ju Ariel"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4793,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 010",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":94,
+      "instructors":[
+        "Chan,Wan-Ju Ariel"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4793,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 010",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":94,
+      "instructors":[
+        "Chan,Wan-Ju Ariel"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4793,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 010",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"10\/13",
+      "end_date":"10\/13",
+      "enrollment_total":94,
+      "instructors":[
+        "Chan,Wan-Ju Ariel"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4793,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 010",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":94,
+      "instructors":[
+        "Chan,Wan-Ju Ariel"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4793,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 010",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":94,
+      "instructors":[
+        "Chan,Wan-Ju Ariel"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4793,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 010",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":94,
+      "instructors":[
+        "Chan,Wan-Ju Ariel"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":3884,
+      "subject":"CLAS",
+      "catalog_number":"105",
+      "title":"Introduction to Medieval Studies",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"17:00",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":73,
+      "instructors":[
+        "Porreca,David"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:28-05:00"
+    },
+    {
+      "class_number":4660,
+      "subject":"GENE",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":103,
+      "instructors":[
+        "Hulls,Carol C"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":4660,
+      "subject":"GENE",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":103,
+      "instructors":[
+        "Hulls,Carol C"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":4660,
+      "subject":"GENE",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":103,
+      "instructors":[
+        "Hulls,Carol C"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":4660,
+      "subject":"GENE",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":103,
+      "instructors":[
+        "Hulls,Carol C"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":4660,
+      "subject":"GENE",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":103,
+      "instructors":[
+        "Hulls,Carol C"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":8029,
+      "subject":"GENE",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":96,
+      "instructors":[
+        "Hulls,Carol C"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":8029,
+      "subject":"GENE",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":96,
+      "instructors":[
+        "Hulls,Carol C"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":8029,
+      "subject":"GENE",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":96,
+      "instructors":[
+        "Hulls,Carol C"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":8029,
+      "subject":"GENE",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":96,
+      "instructors":[
+        "Hulls,Carol C"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":8029,
+      "subject":"GENE",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":96,
+      "instructors":[
+        "Hulls,Carol C"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":8029,
+      "subject":"GENE",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":96,
+      "instructors":[
+        "Hulls,Carol C"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":8029,
+      "subject":"GENE",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":96,
+      "instructors":[
+        "Hulls,Carol C"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":5652,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 006",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":102,
+      "instructors":[
+        "Roh,Patrick Young"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5653,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 007",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":99,
+      "instructors":[
+        "Jankauskas,Jonas"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5653,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 007",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":99,
+      "instructors":[
+        "Jankauskas,Jonas"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5653,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 007",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":99,
+      "instructors":[
+        "Jankauskas,Jonas"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5653,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 007",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":99,
+      "instructors":[
+        "Jankauskas,Jonas"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5653,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 007",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":99,
+      "instructors":[
+        "Jankauskas,Jonas"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5653,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 007",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":99,
+      "instructors":[
+        "Jankauskas,Jonas"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5653,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 007",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":99,
+      "instructors":[
+        "Jankauskas,Jonas"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5653,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 007",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"12\/01",
+      "end_date":"12\/01",
+      "enrollment_total":99,
+      "instructors":[
+        "Jankauskas,Jonas"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5837,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 006",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":101,
+      "instructors":[
+        "Girelli,Florian"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5837,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 006",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":101,
+      "instructors":[
+        "Girelli,Florian"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5978,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 007",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":93,
+      "instructors":[
+        "Dupont,Edward"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5978,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 007",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":93,
+      "instructors":[
+        "Dupont,Edward"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5978,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 007",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/25",
+      "end_date":"09\/25",
+      "enrollment_total":93,
+      "instructors":[
+        "Dupont,Edward"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5978,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 007",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/09",
+      "end_date":"10\/09",
+      "enrollment_total":93,
+      "instructors":[
+        "Dupont,Edward"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5978,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 007",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":93,
+      "instructors":[
+        "Dupont,Edward"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5978,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 007",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/06",
+      "end_date":"11\/06",
+      "enrollment_total":93,
+      "instructors":[
+        "Dupont,Edward"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5978,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 007",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":93,
+      "instructors":[
+        "Dupont,Edward"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5756,
+      "subject":"MATH",
+      "catalog_number":"127",
+      "title":"Calculus 1 for the Sciences",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":100,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5609,
+      "subject":"MATH",
+      "catalog_number":"217",
+      "title":"Calculus 3 for Chemical Engineering",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":76,
+      "instructors":[
+        "Hewitt,Conrad G"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:13-05:00"
+    },
+    {
+      "class_number":5610,
+      "subject":"MATH",
+      "catalog_number":"217",
+      "title":"Calculus 3 for Chemical Engineering",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":76,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:13-05:00"
+    },
+    {
+      "class_number":5134,
+      "subject":"ME",
+      "catalog_number":"597",
+      "title":"Special Topics in Mechanical Engineering",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":76,
+      "instructors":[
+        "Waslander,Steven"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:18-05:00"
+    },
+    {
+      "class_number":3883,
+      "subject":"MEDVL",
+      "catalog_number":"105",
+      "title":"Introduction to Medieval Studies",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"17:00",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Porreca,David"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:19-05:00"
+    },
+    {
+      "class_number":4662,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":102,
+      "instructors":[
+        "Baleshta,James Robert"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":4662,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":102,
+      "instructors":[
+        "Melek,William"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":4662,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":102,
+      "instructors":[
+        "Baleshta,James Robert"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":4662,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":102,
+      "instructors":[
+        "Baleshta,James Robert"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":4662,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":102,
+      "instructors":[
+        "Melek,William"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":4662,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":102,
+      "instructors":[
+        "Baleshta,James Robert",
+        "Melek,William"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":8156,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":92,
+      "instructors":[
+        "Melek,William"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":8156,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":92,
+      "instructors":[
+        "Baleshta,James Robert"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":8156,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":92,
+      "instructors":[
+        "Melek,William"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":8156,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":92,
+      "instructors":[
+        "Baleshta,James Robert"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":8156,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":92,
+      "instructors":[
+        "Melek,William"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":8156,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":92,
+      "instructors":[
+        "Baleshta,James Robert",
+        "Melek,William"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":8065,
+      "subject":"PSCI",
+      "catalog_number":"259",
+      "title":"Government and Politics of Asia",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Mufti,Mariam"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":3565,
+      "subject":"PSCI",
+      "catalog_number":"281",
+      "title":"World Politics",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":79,
+      "instructors":[
+        "Kitchen,Veronica"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":5138,
+      "subject":"ME",
+      "catalog_number":"780",
+      "title":"Special Topics in Mechatronics",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Waslander,Steven"
+      ],
+      "building":"RCH",
+      "room":"110",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:49-05:00"
+    }
+  ]
+}

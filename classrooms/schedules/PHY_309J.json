@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":2685,
+    "timestamp":1415081625,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6930,
+      "subject":"PHYS",
+      "catalog_number":"360A",
+      "title":"Modern Physics Laboratory 1",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Martin,James D D"
+      ],
+      "building":"PHY",
+      "room":"309J",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:55-05:00"
+    },
+    {
+      "class_number":6931,
+      "subject":"PHYS",
+      "catalog_number":"360B",
+      "title":"Modern Physics Laboratory 2",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Martin,James D D"
+      ],
+      "building":"PHY",
+      "room":"309J",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:55-05:00"
+    },
+    {
+      "class_number":6932,
+      "subject":"PHYS",
+      "catalog_number":"460A",
+      "title":"Advanced Laboratory 1",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Martin,James D D"
+      ],
+      "building":"PHY",
+      "room":"309J",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:56-05:00"
+    },
+    {
+      "class_number":6933,
+      "subject":"PHYS",
+      "catalog_number":"460B",
+      "title":"Advanced Laboratory 2",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Martin,James D D"
+      ],
+      "building":"PHY",
+      "room":"309J",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:56-05:00"
+    }
+  ]
+}

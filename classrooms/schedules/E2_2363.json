@@ -1,0 +1,1454 @@
+{
+  "meta":{
+    "requests":2504,
+    "timestamp":1415081570,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4750,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":44,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4750,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":44,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4750,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":44,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4750,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":44,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4750,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":44,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4750,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":44,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4751,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4751,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4751,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4751,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4751,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4751,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4752,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/18",
+      "end_date":"09\/18",
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4752,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/02",
+      "end_date":"10\/02",
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4752,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/16",
+      "end_date":"10\/16",
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4752,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/30",
+      "end_date":"10\/30",
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4752,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/13",
+      "end_date":"11\/13",
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4752,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/27",
+      "end_date":"11\/27",
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4803,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 204",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4803,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 204",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4803,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 204",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4803,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 204",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4803,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 204",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4803,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 204",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"12\/01",
+      "end_date":"12\/01",
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4804,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4804,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4804,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4804,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4804,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4804,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4970,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 206",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/19",
+      "end_date":"09\/19",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4970,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 206",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/03",
+      "end_date":"10\/03",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4970,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 206",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/17",
+      "end_date":"10\/17",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4970,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 206",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4970,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 206",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/14",
+      "end_date":"11\/14",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4970,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LAB 206",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/28",
+      "end_date":"11\/28",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":5055,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/09",
+      "end_date":"09\/09",
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5055,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5055,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5055,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5055,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5055,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5056,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/10",
+      "end_date":"09\/10",
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5056,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5056,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5056,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5056,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5056,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5057,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/11",
+      "end_date":"09\/11",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5057,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/25",
+      "end_date":"09\/25",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5057,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/09",
+      "end_date":"10\/09",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5057,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5057,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/06",
+      "end_date":"11\/06",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5057,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5058,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/09",
+      "end_date":"09\/09",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5058,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5058,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5058,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5058,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5058,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 204",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5059,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/10",
+      "end_date":"09\/10",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5059,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5059,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5059,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5059,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5059,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 205",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5060,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/11",
+      "end_date":"09\/11",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5060,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/25",
+      "end_date":"09\/25",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5060,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/09",
+      "end_date":"10\/09",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5060,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5060,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/06",
+      "end_date":"11\/06",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5060,
+      "subject":"ECE",
+      "catalog_number":"254",
+      "title":"Operating Systems and Systems Programming",
+      "section":"LAB 206",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2363",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    }
+  ]
+}

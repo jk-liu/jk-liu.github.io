@@ -1,0 +1,1334 @@
+{
+  "meta":{
+    "requests":2695,
+    "timestamp":1415081628,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7138,
+      "subject":"BIOL",
+      "catalog_number":"472",
+      "title":"Cell Biology of Human Disease",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Glerum,Moira"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":4855,
+      "subject":"NE",
+      "catalog_number":"302",
+      "title":"Nanomaterials Risks\/Benefits and Nanotechnology Engineering Practice",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"11\/04",
+      "end_date":"12\/01",
+      "enrollment_total":84,
+      "instructors":[
+        "Yu,Aiping"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4855,
+      "subject":"NE",
+      "catalog_number":"302",
+      "title":"Nanomaterials Risks\/Benefits and Nanotechnology Engineering Practice",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"09\/08",
+      "end_date":"10\/28",
+      "enrollment_total":84,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":7681,
+      "subject":"NE",
+      "catalog_number":"307",
+      "title":"Introduction to Nanosystems Design",
+      "section":"SEM 001",
+      "weekdays":"MF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Barby,James A"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4856,
+      "subject":"NE",
+      "catalog_number":"335",
+      "title":"Macromolecular Science 2",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Tam,Michael Kam Chiu"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4856,
+      "subject":"NE",
+      "catalog_number":"335",
+      "title":"Macromolecular Science 2",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Tam,Michael Kam Chiu"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4856,
+      "subject":"NE",
+      "catalog_number":"335",
+      "title":"Macromolecular Science 2",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Tam,Michael Kam Chiu"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4856,
+      "subject":"NE",
+      "catalog_number":"335",
+      "title":"Macromolecular Science 2",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"09\/08",
+      "end_date":"09\/08",
+      "enrollment_total":81,
+      "instructors":[
+        "Tam,Michael Kam Chiu"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4856,
+      "subject":"NE",
+      "catalog_number":"335",
+      "title":"Macromolecular Science 2",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":81,
+      "instructors":[
+        "Tam,Michael Kam Chiu"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4856,
+      "subject":"NE",
+      "catalog_number":"335",
+      "title":"Macromolecular Science 2",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":81,
+      "instructors":[
+        "Tam,Michael Kam Chiu"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4856,
+      "subject":"NE",
+      "catalog_number":"335",
+      "title":"Macromolecular Science 2",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":81,
+      "instructors":[
+        "Tam,Michael Kam Chiu"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4856,
+      "subject":"NE",
+      "catalog_number":"335",
+      "title":"Macromolecular Science 2",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":81,
+      "instructors":[
+        "Tam,Michael Kam Chiu"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4856,
+      "subject":"NE",
+      "catalog_number":"335",
+      "title":"Macromolecular Science 2",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":81,
+      "instructors":[
+        "Tam,Michael Kam Chiu"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4857,
+      "subject":"NE",
+      "catalog_number":"335",
+      "title":"Macromolecular Science 2",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Tam,Michael Kam Chiu"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4858,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"09\/12",
+      "end_date":"09\/12",
+      "enrollment_total":84,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4858,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4858,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"09\/26",
+      "end_date":"09\/26",
+      "enrollment_total":84,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4858,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"10\/10",
+      "end_date":"10\/10",
+      "enrollment_total":84,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4858,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"10\/24",
+      "end_date":"10\/24",
+      "enrollment_total":84,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4858,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"11\/07",
+      "end_date":"11\/07",
+      "enrollment_total":84,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4858,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"11\/21",
+      "end_date":"11\/21",
+      "enrollment_total":84,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4862,
+      "subject":"NE",
+      "catalog_number":"352",
+      "title":"Surfaces and Interfaces",
+      "section":"LEC 001",
+      "weekdays":"TWTh",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Liu,Juewen"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4862,
+      "subject":"NE",
+      "catalog_number":"352",
+      "title":"Surfaces and Interfaces",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":81,
+      "instructors":[
+        "Liu,Juewen"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4862,
+      "subject":"NE",
+      "catalog_number":"352",
+      "title":"Surfaces and Interfaces",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":81,
+      "instructors":[
+        "Liu,Juewen"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4862,
+      "subject":"NE",
+      "catalog_number":"352",
+      "title":"Surfaces and Interfaces",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":81,
+      "instructors":[
+        "Liu,Juewen"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4862,
+      "subject":"NE",
+      "catalog_number":"352",
+      "title":"Surfaces and Interfaces",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":81,
+      "instructors":[
+        "Liu,Juewen"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4862,
+      "subject":"NE",
+      "catalog_number":"352",
+      "title":"Surfaces and Interfaces",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":81,
+      "instructors":[
+        "Liu,Juewen"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4862,
+      "subject":"NE",
+      "catalog_number":"352",
+      "title":"Surfaces and Interfaces",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"12\/01",
+      "end_date":"12\/01",
+      "enrollment_total":81,
+      "instructors":[
+        "Liu,Juewen"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4864,
+      "subject":"NE",
+      "catalog_number":"353",
+      "title":"Nanoprobing and Lithography",
+      "section":"LEC 001",
+      "weekdays":"TWTh",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":83,
+      "instructors":[
+        "Cui,Bo"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4864,
+      "subject":"NE",
+      "catalog_number":"353",
+      "title":"Nanoprobing and Lithography",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"09\/19",
+      "end_date":"09\/19",
+      "enrollment_total":83,
+      "instructors":[
+        "Cui,Bo"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4864,
+      "subject":"NE",
+      "catalog_number":"353",
+      "title":"Nanoprobing and Lithography",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"10\/03",
+      "end_date":"10\/03",
+      "enrollment_total":83,
+      "instructors":[
+        "Cui,Bo"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4864,
+      "subject":"NE",
+      "catalog_number":"353",
+      "title":"Nanoprobing and Lithography",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"10\/17",
+      "end_date":"10\/17",
+      "enrollment_total":83,
+      "instructors":[
+        "Cui,Bo"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4864,
+      "subject":"NE",
+      "catalog_number":"353",
+      "title":"Nanoprobing and Lithography",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":83,
+      "instructors":[
+        "Cui,Bo"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4864,
+      "subject":"NE",
+      "catalog_number":"353",
+      "title":"Nanoprobing and Lithography",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"11\/14",
+      "end_date":"11\/14",
+      "enrollment_total":83,
+      "instructors":[
+        "Cui,Bo"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4864,
+      "subject":"NE",
+      "catalog_number":"353",
+      "title":"Nanoprobing and Lithography",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"11\/28",
+      "end_date":"11\/28",
+      "enrollment_total":83,
+      "instructors":[
+        "Cui,Bo"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4865,
+      "subject":"NE",
+      "catalog_number":"353",
+      "title":"Nanoprobing and Lithography",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":83,
+      "instructors":[
+        "Cui,Bo"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4923,
+      "subject":"NE",
+      "catalog_number":"401",
+      "title":"Nanotechnology Engineering Practice",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":98,
+      "instructors":[
+        "Maheshwari,Vivek"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4924,
+      "subject":"NE",
+      "catalog_number":"408",
+      "title":"Nanosystems Design Project",
+      "section":"PRJ 001",
+      "weekdays":"Th",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":99,
+      "instructors":[
+        "Aziz,Hany"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4927,
+      "subject":"NE",
+      "catalog_number":"445",
+      "title":"Photonic Materials and Devices",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4927,
+      "subject":"NE",
+      "catalog_number":"445",
+      "title":"Photonic Materials and Devices",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"09\/08",
+      "end_date":"09\/08",
+      "enrollment_total":69,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4927,
+      "subject":"NE",
+      "catalog_number":"445",
+      "title":"Photonic Materials and Devices",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":69,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4927,
+      "subject":"NE",
+      "catalog_number":"445",
+      "title":"Photonic Materials and Devices",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":69,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4927,
+      "subject":"NE",
+      "catalog_number":"445",
+      "title":"Photonic Materials and Devices",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":69,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4927,
+      "subject":"NE",
+      "catalog_number":"445",
+      "title":"Photonic Materials and Devices",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":69,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4927,
+      "subject":"NE",
+      "catalog_number":"445",
+      "title":"Photonic Materials and Devices",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":69,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":5128,
+      "subject":"NE",
+      "catalog_number":"451",
+      "title":"Simulation Methods in Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Liu,Wing-Ki"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":5128,
+      "subject":"NE",
+      "catalog_number":"451",
+      "title":"Simulation Methods in Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":31,
+      "instructors":[
+        "Liu,Wing-Ki"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":5128,
+      "subject":"NE",
+      "catalog_number":"451",
+      "title":"Simulation Methods in Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":31,
+      "instructors":[
+        "Liu,Wing-Ki"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":5128,
+      "subject":"NE",
+      "catalog_number":"451",
+      "title":"Simulation Methods in Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":31,
+      "instructors":[
+        "Liu,Wing-Ki"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":5128,
+      "subject":"NE",
+      "catalog_number":"451",
+      "title":"Simulation Methods in Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":31,
+      "instructors":[
+        "Liu,Wing-Ki"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":5128,
+      "subject":"NE",
+      "catalog_number":"451",
+      "title":"Simulation Methods in Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":31,
+      "instructors":[
+        "Liu,Wing-Ki"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":5128,
+      "subject":"NE",
+      "catalog_number":"451",
+      "title":"Simulation Methods in Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"12\/01",
+      "end_date":"12\/01",
+      "enrollment_total":31,
+      "instructors":[
+        "Liu,Wing-Ki"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4929,
+      "subject":"NE",
+      "catalog_number":"471",
+      "title":"Physics, Technology, and Applications of Nanoelectronics",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Wasilewski,Zbigniew"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4930,
+      "subject":"NE",
+      "catalog_number":"481",
+      "title":"Introduction to Nanomedicine and Nanobiotechnology",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        "Gu,Frank"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4930,
+      "subject":"NE",
+      "catalog_number":"481",
+      "title":"Introduction to Nanomedicine and Nanobiotechnology",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"09\/12",
+      "end_date":"09\/12",
+      "enrollment_total":59,
+      "instructors":[
+        "Gu,Frank"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4930,
+      "subject":"NE",
+      "catalog_number":"481",
+      "title":"Introduction to Nanomedicine and Nanobiotechnology",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"09\/26",
+      "end_date":"09\/26",
+      "enrollment_total":59,
+      "instructors":[
+        "Gu,Frank"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4930,
+      "subject":"NE",
+      "catalog_number":"481",
+      "title":"Introduction to Nanomedicine and Nanobiotechnology",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"10\/10",
+      "end_date":"10\/10",
+      "enrollment_total":59,
+      "instructors":[
+        "Gu,Frank"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4930,
+      "subject":"NE",
+      "catalog_number":"481",
+      "title":"Introduction to Nanomedicine and Nanobiotechnology",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"10\/24",
+      "end_date":"10\/24",
+      "enrollment_total":59,
+      "instructors":[
+        "Gu,Frank"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4931,
+      "subject":"NE",
+      "catalog_number":"491",
+      "title":"Nanostructured Materials",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":65,
+      "instructors":[
+        "Yu,Aiping"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4931,
+      "subject":"NE",
+      "catalog_number":"491",
+      "title":"Nanostructured Materials",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"09\/19",
+      "end_date":"09\/19",
+      "enrollment_total":65,
+      "instructors":[
+        "Yu,Aiping"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4931,
+      "subject":"NE",
+      "catalog_number":"491",
+      "title":"Nanostructured Materials",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"10\/03",
+      "end_date":"10\/03",
+      "enrollment_total":65,
+      "instructors":[
+        "Yu,Aiping"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4931,
+      "subject":"NE",
+      "catalog_number":"491",
+      "title":"Nanostructured Materials",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"10\/17",
+      "end_date":"10\/17",
+      "enrollment_total":65,
+      "instructors":[
+        "Yu,Aiping"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4931,
+      "subject":"NE",
+      "catalog_number":"491",
+      "title":"Nanostructured Materials",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":65,
+      "instructors":[
+        "Yu,Aiping"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4931,
+      "subject":"NE",
+      "catalog_number":"491",
+      "title":"Nanostructured Materials",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"11\/14",
+      "end_date":"11\/14",
+      "enrollment_total":65,
+      "instructors":[
+        "Yu,Aiping"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4931,
+      "subject":"NE",
+      "catalog_number":"491",
+      "title":"Nanostructured Materials",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"11\/28",
+      "end_date":"11\/28",
+      "enrollment_total":65,
+      "instructors":[
+        "Yu,Aiping"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":6694,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"LEC 005",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":109,
+      "instructors":[
+        "Bizheva,Kostadinka"
+      ],
+      "building":"QNC",
+      "room":"2502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    }
+  ]
+}

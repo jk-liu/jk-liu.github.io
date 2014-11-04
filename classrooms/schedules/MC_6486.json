@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":2636,
+    "timestamp":1415081611,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6178,
+      "subject":"CM",
+      "catalog_number":"740",
+      "title":"Fundamentals of Optimization",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Wolkowicz,Henry"
+      ],
+      "building":"MC",
+      "room":"6486",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:09-05:00"
+    },
+    {
+      "class_number":6070,
+      "subject":"CO",
+      "catalog_number":"602",
+      "title":"Fundamentals of Optimization",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Wolkowicz,Henry"
+      ],
+      "building":"MC",
+      "room":"6486",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:10-05:00"
+    }
+  ]
+}

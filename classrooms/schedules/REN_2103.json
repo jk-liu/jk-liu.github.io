@@ -1,0 +1,354 @@
+{
+  "meta":{
+    "requests":2734,
+    "timestamp":1415081640,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8251,
+      "subject":"BASE",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":8251,
+      "subject":"BASE",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":6442,
+      "subject":"CHINA",
+      "catalog_number":"120R",
+      "title":"Advanced First-Year Chinese",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Yang,Jie"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:25-05:00"
+    },
+    {
+      "class_number":6566,
+      "subject":"EFAS",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":6532,
+      "subject":"EFAS",
+      "catalog_number":"42",
+      "title":"Academic Skills",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:01-05:00"
+    },
+    {
+      "class_number":3179,
+      "subject":"ENGL",
+      "catalog_number":"140R",
+      "title":"The Use of English 1",
+      "section":"LEC 003",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Vardon,John F"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:07-05:00"
+    },
+    {
+      "class_number":3722,
+      "subject":"ENGL",
+      "catalog_number":"140R",
+      "title":"The Use of English 1",
+      "section":"LEC 004",
+      "weekdays":"MW",
+      "start_time":"17:00",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Edwards,Elin"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:07-05:00"
+    },
+    {
+      "class_number":6449,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Heeney,Margaret Christine"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":6525,
+      "subject":"ESL",
+      "catalog_number":"129R",
+      "title":"Written Academic English",
+      "section":"LEC 002",
+      "weekdays":"TThF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Skinner,Patricia Anne"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":6488,
+      "subject":"JAPAN",
+      "catalog_number":"301R",
+      "title":"Third-Year Japanese 1",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Kunizane,Kumiko"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:58-05:00"
+    },
+    {
+      "class_number":6540,
+      "subject":"KOREA",
+      "catalog_number":"101R",
+      "title":"First-Year Korean 1",
+      "section":"TUT 201",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Cho,Youngjoo"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:05-05:00"
+    },
+    {
+      "class_number":6541,
+      "subject":"KOREA",
+      "catalog_number":"101R",
+      "title":"First-Year Korean 1",
+      "section":"TUT 202",
+      "weekdays":"W",
+      "start_time":"08:00",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Elworthy,Brendan John"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:05-05:00"
+    },
+    {
+      "class_number":6543,
+      "subject":"KOREA",
+      "catalog_number":"101R",
+      "title":"First-Year Korean 1",
+      "section":"TUT 204",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Langdon,Sarah"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:05-05:00"
+    },
+    {
+      "class_number":6545,
+      "subject":"KOREA",
+      "catalog_number":"101R",
+      "title":"First-Year Korean 1",
+      "section":"TUT 206",
+      "weekdays":"Th",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Kim,Wonhee"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:05-05:00"
+    },
+    {
+      "class_number":7964,
+      "subject":"KOREA",
+      "catalog_number":"102R",
+      "title":"First-Year Korean 2",
+      "section":"TUT 202",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"19:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Elworthy,Brendan John"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:05-05:00"
+    },
+    {
+      "class_number":7971,
+      "subject":"PSYCH",
+      "catalog_number":"448R",
+      "title":"Close Relationships",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Marigold,Denise"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:10-05:00"
+    },
+    {
+      "class_number":7978,
+      "subject":"SDS",
+      "catalog_number":"415R",
+      "title":"Gender Relations within Educational Institutions",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"18:00",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Sanderson,Nicole"
+      ],
+      "building":"REN",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:26-05:00"
+    }
+  ]
+}

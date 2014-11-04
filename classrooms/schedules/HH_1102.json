@@ -1,0 +1,299 @@
+{
+  "meta":{
+    "requests":2580,
+    "timestamp":1415081594,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3848,
+      "subject":"AFM",
+      "catalog_number":"202",
+      "title":"Introduction to Public Practice",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":62,
+      "instructors":[
+        "Macnaughton,Alan",
+        "Fiolleau,Krista"
+      ],
+      "building":"HH",
+      "room":"1102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:15-05:00"
+    },
+    {
+      "class_number":3849,
+      "subject":"AFM",
+      "catalog_number":"202",
+      "title":"Introduction to Public Practice",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":70,
+      "instructors":[
+        "Macnaughton,Alan",
+        "Fiolleau,Krista"
+      ],
+      "building":"HH",
+      "room":"1102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:15-05:00"
+    },
+    {
+      "class_number":3850,
+      "subject":"AFM",
+      "catalog_number":"202",
+      "title":"Introduction to Public Practice",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":70,
+      "instructors":[
+        "Fiolleau,Krista",
+        "Macnaughton,Alan"
+      ],
+      "building":"HH",
+      "room":"1102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:15-05:00"
+    },
+    {
+      "class_number":3852,
+      "subject":"AFM",
+      "catalog_number":"202",
+      "title":"Introduction to Public Practice",
+      "section":"LEC 005",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":68,
+      "instructors":[
+        "Fiolleau,Krista",
+        "Macnaughton,Alan"
+      ],
+      "building":"HH",
+      "room":"1102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:15-05:00"
+    },
+    {
+      "class_number":7848,
+      "subject":"AFM",
+      "catalog_number":"202",
+      "title":"Introduction to Public Practice",
+      "section":"LEC 006",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":68,
+      "instructors":[
+        "Macnaughton,Alan",
+        "Fiolleau,Krista"
+      ],
+      "building":"HH",
+      "room":"1102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:15-05:00"
+    },
+    {
+      "class_number":3870,
+      "subject":"AFM",
+      "catalog_number":"273",
+      "title":"Managerial Finance 1",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":68,
+      "instructors":[
+        "Ecclestone,Andrew Peter"
+      ],
+      "building":"HH",
+      "room":"1102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:16-05:00"
+    },
+    {
+      "class_number":3871,
+      "subject":"AFM",
+      "catalog_number":"273",
+      "title":"Managerial Finance 1",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":67,
+      "instructors":[
+        "Ecclestone,Andrew Peter"
+      ],
+      "building":"HH",
+      "room":"1102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:16-05:00"
+    },
+    {
+      "class_number":7870,
+      "subject":"AFM",
+      "catalog_number":"341",
+      "title":"Accounting Information Systems",
+      "section":"LEC 005",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Lobana,Jodie"
+      ],
+      "building":"HH",
+      "room":"1102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:19-05:00"
+    },
+    {
+      "class_number":3513,
+      "subject":"AFM",
+      "catalog_number":"461",
+      "title":"Taxation 2",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":62,
+      "instructors":[
+        "Rogozynski,Daniel John"
+      ],
+      "building":"HH",
+      "room":"1102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:24-05:00"
+    },
+    {
+      "class_number":3864,
+      "subject":"AFM",
+      "catalog_number":"461",
+      "title":"Taxation 2",
+      "section":"LEC 004",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        "Rogozynski,Daniel John"
+      ],
+      "building":"HH",
+      "room":"1102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:24-05:00"
+    },
+    {
+      "class_number":4026,
+      "subject":"AFM",
+      "catalog_number":"461",
+      "title":"Taxation 2",
+      "section":"LEC 005",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        "Rogozynski,Daniel John"
+      ],
+      "building":"HH",
+      "room":"1102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:24-05:00"
+    },
+    {
+      "class_number":7875,
+      "subject":"AFM",
+      "catalog_number":"482",
+      "title":"Performance Measurement and Organization Control",
+      "section":"LEC 005",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":64,
+      "instructors":[
+        "Mitchell,Timothy"
+      ],
+      "building":"HH",
+      "room":"1102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:26-05:00"
+    },
+    {
+      "class_number":5497,
+      "subject":"ENBUS",
+      "catalog_number":"409",
+      "title":"Special Topics in Environment and Business",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Young,Steve"
+      ],
+      "building":"HH",
+      "room":"1102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:03-05:00"
+    },
+    {
+      "class_number":7812,
+      "subject":"SUSM",
+      "catalog_number":"675",
+      "title":"Reading Course",
+      "section":"RDG 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Young,Steve"
+      ],
+      "building":"HH",
+      "room":"1102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:14-05:00"
+    }
+  ]
+}

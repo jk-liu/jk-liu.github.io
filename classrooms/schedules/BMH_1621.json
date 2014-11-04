@@ -1,0 +1,114 @@
+{
+  "meta":{
+    "requests":2440,
+    "timestamp":1415081550,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8136,
+      "subject":"HLTH",
+      "catalog_number":"202",
+      "title":"Introduction to Public and Population Health",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Meyer,Samantha"
+      ],
+      "building":"BMH",
+      "room":"1621",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:44-05:00"
+    },
+    {
+      "class_number":2799,
+      "subject":"HLTH",
+      "catalog_number":"442",
+      "title":"Epidemiology of Chronic Diseases",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Oremus,Mark"
+      ],
+      "building":"BMH",
+      "room":"1621",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:46-05:00"
+    },
+    {
+      "class_number":3057,
+      "subject":"KIN",
+      "catalog_number":"357",
+      "title":"Motor Learning",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Niechwiej,Ewa"
+      ],
+      "building":"BMH",
+      "room":"1621",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:03-05:00"
+    },
+    {
+      "class_number":2813,
+      "subject":"KIN",
+      "catalog_number":"405",
+      "title":"Exercise Management",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":77,
+      "instructors":[
+        "Mourtzakis,Marina"
+      ],
+      "building":"BMH",
+      "room":"1621",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:03-05:00"
+    },
+    {
+      "class_number":3019,
+      "subject":"KIN",
+      "catalog_number":"470",
+      "title":"Seminar in Kinesiology",
+      "section":"SEM 005",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Barnett-Cowan,Michael"
+      ],
+      "building":"BMH",
+      "room":"1621",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:05-05:00"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "meta":{
+    "requests":2609,
+    "timestamp":1415081603,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3697,
+      "subject":"ACC",
+      "catalog_number":"772",
+      "title":"Finance 3",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Kolkiewicz,Adam A"
+      ],
+      "building":"M3",
+      "room":"3127",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:56-05:00"
+    },
+    {
+      "class_number":6151,
+      "subject":"ACTSC",
+      "catalog_number":"972",
+      "title":"Finance 3",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Kolkiewicz,Adam A"
+      ],
+      "building":"M3",
+      "room":"3127",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:59-05:00"
+    },
+    {
+      "class_number":6269,
+      "subject":"ACTSC",
+      "catalog_number":"974",
+      "title":"Financial Econometrics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Wirjanto,Tony"
+      ],
+      "building":"M3",
+      "room":"3127",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:59-05:00"
+    },
+    {
+      "class_number":6273,
+      "subject":"STAT",
+      "catalog_number":"931",
+      "title":"Statistical Methods for the Design and Analysis of Epidemiological Studies",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Cotton,Cecilia Anne",
+        "Zhu,Yeying"
+      ],
+      "building":"M3",
+      "room":"3127",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:13-05:00"
+    },
+    {
+      "class_number":6266,
+      "subject":"STAT",
+      "catalog_number":"974",
+      "title":"Financial Econometrics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Wirjanto,Tony"
+      ],
+      "building":"M3",
+      "room":"3127",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:14-05:00"
+    }
+  ]
+}

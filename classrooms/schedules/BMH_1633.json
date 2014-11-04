@@ -1,0 +1,254 @@
+{
+  "meta":{
+    "requests":2441,
+    "timestamp":1415081550,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":2998,
+      "subject":"HLTH",
+      "catalog_number":"452",
+      "title":"Decision Making and Decision Support in Health Informatics",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Arocha,Jose"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:46-05:00"
+    },
+    {
+      "class_number":3035,
+      "subject":"REC",
+      "catalog_number":"101",
+      "title":"Introduction to Recreation and Leisure Services",
+      "section":"TUT 109",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Copeland,Robert Paul"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":3036,
+      "subject":"REC",
+      "catalog_number":"101",
+      "title":"Introduction to Recreation and Leisure Services",
+      "section":"TUT 110",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Copeland,Robert Paul"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":3046,
+      "subject":"REC",
+      "catalog_number":"101",
+      "title":"Introduction to Recreation and Leisure Services",
+      "section":"TUT 111",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Copeland,Robert Paul"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":3070,
+      "subject":"REC",
+      "catalog_number":"361",
+      "title":"Aging and Leisure",
+      "section":"SEM 106",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Dupuis,Sherry"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":8320,
+      "subject":"HSG",
+      "catalog_number":"604",
+      "title":"Evaluation of Health and Human Service Programs",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Crizzle,Alexander Michael"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:41-05:00"
+    },
+    {
+      "class_number":2977,
+      "subject":"HSG",
+      "catalog_number":"620",
+      "title":"Selected Topics",
+      "section":"RDG 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Arocha,Jose"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:42-05:00"
+    },
+    {
+      "class_number":2908,
+      "subject":"KIN",
+      "catalog_number":"670E",
+      "title":"Seminar 1:  Biomechanics and Ergonomics",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Prentice,Stephen D"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:44-05:00"
+    },
+    {
+      "class_number":3051,
+      "subject":"REC",
+      "catalog_number":"600",
+      "title":"Integrative Seminar in Recreation and Leisure Studies",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "McCarville,Ronald"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:09-05:00"
+    },
+    {
+      "class_number":2909,
+      "subject":"REC",
+      "catalog_number":"601",
+      "title":"Epistemological and Methodological Issues in Leisure Research",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Mair,Heather Lynn"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:10-05:00"
+    },
+    {
+      "class_number":7908,
+      "subject":"REC",
+      "catalog_number":"640",
+      "title":"Community Development, Capacity Building and Leisure",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Fortune,Darla"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:10-05:00"
+    },
+    {
+      "class_number":7909,
+      "subject":"REC",
+      "catalog_number":"685",
+      "title":"The Structure of Tourism",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Boluk,Karla"
+      ],
+      "building":"BMH",
+      "room":"1633",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:10-05:00"
+    }
+  ]
+}

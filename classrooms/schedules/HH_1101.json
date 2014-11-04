@@ -1,0 +1,1394 @@
+{
+  "meta":{
+    "requests":2579,
+    "timestamp":1415081593,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3383,
+      "subject":"AFM",
+      "catalog_number":"101",
+      "title":"Introduction to Financial Accounting",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":162,
+      "instructors":[
+        "Psutka,Donna D"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:14-05:00"
+    },
+    {
+      "class_number":3384,
+      "subject":"AFM",
+      "catalog_number":"101",
+      "title":"Introduction to Financial Accounting",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Psutka,Donna D"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:14-05:00"
+    },
+    {
+      "class_number":3385,
+      "subject":"AFM",
+      "catalog_number":"101",
+      "title":"Introduction to Financial Accounting",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":199,
+      "instructors":[
+        "Loney,Grace Elizabeth"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:14-05:00"
+    },
+    {
+      "class_number":3605,
+      "subject":"AFM",
+      "catalog_number":"101",
+      "title":"Introduction to Financial Accounting",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":145,
+      "instructors":[
+        "Psutka,Donna D"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:14-05:00"
+    },
+    {
+      "class_number":3606,
+      "subject":"AFM",
+      "catalog_number":"101",
+      "title":"Introduction to Financial Accounting",
+      "section":"LEC 005",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":194,
+      "instructors":[
+        "Loney,Grace Elizabeth"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:14-05:00"
+    },
+    {
+      "class_number":4289,
+      "subject":"AFM",
+      "catalog_number":"101",
+      "title":"Introduction to Financial Accounting",
+      "section":"LEC 006",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":114,
+      "instructors":[
+        "Ducharme,Robert Gerard"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:14-05:00"
+    },
+    {
+      "class_number":3448,
+      "subject":"AFM",
+      "catalog_number":"123",
+      "title":"Accounting Information for Managers",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":188,
+      "instructors":[
+        "Lin,David"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:14-05:00"
+    },
+    {
+      "class_number":3349,
+      "subject":"AFM",
+      "catalog_number":"131",
+      "title":"Introduction to Business in North America",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":191,
+      "instructors":[
+        "Sproule,Robert J"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:15-05:00"
+    },
+    {
+      "class_number":3401,
+      "subject":"AFM",
+      "catalog_number":"131",
+      "title":"Introduction to Business in North America",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":196,
+      "instructors":[
+        "Sproule,Robert J"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:15-05:00"
+    },
+    {
+      "class_number":3423,
+      "subject":"AFM",
+      "catalog_number":"131",
+      "title":"Introduction to Business in North America",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":199,
+      "instructors":[
+        "Sproule,Robert J"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:15-05:00"
+    },
+    {
+      "class_number":6775,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/08",
+      "end_date":"09\/08",
+      "enrollment_total":197,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6775,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":197,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6775,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":197,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6775,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":197,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6775,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":197,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6775,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":197,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6776,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":194,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6776,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":194,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6776,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":194,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6776,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":194,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6776,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":194,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6776,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"12\/01",
+      "end_date":"12\/01",
+      "enrollment_total":194,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6777,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/09",
+      "end_date":"09\/09",
+      "enrollment_total":207,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6777,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":207,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6777,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":207,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6777,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":207,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6777,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":207,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6777,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":207,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6778,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":204,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6778,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":204,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6778,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":204,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6778,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":204,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6778,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":204,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6778,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":204,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6850,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/10",
+      "end_date":"09\/10",
+      "enrollment_total":205,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6850,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":205,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6850,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":205,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6850,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":205,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6850,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":205,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6850,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":205,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6955,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":203,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6955,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":203,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6955,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":203,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6955,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":203,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6955,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":203,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6955,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":203,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6982,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 107",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/11",
+      "end_date":"09\/11",
+      "enrollment_total":199,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6982,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 107",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/25",
+      "end_date":"09\/25",
+      "enrollment_total":199,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6982,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 107",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/09",
+      "end_date":"10\/09",
+      "enrollment_total":199,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6982,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 107",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":199,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6982,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 107",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/06",
+      "end_date":"11\/06",
+      "enrollment_total":199,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6982,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 107",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":199,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6983,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 108",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/18",
+      "end_date":"09\/18",
+      "enrollment_total":200,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6983,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 108",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/02",
+      "end_date":"10\/02",
+      "enrollment_total":200,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6983,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 108",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/16",
+      "end_date":"10\/16",
+      "enrollment_total":200,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6983,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 108",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/30",
+      "end_date":"10\/30",
+      "enrollment_total":200,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6983,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 108",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/13",
+      "end_date":"11\/13",
+      "enrollment_total":200,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":6983,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 108",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/27",
+      "end_date":"11\/27",
+      "enrollment_total":200,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":8354,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 109",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/12",
+      "end_date":"09\/12",
+      "enrollment_total":129,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":8354,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 109",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"09\/26",
+      "end_date":"09\/26",
+      "enrollment_total":129,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":8354,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 109",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/10",
+      "end_date":"10\/10",
+      "enrollment_total":129,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":8354,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 109",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"10\/24",
+      "end_date":"10\/24",
+      "enrollment_total":129,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":8354,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 109",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/07",
+      "end_date":"11\/07",
+      "enrollment_total":129,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":8354,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"TUT 109",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"11\/21",
+      "end_date":"11\/21",
+      "enrollment_total":129,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":3187,
+      "subject":"ECON",
+      "catalog_number":"101",
+      "title":"Introduction to Microeconomics",
+      "section":"LEC 004",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":200,
+      "instructors":[
+        "Chakraborty,Liton"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:55-05:00"
+    },
+    {
+      "class_number":3676,
+      "subject":"ECON",
+      "catalog_number":"301",
+      "title":"Microeconomic Theory 2",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "George,Ryan"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:57-05:00"
+    },
+    {
+      "class_number":6183,
+      "subject":"MATH",
+      "catalog_number":"109",
+      "title":"Mathematics for Accounting",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":199,
+      "instructors":[
+        "Ashburner,Michelle Roshan Mari"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:10-05:00"
+    },
+    {
+      "class_number":6184,
+      "subject":"MATH",
+      "catalog_number":"109",
+      "title":"Mathematics for Accounting",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":129,
+      "instructors":[
+        "Matheson,Brenton James"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:10-05:00"
+    },
+    {
+      "class_number":6710,
+      "subject":"PHYS",
+      "catalog_number":"121",
+      "title":"Mechanics",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":163,
+      "instructors":[
+        "Epp,Richard J"
+      ],
+      "building":"HH",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    }
+  ]
+}

@@ -1,0 +1,354 @@
+{
+  "meta":{
+    "requests":2582,
+    "timestamp":1415081594,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3856,
+      "subject":"AFM",
+      "catalog_number":"202",
+      "title":"Introduction to Public Practice",
+      "section":"TUT 104",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":61,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:15-05:00"
+    },
+    {
+      "class_number":3857,
+      "subject":"AFM",
+      "catalog_number":"202",
+      "title":"Introduction to Public Practice",
+      "section":"TUT 105",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:15-05:00"
+    },
+    {
+      "class_number":7849,
+      "subject":"AFM",
+      "catalog_number":"202",
+      "title":"Introduction to Public Practice",
+      "section":"TUT 106",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:15-05:00"
+    },
+    {
+      "class_number":3410,
+      "subject":"AFM",
+      "catalog_number":"291",
+      "title":"Intermediate Financial Accounting 1",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Wolfe,Mindy"
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:17-05:00"
+    },
+    {
+      "class_number":3431,
+      "subject":"AFM",
+      "catalog_number":"291",
+      "title":"Intermediate Financial Accounting 1",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":75,
+      "instructors":[
+        "Wolfe,Mindy"
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:17-05:00"
+    },
+    {
+      "class_number":3607,
+      "subject":"AFM",
+      "catalog_number":"291",
+      "title":"Intermediate Financial Accounting 1",
+      "section":"LEC 005",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":75,
+      "instructors":[
+        "Ducharme,Robert Gerard"
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:17-05:00"
+    },
+    {
+      "class_number":7854,
+      "subject":"AFM",
+      "catalog_number":"291",
+      "title":"Intermediate Financial Accounting 1",
+      "section":"LEC 006",
+      "weekdays":"MW",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":73,
+      "instructors":[
+        "Ducharme,Robert Gerard"
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:17-05:00"
+    },
+    {
+      "class_number":4036,
+      "subject":"AFM",
+      "catalog_number":"362",
+      "title":"Taxation 1 for Accountants",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Barnett,Jim"
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:19-05:00"
+    },
+    {
+      "class_number":4037,
+      "subject":"AFM",
+      "catalog_number":"362",
+      "title":"Taxation 1 for Accountants",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":55,
+      "instructors":[
+        "Barnett,Jim"
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:19-05:00"
+    },
+    {
+      "class_number":4038,
+      "subject":"AFM",
+      "catalog_number":"362",
+      "title":"Taxation 1 for Accountants",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":55,
+      "instructors":[
+        "Barnett,Jim"
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:19-05:00"
+    },
+    {
+      "class_number":4039,
+      "subject":"AFM",
+      "catalog_number":"362",
+      "title":"Taxation 1 for Accountants",
+      "section":"LEC 004",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Garcia,Joanna"
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:19-05:00"
+    },
+    {
+      "class_number":4040,
+      "subject":"AFM",
+      "catalog_number":"362",
+      "title":"Taxation 1 for Accountants",
+      "section":"LEC 005",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Garcia,Joanna"
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:19-05:00"
+    },
+    {
+      "class_number":3667,
+      "subject":"AFM",
+      "catalog_number":"391",
+      "title":"Intermediate Financial Accounting 2",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        "Ducharme,Robert Gerard"
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:21-05:00"
+    },
+    {
+      "class_number":7872,
+      "subject":"AFM",
+      "catalog_number":"424",
+      "title":"Equity Investments",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Huang,Alan"
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:23-05:00"
+    },
+    {
+      "class_number":7873,
+      "subject":"AFM",
+      "catalog_number":"424",
+      "title":"Equity Investments",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Huang,Alan"
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:23-05:00"
+    },
+    {
+      "class_number":3748,
+      "subject":"AFM",
+      "catalog_number":"472",
+      "title":"Equity Investments",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Huang,Alan"
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:25-05:00"
+    },
+    {
+      "class_number":3749,
+      "subject":"AFM",
+      "catalog_number":"472",
+      "title":"Equity Investments",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Huang,Alan"
+      ],
+      "building":"HH",
+      "room":"1106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:25-05:00"
+    }
+  ]
+}

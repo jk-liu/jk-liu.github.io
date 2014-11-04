@@ -1,0 +1,216 @@
+{
+  "meta":{
+    "requests":2654,
+    "timestamp":1415081616,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6998,
+      "subject":"OPTOM",
+      "catalog_number":"245L",
+      "title":"Diseases of the Eye 1 Laboratory",
+      "section":"LAB 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Steenbakkers,Michelle Jennifer"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:35-05:00"
+    },
+    {
+      "class_number":6999,
+      "subject":"OPTOM",
+      "catalog_number":"245L",
+      "title":"Diseases of the Eye 1 Laboratory",
+      "section":"LAB 002",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Steenbakkers,Michelle Jennifer"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:35-05:00"
+    },
+    {
+      "class_number":6938,
+      "subject":"OPTOM",
+      "catalog_number":"252L",
+      "title":"Clinical Techniques 2 Laboratory",
+      "section":"LAB 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Hadley,Ken Douglas"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:35-05:00"
+    },
+    {
+      "class_number":6939,
+      "subject":"OPTOM",
+      "catalog_number":"252L",
+      "title":"Clinical Techniques 2 Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:35-05:00"
+    },
+    {
+      "class_number":6940,
+      "subject":"OPTOM",
+      "catalog_number":"347L",
+      "title":"Contact Lenses 1 Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Robinson,Barbara E"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:36-05:00"
+    },
+    {
+      "class_number":6941,
+      "subject":"OPTOM",
+      "catalog_number":"347L",
+      "title":"Contact Lenses 1 Laboratory",
+      "section":"LAB 002",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Robinson,Barbara E"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:36-05:00"
+    },
+    {
+      "class_number":6942,
+      "subject":"OPTOM",
+      "catalog_number":"375L",
+      "title":"Diseases of the Eye 3 Laboratory",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Maciver,Sarah"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:36-05:00"
+    },
+    {
+      "class_number":6943,
+      "subject":"OPTOM",
+      "catalog_number":"375L",
+      "title":"Diseases of the Eye 3 Laboratory",
+      "section":"LAB 002",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Maciver,Sarah"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:36-05:00"
+    },
+    {
+      "class_number":6763,
+      "subject":"OPTOM",
+      "catalog_number":"387",
+      "title":"Gerontology and Low Vision",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Leat,Susan",
+        "Labreche,Tammy"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:36-05:00"
+    },
+    {
+      "class_number":6764,
+      "subject":"OPTOM",
+      "catalog_number":"387",
+      "title":"Gerontology and Low Vision",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Leat,Susan",
+        "Labreche,Tammy"
+      ],
+      "building":"OPT",
+      "room":"402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:36-05:00"
+    }
+  ]
+}

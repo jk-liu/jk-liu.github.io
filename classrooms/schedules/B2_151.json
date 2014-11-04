@@ -1,0 +1,294 @@
+{
+  "meta":{
+    "requests":2432,
+    "timestamp":1415081547,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6807,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 015",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"151",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6808,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 016",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"151",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6809,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 017",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"151",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6810,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 018",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"151",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6811,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 019",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"151",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6812,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 020",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"151",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6813,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 021",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"151",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6814,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 022",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"151",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6815,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 023",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"151",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6816,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 024",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"151",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6817,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 025",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"151",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6854,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 026",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"151",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6860,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 027",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"151",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6861,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 028",
+      "weekdays":"F",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"151",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    }
+  ]
+}

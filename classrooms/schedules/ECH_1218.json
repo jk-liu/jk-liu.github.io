@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":2535,
+    "timestamp":1415081580,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3798,
+      "subject":"FINE",
+      "catalog_number":"100",
+      "title":"Studio Fundamentals",
+      "section":"STU 001",
+      "weekdays":"MW",
+      "start_time":"09:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "McCauley,Eva Maria"
+      ],
+      "building":"ECH",
+      "room":"1218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:19-05:00"
+    },
+    {
+      "class_number":3799,
+      "subject":"FINE",
+      "catalog_number":"100",
+      "title":"Studio Fundamentals",
+      "section":"STU 002",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Dignan,Paul"
+      ],
+      "building":"ECH",
+      "room":"1218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:19-05:00"
+    },
+    {
+      "class_number":3800,
+      "subject":"FINE",
+      "catalog_number":"100",
+      "title":"Studio Fundamentals",
+      "section":"STU 003",
+      "weekdays":"TTh",
+      "start_time":"09:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Dignan,Paul"
+      ],
+      "building":"ECH",
+      "room":"1218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:19-05:00"
+    },
+    {
+      "class_number":3801,
+      "subject":"FINE",
+      "catalog_number":"100",
+      "title":"Studio Fundamentals",
+      "section":"STU 004",
+      "weekdays":"TTh",
+      "start_time":"18:30",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Glover,Adam"
+      ],
+      "building":"ECH",
+      "room":"1218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:19-05:00"
+    }
+  ]
+}

@@ -1,0 +1,394 @@
+{
+  "meta":{
+    "requests":2510,
+    "timestamp":1415081572,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8238,
+      "subject":"ECE",
+      "catalog_number":"140",
+      "title":"Linear Circuits",
+      "section":"LAB 207",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":4973,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/18",
+      "end_date":"09\/18",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4973,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/02",
+      "end_date":"10\/02",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4973,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/16",
+      "end_date":"10\/16",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4973,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/30",
+      "end_date":"10\/30",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4973,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/13",
+      "end_date":"11\/13",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4973,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/27",
+      "end_date":"11\/27",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4974,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4974,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4974,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4974,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4974,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4974,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4975,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4975,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4975,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4975,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4975,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4975,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3346",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    }
+  ]
+}

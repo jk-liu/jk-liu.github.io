@@ -1,0 +1,234 @@
+{
+  "meta":{
+    "requests":2745,
+    "timestamp":1415081644,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8379,
+      "subject":"ENGL",
+      "catalog_number":"101A",
+      "title":"Introduction to Literary Studies",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"18:30",
+      "end_time":"19:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Lobb,Diana Frances"
+      ],
+      "building":"STJ",
+      "room":"3015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:05-05:00"
+    },
+    {
+      "class_number":7927,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 009",
+      "weekdays":"MWTh",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Deveau,Danielle"
+      ],
+      "building":"STJ",
+      "room":"3015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":7715,
+      "subject":"ENGL",
+      "catalog_number":"119",
+      "title":"Communications in Mathematics & Computer Science",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Spielmacher,Mark S"
+      ],
+      "building":"STJ",
+      "room":"3015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":7716,
+      "subject":"ENGL",
+      "catalog_number":"119",
+      "title":"Communications in Mathematics & Computer Science",
+      "section":"LEC 004",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Spielmacher,Mark S"
+      ],
+      "building":"STJ",
+      "room":"3015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":7720,
+      "subject":"ENGL",
+      "catalog_number":"119",
+      "title":"Communications in Mathematics & Computer Science",
+      "section":"LEC 008",
+      "weekdays":"MTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Humphreys,Sara Megan"
+      ],
+      "building":"STJ",
+      "room":"3015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":7686,
+      "subject":"ENGL",
+      "catalog_number":"325",
+      "title":"Austen",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Connolly,Tristanne"
+      ],
+      "building":"STJ",
+      "room":"3015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:10-05:00"
+    },
+    {
+      "class_number":7732,
+      "subject":"ENGL",
+      "catalog_number":"371",
+      "title":"Editing Literary Works",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Connolly,Tristanne"
+      ],
+      "building":"STJ",
+      "room":"3015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:11-05:00"
+    },
+    {
+      "class_number":7961,
+      "subject":"ESL",
+      "catalog_number":"129R",
+      "title":"Written Academic English",
+      "section":"LEC 003",
+      "weekdays":"TF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Lane,Daryaneh"
+      ],
+      "building":"STJ",
+      "room":"3015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":7222,
+      "subject":"ITAL",
+      "catalog_number":"101",
+      "title":"Introduction to Italian Language 1",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Orlando-Niccoli,Francesca"
+      ],
+      "building":"STJ",
+      "room":"3015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:56-05:00"
+    },
+    {
+      "class_number":7685,
+      "subject":"WS",
+      "catalog_number":"325",
+      "title":"Austen",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Connolly,Tristanne"
+      ],
+      "building":"STJ",
+      "room":"3015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:55-05:00"
+    },
+    {
+      "class_number":8305,
+      "subject":"HIST",
+      "catalog_number":"610",
+      "title":"War and Society in the Twentieth Century",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Lackenbauer,Paul Whitney"
+      ],
+      "building":"STJ",
+      "room":"3015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:37-05:00"
+    }
+  ]
+}

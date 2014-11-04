@@ -1,0 +1,314 @@
+{
+  "meta":{
+    "requests":2492,
+    "timestamp":1415081566,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8254,
+      "subject":"BASE",
+      "catalog_number":"36",
+      "title":"Oral Skills",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3517",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":4489,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 109",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"DWE",
+      "room":"3517",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4492,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 112",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"DWE",
+      "room":"3517",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4506,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 123",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"DWE",
+      "room":"3517",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":8556,
+      "subject":"EFAS",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 004",
+      "weekdays":"T",
+      "start_time":"13:00",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3517",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":7962,
+      "subject":"ESL",
+      "catalog_number":"129R",
+      "title":"Written Academic English",
+      "section":"LEC 004",
+      "weekdays":"MWTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Al-Azraki,Amir"
+      ],
+      "building":"DWE",
+      "room":"3517",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":7760,
+      "subject":"HIST",
+      "catalog_number":"291",
+      "title":"Special Topics in History",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Blight,James"
+      ],
+      "building":"DWE",
+      "room":"3517",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7761,
+      "subject":"HIST",
+      "catalog_number":"291",
+      "title":"Special Topics in History",
+      "section":"LEC 002",
+      "weekdays":"MTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Roy,Susan"
+      ],
+      "building":"DWE",
+      "room":"3517",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":6141,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"TUT 118",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3517",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":4569,
+      "subject":"ME",
+      "catalog_number":"100",
+      "title":"Introduction to Mechanical Engineering Practice 1",
+      "section":"TUT 201",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3517",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:15-05:00"
+    },
+    {
+      "class_number":4624,
+      "subject":"MSCI",
+      "catalog_number":"311",
+      "title":"Organizational Design and Technology",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Kaur,Gulsheen"
+      ],
+      "building":"DWE",
+      "room":"3517",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4625,
+      "subject":"MSCI",
+      "catalog_number":"311",
+      "title":"Organizational Design and Technology",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Kaur,Gulsheen"
+      ],
+      "building":"DWE",
+      "room":"3517",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4708,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"TUT 203",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3517",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":8161,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"TUT 205",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3517",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":6724,
+      "subject":"PHYS",
+      "catalog_number":"475",
+      "title":"Astrophysics 3 - Galaxies and Cosmology",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Hudson,Michael"
+      ],
+      "building":"DWE",
+      "room":"3517",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:57-05:00"
+    }
+  ]
+}

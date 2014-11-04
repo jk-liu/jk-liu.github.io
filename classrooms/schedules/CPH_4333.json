@@ -1,0 +1,74 @@
+{
+  "meta":{
+    "requests":2465,
+    "timestamp":1415081558,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5196,
+      "subject":"MSCI",
+      "catalog_number":"700",
+      "title":"Topics in Operations Research and Management",
+      "section":"RDG 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "He,Qi-Ming"
+      ],
+      "building":"CPH",
+      "room":"4333",
+      "term":1149,
+      "last_updated":"2014-07-08T10:10:16-04:00"
+    },
+    {
+      "class_number":8295,
+      "subject":"MSCI",
+      "catalog_number":"730",
+      "title":"Human Computer Interaction",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Chilana,Parmit"
+      ],
+      "building":"CPH",
+      "room":"4333",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:49-05:00"
+    },
+    {
+      "class_number":8382,
+      "subject":"MSCI",
+      "catalog_number":"731",
+      "title":"MAM in Stochastic Models",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "He,Qi-Ming"
+      ],
+      "building":"CPH",
+      "room":"4333",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:49-05:00"
+    }
+  ]
+}

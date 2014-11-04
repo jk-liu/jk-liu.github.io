@@ -1,0 +1,234 @@
+{
+  "meta":{
+    "requests":2435,
+    "timestamp":1415081548,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6891,
+      "subject":"BIOL",
+      "catalog_number":"302",
+      "title":"Functional Histology",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"355",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6892,
+      "subject":"BIOL",
+      "catalog_number":"302",
+      "title":"Functional Histology",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"355",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6893,
+      "subject":"BIOL",
+      "catalog_number":"302",
+      "title":"Functional Histology",
+      "section":"LAB 103",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"355",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6894,
+      "subject":"BIOL",
+      "catalog_number":"302",
+      "title":"Functional Histology",
+      "section":"LAB 104",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"355",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6895,
+      "subject":"BIOL",
+      "catalog_number":"302",
+      "title":"Functional Histology",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"355",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6896,
+      "subject":"BIOL",
+      "catalog_number":"302",
+      "title":"Functional Histology",
+      "section":"LAB 106",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"355",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6906,
+      "subject":"BIOL",
+      "catalog_number":"302",
+      "title":"Functional Histology",
+      "section":"LAB 107",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"355",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6907,
+      "subject":"BIOL",
+      "catalog_number":"302",
+      "title":"Functional Histology",
+      "section":"LAB 108",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"355",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6991,
+      "subject":"BIOL",
+      "catalog_number":"302",
+      "title":"Functional Histology",
+      "section":"LAB 109",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"355",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":7054,
+      "subject":"BIOL",
+      "catalog_number":"302",
+      "title":"Functional Histology",
+      "section":"LAB 110",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"355",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":7141,
+      "subject":"BIOL",
+      "catalog_number":"302",
+      "title":"Functional Histology",
+      "section":"LAB 111",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"355",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    }
+  ]
+}

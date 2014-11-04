@@ -1,0 +1,994 @@
+{
+  "meta":{
+    "requests":2429,
+    "timestamp":1415081546,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6945,
+      "subject":"BIOL",
+      "catalog_number":"240L",
+      "title":"Microbiology Laboratory",
+      "section":"LAB 019",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":7052,
+      "subject":"BIOL",
+      "catalog_number":"240L",
+      "title":"Microbiology Laboratory",
+      "section":"LAB 020",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":8141,
+      "subject":"BIOL",
+      "catalog_number":"240L",
+      "title":"Microbiology Laboratory",
+      "section":"LAB 021",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6872,
+      "subject":"BIOL",
+      "catalog_number":"345",
+      "title":"Microorganisms in Foods",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6872,
+      "subject":"BIOL",
+      "catalog_number":"345",
+      "title":"Microorganisms in Foods",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6872,
+      "subject":"BIOL",
+      "catalog_number":"345",
+      "title":"Microorganisms in Foods",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6872,
+      "subject":"BIOL",
+      "catalog_number":"345",
+      "title":"Microorganisms in Foods",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6872,
+      "subject":"BIOL",
+      "catalog_number":"345",
+      "title":"Microorganisms in Foods",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6873,
+      "subject":"BIOL",
+      "catalog_number":"345",
+      "title":"Microorganisms in Foods",
+      "section":"LAB 103",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6873,
+      "subject":"BIOL",
+      "catalog_number":"345",
+      "title":"Microorganisms in Foods",
+      "section":"LAB 103",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6873,
+      "subject":"BIOL",
+      "catalog_number":"345",
+      "title":"Microorganisms in Foods",
+      "section":"LAB 103",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6873,
+      "subject":"BIOL",
+      "catalog_number":"345",
+      "title":"Microorganisms in Foods",
+      "section":"LAB 103",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6873,
+      "subject":"BIOL",
+      "catalog_number":"345",
+      "title":"Microorganisms in Foods",
+      "section":"LAB 103",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6602,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/09",
+      "end_date":"09\/09",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6602,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6602,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6602,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6602,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6602,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6603,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"09\/09",
+      "end_date":"09\/09",
+      "enrollment_total":22,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6603,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":22,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6603,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":22,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6603,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":22,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6603,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":22,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6603,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":22,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6905,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/10",
+      "end_date":"09\/10",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6905,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6905,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6905,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6905,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6905,
+      "subject":"BIOL",
+      "catalog_number":"443",
+      "title":"Fermentation Biotechnology",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6876,
+      "subject":"BIOL",
+      "catalog_number":"444",
+      "title":"Microorganisms and Disease",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/08",
+      "end_date":"09\/08",
+      "enrollment_total":11,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6876,
+      "subject":"BIOL",
+      "catalog_number":"444",
+      "title":"Microorganisms and Disease",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":11,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6876,
+      "subject":"BIOL",
+      "catalog_number":"444",
+      "title":"Microorganisms and Disease",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":11,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6876,
+      "subject":"BIOL",
+      "catalog_number":"444",
+      "title":"Microorganisms and Disease",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":11,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6876,
+      "subject":"BIOL",
+      "catalog_number":"444",
+      "title":"Microorganisms and Disease",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":11,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6876,
+      "subject":"BIOL",
+      "catalog_number":"444",
+      "title":"Microorganisms and Disease",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":11,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6877,
+      "subject":"BIOL",
+      "catalog_number":"444",
+      "title":"Microorganisms and Disease",
+      "section":"LAB 103",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"09\/08",
+      "end_date":"09\/08",
+      "enrollment_total":25,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6877,
+      "subject":"BIOL",
+      "catalog_number":"444",
+      "title":"Microorganisms and Disease",
+      "section":"LAB 103",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":25,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6877,
+      "subject":"BIOL",
+      "catalog_number":"444",
+      "title":"Microorganisms and Disease",
+      "section":"LAB 103",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":25,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6877,
+      "subject":"BIOL",
+      "catalog_number":"444",
+      "title":"Microorganisms and Disease",
+      "section":"LAB 103",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":25,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6877,
+      "subject":"BIOL",
+      "catalog_number":"444",
+      "title":"Microorganisms and Disease",
+      "section":"LAB 103",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":25,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6877,
+      "subject":"BIOL",
+      "catalog_number":"444",
+      "title":"Microorganisms and Disease",
+      "section":"LAB 103",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":25,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6605,
+      "subject":"BIOL",
+      "catalog_number":"448",
+      "title":"Microbial Physiology and Biochemistry",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":23,
+      "instructors":[
+        "Ma,Kesen"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6605,
+      "subject":"BIOL",
+      "catalog_number":"448",
+      "title":"Microbial Physiology and Biochemistry",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":23,
+      "instructors":[
+        "Ma,Kesen"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6605,
+      "subject":"BIOL",
+      "catalog_number":"448",
+      "title":"Microbial Physiology and Biochemistry",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":23,
+      "instructors":[
+        "Ma,Kesen"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6605,
+      "subject":"BIOL",
+      "catalog_number":"448",
+      "title":"Microbial Physiology and Biochemistry",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":23,
+      "instructors":[
+        "Ma,Kesen"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6605,
+      "subject":"BIOL",
+      "catalog_number":"448",
+      "title":"Microbial Physiology and Biochemistry",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":23,
+      "instructors":[
+        "Ma,Kesen"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":6605,
+      "subject":"BIOL",
+      "catalog_number":"448",
+      "title":"Microbial Physiology and Biochemistry",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":23,
+      "instructors":[
+        "Ma,Kesen"
+      ],
+      "building":"B1",
+      "room":"378",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    }
+  ]
+}

@@ -1,0 +1,1175 @@
+{
+  "meta":{
+    "requests":2546,
+    "timestamp":1415081583,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8185,
+      "subject":"ECE",
+      "catalog_number":"200A",
+      "title":"Electrical and Computer Engineering Practice",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":138,
+      "instructors":[
+        "Davison,Daniel"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":8190,
+      "subject":"ECE",
+      "catalog_number":"205",
+      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
+      "section":"LEC 001",
+      "weekdays":"TWTh",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":139,
+      "instructors":[
+        "Wang,David W L"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":8190,
+      "subject":"ECE",
+      "catalog_number":"205",
+      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"09\/11",
+      "end_date":"09\/11",
+      "enrollment_total":139,
+      "instructors":[
+        "Wang,David W L"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":8190,
+      "subject":"ECE",
+      "catalog_number":"205",
+      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"09\/25",
+      "end_date":"09\/25",
+      "enrollment_total":139,
+      "instructors":[
+        "Wang,David W L"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":8190,
+      "subject":"ECE",
+      "catalog_number":"205",
+      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/09",
+      "end_date":"10\/09",
+      "enrollment_total":139,
+      "instructors":[
+        "Wang,David W L"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":8190,
+      "subject":"ECE",
+      "catalog_number":"205",
+      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":139,
+      "instructors":[
+        "Wang,David W L"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":8190,
+      "subject":"ECE",
+      "catalog_number":"205",
+      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"11\/06",
+      "end_date":"11\/06",
+      "enrollment_total":139,
+      "instructors":[
+        "Wang,David W L"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":8190,
+      "subject":"ECE",
+      "catalog_number":"205",
+      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":139,
+      "instructors":[
+        "Wang,David W L"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":8191,
+      "subject":"ECE",
+      "catalog_number":"205",
+      "title":"Advanced Calculus 1 for Electrical and Computer Engineers",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":139,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":4647,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":137,
+      "instructors":[
+        "Agnew,Gordon"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4647,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/08",
+      "end_date":"09\/08",
+      "enrollment_total":137,
+      "instructors":[
+        "Agnew,Gordon"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4647,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":137,
+      "instructors":[
+        "Agnew,Gordon"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4647,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":137,
+      "instructors":[
+        "Agnew,Gordon"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4647,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":137,
+      "instructors":[
+        "Agnew,Gordon"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4647,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":137,
+      "instructors":[
+        "Agnew,Gordon"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4647,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":137,
+      "instructors":[
+        "Agnew,Gordon"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4581,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":137,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":4971,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":141,
+      "instructors":[
+        "Gaudet,Vincent"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4971,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LEC 001",
+      "weekdays":"ThF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":141,
+      "instructors":[
+        "Gaudet,Vincent"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4971,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":141,
+      "instructors":[
+        "Gaudet,Vincent"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4971,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":141,
+      "instructors":[
+        "Gaudet,Vincent"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4971,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":141,
+      "instructors":[
+        "Gaudet,Vincent"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4971,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":141,
+      "instructors":[
+        "Gaudet,Vincent"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4971,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":141,
+      "instructors":[
+        "Gaudet,Vincent"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4971,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"12\/01",
+      "end_date":"12\/01",
+      "enrollment_total":141,
+      "instructors":[
+        "Gaudet,Vincent"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4972,
+      "subject":"ECE",
+      "catalog_number":"240",
+      "title":"Electronic Circuits 1",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":141,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4619,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LEC 001",
+      "weekdays":"MTW",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":145,
+      "instructors":[
+        "Tahvildari,Ladan"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4619,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/12",
+      "end_date":"09\/12",
+      "enrollment_total":145,
+      "instructors":[
+        "Tahvildari,Ladan"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4619,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/26",
+      "end_date":"09\/26",
+      "enrollment_total":145,
+      "instructors":[
+        "Tahvildari,Ladan"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4619,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/10",
+      "end_date":"10\/10",
+      "enrollment_total":145,
+      "instructors":[
+        "Tahvildari,Ladan"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4619,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/24",
+      "end_date":"10\/24",
+      "enrollment_total":145,
+      "instructors":[
+        "Tahvildari,Ladan"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4619,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/07",
+      "end_date":"11\/07",
+      "enrollment_total":145,
+      "instructors":[
+        "Tahvildari,Ladan"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4619,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/21",
+      "end_date":"11\/21",
+      "enrollment_total":145,
+      "instructors":[
+        "Tahvildari,Ladan"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4620,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":145,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4976,
+      "subject":"ECE",
+      "catalog_number":"290",
+      "title":"Engineering Profession, Ethics, and Law",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":137,
+      "instructors":[
+        "Harder,Douglas"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4976,
+      "subject":"ECE",
+      "catalog_number":"290",
+      "title":"Engineering Profession, Ethics, and Law",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":137,
+      "instructors":[
+        "Harder,Douglas"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4976,
+      "subject":"ECE",
+      "catalog_number":"290",
+      "title":"Engineering Profession, Ethics, and Law",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/19",
+      "end_date":"09\/19",
+      "enrollment_total":137,
+      "instructors":[
+        "Harder,Douglas"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4976,
+      "subject":"ECE",
+      "catalog_number":"290",
+      "title":"Engineering Profession, Ethics, and Law",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/03",
+      "end_date":"10\/03",
+      "enrollment_total":137,
+      "instructors":[
+        "Harder,Douglas"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4976,
+      "subject":"ECE",
+      "catalog_number":"290",
+      "title":"Engineering Profession, Ethics, and Law",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/17",
+      "end_date":"10\/17",
+      "enrollment_total":137,
+      "instructors":[
+        "Harder,Douglas"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4976,
+      "subject":"ECE",
+      "catalog_number":"290",
+      "title":"Engineering Profession, Ethics, and Law",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":137,
+      "instructors":[
+        "Harder,Douglas"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4976,
+      "subject":"ECE",
+      "catalog_number":"290",
+      "title":"Engineering Profession, Ethics, and Law",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/14",
+      "end_date":"11\/14",
+      "enrollment_total":137,
+      "instructors":[
+        "Harder,Douglas"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4976,
+      "subject":"ECE",
+      "catalog_number":"290",
+      "title":"Engineering Profession, Ethics, and Law",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/28",
+      "end_date":"11\/28",
+      "enrollment_total":137,
+      "instructors":[
+        "Harder,Douglas"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":8194,
+      "subject":"FINE",
+      "catalog_number":"102",
+      "title":"World Cinema and Visual Culture",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"17:00",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Kuzniar,Alice"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:19-05:00"
+    },
+    {
+      "class_number":8194,
+      "subject":"FINE",
+      "catalog_number":"102",
+      "title":"World Cinema and Visual Culture",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"17:00",
+      "end_time":"19:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Kuzniar,Alice"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:19-05:00"
+    },
+    {
+      "class_number":6418,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 009",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":136,
+      "instructors":[
+        "Huang,Junbo"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":6418,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 009",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":136,
+      "instructors":[
+        "Huang,Junbo"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":6143,
+      "subject":"MATH",
+      "catalog_number":"215",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 001",
+      "weekdays":"TWTh",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":137,
+      "instructors":[
+        "Phipps,Colin"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":6143,
+      "subject":"MATH",
+      "catalog_number":"215",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"09\/18",
+      "end_date":"09\/18",
+      "enrollment_total":137,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":6143,
+      "subject":"MATH",
+      "catalog_number":"215",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/02",
+      "end_date":"10\/02",
+      "enrollment_total":137,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":6143,
+      "subject":"MATH",
+      "catalog_number":"215",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/16",
+      "end_date":"10\/16",
+      "enrollment_total":137,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":6143,
+      "subject":"MATH",
+      "catalog_number":"215",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"10\/30",
+      "end_date":"10\/30",
+      "enrollment_total":137,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":6143,
+      "subject":"MATH",
+      "catalog_number":"215",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"11\/13",
+      "end_date":"11\/13",
+      "enrollment_total":137,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":6143,
+      "subject":"MATH",
+      "catalog_number":"215",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"11\/27",
+      "end_date":"11\/27",
+      "enrollment_total":137,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":6144,
+      "subject":"MATH",
+      "catalog_number":"215",
+      "title":"Linear Algebra for Engineering",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":137,
+      "instructors":[
+        
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":6691,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":130,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":8039,
+      "subject":"PSCI",
+      "catalog_number":"100",
+      "title":"Politics I: Canadian Politics and Policy in Comparative Perspective",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":136,
+      "instructors":[
+        "Esselment,Anna L.",
+        "MacFarlane,Emmett"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":3921,
+      "subject":"VCULT",
+      "catalog_number":"100",
+      "title":"World Cinema and Visual Culture",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"17:00",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":113,
+      "instructors":[
+        "Kuzniar,Alice"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:52-05:00"
+    },
+    {
+      "class_number":3921,
+      "subject":"VCULT",
+      "catalog_number":"100",
+      "title":"World Cinema and Visual Culture",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"17:00",
+      "end_time":"19:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":113,
+      "instructors":[
+        "Kuzniar,Alice"
+      ],
+      "building":"EIT",
+      "room":"1015",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:52-05:00"
+    }
+  ]
+}

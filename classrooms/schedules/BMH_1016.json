@@ -1,0 +1,314 @@
+{
+  "meta":{
+    "requests":2437,
+    "timestamp":1415081549,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":2982,
+      "subject":"HLTH",
+      "catalog_number":"101",
+      "title":"Introduction to Health 1",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:44-05:00"
+    },
+    {
+      "class_number":2984,
+      "subject":"HLTH",
+      "catalog_number":"101",
+      "title":"Introduction to Health 1",
+      "section":"TUT 104",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:44-05:00"
+    },
+    {
+      "class_number":2996,
+      "subject":"HLTH",
+      "catalog_number":"101",
+      "title":"Introduction to Health 1",
+      "section":"TUT 109",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:44-05:00"
+    },
+    {
+      "class_number":3054,
+      "subject":"HLTH",
+      "catalog_number":"103",
+      "title":"Biological Determinants of Health",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Williams,Diane"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:44-05:00"
+    },
+    {
+      "class_number":3055,
+      "subject":"HLTH",
+      "catalog_number":"350",
+      "title":"Occupational Health",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Bigelow,Philip Lloyd"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:46-05:00"
+    },
+    {
+      "class_number":2941,
+      "subject":"KIN",
+      "catalog_number":"301",
+      "title":"Human Anatomy of the Central Nervous System",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":67,
+      "instructors":[
+        "Staines,Richard"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2941,
+      "subject":"KIN",
+      "catalog_number":"301",
+      "title":"Human Anatomy of the Central Nervous System",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":67,
+      "instructors":[
+        "Staines,Richard"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2941,
+      "subject":"KIN",
+      "catalog_number":"301",
+      "title":"Human Anatomy of the Central Nervous System",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":67,
+      "instructors":[
+        "Staines,Richard"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":8139,
+      "subject":"KIN",
+      "catalog_number":"416",
+      "title":"Neuromuscular Integration",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Van Ooteghem,Karen"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:03-05:00"
+    },
+    {
+      "class_number":3023,
+      "subject":"KIN",
+      "catalog_number":"425",
+      "title":"Biomechanical Modelling of Human Movement",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Callaghan,Jack P"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":2947,
+      "subject":"KIN",
+      "catalog_number":"456",
+      "title":"Cognitive Dysfunction and Motor Skill",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Roy,Eric A"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":3031,
+      "subject":"REC",
+      "catalog_number":"101",
+      "title":"Introduction to Recreation and Leisure Services",
+      "section":"TUT 105",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Copeland,Robert Paul"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":3071,
+      "subject":"REC",
+      "catalog_number":"361",
+      "title":"Aging and Leisure",
+      "section":"SEM 107",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Dupuis,Sherry"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":3005,
+      "subject":"REC",
+      "catalog_number":"380",
+      "title":"Tourism Analysis",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"18:00",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Griffin,Tom"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:15-05:00"
+    },
+    {
+      "class_number":3069,
+      "subject":"KIN",
+      "catalog_number":"656",
+      "title":"Neurobehavioural Analyses of  Perceptual and Motor Deficits",
+      "section":"SEM 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Roy,Eric A"
+      ],
+      "building":"BMH",
+      "room":"1016",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:44-05:00"
+    }
+  ]
+}

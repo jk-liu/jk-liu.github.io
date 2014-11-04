@@ -1,0 +1,214 @@
+{
+  "meta":{
+    "requests":2422,
+    "timestamp":1415081544,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4687,
+      "subject":"ARCH",
+      "catalog_number":"292",
+      "title":"Design Studio",
+      "section":"STU 001",
+      "weekdays":"MTh",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":74,
+      "instructors":[
+        "Blackwell,Adrian Walter H"
+      ],
+      "building":"ARC",
+      "room":"3103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:43-05:00"
+    },
+    {
+      "class_number":4687,
+      "subject":"ARCH",
+      "catalog_number":"292",
+      "title":"Design Studio",
+      "section":"STU 001",
+      "weekdays":"MTh",
+      "start_time":"13:30",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":74,
+      "instructors":[
+        "Blackwell,Adrian Walter H"
+      ],
+      "building":"ARC",
+      "room":"3103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:43-05:00"
+    },
+    {
+      "class_number":8543,
+      "subject":"ARCH",
+      "catalog_number":"393",
+      "title":"Design Studio",
+      "section":"STU 002",
+      "weekdays":"MTh",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Batay-Csorba,Andrew"
+      ],
+      "building":"ARC",
+      "room":"3103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    },
+    {
+      "class_number":8543,
+      "subject":"ARCH",
+      "catalog_number":"393",
+      "title":"Design Studio",
+      "section":"STU 002",
+      "weekdays":"MTh",
+      "start_time":"13:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Batay-Csorba,Andrew"
+      ],
+      "building":"ARC",
+      "room":"3103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    },
+    {
+      "class_number":8545,
+      "subject":"ARCH",
+      "catalog_number":"393",
+      "title":"Design Studio",
+      "section":"STU 004",
+      "weekdays":"MTh",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Levitt,Andrew"
+      ],
+      "building":"ARC",
+      "room":"3103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    },
+    {
+      "class_number":8545,
+      "subject":"ARCH",
+      "catalog_number":"393",
+      "title":"Design Studio",
+      "section":"STU 004",
+      "weekdays":"MTh",
+      "start_time":"13:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Levitt,Andrew"
+      ],
+      "building":"ARC",
+      "room":"3103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    },
+    {
+      "class_number":8546,
+      "subject":"ARCH",
+      "catalog_number":"393",
+      "title":"Design Studio",
+      "section":"STU 005",
+      "weekdays":"MTh",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Przybylski,Maya M"
+      ],
+      "building":"ARC",
+      "room":"3103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    },
+    {
+      "class_number":8546,
+      "subject":"ARCH",
+      "catalog_number":"393",
+      "title":"Design Studio",
+      "section":"STU 005",
+      "weekdays":"MTh",
+      "start_time":"13:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Przybylski,Maya M"
+      ],
+      "building":"ARC",
+      "room":"3103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    },
+    {
+      "class_number":8566,
+      "subject":"ARCH",
+      "catalog_number":"393",
+      "title":"Design Studio",
+      "section":"STU 007",
+      "weekdays":"MTh",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Vaughan,Annabel Kate"
+      ],
+      "building":"ARC",
+      "room":"3103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    },
+    {
+      "class_number":8566,
+      "subject":"ARCH",
+      "catalog_number":"393",
+      "title":"Design Studio",
+      "section":"STU 007",
+      "weekdays":"MTh",
+      "start_time":"13:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"ARC",
+      "room":"3103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    }
+  ]
+}

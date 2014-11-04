@@ -1,0 +1,134 @@
+{
+  "meta":{
+    "requests":2419,
+    "timestamp":1415081543,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8409,
+      "subject":"ARCH",
+      "catalog_number":"385",
+      "title":"Architectural Research",
+      "section":"RDG 005",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Przybylski,Maya M"
+      ],
+      "building":"ARC",
+      "room":"2026",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    },
+    {
+      "class_number":7238,
+      "subject":"ITAL",
+      "catalog_number":"155",
+      "title":"Intensive Introductory Italian Language",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"18:30",
+      "end_time":"19:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Bottoni,Patrizia"
+      ],
+      "building":"ARC",
+      "room":"2026",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:56-05:00"
+    },
+    {
+      "class_number":8410,
+      "subject":"ARCH",
+      "catalog_number":"610",
+      "title":"Architectural Analysis",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "El Khafif,Mona"
+      ],
+      "building":"ARC",
+      "room":"2026",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:01-05:00"
+    },
+    {
+      "class_number":8411,
+      "subject":"ARCH",
+      "catalog_number":"673",
+      "title":"The Science of the Building Envelope",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Straube,John F"
+      ],
+      "building":"ARC",
+      "room":"2026",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:01-05:00"
+    },
+    {
+      "class_number":8419,
+      "subject":"ARCH",
+      "catalog_number":"684",
+      "title":"Special Topics in Architecture",
+      "section":"LEC 005",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Przybylski,Maya M"
+      ],
+      "building":"ARC",
+      "room":"2026",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:01-05:00"
+    },
+    {
+      "class_number":8420,
+      "subject":"ARCH",
+      "catalog_number":"684",
+      "title":"Special Topics in Architecture",
+      "section":"LEC 006",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Sliwka,Ryszard"
+      ],
+      "building":"ARC",
+      "room":"2026",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:01-05:00"
+    }
+  ]
+}

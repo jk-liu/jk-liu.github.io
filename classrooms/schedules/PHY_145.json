@@ -1,0 +1,435 @@
+{
+  "meta":{
+    "requests":2679,
+    "timestamp":1415081623,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6898,
+      "subject":"BIOL",
+      "catalog_number":"439",
+      "title":"Environmental and Natural Products Biochemistry",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":200,
+      "instructors":[
+        "Greenberg,Bruce M"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":8004,
+      "subject":"CHEM",
+      "catalog_number":"100",
+      "title":"Introduction to Chemical Sciences",
+      "section":"SEM 002",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":148,
+      "instructors":[
+        "Daub,Elisabeth",
+        "Dieckmann,Thorsten"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":8330,
+      "subject":"CS",
+      "catalog_number":"115",
+      "title":"Introduction to Computer Science 1",
+      "section":"LEC 006",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":195,
+      "instructors":[
+        "Sakhnini,Victoria"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":4897,
+      "subject":"ECE",
+      "catalog_number":"105",
+      "title":"Physics of Electrical Engineering 1",
+      "section":"LEC 003",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":156,
+      "instructors":[
+        "Scholz,Guenter A"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":3449,
+      "subject":"INTST",
+      "catalog_number":"101",
+      "title":"Introduction to International Studies",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":141,
+      "instructors":[
+        "Habib,Jasmin"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:50-05:00"
+    },
+    {
+      "class_number":6185,
+      "subject":"MATH",
+      "catalog_number":"109",
+      "title":"Mathematics for Accounting",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":200,
+      "instructors":[
+        
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:10-05:00"
+    },
+    {
+      "class_number":5681,
+      "subject":"MATH",
+      "catalog_number":"128",
+      "title":"Calculus 2 for the Sciences",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5685,
+      "subject":"MATH",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":201,
+      "instructors":[
+        "Bertiger,Anna"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":5686,
+      "subject":"MATH",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":201,
+      "instructors":[
+        "Pretti,John-Paul C"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":5689,
+      "subject":"MATH",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
+      "section":"LEC 007",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":195,
+      "instructors":[
+        "Leung,Debbie"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":3130,
+      "subject":"PHIL",
+      "catalog_number":"145",
+      "title":"Critical Thinking",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":93,
+      "instructors":[
+        "Ray,Nicholas"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:47-05:00"
+    },
+    {
+      "class_number":6659,
+      "subject":"PHYS",
+      "catalog_number":"10",
+      "title":"Physics Seminar",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"09\/09",
+      "end_date":"12\/16",
+      "enrollment_total":296,
+      "instructors":[
+        "Lupascu,Adrian A."
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:52-05:00"
+    },
+    {
+      "class_number":6662,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":164,
+      "instructors":[
+        "Pfisterer,Steve Mark"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:52-05:00"
+    },
+    {
+      "class_number":6859,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":197,
+      "instructors":[
+        "Pfisterer,Steve Mark"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:52-05:00"
+    },
+    {
+      "class_number":6921,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"LEC 005",
+      "weekdays":"TThF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":178,
+      "instructors":[
+        "Bohlouli Zanjani,Parisa"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:52-05:00"
+    },
+    {
+      "class_number":6690,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":150,
+      "instructors":[
+        "Jennewein,Thomas"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6691,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":130,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6692,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"LEC 003",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":184,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6692,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"LEC 003",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":184,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6925,
+      "subject":"PHYS",
+      "catalog_number":"121",
+      "title":"Mechanics",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":155,
+      "instructors":[
+        "Scholz,Guenter A"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6972,
+      "subject":"SCI",
+      "catalog_number":"206",
+      "title":"The Physics of How Things Work",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":199,
+      "instructors":[
+        "Idziak,Stefan"
+      ],
+      "building":"PHY",
+      "room":"145",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:23-05:00"
+    }
+  ]
+}

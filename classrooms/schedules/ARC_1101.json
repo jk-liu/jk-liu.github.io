@@ -1,0 +1,134 @@
+{
+  "meta":{
+    "requests":2416,
+    "timestamp":1415081543,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4681,
+      "subject":"ARCH",
+      "catalog_number":"172",
+      "title":"Building Construction 1",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Boake,Terri"
+      ],
+      "building":"ARC",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:41-05:00"
+    },
+    {
+      "class_number":4692,
+      "subject":"ARCH",
+      "catalog_number":"226",
+      "title":"Environmental Building Design",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":73,
+      "instructors":[
+        "Boake,Terri"
+      ],
+      "building":"ARC",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:42-05:00"
+    },
+    {
+      "class_number":4693,
+      "subject":"ARCH",
+      "catalog_number":"260",
+      "title":"Principles of Structures",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":74,
+      "instructors":[
+        "Murphy,Andrea Gail"
+      ],
+      "building":"ARC",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:42-05:00"
+    },
+    {
+      "class_number":4693,
+      "subject":"ARCH",
+      "catalog_number":"260",
+      "title":"Principles of Structures",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":74,
+      "instructors":[
+        "Murphy,Andrea Gail"
+      ],
+      "building":"ARC",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:42-05:00"
+    },
+    {
+      "class_number":4779,
+      "subject":"ARCH",
+      "catalog_number":"272",
+      "title":"Interior Environments: Acoustics and Lighting",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":75,
+      "instructors":[
+        "Gastmeier,William John"
+      ],
+      "building":"ARC",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:43-05:00"
+    },
+    {
+      "class_number":4826,
+      "subject":"ARCH",
+      "catalog_number":"365",
+      "title":"Structural Design Build Workshop",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":62,
+      "instructors":[
+        
+      ],
+      "building":"ARC",
+      "room":"1101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    }
+  ]
+}

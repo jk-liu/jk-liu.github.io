@@ -1,0 +1,334 @@
+{
+  "meta":{
+    "requests":2559,
+    "timestamp":1415081587,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8111,
+      "subject":"AVIA",
+      "catalog_number":"306",
+      "title":"Professional Pilot Program Course VI",
+      "section":"FLT 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "McKenzie,Ian"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:48-05:00"
+    },
+    {
+      "class_number":8111,
+      "subject":"AVIA",
+      "catalog_number":"306",
+      "title":"Professional Pilot Program Course VI",
+      "section":"FLT 001",
+      "weekdays":"W",
+      "start_time":"18:00",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "McKenzie,Ian"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:48-05:00"
+    },
+    {
+      "class_number":8111,
+      "subject":"AVIA",
+      "catalog_number":"306",
+      "title":"Professional Pilot Program Course VI",
+      "section":"FLT 001",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "McKenzie,Ian"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:48-05:00"
+    },
+    {
+      "class_number":8255,
+      "subject":"BASE",
+      "catalog_number":"36",
+      "title":"Oral Skills",
+      "section":"LEC 002",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":5641,
+      "subject":"CO",
+      "catalog_number":"485",
+      "title":"The Mathematics of Public-Key Cryptography",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Jao,David"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:31-05:00"
+    },
+    {
+      "class_number":3206,
+      "subject":"ECON",
+      "catalog_number":"401",
+      "title":"Microeconomic Theory 3",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Curry,Philip A"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:59-05:00"
+    },
+    {
+      "class_number":8313,
+      "subject":"ENBUS",
+      "catalog_number":"306",
+      "title":"Research Design",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:02-05:00"
+    },
+    {
+      "class_number":5454,
+      "subject":"ENVS",
+      "catalog_number":"278",
+      "title":"Advanced Environmental Research Methods",
+      "section":"TUT 107",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":3256,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Petrescu,Maria"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":4001,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"LEC 006",
+      "weekdays":"MTTh",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Abdulla,Rosanne"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":4157,
+      "subject":"GER",
+      "catalog_number":"211",
+      "title":"Integrative Language Seminar I",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Schmenk,Barbara"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:35-05:00"
+    },
+    {
+      "class_number":5344,
+      "subject":"PLAN",
+      "catalog_number":"300",
+      "title":"Planning Theory",
+      "section":"TUT 103",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:58-05:00"
+    },
+    {
+      "class_number":5517,
+      "subject":"PLAN",
+      "catalog_number":"300",
+      "title":"Planning Theory",
+      "section":"TUT 104",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:58-05:00"
+    },
+    {
+      "class_number":3570,
+      "subject":"SPCOM",
+      "catalog_number":"223",
+      "title":"Public Speaking",
+      "section":"LEC 005",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Paci,Timothy P"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":4193,
+      "subject":"SPCOM",
+      "catalog_number":"223",
+      "title":"Public Speaking",
+      "section":"LEC 007",
+      "weekdays":"WF",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Paci,Timothy P"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":5795,
+      "subject":"CO",
+      "catalog_number":"685",
+      "title":"The Mathematics of Public-Key Cryptography",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Jao,David"
+      ],
+      "building":"EV1",
+      "room":"132",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:11-05:00"
+    }
+  ]
+}

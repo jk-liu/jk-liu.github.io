@@ -1,0 +1,174 @@
+{
+  "meta":{
+    "requests":2550,
+    "timestamp":1415081584,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4671,
+      "subject":"ECE",
+      "catalog_number":"682",
+      "title":"Multivariable Control Systems",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Miller,Daniel E"
+      ],
+      "building":"EIT",
+      "room":"3141",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:21-05:00"
+    },
+    {
+      "class_number":8017,
+      "subject":"ECE",
+      "catalog_number":"710",
+      "title":"Special Topics in Communications and Information Theory",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Damen,Mohamed Oussama"
+      ],
+      "building":"EIT",
+      "room":"3141",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:21-05:00"
+    },
+    {
+      "class_number":8018,
+      "subject":"ECE",
+      "catalog_number":"710",
+      "title":"Special Topics in Communications and Information Theory",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Ho,Pin-Han"
+      ],
+      "building":"EIT",
+      "room":"3141",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:21-05:00"
+    },
+    {
+      "class_number":5205,
+      "subject":"ECE",
+      "catalog_number":"730",
+      "title":"Special Topics in Solid State Devices",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Yoon,Youngki"
+      ],
+      "building":"EIT",
+      "room":"3141",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:22-05:00"
+    },
+    {
+      "class_number":8020,
+      "subject":"ECE",
+      "catalog_number":"730",
+      "title":"Special Topics in Solid State Devices",
+      "section":"LEC 003",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Cui,Bo"
+      ],
+      "building":"EIT",
+      "room":"3141",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:22-05:00"
+    },
+    {
+      "class_number":8489,
+      "subject":"ECE",
+      "catalog_number":"770",
+      "title":"Special Topics in Antenna and Microwave Theory",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Ramahi,Omar"
+      ],
+      "building":"EIT",
+      "room":"3141",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:22-05:00"
+    },
+    {
+      "class_number":8542,
+      "subject":"ECE",
+      "catalog_number":"770",
+      "title":"Special Topics in Antenna and Microwave Theory",
+      "section":"LEC 003",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Bajcsy,Michal"
+      ],
+      "building":"EIT",
+      "room":"3141",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:22-05:00"
+    },
+    {
+      "class_number":8548,
+      "subject":"QIC",
+      "catalog_number":"890",
+      "title":"Topics in Quantum Information",
+      "section":"LEC 003",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Bajcsy,Michal"
+      ],
+      "building":"EIT",
+      "room":"3141",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:09-05:00"
+    }
+  ]
+}

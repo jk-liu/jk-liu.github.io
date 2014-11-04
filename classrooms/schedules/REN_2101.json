@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":2732,
+    "timestamp":1415081640,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6535,
+      "subject":"EASIA",
+      "catalog_number":"277R",
+      "title":"International Relations of East Asia",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Lee,Seung Hyok"
+      ],
+      "building":"REN",
+      "room":"2101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:46-05:00"
+    },
+    {
+      "class_number":6477,
+      "subject":"KOREA",
+      "catalog_number":"202R",
+      "title":"Second-Year Korean 2",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Kim,Young Gon G"
+      ],
+      "building":"REN",
+      "room":"2101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:05-05:00"
+    }
+  ]
+}

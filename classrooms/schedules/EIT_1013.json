@@ -1,0 +1,255 @@
+{
+  "meta":{
+    "requests":2544,
+    "timestamp":1415081582,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7191,
+      "subject":"EARTH",
+      "catalog_number":"10",
+      "title":"Enhancing Comm. Skills\/Earth",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"16:00",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Conant Jr,Brewster",
+        "Jewinski,Judi"
+      ],
+      "building":"EIT",
+      "room":"1013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:43-05:00"
+    },
+    {
+      "class_number":6609,
+      "subject":"EARTH",
+      "catalog_number":"121L",
+      "title":"Introductory Earth Sciences Laboratory",
+      "section":"LAB 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Johnston,John William"
+      ],
+      "building":"EIT",
+      "room":"1013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:43-05:00"
+    },
+    {
+      "class_number":6610,
+      "subject":"EARTH",
+      "catalog_number":"121L",
+      "title":"Introductory Earth Sciences Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Johnston,John William"
+      ],
+      "building":"EIT",
+      "room":"1013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:43-05:00"
+    },
+    {
+      "class_number":6611,
+      "subject":"EARTH",
+      "catalog_number":"121L",
+      "title":"Introductory Earth Sciences Laboratory",
+      "section":"LAB 003",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Johnston,John William"
+      ],
+      "building":"EIT",
+      "room":"1013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:43-05:00"
+    },
+    {
+      "class_number":6858,
+      "subject":"EARTH",
+      "catalog_number":"121L",
+      "title":"Introductory Earth Sciences Laboratory",
+      "section":"LAB 004",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Johnston,John William"
+      ],
+      "building":"EIT",
+      "room":"1013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:43-05:00"
+    },
+    {
+      "class_number":7048,
+      "subject":"EARTH",
+      "catalog_number":"121L",
+      "title":"Introductory Earth Sciences Laboratory",
+      "section":"LAB 005",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Johnston,John William"
+      ],
+      "building":"EIT",
+      "room":"1013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:43-05:00"
+    },
+    {
+      "class_number":6615,
+      "subject":"EARTH",
+      "catalog_number":"231",
+      "title":"Mineralogy",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Parks,Jennifer Eleanor"
+      ],
+      "building":"EIT",
+      "room":"1013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:44-05:00"
+    },
+    {
+      "class_number":6616,
+      "subject":"EARTH",
+      "catalog_number":"231",
+      "title":"Mineralogy",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Parks,Jennifer Eleanor"
+      ],
+      "building":"EIT",
+      "room":"1013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:44-05:00"
+    },
+    {
+      "class_number":6618,
+      "subject":"EARTH",
+      "catalog_number":"235",
+      "title":"Stratigraphic Approaches to Understanding Earth's History",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Johnston,John William"
+      ],
+      "building":"EIT",
+      "room":"1013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:44-05:00"
+    },
+    {
+      "class_number":6619,
+      "subject":"EARTH",
+      "catalog_number":"235",
+      "title":"Stratigraphic Approaches to Understanding Earth's History",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Johnston,John William"
+      ],
+      "building":"EIT",
+      "room":"1013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:44-05:00"
+    },
+    {
+      "class_number":6620,
+      "subject":"EARTH",
+      "catalog_number":"235",
+      "title":"Stratigraphic Approaches to Understanding Earth's History",
+      "section":"LAB 103",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Johnston,John William"
+      ],
+      "building":"EIT",
+      "room":"1013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:44-05:00"
+    },
+    {
+      "class_number":6992,
+      "subject":"EARTH",
+      "catalog_number":"458L",
+      "title":"Field Methods in Hydrogeology",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Robertson,William D"
+      ],
+      "building":"EIT",
+      "room":"1013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:45-05:00"
+    }
+  ]
+}

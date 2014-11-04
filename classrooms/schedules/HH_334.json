@@ -1,0 +1,215 @@
+{
+  "meta":{
+    "requests":2599,
+    "timestamp":1415081599,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7688,
+      "subject":"PHIL",
+      "catalog_number":"402",
+      "title":"Studies in Feminist Philosophy\/Philosophy of Sex",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Marino,Patricia"
+      ],
+      "building":"HH",
+      "room":"334",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:49-05:00"
+    },
+    {
+      "class_number":7996,
+      "subject":"PHIL",
+      "catalog_number":"455",
+      "title":"Studies in Metaphysics",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Dea,Shannon Jennifer"
+      ],
+      "building":"HH",
+      "room":"334",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:49-05:00"
+    },
+    {
+      "class_number":3158,
+      "subject":"PSYCH",
+      "catalog_number":"393",
+      "title":"Research in Developmental Psychology",
+      "section":"SEM 001",
+      "weekdays":"MW",
+      "start_time":"12:30",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Friedman,Ori"
+      ],
+      "building":"HH",
+      "room":"334",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:10-05:00"
+    },
+    {
+      "class_number":3159,
+      "subject":"PSYCH",
+      "catalog_number":"395",
+      "title":"Research in Social Psychology",
+      "section":"SEM 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Grossmann,Igor"
+      ],
+      "building":"HH",
+      "room":"334",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:10-05:00"
+    },
+    {
+      "class_number":3295,
+      "subject":"PSYCH",
+      "catalog_number":"395",
+      "title":"Research in Social Psychology",
+      "section":"SEM 002",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Wood,Joanne"
+      ],
+      "building":"HH",
+      "room":"334",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:10-05:00"
+    },
+    {
+      "class_number":3161,
+      "subject":"PSYCH",
+      "catalog_number":"397",
+      "title":"Research in Personality and Clinical Psychology",
+      "section":"SEM 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Oakman,Jonathan",
+        "Seeds,Pamela"
+      ],
+      "building":"HH",
+      "room":"334",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:10-05:00"
+    },
+    {
+      "class_number":3758,
+      "subject":"PSYCH",
+      "catalog_number":"453",
+      "title":"Honours Seminar in Developmental Psychology",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "O'Neill,Daniela K"
+      ],
+      "building":"HH",
+      "room":"334",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:11-05:00"
+    },
+    {
+      "class_number":7687,
+      "subject":"WS",
+      "catalog_number":"422",
+      "title":"Studies in Feminist Philosophy\/Philosophy of Sex",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Marino,Patricia"
+      ],
+      "building":"HH",
+      "room":"334",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:56-05:00"
+    },
+    {
+      "class_number":4123,
+      "subject":"PHIL",
+      "catalog_number":"673",
+      "title":"Graduate Courses",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Marino,Patricia"
+      ],
+      "building":"HH",
+      "room":"334",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:53-05:00"
+    },
+    {
+      "class_number":4124,
+      "subject":"PHIL",
+      "catalog_number":"673",
+      "title":"Graduate Courses",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Dea,Shannon Jennifer"
+      ],
+      "building":"HH",
+      "room":"334",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:53-05:00"
+    }
+  ]
+}

@@ -1,0 +1,574 @@
+{
+  "meta":{
+    "requests":2586,
+    "timestamp":1415081596,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5371,
+      "subject":"ERS",
+      "catalog_number":"310",
+      "title":"Environmental Analysis and Solutions V: Environmental Thought",
+      "section":"SEM 106",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":8260,
+      "subject":"ERS",
+      "catalog_number":"311",
+      "title":"Environmental Research Project I: Systems Thinking for Interdisciplinary Research",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":5545,
+      "subject":"ERS",
+      "catalog_number":"411A",
+      "title":"Environmental Research Project II",
+      "section":"PRJ 006",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Murphy,Stephen D"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":5548,
+      "subject":"ERS",
+      "catalog_number":"412A",
+      "title":"Environmental Research Project II",
+      "section":"PRJ 006",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Murphy,Stephen D"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:17-05:00"
+    },
+    {
+      "class_number":7710,
+      "subject":"GRK",
+      "catalog_number":"201",
+      "title":"Intermediate Greek",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Vester,Christina"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:38-05:00"
+    },
+    {
+      "class_number":7768,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 101",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":8,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7768,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 101",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":8,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7768,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 101",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":8,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7768,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 101",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":8,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7768,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 101",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":8,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7769,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 102",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":0,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7769,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 102",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":0,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7769,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 102",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":0,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7769,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 102",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":0,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7769,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 102",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":0,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7770,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":2,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7770,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":2,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7770,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":2,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7770,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":2,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7770,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":2,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7771,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":1,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7771,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":1,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7771,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":1,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7771,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":1,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":7771,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":1,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":3678,
+      "subject":"HIST",
+      "catalog_number":"401A",
+      "title":"European",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":6164,
+      "subject":"MATH",
+      "catalog_number":"229",
+      "title":"Introduction to Combinatorics (Non-Specialist Level)",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:13-05:00"
+    },
+    {
+      "class_number":7753,
+      "subject":"CO",
+      "catalog_number":"769",
+      "title":"Topics in Continuous Optimization",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Vavasis,Stephen"
+      ],
+      "building":"HH",
+      "room":"124",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:11-05:00"
+    }
+  ]
+}

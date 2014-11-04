@@ -1,0 +1,354 @@
+{
+  "meta":{
+    "requests":2733,
+    "timestamp":1415081640,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6472,
+      "subject":"CHINA",
+      "catalog_number":"202R",
+      "title":"Second-Year Chinese 2",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Wang,Renee Rui"
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:25-05:00"
+    },
+    {
+      "class_number":6565,
+      "subject":"EFAS",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":6567,
+      "subject":"EFAS",
+      "catalog_number":"36",
+      "title":"Oral Skills",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"09:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":3784,
+      "subject":"ENGL",
+      "catalog_number":"100A",
+      "title":"Fiction",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Lobb,Diana Frances"
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:05-05:00"
+    },
+    {
+      "class_number":4285,
+      "subject":"ENGL",
+      "catalog_number":"140R",
+      "title":"The Use of English 1",
+      "section":"LEC 005",
+      "weekdays":"TTh",
+      "start_time":"17:00",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Edwards,Elin"
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:07-05:00"
+    },
+    {
+      "class_number":6443,
+      "subject":"KOREA",
+      "catalog_number":"102R",
+      "title":"First-Year Korean 2",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Kim,Young Gon G"
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:05-05:00"
+    },
+    {
+      "class_number":3649,
+      "subject":"PSYCH",
+      "catalog_number":"101R",
+      "title":"Introductory Psychology",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Logel,Christine Elizabeth"
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:06-05:00"
+    },
+    {
+      "class_number":3650,
+      "subject":"PSYCH",
+      "catalog_number":"101R",
+      "title":"Introductory Psychology",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Logel,Christine Elizabeth"
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:06-05:00"
+    },
+    {
+      "class_number":7967,
+      "subject":"PSYCH",
+      "catalog_number":"226R",
+      "title":"Positive Psychology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Marigold,Denise"
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:07-05:00"
+    },
+    {
+      "class_number":6502,
+      "subject":"SDS",
+      "catalog_number":"150R",
+      "title":"Lifespan Processes: The Normal Events",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Hymmen,Peter"
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:25-05:00"
+    },
+    {
+      "class_number":6433,
+      "subject":"SOCWK",
+      "catalog_number":"120R",
+      "title":"Introduction to Social Work",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Shaikh,Arshi"
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:36-05:00"
+    },
+    {
+      "class_number":6434,
+      "subject":"SOCWK",
+      "catalog_number":"120R",
+      "title":"Introduction to Social Work",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        "Shaikh,Arshi"
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:36-05:00"
+    },
+    {
+      "class_number":6499,
+      "subject":"SOCWK",
+      "catalog_number":"120R",
+      "title":"Introduction to Social Work",
+      "section":"LEC 003",
+      "weekdays":"F",
+      "start_time":"10:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Mahrer,Rachel"
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:36-05:00"
+    },
+    {
+      "class_number":6460,
+      "subject":"SWREN",
+      "catalog_number":"120R",
+      "title":"Introduction to Social Work",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Shaikh,Arshi"
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:46-05:00"
+    },
+    {
+      "class_number":6461,
+      "subject":"SWREN",
+      "catalog_number":"120R",
+      "title":"Introduction to Social Work",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Shaikh,Arshi"
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:46-05:00"
+    },
+    {
+      "class_number":6500,
+      "subject":"SWREN",
+      "catalog_number":"120R",
+      "title":"Introduction to Social Work",
+      "section":"LEC 003",
+      "weekdays":"F",
+      "start_time":"10:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Mahrer,Rachel"
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:46-05:00"
+    },
+    {
+      "class_number":6458,
+      "subject":"SWREN",
+      "catalog_number":"441R",
+      "title":"Practicum 1",
+      "section":"PRA 002",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Gallagher,Susan"
+      ],
+      "building":"REN",
+      "room":"2102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:48-05:00"
+    }
+  ]
+}

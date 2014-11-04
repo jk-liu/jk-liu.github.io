@@ -1,0 +1,374 @@
+{
+  "meta":{
+    "requests":2614,
+    "timestamp":1415081604,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5635,
+      "subject":"AMATH",
+      "catalog_number":"231",
+      "title":"Calculus 4",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:27-05:00"
+    },
+    {
+      "class_number":4499,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 117",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":6904,
+      "subject":"CHEM",
+      "catalog_number":"331",
+      "title":"Fundamentals of Metabolism 1",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":83,
+      "instructors":[
+        "Daub,Elisabeth"
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":5708,
+      "subject":"CS",
+      "catalog_number":"241",
+      "title":"Foundations of Sequential Programs",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        "Richards,Gregor"
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":6316,
+      "subject":"CS",
+      "catalog_number":"241",
+      "title":"Foundations of Sequential Programs",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":73,
+      "instructors":[
+        "Dean-Hall,Adriel"
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":7586,
+      "subject":"CS",
+      "catalog_number":"241",
+      "title":"Foundations of Sequential Programs",
+      "section":"LEC 004",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":72,
+      "instructors":[
+        "Vasiga,Troy Michael John"
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":6204,
+      "subject":"CS",
+      "catalog_number":"241",
+      "title":"Foundations of Sequential Programs",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":72,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":5719,
+      "subject":"CS",
+      "catalog_number":"445",
+      "title":"Software Requirements Specification and Analysis",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:39-05:00"
+    },
+    {
+      "class_number":4984,
+      "subject":"ECE",
+      "catalog_number":"105",
+      "title":"Physics of Electrical Engineering 1",
+      "section":"TUT 110",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":70,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":4916,
+      "subject":"ECE",
+      "catalog_number":"140",
+      "title":"Linear Circuits",
+      "section":"TUT 108",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":70,
+      "instructors":[
+        "Nairn,David"
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":4991,
+      "subject":"ECE",
+      "catalog_number":"451",
+      "title":"Software Requirements Specification and Analysis",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:54-05:00"
+    },
+    {
+      "class_number":6142,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"TUT 119",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":66,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5843,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 106",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5604,
+      "subject":"MATH",
+      "catalog_number":"138",
+      "title":"Calculus 2 For Honours Mathematics",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":92,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":5607,
+      "subject":"MATH",
+      "catalog_number":"147",
+      "title":"Calculus 1 (Advanced Level)",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "New,Stephen"
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":5609,
+      "subject":"MATH",
+      "catalog_number":"217",
+      "title":"Calculus 3 for Chemical Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":76,
+      "instructors":[
+        "Hewitt,Conrad G"
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:13-05:00"
+    },
+    {
+      "class_number":5976,
+      "subject":"STAT",
+      "catalog_number":"334",
+      "title":"Probability Models for Business and Accounting",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Zhu,Mu"
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:43-05:00"
+    },
+    {
+      "class_number":5797,
+      "subject":"CS",
+      "catalog_number":"645",
+      "title":"Software Requirements Specification and Analysis",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2035",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:12-05:00"
+    }
+  ]
+}

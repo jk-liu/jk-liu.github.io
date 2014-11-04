@@ -1,0 +1,177 @@
+{
+  "meta":{
+    "requests":2533,
+    "timestamp":1415081579,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3452,
+      "subject":"DAC",
+      "catalog_number":"202",
+      "title":"Designing Digital Video",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Askes,Andrew Martin",
+        "Lucas,Jonathon"
+      ],
+      "building":"ECH",
+      "room":"1205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:40-05:00"
+    },
+    {
+      "class_number":7803,
+      "subject":"DAC",
+      "catalog_number":"308",
+      "title":"Cinematic Art and Practice",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Askes,Andrew Martin",
+        "Lucas,Jonathon"
+      ],
+      "building":"ECH",
+      "room":"1205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:40-05:00"
+    },
+    {
+      "class_number":3225,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Dolmage,Jay Timothy"
+      ],
+      "building":"ECH",
+      "room":"1205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":3451,
+      "subject":"ENGL",
+      "catalog_number":"204",
+      "title":"Designing Digital Video",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Askes,Andrew Martin",
+        "Lucas,Jonathon"
+      ],
+      "building":"ECH",
+      "room":"1205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:07-05:00"
+    },
+    {
+      "class_number":3575,
+      "subject":"ENGL",
+      "catalog_number":"392A",
+      "title":"Information Design",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"16:00",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Randall,Neil"
+      ],
+      "building":"ECH",
+      "room":"1205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:11-05:00"
+    },
+    {
+      "class_number":7841,
+      "subject":"ENGL",
+      "catalog_number":"408C",
+      "title":"The Rhetoric of Digital Design: Theory and Practice",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"16:00",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "O'Gorman,Marcel"
+      ],
+      "building":"ECH",
+      "room":"1205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:11-05:00"
+    },
+    {
+      "class_number":8038,
+      "subject":"FINE",
+      "catalog_number":"204",
+      "title":"Topics in Studio Practice",
+      "section":"STU 001",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Thompson,Jessica"
+      ],
+      "building":"ECH",
+      "room":"1205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:19-05:00"
+    },
+    {
+      "class_number":4325,
+      "subject":"FINE",
+      "catalog_number":"229",
+      "title":"Hybrid Digital Media",
+      "section":"STU 001",
+      "weekdays":"MW",
+      "start_time":"09:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Andison,Lois"
+      ],
+      "building":"ECH",
+      "room":"1205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:20-05:00"
+    }
+  ]
+}

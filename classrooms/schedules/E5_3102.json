@@ -1,0 +1,575 @@
+{
+  "meta":{
+    "requests":2519,
+    "timestamp":1415081575,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4580,
+      "subject":"ME",
+      "catalog_number":"203",
+      "title":"Ordinary Differential Equations",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4582,
+      "subject":"ME",
+      "catalog_number":"203",
+      "title":"Ordinary Differential Equations",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4446,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"TUT 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":62,
+      "instructors":[
+        
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4447,
+      "subject":"ME",
+      "catalog_number":"300B",
+      "title":"Seminar",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":110,
+      "instructors":[
+        
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4447,
+      "subject":"ME",
+      "catalog_number":"300B",
+      "title":"Seminar",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":110,
+      "instructors":[
+        
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4448,
+      "subject":"ME",
+      "catalog_number":"322",
+      "title":"Mechanical Design 1",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        "Ghavam,Kamyar"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4448,
+      "subject":"ME",
+      "catalog_number":"322",
+      "title":"Mechanical Design 1",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        "Ghavam,Kamyar"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4451,
+      "subject":"ME",
+      "catalog_number":"353",
+      "title":"Heat Transfer 1",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        "Li,Xianguo"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4451,
+      "subject":"ME",
+      "catalog_number":"353",
+      "title":"Heat Transfer 1",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        "Li,Xianguo"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4453,
+      "subject":"ME",
+      "catalog_number":"353",
+      "title":"Heat Transfer 1",
+      "section":"TUT 201",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4454,
+      "subject":"ME",
+      "catalog_number":"353",
+      "title":"Heat Transfer 1",
+      "section":"TUT 202",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4455,
+      "subject":"ME",
+      "catalog_number":"360",
+      "title":"Introduction to Control Systems",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":123,
+      "instructors":[
+        "Jeon,Soo"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4455,
+      "subject":"ME",
+      "catalog_number":"360",
+      "title":"Introduction to Control Systems",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":123,
+      "instructors":[
+        "Jeon,Soo"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4459,
+      "subject":"ME",
+      "catalog_number":"362",
+      "title":"Fluid Mechanics 2",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Yarusevych,Serhiy"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4459,
+      "subject":"ME",
+      "catalog_number":"362",
+      "title":"Fluid Mechanics 2",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Yarusevych,Serhiy"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4461,
+      "subject":"ME",
+      "catalog_number":"362",
+      "title":"Fluid Mechanics 2",
+      "section":"TUT 201",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4462,
+      "subject":"ME",
+      "catalog_number":"362",
+      "title":"Fluid Mechanics 2",
+      "section":"TUT 202",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4596,
+      "subject":"ME",
+      "catalog_number":"380",
+      "title":"Mechanical Engineering Design Workshop",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":121,
+      "instructors":[
+        "Nespoli,Oscar Gabriel"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4597,
+      "subject":"ME",
+      "catalog_number":"380",
+      "title":"Mechanical Engineering Design Workshop",
+      "section":"PRJ 101",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":121,
+      "instructors":[
+        "Nespoli,Oscar Gabriel"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4597,
+      "subject":"ME",
+      "catalog_number":"380",
+      "title":"Mechanical Engineering Design Workshop",
+      "section":"PRJ 101",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":121,
+      "instructors":[
+        "Nespoli,Oscar Gabriel"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4722,
+      "subject":"MTE",
+      "catalog_number":"204",
+      "title":"Numerical Methods",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":58,
+      "instructors":[
+        
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4731,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":66,
+      "instructors":[
+        
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5121,
+      "subject":"MTE",
+      "catalog_number":"420",
+      "title":"Power Electronics and Motor Drives",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Kazerani,Mehrdad"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5125,
+      "subject":"MTE",
+      "catalog_number":"460",
+      "title":"Mechatronic System Integration",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Kulic,Dana"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5001,
+      "subject":"MTE",
+      "catalog_number":"481",
+      "title":"Mechatronics Engineering Design Project",
+      "section":"PRJ 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":109,
+      "instructors":[
+        "Bedi,Sanjeev",
+        "Khamesee,Behrad"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4935,
+      "subject":"ME",
+      "catalog_number":"753",
+      "title":"Solar Energy",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Collins,Michael"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:48-05:00"
+    },
+    {
+      "class_number":4829,
+      "subject":"ME",
+      "catalog_number":"760",
+      "title":"Special Topics in Thermal Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Fraser,Roydon A"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:48-05:00"
+    },
+    {
+      "class_number":4938,
+      "subject":"ME",
+      "catalog_number":"765",
+      "title":"Special Topics in Fluid Mechanics",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Johnson,David A"
+      ],
+      "building":"E5",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:48-05:00"
+    }
+  ]
+}

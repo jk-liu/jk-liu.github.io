@@ -1,0 +1,374 @@
+{
+  "meta":{
+    "requests":2720,
+    "timestamp":1415081636,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4484,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":6656,
+      "subject":"CHEM",
+      "catalog_number":"432",
+      "title":"Metabolism 2",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Palmer,Michael"
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:23-05:00"
+    },
+    {
+      "class_number":4983,
+      "subject":"ECE",
+      "catalog_number":"105",
+      "title":"Physics of Electrical Engineering 1",
+      "section":"TUT 109",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":4514,
+      "subject":"ENVE",
+      "catalog_number":"214",
+      "title":"Fluid Mechanics and Thermal Sciences",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Brush,David J"
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:12-05:00"
+    },
+    {
+      "class_number":4518,
+      "subject":"ENVE",
+      "catalog_number":"223",
+      "title":"Differential Equations",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Rothenburg,Leo"
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:12-05:00"
+    },
+    {
+      "class_number":4521,
+      "subject":"ENVE",
+      "catalog_number":"472",
+      "title":"Wastewater Treatment",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Parker,Wayne Jeffery"
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:13-05:00"
+    },
+    {
+      "class_number":4643,
+      "subject":"ENVE",
+      "catalog_number":"498",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        "Craig,James R."
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:13-05:00"
+    },
+    {
+      "class_number":4526,
+      "subject":"GEOE",
+      "catalog_number":"498",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Craig,James R."
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:30-05:00"
+    },
+    {
+      "class_number":7767,
+      "subject":"HIST",
+      "catalog_number":"340",
+      "title":"A Social History of Europe: 1789-1914",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Harrigan,Patrick J"
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":5659,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5848,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 111",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":55,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":4622,
+      "subject":"MSCI",
+      "catalog_number":"311",
+      "title":"Organizational Design and Technology",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Iroko,Toluwanimi"
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4623,
+      "subject":"MSCI",
+      "catalog_number":"311",
+      "title":"Organizational Design and Technology",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Kaur,Gulsheen"
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4627,
+      "subject":"MSCI",
+      "catalog_number":"331",
+      "title":"Introduction to Optimization",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Cai,Qishu"
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":8000,
+      "subject":"PHIL",
+      "catalog_number":"324",
+      "title":"Social and Political Philosophy",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Lowry,Christopher"
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:48-05:00"
+    },
+    {
+      "class_number":6700,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"TUT 105",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6706,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"TUT 111",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":5303,
+      "subject":"GEOG",
+      "catalog_number":"691",
+      "title":"Graduate Student and Faculty Seminar in Geography",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Nepal,Sanjay"
+      ],
+      "building":"RCH",
+      "room":"308",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:33-05:00"
+    }
+  ]
+}

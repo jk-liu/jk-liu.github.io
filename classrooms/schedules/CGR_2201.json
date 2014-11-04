@@ -1,0 +1,154 @@
+{
+  "meta":{
+    "requests":2458,
+    "timestamp":1415081555,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7645,
+      "subject":"PACS",
+      "catalog_number":"603",
+      "title":"Building Civil Society",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Ewert,Lowell"
+      ],
+      "building":"CGR",
+      "room":"2201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:51-05:00"
+    },
+    {
+      "class_number":3930,
+      "subject":"PACS",
+      "catalog_number":"604",
+      "title":"Conflict Analysis",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Wallace,Rick"
+      ],
+      "building":"CGR",
+      "room":"2201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:52-05:00"
+    },
+    {
+      "class_number":8423,
+      "subject":"PACS",
+      "catalog_number":"620",
+      "title":"Special Topics in Peace and Conflict Studies",
+      "section":"SEM 002",
+      "weekdays":"T",
+      "start_time":"18:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Schultz Huxman,Susan"
+      ],
+      "building":"CGR",
+      "room":"2201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:52-05:00"
+    },
+    {
+      "class_number":7635,
+      "subject":"TS",
+      "catalog_number":"600",
+      "title":"Thinking Theologically",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Bergen,Jeremy"
+      ],
+      "building":"CGR",
+      "room":"2201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:18-05:00"
+    },
+    {
+      "class_number":7636,
+      "subject":"TS",
+      "catalog_number":"610",
+      "title":"Reading and Teaching the Old Testament",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Suderman,Derek"
+      ],
+      "building":"CGR",
+      "room":"2201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:19-05:00"
+    },
+    {
+      "class_number":7642,
+      "subject":"TS",
+      "catalog_number":"684",
+      "title":"Pastoral Care",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Mellinger,Marianne"
+      ],
+      "building":"CGR",
+      "room":"2201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:19-05:00"
+    },
+    {
+      "class_number":7644,
+      "subject":"TS",
+      "catalog_number":"718",
+      "title":"Special Topics in New Testament Exegesis",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Batten,Alicia"
+      ],
+      "building":"CGR",
+      "room":"2201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:19-05:00"
+    }
+  ]
+}

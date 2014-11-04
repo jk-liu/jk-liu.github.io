@@ -1,0 +1,714 @@
+{
+  "meta":{
+    "requests":2625,
+    "timestamp":1415081607,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7136,
+      "subject":"BIOL",
+      "catalog_number":"458",
+      "title":"Quantitative Ecology",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Cuddington,Kim"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":5010,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 134",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":7794,
+      "subject":"CHEM",
+      "catalog_number":"100",
+      "title":"Introduction to Chemical Sciences",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Forsey,Steven Philip"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":8023,
+      "subject":"CHEM",
+      "catalog_number":"310",
+      "title":"Transition Element Compounds and Inorganic Materials",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Nazar,Linda F"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6077,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":6079,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 104",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":7584,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 105",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":8366,
+      "subject":"CS",
+      "catalog_number":"135",
+      "title":"Designing Functional Programs",
+      "section":"TUT 114",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":55,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":7585,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"TUT 104",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":6197,
+      "subject":"CS",
+      "catalog_number":"230",
+      "title":"Introduction to Computers and Computer Systems",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":6198,
+      "subject":"CS",
+      "catalog_number":"230",
+      "title":"Introduction to Computers and Computer Systems",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":6200,
+      "subject":"CS",
+      "catalog_number":"240",
+      "title":"Data Structures and Data Management",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":6201,
+      "subject":"CS",
+      "catalog_number":"240",
+      "title":"Data Structures and Data Management",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":5885,
+      "subject":"CS",
+      "catalog_number":"245",
+      "title":"Logic and Computation",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:37-05:00"
+    },
+    {
+      "class_number":5748,
+      "subject":"CS",
+      "catalog_number":"246",
+      "title":"Object-Oriented Software Development",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:37-05:00"
+    },
+    {
+      "class_number":6281,
+      "subject":"CS",
+      "catalog_number":"246",
+      "title":"Object-Oriented Software Development",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:37-05:00"
+    },
+    {
+      "class_number":5657,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"TUT 103",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5666,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"TUT 112",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":55,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5670,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"TUT 116",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5840,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":6101,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 114",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":8169,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 118",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5789,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 106",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5883,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 108",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":6192,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 115",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":7748,
+      "subject":"MATH",
+      "catalog_number":"137",
+      "title":"Calculus 1 for Honours Mathematics",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":4589,
+      "subject":"ME",
+      "catalog_number":"220",
+      "title":"Mechanics of Deformable Solids 2",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Bardelcik,Alexander"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4590,
+      "subject":"ME",
+      "catalog_number":"220",
+      "title":"Mechanics of Deformable Solids 2",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Bardelcik,Alexander"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4929,
+      "subject":"NE",
+      "catalog_number":"471",
+      "title":"Physics, Technology, and Applications of Nanoelectronics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":38,
+      "instructors":[
+        "Wasilewski,Zbigniew"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4929,
+      "subject":"NE",
+      "catalog_number":"471",
+      "title":"Physics, Technology, and Applications of Nanoelectronics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":38,
+      "instructors":[
+        "Wasilewski,Zbigniew"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4929,
+      "subject":"NE",
+      "catalog_number":"471",
+      "title":"Physics, Technology, and Applications of Nanoelectronics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":38,
+      "instructors":[
+        "Wasilewski,Zbigniew"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4929,
+      "subject":"NE",
+      "catalog_number":"471",
+      "title":"Physics, Technology, and Applications of Nanoelectronics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":38,
+      "instructors":[
+        "Wasilewski,Zbigniew"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4929,
+      "subject":"NE",
+      "catalog_number":"471",
+      "title":"Physics, Technology, and Applications of Nanoelectronics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":38,
+      "instructors":[
+        "Wasilewski,Zbigniew"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4929,
+      "subject":"NE",
+      "catalog_number":"471",
+      "title":"Physics, Technology, and Applications of Nanoelectronics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":38,
+      "instructors":[
+        "Wasilewski,Zbigniew"
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":6708,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"TUT 113",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4040",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    }
+  ]
+}

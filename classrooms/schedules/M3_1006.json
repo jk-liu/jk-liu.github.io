@@ -1,0 +1,575 @@
+{
+  "meta":{
+    "requests":2606,
+    "timestamp":1415081602,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6749,
+      "subject":"BIOL",
+      "catalog_number":"110",
+      "title":"Introductory Zoology",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":274,
+      "instructors":[
+        "Pinheiro,Marcel Diniz Oliveira"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6855,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":357,
+      "instructors":[
+        "Holyoak,Todd",
+        "Engelhardt,Heidi"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6818,
+      "subject":"BIOL",
+      "catalog_number":"240",
+      "title":"Fundamentals of Microbiology",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":386,
+      "instructors":[
+        "Neufeld,Josh D"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6819,
+      "subject":"BIOL",
+      "catalog_number":"240",
+      "title":"Fundamentals of Microbiology",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":405,
+      "instructors":[
+        "Neufeld,Josh D"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6570,
+      "subject":"BIOL",
+      "catalog_number":"303",
+      "title":"Introductory Developmental Biology and Embryology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":267,
+      "instructors":[
+        "Reed,Bruce"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6920,
+      "subject":"BIOL",
+      "catalog_number":"308",
+      "title":"Principles of Molecular Biology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":359,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":7085,
+      "subject":"BIOL",
+      "catalog_number":"355",
+      "title":"Biology of Human Aging",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":272,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7085,
+      "subject":"BIOL",
+      "catalog_number":"355",
+      "title":"Biology of Human Aging",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":272,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6640,
+      "subject":"CHEM",
+      "catalog_number":"266",
+      "title":"Basic Organic Chemistry 1",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":398,
+      "instructors":[
+        "Goll,Julie Maria"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6641,
+      "subject":"CHEM",
+      "catalog_number":"266",
+      "title":"Basic Organic Chemistry 1",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":379,
+      "instructors":[
+        "Forsey,Steven Philip"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":7703,
+      "subject":"CLAS",
+      "catalog_number":"202",
+      "title":"Ancient Roman Society",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":353,
+      "instructors":[
+        "Hutter,Daniel E"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:28-05:00"
+    },
+    {
+      "class_number":4281,
+      "subject":"ECON",
+      "catalog_number":"101",
+      "title":"Introduction to Microeconomics",
+      "section":"LEC 008",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":161,
+      "instructors":[
+        "He,Zhen"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:55-05:00"
+    },
+    {
+      "class_number":5258,
+      "subject":"GEOG",
+      "catalog_number":"101",
+      "title":"Geography and Human Habitat",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":366,
+      "instructors":[
+        "Doberstein,Brent"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:31-05:00"
+    },
+    {
+      "class_number":3061,
+      "subject":"GERON",
+      "catalog_number":"355",
+      "title":"Biology of Human Aging",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:37-05:00"
+    },
+    {
+      "class_number":3061,
+      "subject":"GERON",
+      "catalog_number":"355",
+      "title":"Biology of Human Aging",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:37-05:00"
+    },
+    {
+      "class_number":2794,
+      "subject":"HLTH",
+      "catalog_number":"101",
+      "title":"Introduction to Health 1",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":200,
+      "instructors":[
+        "Williams,Diane"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:44-05:00"
+    },
+    {
+      "class_number":2991,
+      "subject":"HLTH",
+      "catalog_number":"101",
+      "title":"Introduction to Health 1",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":150,
+      "instructors":[
+        "Williams,Diane"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:44-05:00"
+    },
+    {
+      "class_number":2968,
+      "subject":"HLTH",
+      "catalog_number":"346",
+      "title":"Human Nutrition",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":142,
+      "instructors":[
+        "Hanning,Rhona"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:45-05:00"
+    },
+    {
+      "class_number":2802,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":262,
+      "instructors":[
+        "McIlroy,William"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2988,
+      "subject":"KIN",
+      "catalog_number":"217",
+      "title":"Human Biochemistry",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":356,
+      "instructors":[
+        "Vesely,Monica J."
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2969,
+      "subject":"KIN",
+      "catalog_number":"346",
+      "title":"Human Nutrition",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":206,
+      "instructors":[
+        "Hanning,Rhona"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":5833,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":126,
+      "instructors":[
+        "Alwan,Mohamad S."
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":6016,
+      "subject":"MATH",
+      "catalog_number":"124",
+      "title":"Calculus and Vector Algebra for Kinesiology",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"19:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":210,
+      "instructors":[
+        
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":8317,
+      "subject":"MTHEL",
+      "catalog_number":"131",
+      "title":"Introduction to Actuarial Practice",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":177,
+      "instructors":[
+        "Kohler,David"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:24-05:00"
+    },
+    {
+      "class_number":5727,
+      "subject":"STAT",
+      "catalog_number":"202",
+      "title":"Introductory Statistics for Scientists",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":305,
+      "instructors":[
+        "Dawoud,Dina"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:42-05:00"
+    },
+    {
+      "class_number":5749,
+      "subject":"STAT",
+      "catalog_number":"230",
+      "title":"Probability",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":386,
+      "instructors":[
+        "Drekic,Steve"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:43-05:00"
+    },
+    {
+      "class_number":5750,
+      "subject":"STAT",
+      "catalog_number":"230",
+      "title":"Probability",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":381,
+      "instructors":[
+        "Wu,Changbao"
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:43-05:00"
+    },
+    {
+      "class_number":5738,
+      "subject":"STAT",
+      "catalog_number":"333",
+      "title":"Applied Probability",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":217,
+      "instructors":[
+        
+      ],
+      "building":"M3",
+      "room":"1006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:43-05:00"
+    }
+  ]
+}

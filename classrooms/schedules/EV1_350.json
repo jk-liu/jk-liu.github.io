@@ -1,0 +1,314 @@
+{
+  "meta":{
+    "requests":2562,
+    "timestamp":1415081588,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7879,
+      "subject":"AFM",
+      "catalog_number":"411",
+      "title":"Connections Across Competencies for Accounting Professionals",
+      "section":"SEM 101",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Vert,David"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:21-05:00"
+    },
+    {
+      "class_number":7880,
+      "subject":"AFM",
+      "catalog_number":"411",
+      "title":"Connections Across Competencies for Accounting Professionals",
+      "section":"SEM 102",
+      "weekdays":"T",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Vert,David"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:21-05:00"
+    },
+    {
+      "class_number":7883,
+      "subject":"AFM",
+      "catalog_number":"411",
+      "title":"Connections Across Competencies for Accounting Professionals",
+      "section":"SEM 105",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Vert,David"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:21-05:00"
+    },
+    {
+      "class_number":7884,
+      "subject":"AFM",
+      "catalog_number":"411",
+      "title":"Connections Across Competencies for Accounting Professionals",
+      "section":"SEM 106",
+      "weekdays":"Th",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Vert,David"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:21-05:00"
+    },
+    {
+      "class_number":8110,
+      "subject":"AVIA",
+      "catalog_number":"203",
+      "title":"Professional Pilot Program Course III",
+      "section":"FLT 001",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "McKenzie,Ian"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:48-05:00"
+    },
+    {
+      "class_number":8314,
+      "subject":"ENBUS",
+      "catalog_number":"306",
+      "title":"Research Design",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:02-05:00"
+    },
+    {
+      "class_number":5278,
+      "subject":"ENVS",
+      "catalog_number":"201",
+      "title":"Introduction to Canadian Environmental Law",
+      "section":"SEM 103",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Craik,Alastair Neil"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":5281,
+      "subject":"ENVS",
+      "catalog_number":"201",
+      "title":"Introduction to Canadian Environmental Law",
+      "section":"SEM 106",
+      "weekdays":"T",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Craik,Alastair Neil"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":3112,
+      "subject":"FR",
+      "catalog_number":"251",
+      "title":"French Language 2: Module 1",
+      "section":"LEC 002",
+      "weekdays":"TThF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Lepage,Elise"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:25-05:00"
+    },
+    {
+      "class_number":5347,
+      "subject":"GEOG",
+      "catalog_number":"303",
+      "title":"Physical Hydrology",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Price,Jonathan"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:33-05:00"
+    },
+    {
+      "class_number":3124,
+      "subject":"GER",
+      "catalog_number":"201",
+      "title":"Intermediate German I",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Scholz,Kyle William"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:35-05:00"
+    },
+    {
+      "class_number":4280,
+      "subject":"LS",
+      "catalog_number":"322",
+      "title":"Introduction to Field Research Methods",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Mainwaring,Cetta"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:07-05:00"
+    },
+    {
+      "class_number":5724,
+      "subject":"MATH",
+      "catalog_number":"245",
+      "title":"Linear Algebra 2 (Advanced Level)",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Godsil,Christopher D"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:14-05:00"
+    },
+    {
+      "class_number":4279,
+      "subject":"SOC",
+      "catalog_number":"322",
+      "title":"Introduction to Field Research Methods",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Mainwaring,Cetta"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:34-05:00"
+    },
+    {
+      "class_number":3154,
+      "subject":"SPCOM",
+      "catalog_number":"324",
+      "title":"Small Group Communication",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Hartling,Shannon Lee"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:41-05:00"
+    }
+  ]
+}

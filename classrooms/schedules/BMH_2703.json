@@ -1,0 +1,194 @@
+{
+  "meta":{
+    "requests":2445,
+    "timestamp":1415081551,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8182,
+      "subject":"HLTH",
+      "catalog_number":"448",
+      "title":"Advanced Studies in Social Determinants of Health",
+      "section":"SEM 001",
+      "weekdays":"MTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Anthony,Kelly"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:46-05:00"
+    },
+    {
+      "class_number":3056,
+      "subject":"KIN",
+      "catalog_number":"320",
+      "title":"Task Analysis",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Wells,Richard P"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3027,
+      "subject":"REC",
+      "catalog_number":"101",
+      "title":"Introduction to Recreation and Leisure Services",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Copeland,Robert Paul"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":3028,
+      "subject":"REC",
+      "catalog_number":"101",
+      "title":"Introduction to Recreation and Leisure Services",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Copeland,Robert Paul"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":3030,
+      "subject":"REC",
+      "catalog_number":"101",
+      "title":"Introduction to Recreation and Leisure Services",
+      "section":"TUT 104",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Copeland,Robert Paul"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":3032,
+      "subject":"REC",
+      "catalog_number":"101",
+      "title":"Introduction to Recreation and Leisure Services",
+      "section":"TUT 106",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Copeland,Robert Paul"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":3047,
+      "subject":"REC",
+      "catalog_number":"101",
+      "title":"Introduction to Recreation and Leisure Services",
+      "section":"TUT 112",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Copeland,Robert Paul"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":7910,
+      "subject":"REC",
+      "catalog_number":"700",
+      "title":"Foundations of Knowledge in Leisure Studies",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Berbary,Lisbeth"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:10-05:00"
+    },
+    {
+      "class_number":7910,
+      "subject":"REC",
+      "catalog_number":"700",
+      "title":"Foundations of Knowledge in Leisure Studies",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Berbary,Lisbeth"
+      ],
+      "building":"BMH",
+      "room":"2703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:10-05:00"
+    }
+  ]
+}

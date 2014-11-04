@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":2608,
+    "timestamp":1415081602,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8213,
+      "subject":"ACTSC",
+      "catalog_number":"991",
+      "title":"Topics in Actuarial Science",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Cai,Jun"
+      ],
+      "building":"M3",
+      "room":"3103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:59-05:00"
+    },
+    {
+      "class_number":5805,
+      "subject":"STAT",
+      "catalog_number":"901",
+      "title":"Theory of Probability 1",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "McLeish,Donald L"
+      ],
+      "building":"M3",
+      "room":"3103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:13-05:00"
+    },
+    {
+      "class_number":5806,
+      "subject":"STAT",
+      "catalog_number":"906",
+      "title":"Computer Intensive Methods for Stochastic Models in Finance",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Kolkiewicz,Adam A"
+      ],
+      "building":"M3",
+      "room":"3103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:13-05:00"
+    },
+    {
+      "class_number":6274,
+      "subject":"STAT",
+      "catalog_number":"932",
+      "title":"Statistical Methods for the Design and Analysis of Randomized Intervention Trials",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Dubin,Joel"
+      ],
+      "building":"M3",
+      "room":"3103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:14-05:00"
+    }
+  ]
+}

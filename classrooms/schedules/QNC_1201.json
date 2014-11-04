@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":2690,
+    "timestamp":1415081626,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8332,
+      "subject":"CS",
+      "catalog_number":"867",
+      "title":"Advanced Topics in Quantum Computing",
+      "section":"SEM 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Watrous,John"
+      ],
+      "building":"QNC",
+      "room":"1201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:15-05:00"
+    },
+    {
+      "class_number":8331,
+      "subject":"QIC",
+      "catalog_number":"890",
+      "title":"Topics in Quantum Information",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Watrous,John"
+      ],
+      "building":"QNC",
+      "room":"1201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:09-05:00"
+    }
+  ]
+}

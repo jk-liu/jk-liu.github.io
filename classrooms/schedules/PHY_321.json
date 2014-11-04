@@ -1,0 +1,414 @@
+{
+  "meta":{
+    "requests":2688,
+    "timestamp":1415081626,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7079,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":24,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7079,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":24,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7079,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":24,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7079,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":24,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7079,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":24,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7080,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7080,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7080,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7080,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/05",
+      "end_date":"12\/01",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7080,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7081,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 003",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/25",
+      "end_date":"09\/25",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7081,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 003",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/09",
+      "end_date":"10\/09",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7081,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 003",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7081,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 003",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/06",
+      "end_date":"11\/06",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":7081,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 003",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":8463,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 004",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/26",
+      "end_date":"09\/26",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":8463,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 004",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/10",
+      "end_date":"10\/10",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":8463,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 004",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/24",
+      "end_date":"10\/24",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":8463,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 004",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/07",
+      "end_date":"11\/07",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    },
+    {
+      "class_number":8463,
+      "subject":"PHYS",
+      "catalog_number":"256L",
+      "title":"Optics Laboratory",
+      "section":"LAB 004",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/21",
+      "end_date":"11\/21",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"321",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:54-05:00"
+    }
+  ]
+}

@@ -1,0 +1,914 @@
+{
+  "meta":{
+    "requests":2665,
+    "timestamp":1415081619,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5267,
+      "subject":"ERS",
+      "catalog_number":"110",
+      "title":"Environmental Analysis and Solutions I: Foundations",
+      "section":"TUT 104",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:15-05:00"
+    },
+    {
+      "class_number":5440,
+      "subject":"ERS",
+      "catalog_number":"110",
+      "title":"Environmental Analysis and Solutions I: Foundations",
+      "section":"TUT 106",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:15-05:00"
+    },
+    {
+      "class_number":5465,
+      "subject":"ERS",
+      "catalog_number":"311",
+      "title":"Environmental Research Project I: Systems Thinking for Interdisciplinary Research",
+      "section":"TUT 105",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":5502,
+      "subject":"ERS",
+      "catalog_number":"370",
+      "title":"Corporate Sustainability: Issues and Prospects",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Rowlands,Ian H"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":5503,
+      "subject":"ERS",
+      "catalog_number":"370",
+      "title":"Corporate Sustainability: Issues and Prospects",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Rowlands,Ian H"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":5441,
+      "subject":"ERS",
+      "catalog_number":"411A",
+      "title":"Environmental Research Project II",
+      "section":"PRJ 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Courtenay,Simon"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":5459,
+      "subject":"ERS",
+      "catalog_number":"412A",
+      "title":"Environmental Research Project II",
+      "section":"PRJ 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Courtenay,Simon"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:17-05:00"
+    },
+    {
+      "class_number":3260,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"ORL 103",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3261,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"ORL 104",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3264,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"ORL 107",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3265,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"ORL 108",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3286,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"ORL 109",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3819,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"ORL 106",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3820,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"ORL 107",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3246,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 101",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":14,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3246,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 101",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":14,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3246,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 101",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":14,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3246,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 101",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":14,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3246,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 101",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":14,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3247,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 102",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":3,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3247,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 102",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/13",
+      "end_date":"10\/13",
+      "enrollment_total":3,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3247,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 102",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":3,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3247,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 102",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":3,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3247,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 102",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":3,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3248,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 103",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":3,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3248,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 103",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":3,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3248,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 103",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":3,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3248,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 103",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":3,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3248,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 103",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":3,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3249,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 104",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":4,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3249,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 104",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"10\/13",
+      "end_date":"10\/13",
+      "enrollment_total":4,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3249,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 104",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":4,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3249,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 104",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":4,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":3249,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"DIS 104",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":4,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":7759,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 104",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":14,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7759,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 104",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":14,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7759,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 104",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":14,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7759,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 104",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":14,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":7759,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"DIS 104",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":14,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":4189,
+      "subject":"SOC",
+      "catalog_number":"354",
+      "title":"Comparative Health Care Systems",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Dong,Weizhen"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:34-05:00"
+    },
+    {
+      "class_number":7698,
+      "subject":"SOC",
+      "catalog_number":"420",
+      "title":"Seminar in Social Inequality",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Fleras,Augie"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:35-05:00"
+    },
+    {
+      "class_number":3505,
+      "subject":"ANTH",
+      "catalog_number":"608",
+      "title":"Anthropological Theory",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Liu,Jennifer"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:01-05:00"
+    },
+    {
+      "class_number":7819,
+      "subject":"ENGL",
+      "catalog_number":"705",
+      "title":"Studies in Old and Middle English Literature",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Tolmie,Sarah"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:26-05:00"
+    },
+    {
+      "class_number":7850,
+      "subject":"FR",
+      "catalog_number":"611",
+      "title":"Old French Language & Literature",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Abd-Elrazak,Loula"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:30-05:00"
+    },
+    {
+      "class_number":3968,
+      "subject":"SOC",
+      "catalog_number":"712",
+      "title":"Elements of Social Research",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Schulenberg,Jennifer Lina"
+      ],
+      "building":"PAS",
+      "room":"2085",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:11-05:00"
+    }
+  ]
+}

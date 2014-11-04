@@ -1,0 +1,334 @@
+{
+  "meta":{
+    "requests":2748,
+    "timestamp":1415081644,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3710,
+      "subject":"DRAMA",
+      "catalog_number":"386",
+      "title":"Shakespeare 1",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Kolentsis,Alysia Michelle"
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:42-05:00"
+    },
+    {
+      "class_number":8304,
+      "subject":"ENGL",
+      "catalog_number":"101A",
+      "title":"Introduction to Literary Studies",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Hadfield,Dorothy A."
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:05-05:00"
+    },
+    {
+      "class_number":3685,
+      "subject":"ENGL",
+      "catalog_number":"101A",
+      "title":"Introduction to Literary Studies",
+      "section":"LEC 002",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Austen,Veronica Jane"
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:05-05:00"
+    },
+    {
+      "class_number":3593,
+      "subject":"ENGL",
+      "catalog_number":"108E",
+      "title":"Women in Literature",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Acton,Carol"
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":3571,
+      "subject":"ENGL",
+      "catalog_number":"108F",
+      "title":"The Rebel",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Kolentsis,Alysia Michelle"
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":3419,
+      "subject":"ENGL",
+      "catalog_number":"251A",
+      "title":"Criticism 1",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Klassen,Norman John"
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:08-05:00"
+    },
+    {
+      "class_number":3901,
+      "subject":"ENGL",
+      "catalog_number":"301H",
+      "title":"Honours Literary Studies",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Klassen,Norman John"
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:09-05:00"
+    },
+    {
+      "class_number":3902,
+      "subject":"ENGL",
+      "catalog_number":"310A",
+      "title":"Chaucer 1",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Klassen,Norman John"
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:10-05:00"
+    },
+    {
+      "class_number":3691,
+      "subject":"ENGL",
+      "catalog_number":"362",
+      "title":"Shakespeare 1",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Kolentsis,Alysia Michelle"
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:11-05:00"
+    },
+    {
+      "class_number":7663,
+      "subject":"FR",
+      "catalog_number":"373",
+      "title":"Languages in Contact: The History of French-English Bilingualism",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Lappin-Fortin,Kerry"
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:26-05:00"
+    },
+    {
+      "class_number":7714,
+      "subject":"PSYCH",
+      "catalog_number":"231",
+      "title":"The Psychology of Religious Experience",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        "Burris,Christopher"
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:07-05:00"
+    },
+    {
+      "class_number":7235,
+      "subject":"SMF",
+      "catalog_number":"208",
+      "title":"Introduction to Couple, Family, and Sex Therapy",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "De Santis,Carmela"
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:31-05:00"
+    },
+    {
+      "class_number":3361,
+      "subject":"SOC",
+      "catalog_number":"101",
+      "title":"Introduction to Sociology",
+      "section":"LEC 003",
+      "weekdays":"MTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Bonner,Kieran M."
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:32-05:00"
+    },
+    {
+      "class_number":3625,
+      "subject":"SOC",
+      "catalog_number":"327",
+      "title":"Policing in a Democratic Society",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Desroches,Frederick J"
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:34-05:00"
+    },
+    {
+      "class_number":7737,
+      "subject":"SOC",
+      "catalog_number":"355J",
+      "title":"Power and Parenting",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Bonner,Kieran M."
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:34-05:00"
+    },
+    {
+      "class_number":3592,
+      "subject":"WS",
+      "catalog_number":"108E",
+      "title":"Women in Literature",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Acton,Carol"
+      ],
+      "building":"STJ",
+      "room":"3027",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:55-05:00"
+    }
+  ]
+}

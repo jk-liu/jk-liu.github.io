@@ -1,0 +1,134 @@
+{
+  "meta":{
+    "requests":2711,
+    "timestamp":1415081633,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8337,
+      "subject":"BASE",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 004",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":8338,
+      "subject":"BASE",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 005",
+      "weekdays":"W",
+      "start_time":"11:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":8252,
+      "subject":"BASE",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":8252,
+      "subject":"BASE",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":8256,
+      "subject":"BASE",
+      "catalog_number":"36",
+      "title":"Oral Skills",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"14:00",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":8496,
+      "subject":"PLAN",
+      "catalog_number":"704",
+      "title":"Methods of Planning Analysis",
+      "section":"SEM 002",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/08",
+      "end_date":"11\/21",
+      "enrollment_total":25,
+      "instructors":[
+        "Lewis,John L."
+      ],
+      "building":"RCH",
+      "room":"208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:00-05:00"
+    }
+  ]
+}

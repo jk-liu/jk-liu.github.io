@@ -1,0 +1,294 @@
+{
+  "meta":{
+    "requests":2624,
+    "timestamp":1415081607,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5915,
+      "subject":"CS",
+      "catalog_number":"135",
+      "title":"Designing Functional Programs",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        "Tompkins,Dave"
+      ],
+      "building":"MC",
+      "room":"4021",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":5986,
+      "subject":"CS",
+      "catalog_number":"135",
+      "title":"Designing Functional Programs",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Tompkins,Dave"
+      ],
+      "building":"MC",
+      "room":"4021",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":5704,
+      "subject":"CS",
+      "catalog_number":"200",
+      "title":"Concepts for Advanced Computer Usage",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Daly,Barbara"
+      ],
+      "building":"MC",
+      "room":"4021",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":8153,
+      "subject":"ECON",
+      "catalog_number":"254",
+      "title":"Economics of Sport",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":115,
+      "instructors":[
+        "Curry,Philip A"
+      ],
+      "building":"MC",
+      "room":"4021",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:57-05:00"
+    },
+    {
+      "class_number":3058,
+      "subject":"KIN",
+      "catalog_number":"406",
+      "title":"Physiology of Muscle Aging and Disease",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":118,
+      "instructors":[
+        "Quadrilatero,Joe"
+      ],
+      "building":"MC",
+      "room":"4021",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:03-05:00"
+    },
+    {
+      "class_number":6298,
+      "subject":"MATH",
+      "catalog_number":"127",
+      "title":"Calculus 1 for the Sciences",
+      "section":"LEC 010",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Wang,Zhen"
+      ],
+      "building":"MC",
+      "room":"4021",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":7773,
+      "subject":"MATH",
+      "catalog_number":"136",
+      "title":"Linear Algebra 1 for Honours Mathematics",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":99,
+      "instructors":[
+        "Rosen,Julian"
+      ],
+      "building":"MC",
+      "room":"4021",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":5971,
+      "subject":"MATH",
+      "catalog_number":"136",
+      "title":"Linear Algebra 1 for Honours Mathematics",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4021",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":5621,
+      "subject":"MATH",
+      "catalog_number":"237",
+      "title":"Calculus 3 for Honours Mathematics",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":112,
+      "instructors":[
+        "Vass,Jozsef"
+      ],
+      "building":"MC",
+      "room":"4021",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:13-05:00"
+    },
+    {
+      "class_number":5624,
+      "subject":"MATH",
+      "catalog_number":"239",
+      "title":"Introduction to Combinatorics",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":102,
+      "instructors":[
+        "Gao,Pu"
+      ],
+      "building":"MC",
+      "room":"4021",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:13-05:00"
+    },
+    {
+      "class_number":6286,
+      "subject":"MATH",
+      "catalog_number":"239",
+      "title":"Introduction to Combinatorics",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        "Pei,Martin"
+      ],
+      "building":"MC",
+      "room":"4021",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:13-05:00"
+    },
+    {
+      "class_number":6188,
+      "subject":"STAT",
+      "catalog_number":"330",
+      "title":"Mathematical Statistics",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":122,
+      "instructors":[
+        "Yi,Grace Yun"
+      ],
+      "building":"MC",
+      "room":"4021",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:43-05:00"
+    },
+    {
+      "class_number":5909,
+      "subject":"STAT",
+      "catalog_number":"372",
+      "title":"Statistics for Business 2",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "Balka,Peter"
+      ],
+      "building":"MC",
+      "room":"4021",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:44-05:00"
+    },
+    {
+      "class_number":5910,
+      "subject":"STAT",
+      "catalog_number":"372",
+      "title":"Statistics for Business 2",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "Balka,Peter"
+      ],
+      "building":"MC",
+      "room":"4021",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:44-05:00"
+    }
+  ]
+}

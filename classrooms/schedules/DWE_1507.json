@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":2482,
+    "timestamp":1415081563,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4889,
+      "subject":"CHE",
+      "catalog_number":"480",
+      "title":"Process Analysis and Design",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":71,
+      "instructors":[
+        "Anderson,William A."
+      ],
+      "building":"DWE",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:16-05:00"
+    }
+  ]
+}

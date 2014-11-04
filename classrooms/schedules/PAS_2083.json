@@ -1,0 +1,234 @@
+{
+  "meta":{
+    "requests":2663,
+    "timestamp":1415081619,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8026,
+      "subject":"ARTS",
+      "catalog_number":"280",
+      "title":"Statistics for Arts Students",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":126,
+      "instructors":[
+        "Warriner,G Keith"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:46-05:00"
+    },
+    {
+      "class_number":5437,
+      "subject":"ENBUS",
+      "catalog_number":"203",
+      "title":"Green Entrepreneurship",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":90,
+      "instructors":[
+        "Malleck,Geoff"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:02-05:00"
+    },
+    {
+      "class_number":4165,
+      "subject":"HIST",
+      "catalog_number":"102",
+      "title":"War and Society in Europe, 1914-1945",
+      "section":"LEC 001",
+      "weekdays":"MWTh",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/08",
+      "end_date":"12\/01",
+      "enrollment_total":77,
+      "instructors":[
+        "Siebel-Achenbach,Sebastian"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:39-05:00"
+    },
+    {
+      "class_number":4170,
+      "subject":"HIST",
+      "catalog_number":"220",
+      "title":"The Vietnam War and American Society",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Sbardellati,John"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:40-05:00"
+    },
+    {
+      "class_number":3668,
+      "subject":"PSYCH",
+      "catalog_number":"320",
+      "title":"Language Development",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":70,
+      "instructors":[
+        "White,Katherine S"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:09-05:00"
+    },
+    {
+      "class_number":2887,
+      "subject":"REC",
+      "catalog_number":"371",
+      "title":"Statistical Techniques Applied to Leisure Studies",
+      "section":"LEC 001",
+      "weekdays":"TThF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":108,
+      "instructors":[
+        "Havitz,Mark"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:15-05:00"
+    },
+    {
+      "class_number":7862,
+      "subject":"RS",
+      "catalog_number":"202",
+      "title":"Sikhism",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Jakobsh,Doris Ruth"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:19-05:00"
+    },
+    {
+      "class_number":8226,
+      "subject":"RS",
+      "catalog_number":"280",
+      "title":"Cults and New Religious Movements",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Hofmann,David"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:21-05:00"
+    },
+    {
+      "class_number":8227,
+      "subject":"SOC",
+      "catalog_number":"262",
+      "title":"Cults and New Religious Movements",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Hofmann,David"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:34-05:00"
+    },
+    {
+      "class_number":8116,
+      "subject":"SPCOM",
+      "catalog_number":"204",
+      "title":"Leadership, Teams, and Communication",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":85,
+      "instructors":[
+        "Paci,Timothy P"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":8117,
+      "subject":"SPCOM",
+      "catalog_number":"204",
+      "title":"Leadership, Teams, and Communication",
+      "section":"LEC 003",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Doyle,Jennifer"
+      ],
+      "building":"PAS",
+      "room":"2083",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    }
+  ]
+}

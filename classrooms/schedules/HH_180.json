@@ -1,0 +1,194 @@
+{
+  "meta":{
+    "requests":2590,
+    "timestamp":1415081597,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3381,
+      "subject":"DRAMA",
+      "catalog_number":"102",
+      "title":"Introduction to Performance",
+      "section":"LAB 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Houston,Andrew"
+      ],
+      "building":"HH",
+      "room":"180",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:41-05:00"
+    },
+    {
+      "class_number":3626,
+      "subject":"DRAMA",
+      "catalog_number":"102",
+      "title":"Introduction to Performance",
+      "section":"LAB 002",
+      "weekdays":"WF",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Keleta-Mae,Naila"
+      ],
+      "building":"HH",
+      "room":"180",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:41-05:00"
+    },
+    {
+      "class_number":3150,
+      "subject":"DRAMA",
+      "catalog_number":"221",
+      "title":"Intermediate Acting 1",
+      "section":"LAB 001",
+      "weekdays":"MW",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Hill,Heather"
+      ],
+      "building":"HH",
+      "room":"180",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:41-05:00"
+    },
+    {
+      "class_number":3153,
+      "subject":"DRAMA",
+      "catalog_number":"321",
+      "title":"Advanced Acting 1",
+      "section":"LAB 001",
+      "weekdays":"TTh",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Roberts-Smith,Jennifer"
+      ],
+      "building":"HH",
+      "room":"180",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:41-05:00"
+    },
+    {
+      "class_number":3418,
+      "subject":"DRAMA",
+      "catalog_number":"326",
+      "title":"Voice Technique",
+      "section":"LAB 001",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Donovan,Anne-Marie M"
+      ],
+      "building":"HH",
+      "room":"180",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:41-05:00"
+    },
+    {
+      "class_number":3266,
+      "subject":"DRAMA",
+      "catalog_number":"421",
+      "title":"Advanced Acting Workshop 1",
+      "section":"LAB 001",
+      "weekdays":"TTh",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Roberts-Smith,Jennifer"
+      ],
+      "building":"HH",
+      "room":"180",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:42-05:00"
+    },
+    {
+      "class_number":3618,
+      "subject":"DRAMA",
+      "catalog_number":"490",
+      "title":"Selected Seminars in Drama & Theatre Arts",
+      "section":"WSP 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Keleta-Mae,Naila"
+      ],
+      "building":"HH",
+      "room":"180",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:43-05:00"
+    },
+    {
+      "class_number":3815,
+      "subject":"SPCOM",
+      "catalog_number":"102",
+      "title":"Introduction to Performance",
+      "section":"LAB 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Houston,Andrew"
+      ],
+      "building":"HH",
+      "room":"180",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":3816,
+      "subject":"SPCOM",
+      "catalog_number":"326",
+      "title":"Voice Technique",
+      "section":"LAB 001",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Donovan,Anne-Marie M"
+      ],
+      "building":"HH",
+      "room":"180",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:41-05:00"
+    }
+  ]
+}

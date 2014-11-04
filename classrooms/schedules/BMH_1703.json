@@ -1,0 +1,174 @@
+{
+  "meta":{
+    "requests":2442,
+    "timestamp":1415081550,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3044,
+      "subject":"REC",
+      "catalog_number":"361",
+      "title":"Aging and Leisure",
+      "section":"SEM 105",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Dupuis,Sherry"
+      ],
+      "building":"BMH",
+      "room":"1703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":8083,
+      "subject":"REC",
+      "catalog_number":"361",
+      "title":"Aging and Leisure",
+      "section":"SEM 110",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Dupuis,Sherry"
+      ],
+      "building":"BMH",
+      "room":"1703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":8274,
+      "subject":"HSG",
+      "catalog_number":"750",
+      "title":"Fundamentals of Aging, Health and Well-being",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Oremus,Mark"
+      ],
+      "building":"BMH",
+      "room":"1703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:42-05:00"
+    },
+    {
+      "class_number":3068,
+      "subject":"KIN",
+      "catalog_number":"653",
+      "title":"Human Neuroscience Theory",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Niechwiej,Ewa"
+      ],
+      "building":"BMH",
+      "room":"1703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:44-05:00"
+    },
+    {
+      "class_number":3014,
+      "subject":"KIN",
+      "catalog_number":"670A",
+      "title":"Movement Neuroscience Seminar",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Roy,Eric A"
+      ],
+      "building":"BMH",
+      "room":"1703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:44-05:00"
+    },
+    {
+      "class_number":2907,
+      "subject":"KIN",
+      "catalog_number":"670H",
+      "title":"Physiology and Nutrition Part One",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"12:00",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Hughson,Richard L"
+      ],
+      "building":"BMH",
+      "room":"1703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:44-05:00"
+    },
+    {
+      "class_number":8275,
+      "subject":"KIN",
+      "catalog_number":"750",
+      "title":"Fundamentals of Aging, Health and Well-being",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Oremus,Mark"
+      ],
+      "building":"BMH",
+      "room":"1703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:45-05:00"
+    },
+    {
+      "class_number":8276,
+      "subject":"REC",
+      "catalog_number":"750",
+      "title":"Fundamentals of Aging, Health and Well-being",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Oremus,Mark"
+      ],
+      "building":"BMH",
+      "room":"1703",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:10-05:00"
+    }
+  ]
+}

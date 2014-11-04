@@ -1,0 +1,274 @@
+{
+  "meta":{
+    "requests":2623,
+    "timestamp":1415081607,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6239,
+      "subject":"CO",
+      "catalog_number":"250",
+      "title":"Introduction to Optimization",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":101,
+      "instructors":[
+        "Georgiou,Konstantinos"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:30-05:00"
+    },
+    {
+      "class_number":6027,
+      "subject":"CS",
+      "catalog_number":"115",
+      "title":"Introduction to Computer Science 1",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":93,
+      "instructors":[
+        "Vogel,Daniel"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":6019,
+      "subject":"CS",
+      "catalog_number":"135",
+      "title":"Designing Functional Programs",
+      "section":"LEC 004",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Lizotte,Daniel James"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":8364,
+      "subject":"CS",
+      "catalog_number":"135",
+      "title":"Designing Functional Programs",
+      "section":"LEC 008",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":104,
+      "instructors":[
+        "Bright,Curtis William"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":6194,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":124,
+      "instructors":[
+        "Petrick,Mark"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":5711,
+      "subject":"CS",
+      "catalog_number":"330",
+      "title":"Management Information Systems",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":121,
+      "instructors":[
+        "Liu,Zhiyong Michael"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:37-05:00"
+    },
+    {
+      "class_number":5964,
+      "subject":"CS",
+      "catalog_number":"330",
+      "title":"Management Information Systems",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        "Liu,Zhiyong Michael"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:37-05:00"
+    },
+    {
+      "class_number":3195,
+      "subject":"ECON",
+      "catalog_number":"202",
+      "title":"Macroeconomic Theory 1",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":100,
+      "instructors":[
+        "Vaughan,Maryann"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:56-05:00"
+    },
+    {
+      "class_number":3204,
+      "subject":"ECON",
+      "catalog_number":"344",
+      "title":"Marketing: Principles of Marketing and Consumer Economics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":88,
+      "instructors":[
+        "Mesta,Olivia"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:58-05:00"
+    },
+    {
+      "class_number":5884,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 004",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Harmsworth,David L"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5913,
+      "subject":"MATH",
+      "catalog_number":"127",
+      "title":"Calculus 1 for the Sciences",
+      "section":"TUT 108",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5612,
+      "subject":"MATH",
+      "catalog_number":"227",
+      "title":"Calculus 3 for Honours Physics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":110,
+      "instructors":[
+        "Marshman,Beverly J"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:13-05:00"
+    },
+    {
+      "class_number":5959,
+      "subject":"STAT",
+      "catalog_number":"330",
+      "title":"Mathematical Statistics",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Yi,Grace Yun"
+      ],
+      "building":"MC",
+      "room":"4020",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:43-05:00"
+    }
+  ]
+}

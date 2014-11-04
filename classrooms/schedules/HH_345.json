@@ -1,0 +1,154 @@
+{
+  "meta":{
+    "requests":2602,
+    "timestamp":1415081600,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3949,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"TUT 216",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Gauthier,Lauren"
+      ],
+      "building":"HH",
+      "room":"345",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3021,
+      "subject":"KIN",
+      "catalog_number":"470",
+      "title":"Seminar in Kinesiology",
+      "section":"SEM 007",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Gruevski,Kristina May"
+      ],
+      "building":"HH",
+      "room":"345",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:05-05:00"
+    },
+    {
+      "class_number":6163,
+      "subject":"MATH",
+      "catalog_number":"229",
+      "title":"Introduction to Combinatorics (Non-Specialist Level)",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Pei,Martin"
+      ],
+      "building":"HH",
+      "room":"345",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:13-05:00"
+    },
+    {
+      "class_number":3960,
+      "subject":"PSCI",
+      "catalog_number":"281",
+      "title":"World Politics",
+      "section":"DIS 102",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"345",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":8075,
+      "subject":"PSCI",
+      "catalog_number":"456",
+      "title":"Ethnic Conflict and Conflict Resolution",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Jaworsky,John S"
+      ],
+      "building":"HH",
+      "room":"345",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:04-05:00"
+    },
+    {
+      "class_number":8133,
+      "subject":"ECON",
+      "catalog_number":"657",
+      "title":"Environmental Economics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Nimubona,Alain-Desire"
+      ],
+      "building":"HH",
+      "room":"345",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:24-05:00"
+    },
+    {
+      "class_number":3926,
+      "subject":"ECON",
+      "catalog_number":"722",
+      "title":"Applied Microeconometrics II",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Parker,Thomas"
+      ],
+      "building":"HH",
+      "room":"345",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:24-05:00"
+    }
+  ]
+}

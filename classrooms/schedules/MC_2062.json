@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":2617,
+    "timestamp":1415081605,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6038,
+      "subject":"CS",
+      "catalog_number":"137",
+      "title":"Programming Principles",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/12",
+      "end_date":"09\/12",
+      "enrollment_total":69,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2062",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":5705,
+      "subject":"CS",
+      "catalog_number":"200",
+      "title":"Concepts for Advanced Computer Usage",
+      "section":"LAB 101",
+      "weekdays":"TTh",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2062",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    }
+  ]
+}

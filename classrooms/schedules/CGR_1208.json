@@ -1,0 +1,294 @@
+{
+  "meta":{
+    "requests":2454,
+    "timestamp":1415081554,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7651,
+      "subject":"CMW",
+      "catalog_number":"364",
+      "title":"Worship and Music",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Hull,Kenneth R"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:29-05:00"
+    },
+    {
+      "class_number":4366,
+      "subject":"MUSIC",
+      "catalog_number":"245",
+      "title":"World Music",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Sum,Maisie"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:25-05:00"
+    },
+    {
+      "class_number":7626,
+      "subject":"MUSIC",
+      "catalog_number":"256",
+      "title":"Music Since 1900",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Gray,Laura"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:26-05:00"
+    },
+    {
+      "class_number":7627,
+      "subject":"MUSIC",
+      "catalog_number":"261",
+      "title":"Opera",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Gray,Laura"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:26-05:00"
+    },
+    {
+      "class_number":4367,
+      "subject":"MUSIC",
+      "catalog_number":"270",
+      "title":"Music Theory 1",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:00",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Corlis,Timothy David Graham"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:26-05:00"
+    },
+    {
+      "class_number":4367,
+      "subject":"MUSIC",
+      "catalog_number":"270",
+      "title":"Music Theory 1",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Corlis,Timothy David Graham"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:26-05:00"
+    },
+    {
+      "class_number":4385,
+      "subject":"MUSIC",
+      "catalog_number":"275",
+      "title":"Music and Technology",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "McKittrick,Cameron"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:26-05:00"
+    },
+    {
+      "class_number":7650,
+      "subject":"MUSIC",
+      "catalog_number":"364",
+      "title":"Worship and Music",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Hull,Kenneth R"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:26-05:00"
+    },
+    {
+      "class_number":4370,
+      "subject":"MUSIC",
+      "catalog_number":"370",
+      "title":"Music Theory 3 (19th-Century)",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Corlis,Timothy David Graham"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:26-05:00"
+    },
+    {
+      "class_number":4370,
+      "subject":"MUSIC",
+      "catalog_number":"370",
+      "title":"Music Theory 3 (19th-Century)",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Corlis,Timothy David Graham"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:26-05:00"
+    },
+    {
+      "class_number":7360,
+      "subject":"RS",
+      "catalog_number":"235",
+      "title":"Jesus: Life and Legacy",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Batten,Alicia"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:20-05:00"
+    },
+    {
+      "class_number":7633,
+      "subject":"RS",
+      "catalog_number":"260",
+      "title":"The Study of Religion",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"15:00",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Batten,Alicia"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:20-05:00"
+    },
+    {
+      "class_number":7652,
+      "subject":"RS",
+      "catalog_number":"358",
+      "title":"Worship and Music",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Hull,Kenneth R"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:21-05:00"
+    },
+    {
+      "class_number":7653,
+      "subject":"TS",
+      "catalog_number":"653",
+      "title":"Worship and Music",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Hull,Kenneth R"
+      ],
+      "building":"CGR",
+      "room":"1208",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:19-05:00"
+    }
+  ]
+}

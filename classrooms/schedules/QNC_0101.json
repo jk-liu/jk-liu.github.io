@@ -1,0 +1,114 @@
+{
+  "meta":{
+    "requests":2689,
+    "timestamp":1415081626,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8318,
+      "subject":"AMATH",
+      "catalog_number":"871",
+      "title":"Quantum Information Processing",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Cleve,Richard Erwin"
+      ],
+      "building":"QNC",
+      "room":"0101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:00-05:00"
+    },
+    {
+      "class_number":6341,
+      "subject":"CO",
+      "catalog_number":"681",
+      "title":"Quantum Information Processing",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Cleve,Richard Erwin"
+      ],
+      "building":"QNC",
+      "room":"0101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:11-05:00"
+    },
+    {
+      "class_number":6352,
+      "subject":"CS",
+      "catalog_number":"768",
+      "title":"Quantum Information Processing",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Cleve,Richard Erwin"
+      ],
+      "building":"QNC",
+      "room":"0101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:14-05:00"
+    },
+    {
+      "class_number":7163,
+      "subject":"PHYS",
+      "catalog_number":"767",
+      "title":"Quantum Information Processing",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Cleve,Richard Erwin"
+      ],
+      "building":"QNC",
+      "room":"0101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:57-05:00"
+    },
+    {
+      "class_number":5601,
+      "subject":"QIC",
+      "catalog_number":"710",
+      "title":"Quantum Information Processing",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Cleve,Richard Erwin"
+      ],
+      "building":"QNC",
+      "room":"0101",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:09-05:00"
+    }
+  ]
+}

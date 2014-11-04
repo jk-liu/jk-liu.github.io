@@ -1,0 +1,314 @@
+{
+  "meta":{
+    "requests":2485,
+    "timestamp":1415081564,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8581,
+      "subject":"BET",
+      "catalog_number":"320",
+      "title":"Intro to Commercialization Mgt",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Rose,David George"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:50-05:00"
+    },
+    {
+      "class_number":7072,
+      "subject":"EARTH",
+      "catalog_number":"331",
+      "title":"Volcanology and Igneous Petrology",
+      "section":"LEC 001",
+      "weekdays":"MWTh",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Kendall,Brian"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:44-05:00"
+    },
+    {
+      "class_number":7835,
+      "subject":"ENGL",
+      "catalog_number":"200A",
+      "title":"Survey of British Literature 1",
+      "section":"LEC 003",
+      "weekdays":"TF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Kreller,Paul D W"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:07-05:00"
+    },
+    {
+      "class_number":7660,
+      "subject":"FR",
+      "catalog_number":"276",
+      "title":"Major Works 2 - French Canada",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Lepage,Elise"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:25-05:00"
+    },
+    {
+      "class_number":4177,
+      "subject":"HIST",
+      "catalog_number":"314",
+      "title":"The American Civil Rights Movement",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Cyr,Dylan A."
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":3133,
+      "subject":"LAT",
+      "catalog_number":"101",
+      "title":"Introductory Latin 1",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Kroeker,Ronald"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:06-05:00"
+    },
+    {
+      "class_number":3609,
+      "subject":"LAT",
+      "catalog_number":"101",
+      "title":"Introductory Latin 1",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Kroeker,Ronald"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:06-05:00"
+    },
+    {
+      "class_number":3487,
+      "subject":"LAT",
+      "catalog_number":"101",
+      "title":"Introductory Latin 1",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:06-05:00"
+    },
+    {
+      "class_number":3564,
+      "subject":"LAT",
+      "catalog_number":"101",
+      "title":"Introductory Latin 1",
+      "section":"TUT 103",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:06-05:00"
+    },
+    {
+      "class_number":5671,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"TUT 117",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":4612,
+      "subject":"MSCI",
+      "catalog_number":"211",
+      "title":"Organizational Behaviour",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Gabriel,Amir"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4613,
+      "subject":"MSCI",
+      "catalog_number":"211",
+      "title":"Organizational Behaviour",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Gabriel,Amir"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":6705,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"TUT 110",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":8050,
+      "subject":"PSCI",
+      "catalog_number":"100",
+      "title":"Politics I: Canadian Politics and Policy in Comparative Perspective",
+      "section":"DIS 110",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":4094,
+      "subject":"ECON",
+      "catalog_number":"673",
+      "title":"Special Topics in Economics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Blit,Joel N"
+      ],
+      "building":"DWE",
+      "room":"1515",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:24-05:00"
+    }
+  ]
+}

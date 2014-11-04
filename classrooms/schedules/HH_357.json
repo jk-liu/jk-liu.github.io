@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":2603,
+    "timestamp":1415081600,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3636,
+      "subject":"PHIL",
+      "catalog_number":"674",
+      "title":"Graduate Courses",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "DeVidi,David M"
+      ],
+      "building":"HH",
+      "room":"357",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:53-05:00"
+    }
+  ]
+}

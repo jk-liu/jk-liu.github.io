@@ -1,0 +1,415 @@
+{
+  "meta":{
+    "requests":2634,
+    "timestamp":1415081610,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7781,
+      "subject":"BME",
+      "catalog_number":"101",
+      "title":"Introduction to Biomedical Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "MacGregor,Carolyn G",
+        "Gorbet,Maud B"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:02-05:00"
+    },
+    {
+      "class_number":4475,
+      "subject":"CHE",
+      "catalog_number":"100",
+      "title":"Chemical Engineering Concepts 1",
+      "section":"TUT 201",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Croiset,Eric"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4551,
+      "subject":"CHE",
+      "catalog_number":"100",
+      "title":"Chemical Engineering Concepts 1",
+      "section":"TUT 202",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Croiset,Eric"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4552,
+      "subject":"CHE",
+      "catalog_number":"100",
+      "title":"Chemical Engineering Concepts 1",
+      "section":"TUT 203",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Croiset,Eric"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4553,
+      "subject":"CHE",
+      "catalog_number":"100",
+      "title":"Chemical Engineering Concepts 1",
+      "section":"TUT 204",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Croiset,Eric"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4737,
+      "subject":"CHE",
+      "catalog_number":"100",
+      "title":"Chemical Engineering Concepts 1",
+      "section":"TUT 205",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Grove,Jason Andrew"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4738,
+      "subject":"CHE",
+      "catalog_number":"100",
+      "title":"Chemical Engineering Concepts 1",
+      "section":"TUT 206",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Croiset,Eric"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4482,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 104",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4505,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 122",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":6957,
+      "subject":"CHEM",
+      "catalog_number":"460",
+      "title":"Special Topics in Organic Chemistry",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Schipper,Derek"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:24-05:00"
+    },
+    {
+      "class_number":7860,
+      "subject":"JS",
+      "catalog_number":"130",
+      "title":"Power and Corruption in the Bible (Old Testament)",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Diamond,James"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:58-05:00"
+    },
+    {
+      "class_number":6094,
+      "subject":"MATH",
+      "catalog_number":"207",
+      "title":"Calculus 3 (Non-Specialist Level)",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":6095,
+      "subject":"MATH",
+      "catalog_number":"225",
+      "title":"Applied Linear Algebra 2",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Miller,Killian"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:13-05:00"
+    },
+    {
+      "class_number":6096,
+      "subject":"MATH",
+      "catalog_number":"225",
+      "title":"Applied Linear Algebra 2",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:13-05:00"
+    },
+    {
+      "class_number":7858,
+      "subject":"RS",
+      "catalog_number":"112",
+      "title":"Power and Corruption in the Bible (Old Testament)",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Diamond,James"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:18-05:00"
+    },
+    {
+      "class_number":5734,
+      "subject":"STAT",
+      "catalog_number":"322",
+      "title":"Sampling and Experimental Design (Non-Specialist Level)",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Liang,Kun"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:43-05:00"
+    },
+    {
+      "class_number":5855,
+      "subject":"STAT",
+      "catalog_number":"322",
+      "title":"Sampling and Experimental Design (Non-Specialist Level)",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Liang,Kun"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:43-05:00"
+    },
+    {
+      "class_number":7600,
+      "subject":"STAT",
+      "catalog_number":"341",
+      "title":"Computational Statistics and Data Analysis",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Ghodsi Boushehri,Ali"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:44-05:00"
+    },
+    {
+      "class_number":3302,
+      "subject":"ECON",
+      "catalog_number":"621",
+      "title":"Econometrics I",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Chausse,Pierre"
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:24-05:00"
+    },
+    {
+      "class_number":8496,
+      "subject":"PLAN",
+      "catalog_number":"704",
+      "title":"Methods of Planning Analysis",
+      "section":"SEM 002",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/28",
+      "end_date":"11\/28",
+      "enrollment_total":25,
+      "instructors":[
+        "Lewis,John L."
+      ],
+      "building":"MC",
+      "room":"4064",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:00-05:00"
+    }
+  ]
+}

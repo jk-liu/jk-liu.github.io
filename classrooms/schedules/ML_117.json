@@ -1,0 +1,174 @@
+{
+  "meta":{
+    "requests":2640,
+    "timestamp":1415081612,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3093,
+      "subject":"DUTCH",
+      "catalog_number":"101",
+      "title":"Elementary Dutch I",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "de Rooij-Mohle,Geertruida (Mar"
+      ],
+      "building":"ML",
+      "room":"117",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:43-05:00"
+    },
+    {
+      "class_number":3093,
+      "subject":"DUTCH",
+      "catalog_number":"101",
+      "title":"Elementary Dutch I",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "de Rooij-Mohle,Geertruida (Mar"
+      ],
+      "building":"ML",
+      "room":"117",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:43-05:00"
+    },
+    {
+      "class_number":3151,
+      "subject":"SPCOM",
+      "catalog_number":"223",
+      "title":"Public Speaking",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Paci,Timothy P"
+      ],
+      "building":"ML",
+      "room":"117",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":3461,
+      "subject":"SPCOM",
+      "catalog_number":"223",
+      "title":"Public Speaking",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Paci,Timothy P"
+      ],
+      "building":"ML",
+      "room":"117",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":3509,
+      "subject":"SPCOM",
+      "catalog_number":"226",
+      "title":"Introduction to Intercultural Communication",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Simpson,Jennifer"
+      ],
+      "building":"ML",
+      "room":"117",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:41-05:00"
+    },
+    {
+      "class_number":3283,
+      "subject":"SPCOM",
+      "catalog_number":"227",
+      "title":"Leadership",
+      "section":"WSP 001",
+      "weekdays":"TF",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Doyle,Jennifer"
+      ],
+      "building":"ML",
+      "room":"117",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:41-05:00"
+    },
+    {
+      "class_number":3793,
+      "subject":"SPCOM",
+      "catalog_number":"401",
+      "title":"Gender, Communication and Culture",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "MacDonald,Shana"
+      ],
+      "building":"ML",
+      "room":"117",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:41-05:00"
+    },
+    {
+      "class_number":3794,
+      "subject":"SPCOM",
+      "catalog_number":"432",
+      "title":"Conflict Management",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Hartling,Shannon Lee"
+      ],
+      "building":"ML",
+      "room":"117",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:41-05:00"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":2545,
+    "timestamp":1415081583,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6993,
+      "subject":"EARTH",
+      "catalog_number":"653",
+      "title":"Contaminant Hydrogeology",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Ptacek,Carol Jane"
+      ],
+      "building":"EIT",
+      "room":"1014",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:17-05:00"
+    },
+    {
+      "class_number":6993,
+      "subject":"EARTH",
+      "catalog_number":"653",
+      "title":"Contaminant Hydrogeology",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Ptacek,Carol Jane"
+      ],
+      "building":"EIT",
+      "room":"1014",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:17-05:00"
+    },
+    {
+      "class_number":8664,
+      "subject":"EARTH",
+      "catalog_number":"691",
+      "title":"Special Studies for MSc Students",
+      "section":"RDG 013",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"10\/07",
+      "end_date":"12\/01",
+      "enrollment_total":0,
+      "instructors":[
+        "Durr,Hans"
+      ],
+      "building":"EIT",
+      "room":"1014",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:18-05:00"
+    },
+    {
+      "class_number":8665,
+      "subject":"EARTH",
+      "catalog_number":"692",
+      "title":"Special Studies for PhD Students",
+      "section":"RDG 008",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"10\/07",
+      "end_date":"12\/01",
+      "enrollment_total":0,
+      "instructors":[
+        "Durr,Hans"
+      ],
+      "building":"EIT",
+      "room":"1014",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:18-05:00"
+    }
+  ]
+}

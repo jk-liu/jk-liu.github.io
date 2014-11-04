@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":2486,
+    "timestamp":1415081565,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4755,
+      "subject":"CHE",
+      "catalog_number":"290",
+      "title":"Chemical Engineering Lab 1",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Moll,Jennifer Kristen"
+      ],
+      "building":"DWE",
+      "room":"1518",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:15-05:00"
+    },
+    {
+      "class_number":4756,
+      "subject":"CHE",
+      "catalog_number":"290",
+      "title":"Chemical Engineering Lab 1",
+      "section":"LAB 002",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Moll,Jennifer Kristen"
+      ],
+      "building":"DWE",
+      "room":"1518",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:15-05:00"
+    },
+    {
+      "class_number":4836,
+      "subject":"CHE",
+      "catalog_number":"391",
+      "title":"Chemical Engineering Lab 4",
+      "section":"LAB 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Moll,Jennifer Kristen"
+      ],
+      "building":"DWE",
+      "room":"1518",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:16-05:00"
+    },
+    {
+      "class_number":4837,
+      "subject":"CHE",
+      "catalog_number":"391",
+      "title":"Chemical Engineering Lab 4",
+      "section":"LAB 002",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Moll,Jennifer Kristen"
+      ],
+      "building":"DWE",
+      "room":"1518",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:16-05:00"
+    }
+  ]
+}

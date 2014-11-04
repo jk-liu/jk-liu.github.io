@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":2426,
+    "timestamp":1415081545,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8130,
+      "subject":"BIOL",
+      "catalog_number":"614",
+      "title":"Bioinformatics Tools and Techniques",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "McConkey,Brendan J"
+      ],
+      "building":"B1",
+      "room":"273",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:04-05:00"
+    },
+    {
+      "class_number":8131,
+      "subject":"BIOL",
+      "catalog_number":"618",
+      "title":"Advanced Microbial Physiology",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Ma,Kesen"
+      ],
+      "building":"B1",
+      "room":"273",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:04-05:00"
+    }
+  ]
+}

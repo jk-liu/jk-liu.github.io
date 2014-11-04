@@ -1,0 +1,274 @@
+{
+  "meta":{
+    "requests":2553,
+    "timestamp":1415081585,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7109,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 029",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"ESC",
+      "room":"104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":7110,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 030",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"ESC",
+      "room":"104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":7111,
+      "subject":"BIOL",
+      "catalog_number":"130L",
+      "title":"Cell Biology Laboratory",
+      "section":"LAB 031",
+      "weekdays":"F",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"ESC",
+      "room":"104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6828,
+      "subject":"BIOL",
+      "catalog_number":"240L",
+      "title":"Microbiology Laboratory",
+      "section":"LAB 009",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"ESC",
+      "room":"104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6829,
+      "subject":"BIOL",
+      "catalog_number":"240L",
+      "title":"Microbiology Laboratory",
+      "section":"LAB 010",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"ESC",
+      "room":"104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6830,
+      "subject":"BIOL",
+      "catalog_number":"240L",
+      "title":"Microbiology Laboratory",
+      "section":"LAB 011",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"ESC",
+      "room":"104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6831,
+      "subject":"BIOL",
+      "catalog_number":"240L",
+      "title":"Microbiology Laboratory",
+      "section":"LAB 012",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"ESC",
+      "room":"104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6832,
+      "subject":"BIOL",
+      "catalog_number":"240L",
+      "title":"Microbiology Laboratory",
+      "section":"LAB 013",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"ESC",
+      "room":"104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6833,
+      "subject":"BIOL",
+      "catalog_number":"240L",
+      "title":"Microbiology Laboratory",
+      "section":"LAB 014",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"ESC",
+      "room":"104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6862,
+      "subject":"BIOL",
+      "catalog_number":"240L",
+      "title":"Microbiology Laboratory",
+      "section":"LAB 015",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"ESC",
+      "room":"104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6879,
+      "subject":"BIOL",
+      "catalog_number":"240L",
+      "title":"Microbiology Laboratory",
+      "section":"LAB 016",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"ESC",
+      "room":"104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6880,
+      "subject":"BIOL",
+      "catalog_number":"240L",
+      "title":"Microbiology Laboratory",
+      "section":"LAB 017",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"ESC",
+      "room":"104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    },
+    {
+      "class_number":6944,
+      "subject":"BIOL",
+      "catalog_number":"240L",
+      "title":"Microbiology Laboratory",
+      "section":"LAB 018",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"ESC",
+      "room":"104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:56-05:00"
+    }
+  ]
+}

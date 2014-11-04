@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":2453,
+    "timestamp":1415081554,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4388,
+      "subject":"MUSIC",
+      "catalog_number":"275",
+      "title":"Music and Technology",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"19:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "McKittrick,Cameron"
+      ],
+      "building":"CGR",
+      "room":"1115",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:26-05:00"
+    },
+    {
+      "class_number":4389,
+      "subject":"MUSIC",
+      "catalog_number":"275",
+      "title":"Music and Technology",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"08:00",
+      "end_time":"08:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "McKittrick,Cameron"
+      ],
+      "building":"CGR",
+      "room":"1115",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:26-05:00"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "meta":{
+    "requests":2569,
+    "timestamp":1415081591,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7829,
+      "subject":"PLAN",
+      "catalog_number":"105",
+      "title":"Introduction to Planning Analysis",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"2052",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:58-05:00"
+    },
+    {
+      "class_number":7830,
+      "subject":"PLAN",
+      "catalog_number":"105",
+      "title":"Introduction to Planning Analysis",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"2052",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:58-05:00"
+    },
+    {
+      "class_number":7831,
+      "subject":"PLAN",
+      "catalog_number":"105",
+      "title":"Introduction to Planning Analysis",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"2052",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:58-05:00"
+    },
+    {
+      "class_number":7832,
+      "subject":"PLAN",
+      "catalog_number":"105",
+      "title":"Introduction to Planning Analysis",
+      "section":"LAB 104",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"2052",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:58-05:00"
+    },
+    {
+      "class_number":7833,
+      "subject":"PLAN",
+      "catalog_number":"105",
+      "title":"Introduction to Planning Analysis",
+      "section":"LAB 105",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"2052",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:58-05:00"
+    }
+  ]
+}

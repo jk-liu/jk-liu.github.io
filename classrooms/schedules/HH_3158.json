@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":2597,
+    "timestamp":1415081599,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3698,
+      "subject":"ACC",
+      "catalog_number":"781",
+      "title":"Introduction to Research 1",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "O'Brien,Patricia"
+      ],
+      "building":"HH",
+      "room":"3158",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:56-05:00"
+    }
+  ]
+}

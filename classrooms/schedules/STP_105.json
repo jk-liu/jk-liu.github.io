@@ -1,0 +1,355 @@
+{
+  "meta":{
+    "requests":2749,
+    "timestamp":1415081645,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6918,
+      "subject":"BIOL",
+      "catalog_number":"309",
+      "title":"Analytical Methods in Molecular Biology",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":232,
+      "instructors":[
+        "Moffatt,Barbara A"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:57-05:00"
+    },
+    {
+      "class_number":6900,
+      "subject":"CHEM",
+      "catalog_number":"209",
+      "title":"Introductory Spectroscopy and Structure",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":240,
+      "instructors":[
+        "Hopkins,Scott"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":3184,
+      "subject":"ECON",
+      "catalog_number":"101",
+      "title":"Introduction to Microeconomics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":192,
+      "instructors":[
+        "Carvalho,Emanuel"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:55-05:00"
+    },
+    {
+      "class_number":3186,
+      "subject":"ECON",
+      "catalog_number":"101",
+      "title":"Introduction to Microeconomics",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":249,
+      "instructors":[
+        "Van de Waal,Cornelis Howard"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:55-05:00"
+    },
+    {
+      "class_number":3677,
+      "subject":"ECON",
+      "catalog_number":"101",
+      "title":"Introduction to Microeconomics",
+      "section":"LEC 005",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":212,
+      "instructors":[
+        "Mergo,Teferi"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:55-05:00"
+    },
+    {
+      "class_number":3768,
+      "subject":"ECON",
+      "catalog_number":"101",
+      "title":"Introduction to Microeconomics",
+      "section":"LEC 007",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":249,
+      "instructors":[
+        "Kumase,Wokia-azi"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:55-05:00"
+    },
+    {
+      "class_number":3188,
+      "subject":"ECON",
+      "catalog_number":"102",
+      "title":"Introduction to Macroeconomics",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":114,
+      "instructors":[
+        "Viola,Maria"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:56-05:00"
+    },
+    {
+      "class_number":3167,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":192,
+      "instructors":[
+        "O'Gorman,Marcel"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":8278,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 016",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":190,
+      "instructors":[
+        "Deveau,Danielle"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":5302,
+      "subject":"ENVS",
+      "catalog_number":"195",
+      "title":"Introduction to Environmental Studies",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":249,
+      "instructors":[
+        "Joakim,Erin Pauline"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":8099,
+      "subject":"GEOG",
+      "catalog_number":"181",
+      "title":"Principles of GIScience",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":163,
+      "instructors":[
+        "Deadman,Peter J"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:31-05:00"
+    },
+    {
+      "class_number":5300,
+      "subject":"GEOG",
+      "catalog_number":"202",
+      "title":"Geography of the Global Economy",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":182,
+      "instructors":[
+        "Mitchell,Clare J A"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:32-05:00"
+    },
+    {
+      "class_number":5492,
+      "subject":"GEOG",
+      "catalog_number":"222",
+      "title":"Geographical Study of Canada",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":127,
+      "instructors":[
+        "Silver,Amber",
+        "Cardwell,Francesca"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:32-05:00"
+    },
+    {
+      "class_number":4376,
+      "subject":"PACS",
+      "catalog_number":"202",
+      "title":"Conflict Resolution",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":146,
+      "instructors":[
+        "Regehr,Keith Allen"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:38-05:00"
+    },
+    {
+      "class_number":5286,
+      "subject":"PLAN",
+      "catalog_number":"100",
+      "title":"The Evolution of Planning",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":207,
+      "instructors":[
+        "Filion,Pierre"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:57-05:00"
+    },
+    {
+      "class_number":3424,
+      "subject":"RS",
+      "catalog_number":"110",
+      "title":"Religions of the West",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:18-05:00"
+    },
+    {
+      "class_number":6292,
+      "subject":"STAT",
+      "catalog_number":"230",
+      "title":"Probability",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":183,
+      "instructors":[
+        "Wu,Changbao"
+      ],
+      "building":"STP",
+      "room":"105",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:43-05:00"
+    }
+  ]
+}

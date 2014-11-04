@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":2548,
+    "timestamp":1415081584,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8638,
+      "subject":"EARTH",
+      "catalog_number":"691",
+      "title":"Special Studies for MSc Students",
+      "section":"RDG 012",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Ross,Martin"
+      ],
+      "building":"EIT",
+      "room":"2044",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:18-05:00"
+    },
+    {
+      "class_number":8641,
+      "subject":"EARTH",
+      "catalog_number":"692",
+      "title":"Special Studies for PhD Students",
+      "section":"RDG 007",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Lin,Shoufa"
+      ],
+      "building":"EIT",
+      "room":"2044",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:18-05:00"
+    }
+  ]
+}

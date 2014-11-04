@@ -1,0 +1,74 @@
+{
+  "meta":{
+    "requests":2421,
+    "timestamp":1415081544,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4689,
+      "subject":"ARCH",
+      "catalog_number":"192",
+      "title":"Design Studio",
+      "section":"STU 001",
+      "weekdays":"MTh",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":83,
+      "instructors":[
+        "Andrighetti,Richard E"
+      ],
+      "building":"ARC",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:42-05:00"
+    },
+    {
+      "class_number":4689,
+      "subject":"ARCH",
+      "catalog_number":"192",
+      "title":"Design Studio",
+      "section":"STU 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":83,
+      "instructors":[
+        "Andrighetti,Richard E"
+      ],
+      "building":"ARC",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:42-05:00"
+    },
+    {
+      "class_number":4689,
+      "subject":"ARCH",
+      "catalog_number":"192",
+      "title":"Design Studio",
+      "section":"STU 001",
+      "weekdays":"Th",
+      "start_time":"13:00",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":83,
+      "instructors":[
+        "Andrighetti,Richard E"
+      ],
+      "building":"ARC",
+      "room":"3102",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:42-05:00"
+    }
+  ]
+}

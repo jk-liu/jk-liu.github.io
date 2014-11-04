@@ -1,0 +1,574 @@
+{
+  "meta":{
+    "requests":2487,
+    "timestamp":1415081565,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4809,
+      "subject":"ECE",
+      "catalog_number":"484",
+      "title":"Digital Control Applications",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":114,
+      "instructors":[
+        "Miller,Daniel E"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:54-05:00"
+    },
+    {
+      "class_number":4573,
+      "subject":"ME",
+      "catalog_number":"200A",
+      "title":"Seminar",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":118,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:15-05:00"
+    },
+    {
+      "class_number":4573,
+      "subject":"ME",
+      "catalog_number":"200A",
+      "title":"Seminar",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":118,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:15-05:00"
+    },
+    {
+      "class_number":4575,
+      "subject":"ME",
+      "catalog_number":"201",
+      "title":"Advanced Calculus",
+      "section":"LEC 001",
+      "weekdays":"MT",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":121,
+      "instructors":[
+        "Teertstra,Peter Michael"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:15-05:00"
+    },
+    {
+      "class_number":4575,
+      "subject":"ME",
+      "catalog_number":"201",
+      "title":"Advanced Calculus",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":121,
+      "instructors":[
+        "Teertstra,Peter Michael"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:15-05:00"
+    },
+    {
+      "class_number":4577,
+      "subject":"ME",
+      "catalog_number":"202",
+      "title":"Statistics for Engineers",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Banerjee,Suryapratim"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:15-05:00"
+    },
+    {
+      "class_number":4577,
+      "subject":"ME",
+      "catalog_number":"202",
+      "title":"Statistics for Engineers",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Banerjee,Suryapratim"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:15-05:00"
+    },
+    {
+      "class_number":4578,
+      "subject":"ME",
+      "catalog_number":"202",
+      "title":"Statistics for Engineers",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:15-05:00"
+    },
+    {
+      "class_number":4586,
+      "subject":"ME",
+      "catalog_number":"219",
+      "title":"Mechanics of Deformable Solids 1",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Trivett,Andrew"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4586,
+      "subject":"ME",
+      "catalog_number":"219",
+      "title":"Mechanics of Deformable Solids 1",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Trivett,Andrew"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4591,
+      "subject":"ME",
+      "catalog_number":"230",
+      "title":"Control of Properties of Materials",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        "Hansson,Carolyn M"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4591,
+      "subject":"ME",
+      "catalog_number":"230",
+      "title":"Control of Properties of Materials",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        "Hansson,Carolyn M"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4961,
+      "subject":"ME",
+      "catalog_number":"230",
+      "title":"Control of Properties of Materials",
+      "section":"TUT 201",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":5002,
+      "subject":"ME",
+      "catalog_number":"230",
+      "title":"Control of Properties of Materials",
+      "section":"TUT 202",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4443,
+      "subject":"ME",
+      "catalog_number":"269",
+      "title":"Electromechanical Devices and Power Processing",
+      "section":"LEC 001",
+      "weekdays":"TWTh",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Mohamed,Samar"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4734,
+      "subject":"MTE",
+      "catalog_number":"200B",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4734,
+      "subject":"MTE",
+      "catalog_number":"200B",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4723,
+      "subject":"MTE",
+      "catalog_number":"203",
+      "title":"Advanced Calculus",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Nieva,Patricia"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4720,
+      "subject":"MTE",
+      "catalog_number":"204",
+      "title":"Numerical Methods",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":121,
+      "instructors":[
+        "Bedi,Sanjeev"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4726,
+      "subject":"MTE",
+      "catalog_number":"220",
+      "title":"Sensors and Instrumentation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        "Barby,James A"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4726,
+      "subject":"MTE",
+      "catalog_number":"220",
+      "title":"Sensors and Instrumentation",
+      "section":"LEC 001",
+      "weekdays":"WTh",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        "Barby,James A"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4727,
+      "subject":"MTE",
+      "catalog_number":"220",
+      "title":"Sensors and Instrumentation",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4729,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":122,
+      "instructors":[
+        "Harder,Douglas"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4729,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":122,
+      "instructors":[
+        "Harder,Douglas"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4729,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":122,
+      "instructors":[
+        "Harder,Douglas"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4695,
+      "subject":"SYDE",
+      "catalog_number":"252",
+      "title":"Linear Systems and Signals",
+      "section":"LEC 002",
+      "weekdays":"TF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":118,
+      "instructors":[
+        "Zelek,John Stanislaw"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":4695,
+      "subject":"SYDE",
+      "catalog_number":"252",
+      "title":"Linear Systems and Signals",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":118,
+      "instructors":[
+        "Zelek,John Stanislaw"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":4792,
+      "subject":"ME",
+      "catalog_number":"729",
+      "title":"Special Topics in Advanced Machine Design Methods",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"18:00",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Lambert,Stephan B"
+      ],
+      "building":"DWE",
+      "room":"2402",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:48-05:00"
+    }
+  ]
+}

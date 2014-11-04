@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":2484,
+    "timestamp":1415081564,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4788,
+      "subject":"CHE",
+      "catalog_number":"291",
+      "title":"Chemical Engineering Lab 2",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Ganeshalingam,Sivasubramaniam"
+      ],
+      "building":"DWE",
+      "room":"1514",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:15-05:00"
+    },
+    {
+      "class_number":4789,
+      "subject":"CHE",
+      "catalog_number":"291",
+      "title":"Chemical Engineering Lab 2",
+      "section":"LAB 002",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Ganeshalingam,Sivasubramaniam"
+      ],
+      "building":"DWE",
+      "room":"1514",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:15-05:00"
+    }
+  ]
+}

@@ -1,0 +1,274 @@
+{
+  "meta":{
+    "requests":2593,
+    "timestamp":1415081597,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8357,
+      "subject":"ARTS",
+      "catalog_number":"290",
+      "title":"Second-Year Topics in Arts Disciplines",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Lo,Adrienne"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:47-05:00"
+    },
+    {
+      "class_number":8556,
+      "subject":"EFAS",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 004",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":3814,
+      "subject":"ENGL",
+      "catalog_number":"350A",
+      "title":"Seventeenth-Century Literature 1",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Tolmie,Sarah"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:10-05:00"
+    },
+    {
+      "class_number":8163,
+      "subject":"ERS",
+      "catalog_number":"316",
+      "title":"Integrated Urban Water Systems Planning and Management",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Wolfe,Sarah"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":5501,
+      "subject":"ERS",
+      "catalog_number":"370",
+      "title":"Corporate Sustainability: Issues and Prospects",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Rowlands,Ian H"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":3106,
+      "subject":"FR",
+      "catalog_number":"152",
+      "title":"Basic French 2",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Brousseau,Anna Justine"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3514,
+      "subject":"FR",
+      "catalog_number":"152",
+      "title":"Basic French 2",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Jagielska,Agata"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3255,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"LEC 001",
+      "weekdays":"MTF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Tremblay,Cynthia Beth"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":5332,
+      "subject":"PLAN",
+      "catalog_number":"440",
+      "title":"Waste Planning",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Mitchell,Carrie"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:59-05:00"
+    },
+    {
+      "class_number":8042,
+      "subject":"PSCI",
+      "catalog_number":"100",
+      "title":"Politics I: Canadian Politics and Policy in Comparative Perspective",
+      "section":"DIS 102",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":7317,
+      "subject":"UNIV",
+      "catalog_number":"101",
+      "title":"Strategies and Skills for Academic Success",
+      "section":"SEM 101",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:52-05:00"
+    },
+    {
+      "class_number":8479,
+      "subject":"PLAN",
+      "catalog_number":"674",
+      "title":"Special Topics in Planning",
+      "section":"SEM 003",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Mitchell,Carrie"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:59-05:00"
+    },
+    {
+      "class_number":3313,
+      "subject":"PSCI",
+      "catalog_number":"600",
+      "title":"Theories and Methods of Political Analysis",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Huo,Jingjing"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:02-05:00"
+    }
+  ]
+}

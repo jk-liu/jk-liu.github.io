@@ -1,0 +1,115 @@
+{
+  "meta":{
+    "requests":2470,
+    "timestamp":1415081559,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6347,
+      "subject":"CS",
+      "catalog_number":"755",
+      "title":"System and Network Architectures and Implementation",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Karsten,Martin"
+      ],
+      "building":"DC",
+      "room":"3313",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:14-05:00"
+    },
+    {
+      "class_number":7845,
+      "subject":"CS",
+      "catalog_number":"856",
+      "title":"Advanced Topics  in Distributed Computing",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Boutaba,Raouf"
+      ],
+      "building":"DC",
+      "room":"3313",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:15-05:00"
+    },
+    {
+      "class_number":8457,
+      "subject":"CS",
+      "catalog_number":"860",
+      "title":"Advanced Topics in Algorithms and Complexity",
+      "section":"SEM 002",
+      "weekdays":"F",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Blais,Eric"
+      ],
+      "building":"DC",
+      "room":"3313",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:15-05:00"
+    },
+    {
+      "class_number":7847,
+      "subject":"CS",
+      "catalog_number":"888",
+      "title":"Advanced Topics in Computer Graphics",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Mann,Stephen",
+        "Cowan,William B"
+      ],
+      "building":"DC",
+      "room":"3313",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:15-05:00"
+    },
+    {
+      "class_number":8383,
+      "subject":"CS",
+      "catalog_number":"889",
+      "title":"Advanced Topics in Human-Computer Interaction",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"10:00",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Law,Edith Lok Man"
+      ],
+      "building":"DC",
+      "room":"3313",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:15-05:00"
+    }
+  ]
+}

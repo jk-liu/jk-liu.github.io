@@ -1,0 +1,274 @@
+{
+  "meta":{
+    "requests":2739,
+    "timestamp":1415081642,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7921,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Horton,Christine"
+      ],
+      "building":"STJ",
+      "room":"2009",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":8301,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 017",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Greenwood,John Philip Peter"
+      ],
+      "building":"STJ",
+      "room":"2009",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":3193,
+      "subject":"ENGL",
+      "catalog_number":"251A",
+      "title":"Criticism 1",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Terzian,Sylvia"
+      ],
+      "building":"STJ",
+      "room":"2009",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:08-05:00"
+    },
+    {
+      "class_number":3369,
+      "subject":"ENGL",
+      "catalog_number":"335",
+      "title":"Creative Writing 1",
+      "section":"WSP 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Tacon,Claire"
+      ],
+      "building":"STJ",
+      "room":"2009",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:10-05:00"
+    },
+    {
+      "class_number":3789,
+      "subject":"HIST",
+      "catalog_number":"103",
+      "title":"Canadian History Through Biography",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Lackenbauer,Paul Whitney"
+      ],
+      "building":"STJ",
+      "room":"2009",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:39-05:00"
+    },
+    {
+      "class_number":3789,
+      "subject":"HIST",
+      "catalog_number":"103",
+      "title":"Canadian History Through Biography",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Lackenbauer,Paul Whitney"
+      ],
+      "building":"STJ",
+      "room":"2009",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:39-05:00"
+    },
+    {
+      "class_number":7740,
+      "subject":"PHIL",
+      "catalog_number":"120J",
+      "title":"Philosophy of Life and Death",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Stumpf,Andrew Douglas Heslop"
+      ],
+      "building":"STJ",
+      "room":"2009",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:47-05:00"
+    },
+    {
+      "class_number":3923,
+      "subject":"PSYCH",
+      "catalog_number":"318",
+      "title":"Psychosexual Organization",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Rye,BJ"
+      ],
+      "building":"STJ",
+      "room":"2009",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:09-05:00"
+    },
+    {
+      "class_number":3623,
+      "subject":"RS",
+      "catalog_number":"150",
+      "title":"Christian Ethics",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Perrin,David B"
+      ],
+      "building":"STJ",
+      "room":"2009",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:18-05:00"
+    },
+    {
+      "class_number":4338,
+      "subject":"RS",
+      "catalog_number":"170",
+      "title":"Religion and Popular Culture",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Shrubsole,Nicholas"
+      ],
+      "building":"STJ",
+      "room":"2009",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:19-05:00"
+    },
+    {
+      "class_number":4241,
+      "subject":"RS",
+      "catalog_number":"170",
+      "title":"Religion and Popular Culture",
+      "section":"DIS 101",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Shrubsole,Nicholas"
+      ],
+      "building":"STJ",
+      "room":"2009",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:19-05:00"
+    },
+    {
+      "class_number":4348,
+      "subject":"RS",
+      "catalog_number":"286",
+      "title":"Spirit in Motion: Secular and Religious Spiritualities Today",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Perrin,David B"
+      ],
+      "building":"STJ",
+      "room":"2009",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:21-05:00"
+    },
+    {
+      "class_number":7736,
+      "subject":"SMF",
+      "catalog_number":"365",
+      "title":"Special Topics in Human Sexuality",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Whitehead,Denise"
+      ],
+      "building":"STJ",
+      "room":"2009",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:31-05:00"
+    }
+  ]
+}

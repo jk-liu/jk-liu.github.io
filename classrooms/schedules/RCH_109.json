@@ -1,0 +1,554 @@
+{
+  "meta":{
+    "requests":2704,
+    "timestamp":1415081631,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7007,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/12",
+      "end_date":"09\/12",
+      "enrollment_total":21,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7007,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/26",
+      "end_date":"09\/26",
+      "enrollment_total":21,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7007,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/10",
+      "end_date":"10\/10",
+      "enrollment_total":21,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7007,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/24",
+      "end_date":"10\/24",
+      "enrollment_total":21,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7007,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/07",
+      "end_date":"11\/07",
+      "enrollment_total":21,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7007,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/21",
+      "end_date":"11\/21",
+      "enrollment_total":21,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7143,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 106",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/19",
+      "end_date":"09\/19",
+      "enrollment_total":26,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7143,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 106",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/03",
+      "end_date":"10\/03",
+      "enrollment_total":26,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7143,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 106",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/17",
+      "end_date":"10\/17",
+      "enrollment_total":26,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7143,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 106",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":26,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7143,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 106",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/14",
+      "end_date":"11\/14",
+      "enrollment_total":26,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7143,
+      "subject":"BIOL",
+      "catalog_number":"350",
+      "title":"Ecosystem Ecology",
+      "section":"TUT 106",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/28",
+      "end_date":"11\/28",
+      "enrollment_total":26,
+      "instructors":[
+        "Hall,Roland I."
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6604,
+      "subject":"BIOL",
+      "catalog_number":"448",
+      "title":"Microbial Physiology and Biochemistry",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Ma,Kesen"
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":7089,
+      "subject":"CHEM",
+      "catalog_number":"420",
+      "title":"Special Topics in Analytical Chem",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Pawliszyn,Janusz B"
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:23-05:00"
+    },
+    {
+      "class_number":6973,
+      "subject":"CHEM",
+      "catalog_number":"430",
+      "title":"Special Topics in Biochemistry",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Honek,John F"
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:23-05:00"
+    },
+    {
+      "class_number":7706,
+      "subject":"CLAS",
+      "catalog_number":"352",
+      "title":"Advanced Studies in Roman History",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Coskun,Altay"
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:29-05:00"
+    },
+    {
+      "class_number":5637,
+      "subject":"CO",
+      "catalog_number":"430",
+      "title":"Algebraic Enumeration",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Purbhoo,Kevin"
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:31-05:00"
+    },
+    {
+      "class_number":7055,
+      "subject":"EARTH",
+      "catalog_number":"123L",
+      "title":"Field Methods in Hydrology",
+      "section":"LAB 002",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Conant Jr,Brewster"
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:44-05:00"
+    },
+    {
+      "class_number":7131,
+      "subject":"EARTH",
+      "catalog_number":"123L",
+      "title":"Field Methods in Hydrology",
+      "section":"LAB 003",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Conant Jr,Brewster"
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:44-05:00"
+    },
+    {
+      "class_number":3258,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"ORL 101",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":4616,
+      "subject":"MSCI",
+      "catalog_number":"211",
+      "title":"Organizational Behaviour",
+      "section":"TUT 105",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Roghanizad,Mohammad-Mahdi"
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4617,
+      "subject":"MSCI",
+      "catalog_number":"211",
+      "title":"Organizational Behaviour",
+      "section":"TUT 106",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Roghanizad,Mohammad-Mahdi"
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":3718,
+      "subject":"PSYCH",
+      "catalog_number":"340",
+      "title":"Training and Development",
+      "section":"DIS 104",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:09-05:00"
+    },
+    {
+      "class_number":3213,
+      "subject":"SPAN",
+      "catalog_number":"301A",
+      "title":"Composition and Conversation 1",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Nunez,Camelia Gianina"
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:39-05:00"
+    },
+    {
+      "class_number":5793,
+      "subject":"CO",
+      "catalog_number":"630",
+      "title":"Algebraic Enumeration",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Purbhoo,Kevin"
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:10-05:00"
+    },
+    {
+      "class_number":3925,
+      "subject":"ECON",
+      "catalog_number":"641",
+      "title":"Public Economics: Expenditure",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Sen,Anindya"
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:24-05:00"
+    },
+    {
+      "class_number":5525,
+      "subject":"SUSM",
+      "catalog_number":"602",
+      "title":"Theories and Concepts of Sustainability Management",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Weber,Olaf"
+      ],
+      "building":"RCH",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:14-05:00"
+    }
+  ]
+}

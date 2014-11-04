@@ -1,0 +1,134 @@
+{
+  "meta":{
+    "requests":2415,
+    "timestamp":1415081542,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4679,
+      "subject":"ARCH",
+      "catalog_number":"100",
+      "title":"An Introduction to Architecture",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "McKay,Donald D"
+      ],
+      "building":"ARC",
+      "room":"1001",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:40-05:00"
+    },
+    {
+      "class_number":4680,
+      "subject":"ARCH",
+      "catalog_number":"142",
+      "title":"Cultural History 1: Iconography",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "van Pelt,Robert J"
+      ],
+      "building":"ARC",
+      "room":"1001",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:41-05:00"
+    },
+    {
+      "class_number":4682,
+      "subject":"ARCH",
+      "catalog_number":"246",
+      "title":"Cultural History 3: Foundations of Europe",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":73,
+      "instructors":[
+        "Rynnimeri,Valerio"
+      ],
+      "building":"ARC",
+      "room":"1001",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:42-05:00"
+    },
+    {
+      "class_number":4682,
+      "subject":"ARCH",
+      "catalog_number":"246",
+      "title":"Cultural History 3: Foundations of Europe",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":73,
+      "instructors":[
+        "Rynnimeri,Valerio"
+      ],
+      "building":"ARC",
+      "room":"1001",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:42-05:00"
+    },
+    {
+      "class_number":4690,
+      "subject":"ARCH",
+      "catalog_number":"327",
+      "title":"Architecture of the Urban Environment",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":62,
+      "instructors":[
+        "Rynnimeri,Valerio"
+      ],
+      "building":"ARC",
+      "room":"1001",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:43-05:00"
+    },
+    {
+      "class_number":4717,
+      "subject":"ARCH",
+      "catalog_number":"342",
+      "title":"Modern Architecture",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":70,
+      "instructors":[
+        "Macdonald,Marie-Paule"
+      ],
+      "building":"ARC",
+      "room":"1001",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:43-05:00"
+    }
+  ]
+}

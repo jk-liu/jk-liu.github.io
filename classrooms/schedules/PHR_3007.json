@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":2677,
+    "timestamp":1415081622,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7196,
+      "subject":"PHARM",
+      "catalog_number":"608A",
+      "title":"Selected Topics in Pharmaceutical Sciences 1",
+      "section":"RDG 001",
+      "weekdays":"T",
+      "start_time":"14:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Rao Perampalli Nekkar,Praveen"
+      ],
+      "building":"PHR",
+      "room":"3007",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:53-05:00"
+    },
+    {
+      "class_number":8389,
+      "subject":"PHARM",
+      "catalog_number":"608A",
+      "title":"Selected Topics in Pharmaceutical Sciences 1",
+      "section":"RDG 002",
+      "weekdays":"T",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Spagnuolo,Paul Anthony"
+      ],
+      "building":"PHR",
+      "room":"3007",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:53-05:00"
+    }
+  ]
+}

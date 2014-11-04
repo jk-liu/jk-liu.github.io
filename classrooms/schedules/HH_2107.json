@@ -1,0 +1,274 @@
+{
+  "meta":{
+    "requests":2592,
+    "timestamp":1415081597,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4041,
+      "subject":"AFM",
+      "catalog_number":"373",
+      "title":"Cases and Applications in Corporate Finance",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Marshall,Alan"
+      ],
+      "building":"HH",
+      "room":"2107",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:20-05:00"
+    },
+    {
+      "class_number":4042,
+      "subject":"AFM",
+      "catalog_number":"373",
+      "title":"Cases and Applications in Corporate Finance",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Marshall,Alan"
+      ],
+      "building":"HH",
+      "room":"2107",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:20-05:00"
+    },
+    {
+      "class_number":4043,
+      "subject":"AFM",
+      "catalog_number":"373",
+      "title":"Cases and Applications in Corporate Finance",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Marshall,Alan"
+      ],
+      "building":"HH",
+      "room":"2107",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:20-05:00"
+    },
+    {
+      "class_number":4044,
+      "subject":"AFM",
+      "catalog_number":"373",
+      "title":"Cases and Applications in Corporate Finance",
+      "section":"LEC 004",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Douglas,Alan V S"
+      ],
+      "building":"HH",
+      "room":"2107",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:20-05:00"
+    },
+    {
+      "class_number":3354,
+      "subject":"AFM",
+      "catalog_number":"401",
+      "title":"Accounting Theory",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Kennedy,Duane B"
+      ],
+      "building":"HH",
+      "room":"2107",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:21-05:00"
+    },
+    {
+      "class_number":3355,
+      "subject":"AFM",
+      "catalog_number":"401",
+      "title":"Accounting Theory",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Kennedy,Duane B"
+      ],
+      "building":"HH",
+      "room":"2107",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:21-05:00"
+    },
+    {
+      "class_number":6565,
+      "subject":"EFAS",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"09:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"2107",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":6564,
+      "subject":"EFAS",
+      "catalog_number":"36",
+      "title":"Oral Skills",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"2107",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":3903,
+      "subject":"ENGL",
+      "catalog_number":"318",
+      "title":"Contemporary Canadian Literature",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Warley,Linda A"
+      ],
+      "building":"HH",
+      "room":"2107",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:10-05:00"
+    },
+    {
+      "class_number":6478,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 003",
+      "weekdays":"MTTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "So,Margaret Ming Ching"
+      ],
+      "building":"HH",
+      "room":"2107",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":7961,
+      "subject":"ESL",
+      "catalog_number":"129R",
+      "title":"Written Academic English",
+      "section":"LEC 003",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Lane,Daryaneh"
+      ],
+      "building":"HH",
+      "room":"2107",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":8491,
+      "subject":"ESL",
+      "catalog_number":"129R",
+      "title":"Written Academic English",
+      "section":"LEC 007",
+      "weekdays":"M",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Al-Azraki,Amir"
+      ],
+      "building":"HH",
+      "room":"2107",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":7997,
+      "subject":"PHIL",
+      "catalog_number":"216",
+      "title":"Probability and Decision Making",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Andres,Gregory George"
+      ],
+      "building":"HH",
+      "room":"2107",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:47-05:00"
+    }
+  ]
+}

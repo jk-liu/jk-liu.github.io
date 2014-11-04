@@ -1,0 +1,674 @@
+{
+  "meta":{
+    "requests":2433,
+    "timestamp":1415081547,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6838,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6839,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6840,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 103",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6841,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6842,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 105",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6843,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 106",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6844,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 107",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6845,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 108",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6846,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 109",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6847,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 110",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6848,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 111",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6856,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 112",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6908,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 113",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6909,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 114",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6910,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 115",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6911,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 116",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6916,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 121",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6917,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 122",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6948,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 123",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":6949,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 124",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":7064,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 125",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":7104,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 126",
+      "weekdays":"Th",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":7172,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 127",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"19:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":7173,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 128",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"19:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":7193,
+      "subject":"BIOL",
+      "catalog_number":"130",
+      "title":"Introductory Cell Biology",
+      "section":"TUT 129",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:55-05:00"
+    },
+    {
+      "class_number":8143,
+      "subject":"BIOL",
+      "catalog_number":"310",
+      "title":"Invertebrate Zoology",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Pinheiro,Marcel Diniz Oliveira"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:57-05:00"
+    },
+    {
+      "class_number":8144,
+      "subject":"BIOL",
+      "catalog_number":"321",
+      "title":"Plant Anatomy and Morphogenesis",
+      "section":"LEC 001",
+      "weekdays":"MWTh",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Lolle,Susan J"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:57-05:00"
+    },
+    {
+      "class_number":7167,
+      "subject":"BIOL",
+      "catalog_number":"325",
+      "title":"Flowering Plants",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Cook,Rachel Erin"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:57-05:00"
+    },
+    {
+      "class_number":6572,
+      "subject":"BIOL",
+      "catalog_number":"342",
+      "title":"Molecular Biotechnology 1",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Dupont,Christine"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:57-05:00"
+    },
+    {
+      "class_number":8146,
+      "subject":"BIOL",
+      "catalog_number":"433",
+      "title":"Plant Biotechnology",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Cook,Rachel Erin"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":8149,
+      "subject":"BIOL",
+      "catalog_number":"452",
+      "title":"Quantitative Fisheries Biology",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Power,Michael"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":8151,
+      "subject":"BIOL",
+      "catalog_number":"456",
+      "title":"Population Biology",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Power,Michael"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":5702,
+      "subject":"PMATH",
+      "catalog_number":"334",
+      "title":"Introduction to Rings and Fields with Applications",
+      "section":"LEC 001",
+      "weekdays":"MTTh",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Roberts,Collin Donald"
+      ],
+      "building":"B2",
+      "room":"350",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:00-05:00"
+    }
+  ]
+}

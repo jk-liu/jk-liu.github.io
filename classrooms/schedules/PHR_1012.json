@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":2673,
+    "timestamp":1415081621,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8268,
+      "subject":"PHARM",
+      "catalog_number":"366",
+      "title":"Concepts in Nutritional Sciences",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Richard,Cynthia"
+      ],
+      "building":"PHR",
+      "room":"1012",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:44-05:00"
+    }
+  ]
+}

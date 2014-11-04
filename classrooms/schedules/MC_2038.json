@@ -1,0 +1,294 @@
+{
+  "meta":{
+    "requests":2615,
+    "timestamp":1415081605,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6042,
+      "subject":"CS",
+      "catalog_number":"245",
+      "title":"Logic and Computation",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":88,
+      "instructors":[
+        "Buss,Jonathan"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:37-05:00"
+    },
+    {
+      "class_number":5710,
+      "subject":"CS",
+      "catalog_number":"251",
+      "title":"Computer Organization and Design",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":87,
+      "instructors":[
+        "Ivkovic,Igor"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:37-05:00"
+    },
+    {
+      "class_number":6043,
+      "subject":"CS",
+      "catalog_number":"341",
+      "title":"Algorithms",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Nekrich,Iakov"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:38-05:00"
+    },
+    {
+      "class_number":5902,
+      "subject":"CS",
+      "catalog_number":"348",
+      "title":"Introduction to Database Management",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":75,
+      "instructors":[
+        "Ataullah,Ahmed Ayaz"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:38-05:00"
+    },
+    {
+      "class_number":6138,
+      "subject":"CS",
+      "catalog_number":"350",
+      "title":"Operating Systems",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":83,
+      "instructors":[
+        "Wong,Bernard"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:38-05:00"
+    },
+    {
+      "class_number":6206,
+      "subject":"CS",
+      "catalog_number":"350",
+      "title":"Operating Systems",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":75,
+      "instructors":[
+        "Zima,Eugene"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:38-05:00"
+    },
+    {
+      "class_number":5714,
+      "subject":"CS",
+      "catalog_number":"360",
+      "title":"Introduction to the Theory of Computing",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Roberts,Collin Donald"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:38-05:00"
+    },
+    {
+      "class_number":6097,
+      "subject":"CS",
+      "catalog_number":"370",
+      "title":"Numerical Computation",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "Batty,Christopher"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:38-05:00"
+    },
+    {
+      "class_number":4915,
+      "subject":"ECE",
+      "catalog_number":"140",
+      "title":"Linear Circuits",
+      "section":"TUT 107",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":73,
+      "instructors":[
+        "Nairn,David"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":3018,
+      "subject":"KIN",
+      "catalog_number":"470",
+      "title":"Seminar in Kinesiology",
+      "section":"SEM 004",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Fajardo,Val Andrew Miciano"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:05-05:00"
+    },
+    {
+      "class_number":5644,
+      "subject":"MATH",
+      "catalog_number":"103",
+      "title":"Introductory Algebra for Arts and Social Science",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Ferguson,Barry"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:10-05:00"
+    },
+    {
+      "class_number":5842,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 105",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5605,
+      "subject":"MATH",
+      "catalog_number":"145",
+      "title":"Algebra (Advanced Level)",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Jao,David"
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":7302,
+      "subject":"SE",
+      "catalog_number":"212",
+      "title":"Logic and Computation",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":80,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2038",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:28-05:00"
+    }
+  ]
+}

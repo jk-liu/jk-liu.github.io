@@ -1,0 +1,1094 @@
+{
+  "meta":{
+    "requests":2503,
+    "timestamp":1415081570,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5089,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 207",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5089,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 207",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5089,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 207",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5089,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 207",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5089,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 207",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5089,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 207",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5090,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 208",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5090,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 208",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5090,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 208",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5090,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 208",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5090,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 208",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5090,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 208",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5091,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 209",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/18",
+      "end_date":"09\/18",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5091,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 209",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/02",
+      "end_date":"10\/02",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5091,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 209",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/16",
+      "end_date":"10\/16",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5091,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 209",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/30",
+      "end_date":"10\/30",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5091,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 209",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/13",
+      "end_date":"11\/13",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5091,
+      "subject":"ECE",
+      "catalog_number":"224",
+      "title":"Embedded Microprocessor Systems",
+      "section":"LAB 209",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/27",
+      "end_date":"11\/27",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":5096,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/09",
+      "end_date":"09\/09",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5096,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5096,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5096,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5096,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5096,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5097,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/10",
+      "end_date":"09\/10",
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5097,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5097,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5097,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5097,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5097,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 202",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5098,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/11",
+      "end_date":"09\/11",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5098,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/25",
+      "end_date":"09\/25",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5098,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/09",
+      "end_date":"10\/09",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5098,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5098,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/06",
+      "end_date":"11\/06",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":5098,
+      "subject":"ECE",
+      "catalog_number":"356",
+      "title":"Database Systems",
+      "section":"LAB 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:53-05:00"
+    },
+    {
+      "class_number":4732,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":43,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4732,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":43,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4732,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":43,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4732,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":43,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4732,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":43,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":4732,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":43,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5119,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/19",
+      "end_date":"09\/19",
+      "enrollment_total":37,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5119,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/03",
+      "end_date":"10\/03",
+      "enrollment_total":37,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5119,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/17",
+      "end_date":"10\/17",
+      "enrollment_total":37,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5119,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":37,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5119,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/14",
+      "end_date":"11\/14",
+      "enrollment_total":37,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5119,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/28",
+      "end_date":"11\/28",
+      "enrollment_total":37,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5120,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5120,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5120,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/13",
+      "end_date":"10\/13",
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5120,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5120,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5120,
+      "subject":"MTE",
+      "catalog_number":"241",
+      "title":"Introduction to Computer Structures & Real-Time Systems",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"2356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    }
+  ]
+}

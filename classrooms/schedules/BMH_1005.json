@@ -1,0 +1,2054 @@
+{
+  "meta":{
+    "requests":2436,
+    "timestamp":1415081548,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":2981,
+      "subject":"HLTH",
+      "catalog_number":"101",
+      "title":"Introduction to Health 1",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:44-05:00"
+    },
+    {
+      "class_number":2983,
+      "subject":"HLTH",
+      "catalog_number":"101",
+      "title":"Introduction to Health 1",
+      "section":"TUT 103",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:44-05:00"
+    },
+    {
+      "class_number":2985,
+      "subject":"HLTH",
+      "catalog_number":"101",
+      "title":"Introduction to Health 1",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:44-05:00"
+    },
+    {
+      "class_number":2986,
+      "subject":"HLTH",
+      "catalog_number":"101",
+      "title":"Introduction to Health 1",
+      "section":"TUT 106",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:44-05:00"
+    },
+    {
+      "class_number":2987,
+      "subject":"HLTH",
+      "catalog_number":"101",
+      "title":"Introduction to Health 1",
+      "section":"TUT 107",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:44-05:00"
+    },
+    {
+      "class_number":2995,
+      "subject":"HLTH",
+      "catalog_number":"101",
+      "title":"Introduction to Health 1",
+      "section":"TUT 108",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:44-05:00"
+    },
+    {
+      "class_number":2997,
+      "subject":"HLTH",
+      "catalog_number":"101",
+      "title":"Introduction to Health 1",
+      "section":"TUT 110",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:44-05:00"
+    },
+    {
+      "class_number":2803,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"09\/09",
+      "end_date":"09\/09",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2803,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2803,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2803,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2803,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2803,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2804,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"09\/08",
+      "end_date":"09\/08",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2804,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2804,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2804,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2804,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2804,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2804,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"12\/01",
+      "end_date":"12\/01",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2805,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/11",
+      "end_date":"09\/11",
+      "enrollment_total":18,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2805,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/25",
+      "end_date":"09\/25",
+      "enrollment_total":18,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2805,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/09",
+      "end_date":"10\/09",
+      "enrollment_total":18,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2805,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":18,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2805,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/06",
+      "end_date":"11\/06",
+      "enrollment_total":18,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2805,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 103",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":18,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2806,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/08",
+      "end_date":"09\/08",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2806,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2806,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2806,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2806,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2806,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2806,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"12\/01",
+      "end_date":"12\/01",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2807,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 105",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"09\/08",
+      "end_date":"09\/08",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2807,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 105",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2807,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 105",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2807,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 105",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2807,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 105",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2807,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 105",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2807,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 105",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"12\/01",
+      "end_date":"12\/01",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2808,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 106",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/10",
+      "end_date":"09\/10",
+      "enrollment_total":18,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2808,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 106",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":18,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2808,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 106",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":18,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2808,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 106",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":18,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2808,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 106",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":18,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2808,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 106",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":18,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2809,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 107",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"09\/09",
+      "end_date":"09\/09",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2809,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 107",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2809,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 107",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2809,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 107",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2809,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 107",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2809,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 107",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2899,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 108",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2899,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 108",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2899,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 108",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"10\/13",
+      "end_date":"10\/13",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2899,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 108",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2899,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 108",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2899,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 108",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2930,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 109",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2930,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 109",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2930,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 109",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2930,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 109",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2930,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 109",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2930,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 109",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2966,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 110",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2966,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 110",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2966,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 110",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/13",
+      "end_date":"10\/13",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2966,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 110",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2966,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 110",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":2966,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 110",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":19,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3000,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 111",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/18",
+      "end_date":"09\/18",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3000,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 111",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/02",
+      "end_date":"10\/02",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3000,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 111",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/16",
+      "end_date":"10\/16",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3000,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 111",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/30",
+      "end_date":"10\/30",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3000,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 111",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/13",
+      "end_date":"11\/13",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3000,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 111",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/27",
+      "end_date":"11\/27",
+      "enrollment_total":20,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3001,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 112",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":16,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3001,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 112",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":16,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3001,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 112",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":16,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3001,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 112",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":16,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3001,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 112",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":16,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3001,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 112",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":16,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3015,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 113",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":21,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3015,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 113",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":21,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3015,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 113",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":21,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3015,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 113",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":21,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3015,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 113",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":21,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3015,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 113",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":21,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3050,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 114",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":12,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3050,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 114",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":12,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3050,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 114",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"10\/13",
+      "end_date":"10\/13",
+      "enrollment_total":12,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3050,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 114",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":12,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3050,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 114",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":12,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3050,
+      "subject":"KIN",
+      "catalog_number":"155",
+      "title":"Introduction to Neuroscience for Kinesiology",
+      "section":"LAB 114",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":12,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:02-05:00"
+    },
+    {
+      "class_number":3060,
+      "subject":"KIN",
+      "catalog_number":"458",
+      "title":"Social Neuroscience and Health",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Hall,Peter Anthony"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":3029,
+      "subject":"REC",
+      "catalog_number":"101",
+      "title":"Introduction to Recreation and Leisure Services",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Copeland,Robert Paul"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":3033,
+      "subject":"REC",
+      "catalog_number":"101",
+      "title":"Introduction to Recreation and Leisure Services",
+      "section":"TUT 107",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Copeland,Robert Paul"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":3034,
+      "subject":"REC",
+      "catalog_number":"101",
+      "title":"Introduction to Recreation and Leisure Services",
+      "section":"TUT 108",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Copeland,Robert Paul"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":3039,
+      "subject":"REC",
+      "catalog_number":"361",
+      "title":"Aging and Leisure",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Dupuis,Sherry"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":8080,
+      "subject":"REC",
+      "catalog_number":"361",
+      "title":"Aging and Leisure",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Dupuis,Sherry"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":3042,
+      "subject":"REC",
+      "catalog_number":"361",
+      "title":"Aging and Leisure",
+      "section":"SEM 103",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Dupuis,Sherry"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":8087,
+      "subject":"REC",
+      "catalog_number":"401",
+      "title":"Advanced Seminar on the Socio-Cultural and Behavioral Dimensions of Leisure",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Brayham,Angela"
+      ],
+      "building":"BMH",
+      "room":"1005",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:15-05:00"
+    }
+  ]
+}

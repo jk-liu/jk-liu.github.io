@@ -1,0 +1,414 @@
+{
+  "meta":{
+    "requests":2694,
+    "timestamp":1415081628,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8205,
+      "subject":"BET",
+      "catalog_number":"300",
+      "title":"Foundations of Venture Creation",
+      "section":"LEC 002",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Hurwitz,Marc"
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:50-05:00"
+    },
+    {
+      "class_number":6953,
+      "subject":"CHEM",
+      "catalog_number":"323",
+      "title":"Analytical Instrumentation",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Karanassios,Vassili"
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6657,
+      "subject":"CHEM",
+      "catalog_number":"464",
+      "title":"Spectroscopy in Organic Chemistry",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Murphy,Graham K"
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:24-05:00"
+    },
+    {
+      "class_number":6098,
+      "subject":"CO",
+      "catalog_number":"463",
+      "title":"Convex Optimization and Analysis",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Vavasis,Stephen"
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:31-05:00"
+    },
+    {
+      "class_number":6140,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 112",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5726,
+      "subject":"MATH",
+      "catalog_number":"249",
+      "title":"Introduction to Combinatorics (Advanced Level)",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Godsil,Christopher D"
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:14-05:00"
+    },
+    {
+      "class_number":7669,
+      "subject":"NE",
+      "catalog_number":"112",
+      "title":"Linear Algebra with Numerical Applications",
+      "section":"TUT 103",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Abukhdeir,Nasser Mohieddin"
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7673,
+      "subject":"NE",
+      "catalog_number":"115",
+      "title":"Probability and Statistics",
+      "section":"TUT 103",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":5015,
+      "subject":"NE",
+      "catalog_number":"121",
+      "title":"Chemical Principles",
+      "section":"TUT 103",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7677,
+      "subject":"NE",
+      "catalog_number":"216",
+      "title":"Advanced Calculus 1 for Nanotechnology Engineering",
+      "section":"TUT 103",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Teertstra,Peter Michael"
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4764,
+      "subject":"NE",
+      "catalog_number":"224",
+      "title":"Biochemistry for Nanotechnology Engineers",
+      "section":"TUT 103",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Daub,Elisabeth"
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4760,
+      "subject":"NE",
+      "catalog_number":"225",
+      "title":"Structure and Properties of Matter: From Nanoscale to Bulk",
+      "section":"TUT 103",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4851,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"TUT 103",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5728,
+      "subject":"STAT",
+      "catalog_number":"220",
+      "title":"Probability (Non-Specialist Level)",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:42-05:00"
+    },
+    {
+      "class_number":5729,
+      "subject":"STAT",
+      "catalog_number":"220",
+      "title":"Probability (Non-Specialist Level)",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:42-05:00"
+    },
+    {
+      "class_number":6153,
+      "subject":"STAT",
+      "catalog_number":"221",
+      "title":"Statistics (Non-Specialist Level)",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:42-05:00"
+    },
+    {
+      "class_number":6099,
+      "subject":"CO",
+      "catalog_number":"663",
+      "title":"Convex Optimization and  Analysis",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Vavasis,Stephen"
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:10-05:00"
+    },
+    {
+      "class_number":5114,
+      "subject":"ME",
+      "catalog_number":"780",
+      "title":"Special Topics in Mechatronics",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Fidan,Baris"
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:49-05:00"
+    },
+    {
+      "class_number":5071,
+      "subject":"NANO",
+      "catalog_number":"701",
+      "title":"Fundamentals of Nanotechnology",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"19:20",
+      "start_date":"09\/10",
+      "end_date":"10\/15",
+      "enrollment_total":37,
+      "instructors":[
+        "Tam,Michael Kam Chiu"
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:50-05:00"
+    },
+    {
+      "class_number":5072,
+      "subject":"NANO",
+      "catalog_number":"702",
+      "title":"Nanotechology Tools",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"19:20",
+      "start_date":"10\/22",
+      "end_date":"11\/26",
+      "enrollment_total":33,
+      "instructors":[
+        "Tam,Michael Kam Chiu"
+      ],
+      "building":"QNC",
+      "room":"2501",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:50-05:00"
+    }
+  ]
+}

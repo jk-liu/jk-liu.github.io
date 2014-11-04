@@ -1,0 +1,494 @@
+{
+  "meta":{
+    "requests":2408,
+    "timestamp":1415081540,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5992,
+      "subject":"ACTSC",
+      "catalog_number":"231",
+      "title":"Mathematics of Finance",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":285,
+      "instructors":[
+        "Freeland,R Keith"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:09-05:00"
+    },
+    {
+      "class_number":3610,
+      "subject":"AFM",
+      "catalog_number":"131",
+      "title":"Introduction to Business in North America",
+      "section":"LEC 004",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Ha,Manhhung David Nguyen"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:15-05:00"
+    },
+    {
+      "class_number":3669,
+      "subject":"AFM",
+      "catalog_number":"131",
+      "title":"Introduction to Business in North America",
+      "section":"LEC 005",
+      "weekdays":"TTh",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Ha,Manhhung David Nguyen"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:15-05:00"
+    },
+    {
+      "class_number":7876,
+      "subject":"AFM",
+      "catalog_number":"411",
+      "title":"Connections Across Competencies for Accounting Professionals",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":148,
+      "instructors":[
+        "Vert,David"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:21-05:00"
+    },
+    {
+      "class_number":7877,
+      "subject":"AFM",
+      "catalog_number":"411",
+      "title":"Connections Across Competencies for Accounting Professionals",
+      "section":"LEC 002",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":150,
+      "instructors":[
+        "Vert,David"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:21-05:00"
+    },
+    {
+      "class_number":5638,
+      "subject":"AMATH",
+      "catalog_number":"250",
+      "title":"Introduction to Differential Equations",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":219,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:27-05:00"
+    },
+    {
+      "class_number":3560,
+      "subject":"ARBUS",
+      "catalog_number":"101",
+      "title":"Introduction to Business in North America",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":232,
+      "instructors":[
+        "Ha,Manhhung David Nguyen"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:38-05:00"
+    },
+    {
+      "class_number":3670,
+      "subject":"ARBUS",
+      "catalog_number":"101",
+      "title":"Introduction to Business in North America",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":158,
+      "instructors":[
+        "Ha,Manhhung David Nguyen"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:38-05:00"
+    },
+    {
+      "class_number":6849,
+      "subject":"CHEM",
+      "catalog_number":"120",
+      "title":"Physical and Chemical Properties of Matter",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":355,
+      "instructors":[
+        "Oakley,Richard"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:20-05:00"
+    },
+    {
+      "class_number":5375,
+      "subject":"ENBUS",
+      "catalog_number":"102",
+      "title":"Introduction to Environment and Business",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":133,
+      "instructors":[
+        "Wood,Michael"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:02-05:00"
+    },
+    {
+      "class_number":5275,
+      "subject":"ENVS",
+      "catalog_number":"201",
+      "title":"Introduction to Canadian Environmental Law",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":296,
+      "instructors":[
+        "Craik,Alastair Neil"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":3766,
+      "subject":"INTST",
+      "catalog_number":"101",
+      "title":"Introduction to International Studies",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":176,
+      "instructors":[
+        "Habib,Jasmin"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:50-05:00"
+    },
+    {
+      "class_number":2999,
+      "subject":"KIN",
+      "catalog_number":"104",
+      "title":"Issues and Approaches in Kinesiology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":262,
+      "instructors":[
+        "McGill,Stuart M"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2811,
+      "subject":"KIN",
+      "catalog_number":"354",
+      "title":"Psychology of Physical Activity",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":247,
+      "instructors":[
+        "Hall,Peter Anthony"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:03-05:00"
+    },
+    {
+      "class_number":5903,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 005",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"09\/26",
+      "end_date":"09\/26",
+      "enrollment_total":136,
+      "instructors":[
+        "Penney,Jared"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5903,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 005",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"10\/10",
+      "end_date":"10\/10",
+      "enrollment_total":136,
+      "instructors":[
+        "Penney,Jared"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5903,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 005",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"10\/24",
+      "end_date":"10\/24",
+      "enrollment_total":136,
+      "instructors":[
+        "Penney,Jared"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5903,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 005",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"11\/07",
+      "end_date":"11\/07",
+      "enrollment_total":136,
+      "instructors":[
+        "Penney,Jared"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5903,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 005",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"11\/21",
+      "end_date":"11\/21",
+      "enrollment_total":136,
+      "instructors":[
+        "Penney,Jared"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":3142,
+      "subject":"PSYCH",
+      "catalog_number":"211",
+      "title":"Developmental Psychology",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":225,
+      "instructors":[
+        "Bloom,Kathleen"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:06-05:00"
+    },
+    {
+      "class_number":3143,
+      "subject":"PSYCH",
+      "catalog_number":"253",
+      "title":"Social Psychology",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":194,
+      "instructors":[
+        "Spencer,Stephen J"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:07-05:00"
+    },
+    {
+      "class_number":3144,
+      "subject":"PSYCH",
+      "catalog_number":"257",
+      "title":"Psychopathology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":343,
+      "instructors":[
+        "Moscovitch,David"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:07-05:00"
+    },
+    {
+      "class_number":3147,
+      "subject":"PSYCH",
+      "catalog_number":"291",
+      "title":"Basic Research Methods",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":265,
+      "instructors":[
+        "Henderson,Heather Anne"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:08-05:00"
+    },
+    {
+      "class_number":3910,
+      "subject":"SOC",
+      "catalog_number":"101",
+      "title":"Introduction to Sociology",
+      "section":"LEC 004",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":349,
+      "instructors":[
+        "Flagler-George,Jenny Rebecca"
+      ],
+      "building":"AL",
+      "room":"116",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:32-05:00"
+    }
+  ]
+}

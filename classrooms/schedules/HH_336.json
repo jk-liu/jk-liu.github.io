@@ -1,0 +1,234 @@
+{
+  "meta":{
+    "requests":2600,
+    "timestamp":1415081599,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8284,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"TUT 115",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Northcote,Graeme"
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":8287,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"TUT 118",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Riley,Meghan"
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":3194,
+      "subject":"ENGL",
+      "catalog_number":"251A",
+      "title":"Criticism 1",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Graham,Kenneth"
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:08-05:00"
+    },
+    {
+      "class_number":3197,
+      "subject":"ENGL",
+      "catalog_number":"251A",
+      "title":"Criticism 1",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Hirschkop,Kenneth"
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:08-05:00"
+    },
+    {
+      "class_number":7839,
+      "subject":"ENGL",
+      "catalog_number":"335",
+      "title":"Creative Writing 1",
+      "section":"WSP 002",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Snyder,Carrie Anne"
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:10-05:00"
+    },
+    {
+      "class_number":8041,
+      "subject":"PSCI",
+      "catalog_number":"100",
+      "title":"Politics I: Canadian Politics and Policy in Comparative Perspective",
+      "section":"DIS 101",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":8043,
+      "subject":"PSCI",
+      "catalog_number":"100",
+      "title":"Politics I: Canadian Politics and Policy in Comparative Perspective",
+      "section":"DIS 103",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":8045,
+      "subject":"PSCI",
+      "catalog_number":"100",
+      "title":"Politics I: Canadian Politics and Policy in Comparative Perspective",
+      "section":"DIS 105",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":8047,
+      "subject":"PSCI",
+      "catalog_number":"100",
+      "title":"Politics I: Canadian Politics and Policy in Comparative Perspective",
+      "section":"DIS 107",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":8051,
+      "subject":"PSCI",
+      "catalog_number":"100",
+      "title":"Politics I: Canadian Politics and Policy in Comparative Perspective",
+      "section":"DIS 111",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":3973,
+      "subject":"SPAN",
+      "catalog_number":"201B",
+      "title":"Intermediate Spanish 2",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Lam,Ibis"
+      ],
+      "building":"HH",
+      "room":"336",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    }
+  ]
+}

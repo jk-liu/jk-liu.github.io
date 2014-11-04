@@ -1,0 +1,854 @@
+{
+  "meta":{
+    "requests":2638,
+    "timestamp":1415081612,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3893,
+      "subject":"DUTCH",
+      "catalog_number":"101",
+      "title":"Elementary Dutch I",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "de Rooij-Mohle,Geertruida (Mar"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:43-05:00"
+    },
+    {
+      "class_number":7817,
+      "subject":"FR",
+      "catalog_number":"101",
+      "title":"Beginner French",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:23-05:00"
+    },
+    {
+      "class_number":7818,
+      "subject":"FR",
+      "catalog_number":"101",
+      "title":"Beginner French",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:23-05:00"
+    },
+    {
+      "class_number":3098,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Coakley,Laura Justine"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3099,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Johnson,Katelyn Victoria"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3100,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"LAB 103",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Ramakrishnan,Vivek"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3101,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"LAB 104",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Johnson,Katelyn Victoria"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3102,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Ramakrishnan,Vivek"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3103,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"LAB 106",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Gauthier,Lauren"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3104,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Coakley,Laura Justine"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3297,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"LAB 108",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Gauthier,Lauren"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3402,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"LAB 110",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Munroe,Kelly Lynn"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3403,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"LAB 111",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Munroe,Kelly Lynn"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3108,
+      "subject":"FR",
+      "catalog_number":"152",
+      "title":"Basic French 2",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3109,
+      "subject":"FR",
+      "catalog_number":"152",
+      "title":"Basic French 2",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3515,
+      "subject":"FR",
+      "catalog_number":"152",
+      "title":"Basic French 2",
+      "section":"LAB 104",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3516,
+      "subject":"FR",
+      "catalog_number":"152",
+      "title":"Basic French 2",
+      "section":"LAB 105",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3517,
+      "subject":"FR",
+      "catalog_number":"152",
+      "title":"Basic French 2",
+      "section":"LAB 106",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3406,
+      "subject":"FR",
+      "catalog_number":"203",
+      "title":"Introduction to Phonetics of French",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3407,
+      "subject":"FR",
+      "catalog_number":"203",
+      "title":"Introduction to Phonetics of French",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3537,
+      "subject":"FR",
+      "catalog_number":"203",
+      "title":"Introduction to Phonetics of French",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3953,
+      "subject":"FR",
+      "catalog_number":"203",
+      "title":"Introduction to Phonetics of French",
+      "section":"LAB 104",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3894,
+      "subject":"GER",
+      "catalog_number":"101",
+      "title":"Elementary German I",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Betz,Emma"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:35-05:00"
+    },
+    {
+      "class_number":3895,
+      "subject":"GER",
+      "catalog_number":"101",
+      "title":"Elementary German I",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Schlein,Friederike"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:35-05:00"
+    },
+    {
+      "class_number":3896,
+      "subject":"GER",
+      "catalog_number":"101",
+      "title":"Elementary German I",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Rocker,Maike"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:35-05:00"
+    },
+    {
+      "class_number":3897,
+      "subject":"GER",
+      "catalog_number":"101",
+      "title":"Elementary German I",
+      "section":"LAB 104",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Rocker,Maike"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:35-05:00"
+    },
+    {
+      "class_number":3898,
+      "subject":"GER",
+      "catalog_number":"101",
+      "title":"Elementary German I",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"19:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Hirstein,Mario"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:35-05:00"
+    },
+    {
+      "class_number":3825,
+      "subject":"GER",
+      "catalog_number":"102",
+      "title":"Elementary German II",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:35-05:00"
+    },
+    {
+      "class_number":7224,
+      "subject":"ITAL",
+      "catalog_number":"101",
+      "title":"Introduction to Italian Language 1",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:56-05:00"
+    },
+    {
+      "class_number":7225,
+      "subject":"ITAL",
+      "catalog_number":"101",
+      "title":"Introduction to Italian Language 1",
+      "section":"LAB 102",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:56-05:00"
+    },
+    {
+      "class_number":7230,
+      "subject":"ITAL",
+      "catalog_number":"101",
+      "title":"Introduction to Italian Language 1",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:56-05:00"
+    },
+    {
+      "class_number":7231,
+      "subject":"ITAL",
+      "catalog_number":"101",
+      "title":"Introduction to Italian Language 1",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:56-05:00"
+    },
+    {
+      "class_number":3887,
+      "subject":"RUSS",
+      "catalog_number":"101",
+      "title":"Elementary Russian I",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Reichert,Tetyana"
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:22-05:00"
+    },
+    {
+      "class_number":3229,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3230,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3231,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3232,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3425,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LAB 105",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3426,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LAB 106",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3427,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LAB 107",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3428,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LAB 108",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3235,
+      "subject":"SPAN",
+      "catalog_number":"102",
+      "title":"Introduction to Spanish 2",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"109",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    }
+  ]
+}

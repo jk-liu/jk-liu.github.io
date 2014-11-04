@@ -1,0 +1,74 @@
+{
+  "meta":{
+    "requests":2522,
+    "timestamp":1415081576,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7250,
+      "subject":"STV",
+      "catalog_number":"203",
+      "title":"Biotechnology and Society",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Shelley,Cameron P"
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:45-05:00"
+    },
+    {
+      "class_number":7321,
+      "subject":"STV",
+      "catalog_number":"302",
+      "title":"Information Technology and Society",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Campbell,Scott Martin"
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:45-05:00"
+    },
+    {
+      "class_number":4672,
+      "subject":"SYDE",
+      "catalog_number":"677",
+      "title":"Medical Imaging",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Tizhoosh,Hamid R."
+      ],
+      "building":"E5",
+      "room":"6002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:16-05:00"
+    }
+  ]
+}

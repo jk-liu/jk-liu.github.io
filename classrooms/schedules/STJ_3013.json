@@ -1,0 +1,114 @@
+{
+  "meta":{
+    "requests":2743,
+    "timestamp":1415081643,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7707,
+      "subject":"CLAS",
+      "catalog_number":"461",
+      "title":"Studies in Ancient Philosophy",
+      "section":"SEM 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Gregoire,Stephanie"
+      ],
+      "building":"STJ",
+      "room":"3013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:29-05:00"
+    },
+    {
+      "class_number":7708,
+      "subject":"PHIL",
+      "catalog_number":"403",
+      "title":"Studies in Ancient Philosophy",
+      "section":"SEM 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Gregoire,Stephanie"
+      ],
+      "building":"STJ",
+      "room":"3013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:49-05:00"
+    },
+    {
+      "class_number":7229,
+      "subject":"SMF",
+      "catalog_number":"460",
+      "title":"Practicum and Professional Ethics",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "De Santis,Carmela"
+      ],
+      "building":"STJ",
+      "room":"3013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:31-05:00"
+    },
+    {
+      "class_number":4143,
+      "subject":"ENGL",
+      "catalog_number":"735",
+      "title":"Studies in Modern British Literature",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Williams,David-Antoine"
+      ],
+      "building":"STJ",
+      "room":"3013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:26-05:00"
+    },
+    {
+      "class_number":7825,
+      "subject":"ENGL",
+      "catalog_number":"780",
+      "title":"Studies in Genre",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Acton,Carol"
+      ],
+      "building":"STJ",
+      "room":"3013",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:27-05:00"
+    }
+  ]
+}

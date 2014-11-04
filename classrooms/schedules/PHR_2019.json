@@ -1,0 +1,134 @@
+{
+  "meta":{
+    "requests":2675,
+    "timestamp":1415081622,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7991,
+      "subject":"PHARM",
+      "catalog_number":"232",
+      "title":"Medical Microbiology",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"09:00",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Wasfi,Olla"
+      ],
+      "building":"PHR",
+      "room":"2019",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:44-05:00"
+    },
+    {
+      "class_number":8297,
+      "subject":"PHARM",
+      "catalog_number":"232",
+      "title":"Medical Microbiology",
+      "section":"LAB 002",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Wasfi,Olla"
+      ],
+      "building":"PHR",
+      "room":"2019",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:44-05:00"
+    },
+    {
+      "class_number":8298,
+      "subject":"PHARM",
+      "catalog_number":"232",
+      "title":"Medical Microbiology",
+      "section":"LAB 003",
+      "weekdays":"T",
+      "start_time":"12:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Wasfi,Olla"
+      ],
+      "building":"PHR",
+      "room":"2019",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:44-05:00"
+    },
+    {
+      "class_number":7017,
+      "subject":"PHARM",
+      "catalog_number":"233L",
+      "title":"Medical Microbiology Laboratory 2",
+      "section":"LAB 001",
+      "weekdays":"W",
+      "start_time":"09:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Wasfi,Olla"
+      ],
+      "building":"PHR",
+      "room":"2019",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:44-05:00"
+    },
+    {
+      "class_number":7018,
+      "subject":"PHARM",
+      "catalog_number":"233L",
+      "title":"Medical Microbiology Laboratory 2",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Wasfi,Olla"
+      ],
+      "building":"PHR",
+      "room":"2019",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:44-05:00"
+    },
+    {
+      "class_number":7019,
+      "subject":"PHARM",
+      "catalog_number":"233L",
+      "title":"Medical Microbiology Laboratory 2",
+      "section":"LAB 003",
+      "weekdays":"W",
+      "start_time":"14:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Wasfi,Olla"
+      ],
+      "building":"PHR",
+      "room":"2019",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:44-05:00"
+    }
+  ]
+}

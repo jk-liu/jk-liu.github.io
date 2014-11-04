@@ -1,0 +1,174 @@
+{
+  "meta":{
+    "requests":2418,
+    "timestamp":1415081543,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5070,
+      "subject":"ARCH",
+      "catalog_number":"385",
+      "title":"Architectural Research",
+      "section":"RDG 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Beesley,Phillip"
+      ],
+      "building":"ARC",
+      "room":"2008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    },
+    {
+      "class_number":5076,
+      "subject":"ARCH",
+      "catalog_number":"385",
+      "title":"Architectural Research",
+      "section":"RDG 002",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Blackwell,Adrian Walter H"
+      ],
+      "building":"ARC",
+      "room":"2008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    },
+    {
+      "class_number":8407,
+      "subject":"ARCH",
+      "catalog_number":"385",
+      "title":"Architectural Research",
+      "section":"RDG 003",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        
+      ],
+      "building":"ARC",
+      "room":"2008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    },
+    {
+      "class_number":8408,
+      "subject":"ARCH",
+      "catalog_number":"385",
+      "title":"Architectural Research",
+      "section":"RDG 004",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "McMinn,John"
+      ],
+      "building":"ARC",
+      "room":"2008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:44-05:00"
+    },
+    {
+      "class_number":8415,
+      "subject":"ARCH",
+      "catalog_number":"684",
+      "title":"Special Topics in Architecture",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Beesley,Phillip"
+      ],
+      "building":"ARC",
+      "room":"2008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:01-05:00"
+    },
+    {
+      "class_number":8416,
+      "subject":"ARCH",
+      "catalog_number":"684",
+      "title":"Special Topics in Architecture",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Blackwell,Adrian Walter H"
+      ],
+      "building":"ARC",
+      "room":"2008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:01-05:00"
+    },
+    {
+      "class_number":8417,
+      "subject":"ARCH",
+      "catalog_number":"684",
+      "title":"Special Topics in Architecture",
+      "section":"LEC 003",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Ibelings,Johannes"
+      ],
+      "building":"ARC",
+      "room":"2008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:01-05:00"
+    },
+    {
+      "class_number":8418,
+      "subject":"ARCH",
+      "catalog_number":"684",
+      "title":"Special Topics in Architecture",
+      "section":"LEC 004",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "McMinn,John"
+      ],
+      "building":"ARC",
+      "room":"2008",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:01-05:00"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "meta":{
+    "requests":2452,
+    "timestamp":1415081554,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7624,
+      "subject":"HIST",
+      "catalog_number":"111",
+      "title":"A History of the Western World II",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Osborne,Troy"
+      ],
+      "building":"CGR",
+      "room":"1111",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:40-05:00"
+    },
+    {
+      "class_number":3822,
+      "subject":"HIST",
+      "catalog_number":"232",
+      "title":"A History of Peace Movements",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Epp,Marlene G"
+      ],
+      "building":"CGR",
+      "room":"1111",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:40-05:00"
+    },
+    {
+      "class_number":4361,
+      "subject":"MUSIC",
+      "catalog_number":"100",
+      "title":"Understanding Music",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":115,
+      "instructors":[
+        "Brownell,John"
+      ],
+      "building":"CGR",
+      "room":"1111",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:24-05:00"
+    },
+    {
+      "class_number":4362,
+      "subject":"MUSIC",
+      "catalog_number":"100",
+      "title":"Understanding Music",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":103,
+      "instructors":[
+        "Lacoste,Debra"
+      ],
+      "building":"CGR",
+      "room":"1111",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:24-05:00"
+    },
+    {
+      "class_number":4400,
+      "subject":"PACS",
+      "catalog_number":"203",
+      "title":"A History of Peace Movements",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Epp,Marlene G"
+      ],
+      "building":"CGR",
+      "room":"1111",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:38-05:00"
+    },
+    {
+      "class_number":3928,
+      "subject":"RS",
+      "catalog_number":"130",
+      "title":"The Bible: History, Literature, and Scripture",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Suderman,Derek"
+      ],
+      "building":"CGR",
+      "room":"1111",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:18-05:00"
+    },
+    {
+      "class_number":3215,
+      "subject":"SOC",
+      "catalog_number":"101",
+      "title":"Introduction to Sociology",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":115,
+      "instructors":[
+        "Janzen,Ed"
+      ],
+      "building":"CGR",
+      "room":"1111",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:32-05:00"
+    }
+  ]
+}

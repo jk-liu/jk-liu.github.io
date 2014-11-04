@@ -1,0 +1,754 @@
+{
+  "meta":{
+    "requests":2468,
+    "timestamp":1415081558,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8328,
+      "subject":"ARBUS",
+      "catalog_number":"300",
+      "title":"Practical Business Skills",
+      "section":"PRA 101",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":204,
+      "instructors":[
+        
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:39-05:00"
+    },
+    {
+      "class_number":6899,
+      "subject":"CHEM",
+      "catalog_number":"220",
+      "title":"Intro Analytical Chemistry",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":219,
+      "instructors":[
+        "Mikkelsen,Susan R"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:21-05:00"
+    },
+    {
+      "class_number":6981,
+      "subject":"CHEM",
+      "catalog_number":"264",
+      "title":"Organic Chemistry 1",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":245,
+      "instructors":[
+        "Chong,Michael J."
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":7583,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":97,
+      "instructors":[
+        "Graham,Sandra Lynn"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":3767,
+      "subject":"ECON",
+      "catalog_number":"101",
+      "title":"Introduction to Microeconomics",
+      "section":"LEC 006",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":252,
+      "instructors":[
+        "Fatima,Nafeez"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:55-05:00"
+    },
+    {
+      "class_number":3189,
+      "subject":"ECON",
+      "catalog_number":"102",
+      "title":"Introduction to Macroeconomics",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":249,
+      "instructors":[
+        "Vaughan,Maryann"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:56-05:00"
+    },
+    {
+      "class_number":5075,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 009",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/18",
+      "end_date":"09\/18",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":5075,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 009",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/02",
+      "end_date":"10\/02",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":5075,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 009",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/30",
+      "end_date":"10\/30",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":5117,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 010",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"09\/18",
+      "end_date":"09\/18",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":5117,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 010",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/02",
+      "end_date":"10\/02",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":5117,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 010",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":"10\/30",
+      "end_date":"10\/30",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":6015,
+      "subject":"MATH",
+      "catalog_number":"124",
+      "title":"Calculus and Vector Algebra for Kinesiology",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":210,
+      "instructors":[
+        "Alwan,Mohamad S."
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5688,
+      "subject":"MATH",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
+      "section":"LEC 006",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":237,
+      "instructors":[
+        "Pretti,John-Paul C"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":5699,
+      "subject":"MATH",
+      "catalog_number":"137",
+      "title":"Calculus 1 for Honours Mathematics",
+      "section":"LEC 008",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":193,
+      "instructors":[
+        "Hewitt,Conrad G"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":6069,
+      "subject":"MATH",
+      "catalog_number":"137",
+      "title":"Calculus 1 for Honours Mathematics",
+      "section":"LEC 009",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":155,
+      "instructors":[
+        "Alaghmandan,Mahmood"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":5615,
+      "subject":"MATH",
+      "catalog_number":"228",
+      "title":"Differential Equations for Physics and Chemistry",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":91,
+      "instructors":[
+        "Vass,Jozsef"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:13-05:00"
+    },
+    {
+      "class_number":4662,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":102,
+      "instructors":[
+        "Baleshta,James Robert"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":4662,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":102,
+      "instructors":[
+        "Melek,William"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":8156,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 002",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":92,
+      "instructors":[
+        "Baleshta,James Robert"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":8156,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":92,
+      "instructors":[
+        "Baleshta,James Robert"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":6660,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":199,
+      "instructors":[
+        "Hawthorn,David"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:52-05:00"
+    },
+    {
+      "class_number":6692,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"LEC 003",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/26",
+      "end_date":"09\/26",
+      "enrollment_total":184,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6692,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"LEC 003",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/10",
+      "end_date":"10\/10",
+      "enrollment_total":184,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6692,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"LEC 003",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/24",
+      "end_date":"10\/24",
+      "enrollment_total":184,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6692,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"LEC 003",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/07",
+      "end_date":"11\/07",
+      "enrollment_total":184,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6692,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"LEC 003",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/21",
+      "end_date":"11\/21",
+      "enrollment_total":184,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":5431,
+      "subject":"PLAN",
+      "catalog_number":"104",
+      "title":"Perspectives on Planning",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":132,
+      "instructors":[
+        "Drescher,Michael"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:58-05:00"
+    },
+    {
+      "class_number":3148,
+      "subject":"PSYCH",
+      "catalog_number":"338",
+      "title":"Organizational Psychology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":109,
+      "instructors":[
+        "Brown,Douglas J"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:09-05:00"
+    },
+    {
+      "class_number":2884,
+      "subject":"REC",
+      "catalog_number":"101",
+      "title":"Introduction to Recreation and Leisure Services",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":175,
+      "instructors":[
+        "Copeland,Robert Paul"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":8414,
+      "subject":"SCI",
+      "catalog_number":"200",
+      "title":"Energy - Its Development, Use and Issues",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        "Dymock,Kenneth Robert"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:23-05:00"
+    },
+    {
+      "class_number":6658,
+      "subject":"SCI",
+      "catalog_number":"237",
+      "title":"Exploring the Universe",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "McNamara,Brian"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:24-05:00"
+    },
+    {
+      "class_number":5853,
+      "subject":"STAT",
+      "catalog_number":"206",
+      "title":"Statistics for Software Engineering",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":148,
+      "instructors":[
+        "Roberts,Collin Donald"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:42-05:00"
+    },
+    {
+      "class_number":6152,
+      "subject":"STAT",
+      "catalog_number":"221",
+      "title":"Statistics (Non-Specialist Level)",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Adcock,James"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:42-05:00"
+    },
+    {
+      "class_number":5733,
+      "subject":"STAT",
+      "catalog_number":"231",
+      "title":"Statistics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":228,
+      "instructors":[
+        "Adcock,James"
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:43-05:00"
+    },
+    {
+      "class_number":8230,
+      "subject":"STAT",
+      "catalog_number":"231",
+      "title":"Statistics",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":245,
+      "instructors":[
+        
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:43-05:00"
+    },
+    {
+      "class_number":5918,
+      "subject":"STAT",
+      "catalog_number":"330",
+      "title":"Mathematical Statistics",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":206,
+      "instructors":[
+        
+      ],
+      "building":"DC",
+      "room":"1351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:43-05:00"
+    }
+  ]
+}

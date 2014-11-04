@@ -1,0 +1,74 @@
+{
+  "meta":{
+    "requests":2479,
+    "timestamp":1415081562,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3837,
+      "subject":"DEI",
+      "catalog_number":"614",
+      "title":"Principles of Marketing in a Globalized World: Leveraging Digital Technology",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"16:00",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Rodenburg,Kathleen"
+      ],
+      "building":"DMS",
+      "room":"3129",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:16-05:00"
+    },
+    {
+      "class_number":7612,
+      "subject":"DEI",
+      "catalog_number":"615",
+      "title":"New Perspectives: Media History and Analysis",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"16:00",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Voorhees,Gerald"
+      ],
+      "building":"DMS",
+      "room":"3129",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:16-05:00"
+    },
+    {
+      "class_number":3991,
+      "subject":"DEI",
+      "catalog_number":"625",
+      "title":"Media Innovation and Impact",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"17:00",
+      "end_time":"19:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Drummond,Glen Sinclair"
+      ],
+      "building":"DMS",
+      "room":"3129",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:16-05:00"
+    }
+  ]
+}

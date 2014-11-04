@@ -1,0 +1,374 @@
+{
+  "meta":{
+    "requests":2660,
+    "timestamp":1415081618,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3785,
+      "subject":"ANTH",
+      "catalog_number":"352",
+      "title":"Anthropological Thought",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Hayes,Nicole"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:35-05:00"
+    },
+    {
+      "class_number":3885,
+      "subject":"CLAS",
+      "catalog_number":"251",
+      "title":"Greek History",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Porter,Robert LL"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:29-05:00"
+    },
+    {
+      "class_number":3203,
+      "subject":"ECON",
+      "catalog_number":"341",
+      "title":"Public Economics: Expenditure",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Packalen,Mikko"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:58-05:00"
+    },
+    {
+      "class_number":3096,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Sabaryn,Therese"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3105,
+      "subject":"FR",
+      "catalog_number":"152",
+      "title":"Basic French 2",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Petrescu,Maria"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":5346,
+      "subject":"GEOG",
+      "catalog_number":"300",
+      "title":"Geomorphology and the Southern Ontario Environment",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "McKenzie,Ian"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:32-05:00"
+    },
+    {
+      "class_number":5481,
+      "subject":"GEOG",
+      "catalog_number":"316",
+      "title":"Multivariate Statistics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Duguay,Claude R"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:33-05:00"
+    },
+    {
+      "class_number":3879,
+      "subject":"HIST",
+      "catalog_number":"242",
+      "title":"Greek History",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Porter,Robert LL"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":7772,
+      "subject":"HIST",
+      "catalog_number":"389",
+      "title":"Canada in World Affairs",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Muirhead,Bruce"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:43-05:00"
+    },
+    {
+      "class_number":5482,
+      "subject":"PLAN",
+      "catalog_number":"351",
+      "title":"Multivariate Statistics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Duguay,Claude R"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:58-05:00"
+    },
+    {
+      "class_number":3586,
+      "subject":"RS",
+      "catalog_number":"216",
+      "title":"Islam",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Khimjee,Husein"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:19-05:00"
+    },
+    {
+      "class_number":7684,
+      "subject":"RS",
+      "catalog_number":"325",
+      "title":"Sex and the World Religions",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Jakobsh,Doris Ruth"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:21-05:00"
+    },
+    {
+      "class_number":3216,
+      "subject":"SOC",
+      "catalog_number":"202",
+      "title":"Introduction to Classical Theory",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Helmes-Hayes,Richard C"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:32-05:00"
+    },
+    {
+      "class_number":4186,
+      "subject":"SOC",
+      "catalog_number":"248",
+      "title":"Health, Illness and Society",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Dong,Weizhen"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:33-05:00"
+    },
+    {
+      "class_number":8124,
+      "subject":"SPCOM",
+      "catalog_number":"223",
+      "title":"Public Speaking",
+      "section":"LEC 010",
+      "weekdays":"WF",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Shakespeare,Robert David"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":7683,
+      "subject":"WS",
+      "catalog_number":"320",
+      "title":"Sex and the World Religions",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Jakobsh,Doris Ruth"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:55-05:00"
+    },
+    {
+      "class_number":5530,
+      "subject":"GEMCC",
+      "catalog_number":"602",
+      "title":"Climate Change Vulnerability and Adaptation",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Wandel,Johanna"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:30-05:00"
+    },
+    {
+      "class_number":5536,
+      "subject":"GEOG",
+      "catalog_number":"676",
+      "title":"Climate Change Vulnerability and Adaptation",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Wandel,Johanna"
+      ],
+      "building":"PAS",
+      "room":"1241",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:32-05:00"
+    }
+  ]
+}

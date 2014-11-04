@@ -1,0 +1,734 @@
+{
+  "meta":{
+    "requests":2696,
+    "timestamp":1415081628,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4852,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/10",
+      "end_date":"09\/10",
+      "enrollment_total":17,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4852,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":17,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4852,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":17,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4852,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":17,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4852,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":17,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4852,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":17,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4853,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/12",
+      "end_date":"09\/12",
+      "enrollment_total":16,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4853,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/26",
+      "end_date":"09\/26",
+      "enrollment_total":16,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4853,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/10",
+      "end_date":"10\/10",
+      "enrollment_total":16,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4853,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/24",
+      "end_date":"10\/24",
+      "enrollment_total":16,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4853,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/07",
+      "end_date":"11\/07",
+      "enrollment_total":16,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4853,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/21",
+      "end_date":"11\/21",
+      "enrollment_total":16,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4854,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/08",
+      "end_date":"09\/08",
+      "enrollment_total":16,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4854,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":16,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4854,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":16,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4854,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":16,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4854,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":16,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4854,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":16,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5129,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5129,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5129,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5129,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5129,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5129,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5130,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 205",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/19",
+      "end_date":"09\/19",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5130,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 205",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/03",
+      "end_date":"10\/03",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5130,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 205",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/17",
+      "end_date":"10\/17",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5130,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 205",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5130,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 205",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/14",
+      "end_date":"11\/14",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5130,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 205",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/28",
+      "end_date":"11\/28",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5131,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 206",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5131,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 206",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5131,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 206",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5131,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 206",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5131,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 206",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":5131,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LAB 206",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"12\/01",
+      "end_date":"12\/01",
+      "enrollment_total":15,
+      "instructors":[
+        "Saad,John Farid Hanna"
+      ],
+      "building":"QNC",
+      "room":"2611",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    }
+  ]
+}

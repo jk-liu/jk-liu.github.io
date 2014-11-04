@@ -1,0 +1,254 @@
+{
+  "meta":{
+    "requests":2494,
+    "timestamp":1415081567,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8258,
+      "subject":"BASE",
+      "catalog_number":"44",
+      "title":"Writing Skills",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":8210,
+      "subject":"BET",
+      "catalog_number":"310",
+      "title":"Entrprise Coop Entre Plan Exec",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Hurwitz,Marc"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:50-05:00"
+    },
+    {
+      "class_number":8212,
+      "subject":"BET",
+      "catalog_number":"410A",
+      "title":"Cap Entre Planning Exec Pt 1",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:50-05:00"
+    },
+    {
+      "class_number":7928,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 010",
+      "weekdays":"MTTh",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "White,Stephanie"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":7931,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 013",
+      "weekdays":"MTTh",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "White,Stephanie"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":3641,
+      "subject":"ENGL",
+      "catalog_number":"251A",
+      "title":"Criticism 1",
+      "section":"LEC 005",
+      "weekdays":"TThF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "McArthur,Murray"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:08-05:00"
+    },
+    {
+      "class_number":8491,
+      "subject":"ESL",
+      "catalog_number":"129R",
+      "title":"Written Academic English",
+      "section":"LEC 007",
+      "weekdays":"Th",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":3285,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"LEC 004",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Mazoyer,Alexandre"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":4572,
+      "subject":"ME",
+      "catalog_number":"100",
+      "title":"Introduction to Mechanical Engineering Practice 1",
+      "section":"TUT 204",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:15-05:00"
+    },
+    {
+      "class_number":4993,
+      "subject":"ME",
+      "catalog_number":"632",
+      "title":"Experimental Methods in Materials Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Gerlich,Adrian"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:47-05:00"
+    },
+    {
+      "class_number":4994,
+      "subject":"ME",
+      "catalog_number":"770",
+      "title":"Special Topics in Numerical Methods, Fluid Flow and Heat Transfer",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Peterson,Sean"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:48-05:00"
+    },
+    {
+      "class_number":5234,
+      "subject":"SYDE",
+      "catalog_number":"750",
+      "title":"Topics in Systems Modelling",
+      "section":"SEM 003",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Abdel-Rahman,Eihab"
+      ],
+      "building":"DWE",
+      "room":"3519",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:16-05:00"
+    }
+  ]
+}

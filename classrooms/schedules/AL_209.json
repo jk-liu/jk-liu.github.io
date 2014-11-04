@@ -1,0 +1,434 @@
+{
+  "meta":{
+    "requests":2411,
+    "timestamp":1415081541,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8249,
+      "subject":"BASE",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":7804,
+      "subject":"DRAMA",
+      "catalog_number":"331",
+      "title":"Design for the Theatre 1",
+      "section":"STU 001",
+      "weekdays":"TF",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:42-05:00"
+    },
+    {
+      "class_number":7816,
+      "subject":"DRAMA",
+      "catalog_number":"380",
+      "title":"Canadian Drama",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Keleta-Mae,Naila"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:42-05:00"
+    },
+    {
+      "class_number":8246,
+      "subject":"EFAS",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 003",
+      "weekdays":"Th",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":7815,
+      "subject":"ENGL",
+      "catalog_number":"316",
+      "title":"Canadian Drama",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:10-05:00"
+    },
+    {
+      "class_number":5466,
+      "subject":"ERS",
+      "catalog_number":"311",
+      "title":"Environmental Research Project I: Systems Thinking for Interdisciplinary Research",
+      "section":"TUT 106",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":5325,
+      "subject":"ERS",
+      "catalog_number":"315",
+      "title":"Environmental and Sustainability Assessment II",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":7805,
+      "subject":"FINE",
+      "catalog_number":"335",
+      "title":"Design for the Theatre 1",
+      "section":"STU 001",
+      "weekdays":"TF",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:21-05:00"
+    },
+    {
+      "class_number":3935,
+      "subject":"FR",
+      "catalog_number":"151",
+      "title":"Basic French 1",
+      "section":"TUT 202",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Coakley,Laura Justine"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3251,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"ORL 102",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3818,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"ORL 105",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":4167,
+      "subject":"LAT",
+      "catalog_number":"331",
+      "title":"Advanced Readings in Latin: Prose",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Coskun,Altay"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:06-05:00"
+    },
+    {
+      "class_number":4169,
+      "subject":"LAT",
+      "catalog_number":"490",
+      "title":"Senior Studies in Latin: Selected Topics",
+      "section":"RDG 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Coskun,Altay"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:06-05:00"
+    },
+    {
+      "class_number":5427,
+      "subject":"PLAN",
+      "catalog_number":"102",
+      "title":"Professional Communication",
+      "section":"TUT 105",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:57-05:00"
+    },
+    {
+      "class_number":5428,
+      "subject":"PLAN",
+      "catalog_number":"102",
+      "title":"Professional Communication",
+      "section":"TUT 106",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:57-05:00"
+    },
+    {
+      "class_number":4084,
+      "subject":"PSCI",
+      "catalog_number":"402",
+      "title":"Politics of International Trade",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Rus,Horatiu"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:04-05:00"
+    },
+    {
+      "class_number":3964,
+      "subject":"PSCI",
+      "catalog_number":"423",
+      "title":"Democratic Theory and Practice",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Drake,Anna Marie"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:04-05:00"
+    },
+    {
+      "class_number":3830,
+      "subject":"PSCI",
+      "catalog_number":"461",
+      "title":"Canadian National Politics",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Esselment,Anna L."
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:04-05:00"
+    },
+    {
+      "class_number":4085,
+      "subject":"GGOV",
+      "catalog_number":"619",
+      "title":"Readings in Global Political Economy",
+      "section":"RDG 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Rus,Horatiu"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:35-05:00"
+    },
+    {
+      "class_number":3965,
+      "subject":"PSCI",
+      "catalog_number":"623",
+      "title":"Democratic Theory and Practice",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Drake,Anna Marie"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:03-05:00"
+    },
+    {
+      "class_number":4083,
+      "subject":"PSCI",
+      "catalog_number":"683",
+      "title":"Topics in International Political Economy",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Rus,Horatiu"
+      ],
+      "building":"AL",
+      "room":"209",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:03-05:00"
+    }
+  ]
+}

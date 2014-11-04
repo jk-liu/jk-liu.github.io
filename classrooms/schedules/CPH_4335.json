@@ -1,0 +1,290 @@
+{
+  "meta":{
+    "requests":2466,
+    "timestamp":1415081558,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4841,
+      "subject":"MSCI",
+      "catalog_number":"240",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Dalgic,Ozden Onur"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4842,
+      "subject":"MSCI",
+      "catalog_number":"240",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Dalgic,Ozden Onur"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4843,
+      "subject":"MSCI",
+      "catalog_number":"240",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 203",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Dalgic,Ozden Onur"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4950,
+      "subject":"MSCI",
+      "catalog_number":"333",
+      "title":"Simulation Analysis and Design",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Dua,Ekta",
+        "Sleiman,Sarah",
+        "Dalgic,Ozden Onur"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":5166,
+      "subject":"MSCI",
+      "catalog_number":"333",
+      "title":"Simulation Analysis and Design",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Dua,Ekta",
+        "Sleiman,Sarah",
+        "Dalgic,Ozden Onur"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4951,
+      "subject":"MSCI",
+      "catalog_number":"333",
+      "title":"Simulation Analysis and Design",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Dua,Ekta",
+        "Sleiman,Sarah",
+        "Dalgic,Ozden Onur"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":5168,
+      "subject":"MSCI",
+      "catalog_number":"333",
+      "title":"Simulation Analysis and Design",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Puri,Simran",
+        "Sleiman,Sarah",
+        "Dalgic,Ozden Onur"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4953,
+      "subject":"MSCI",
+      "catalog_number":"342",
+      "title":"Principles of Software Engineering",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Dua,Ekta",
+        "Sleiman,Sarah",
+        "Dalgic,Ozden Onur"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":5170,
+      "subject":"MSCI",
+      "catalog_number":"342",
+      "title":"Principles of Software Engineering",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Dua,Ekta",
+        "Sleiman,Sarah",
+        "Dalgic,Ozden Onur"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4954,
+      "subject":"MSCI",
+      "catalog_number":"342",
+      "title":"Principles of Software Engineering",
+      "section":"LAB 201",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Dua,Ekta",
+        "Sleiman,Sarah",
+        "Dalgic,Ozden Onur"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":5172,
+      "subject":"MSCI",
+      "catalog_number":"342",
+      "title":"Principles of Software Engineering",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Puri,Simran",
+        "Sleiman,Sarah",
+        "Dalgic,Ozden Onur"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4957,
+      "subject":"MSCI",
+      "catalog_number":"343",
+      "title":"Human-Computer Interaction",
+      "section":"LAB 201",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Goyal,Nippun"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4958,
+      "subject":"MSCI",
+      "catalog_number":"343",
+      "title":"Human-Computer Interaction",
+      "section":"LAB 202",
+      "weekdays":"F",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Goyal,Nippun"
+      ],
+      "building":"CPH",
+      "room":"4335",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    }
+  ]
+}

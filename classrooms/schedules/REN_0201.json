@@ -1,0 +1,354 @@
+{
+  "meta":{
+    "requests":2724,
+    "timestamp":1415081637,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8250,
+      "subject":"BASE",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":7945,
+      "subject":"EASIA",
+      "catalog_number":"205R",
+      "title":"Religion in East Asia",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Wilson,Jeff"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:46-05:00"
+    },
+    {
+      "class_number":8245,
+      "subject":"EFAS",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 003",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":8247,
+      "subject":"EFAS",
+      "catalog_number":"36",
+      "title":"Oral Skills",
+      "section":"LEC 003",
+      "weekdays":"T",
+      "start_time":"09:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":7947,
+      "subject":"ENGL",
+      "catalog_number":"306A",
+      "title":"Introduction to Linguistics",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"19:00",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Afros,Elena"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:09-05:00"
+    },
+    {
+      "class_number":7949,
+      "subject":"ESL",
+      "catalog_number":"101R",
+      "title":"Oral Communications for Academic Purposes",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Schuller,Christa"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":7950,
+      "subject":"ESL",
+      "catalog_number":"101R",
+      "title":"Oral Communications for Academic Purposes",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Schuller,Christa"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":8373,
+      "subject":"ESL",
+      "catalog_number":"101R",
+      "title":"Oral Communications for Academic Purposes",
+      "section":"LEC 005",
+      "weekdays":"TF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Astley,Joanne"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":8374,
+      "subject":"ESL",
+      "catalog_number":"101R",
+      "title":"Oral Communications for Academic Purposes",
+      "section":"LEC 006",
+      "weekdays":"TWF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Astley,Joanne"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":6449,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Heeney,Margaret Christine"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":6526,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 006",
+      "weekdays":"M",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Smithwick,Neal Andrew"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":7946,
+      "subject":"RS",
+      "catalog_number":"201",
+      "title":"Religion in East Asia",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Wilson,Jeff"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:19-05:00"
+    },
+    {
+      "class_number":8229,
+      "subject":"RS",
+      "catalog_number":"219",
+      "title":"Religion in America",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Wilson,Jeff"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:19-05:00"
+    },
+    {
+      "class_number":7980,
+      "subject":"SI",
+      "catalog_number":"101R",
+      "title":"Introduction to Arabic 1",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Al-Azraki,Amir"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:29-05:00"
+    },
+    {
+      "class_number":6484,
+      "subject":"SI",
+      "catalog_number":"121R",
+      "title":"Islam in the World",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Pandit,Idrisa"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:29-05:00"
+    },
+    {
+      "class_number":6548,
+      "subject":"SI",
+      "catalog_number":"301R",
+      "title":"Advanced Arabic 1",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Mohamed,Eid"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:30-05:00"
+    },
+    {
+      "class_number":6452,
+      "subject":"ESL",
+      "catalog_number":"602R",
+      "title":"Scholarly Writing in English",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Rehm,Stefan"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:28-05:00"
+    }
+  ]
+}

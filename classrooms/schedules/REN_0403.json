@@ -1,0 +1,394 @@
+{
+  "meta":{
+    "requests":2730,
+    "timestamp":1415081639,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6441,
+      "subject":"CHINA",
+      "catalog_number":"201R",
+      "title":"Second-Year Chinese 1",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Deng,Qingzhen"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:25-05:00"
+    },
+    {
+      "class_number":7968,
+      "subject":"PSYCH",
+      "catalog_number":"226R",
+      "title":"Positive Psychology",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Plante,Courtney"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:07-05:00"
+    },
+    {
+      "class_number":7969,
+      "subject":"PSYCH",
+      "catalog_number":"312R",
+      "title":"Learning Disabilities",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Wilson,Carolyn Mary"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:08-05:00"
+    },
+    {
+      "class_number":6504,
+      "subject":"SDS",
+      "catalog_number":"220R",
+      "title":"Changing Concepts of Childhood",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Romkey,Theresa Lea"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:25-05:00"
+    },
+    {
+      "class_number":6505,
+      "subject":"SDS",
+      "catalog_number":"231R",
+      "title":"Introduction to Social Policy Processes",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Romkey,Theresa Lea"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:25-05:00"
+    },
+    {
+      "class_number":6509,
+      "subject":"SDS",
+      "catalog_number":"355R",
+      "title":"Resilience and Social Support",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Peretta,James G."
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:26-05:00"
+    },
+    {
+      "class_number":4112,
+      "subject":"SOC",
+      "catalog_number":"204R",
+      "title":"Sociology of Adolescence",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"18:00",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Sanderson,Nicole"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:32-05:00"
+    },
+    {
+      "class_number":7982,
+      "subject":"SOCWK",
+      "catalog_number":"220R",
+      "title":"Social Work with Individuals - Theory and Practice 1",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Boyd,Jon Allan"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:36-05:00"
+    },
+    {
+      "class_number":6436,
+      "subject":"SOCWK",
+      "catalog_number":"221R",
+      "title":"Social Group Work",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Boyd,Jon Allan"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:36-05:00"
+    },
+    {
+      "class_number":6437,
+      "subject":"SOCWK",
+      "catalog_number":"222R",
+      "title":"Community Organization 1",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Robertson,Tracey"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:36-05:00"
+    },
+    {
+      "class_number":6552,
+      "subject":"SOCWK",
+      "catalog_number":"301R",
+      "title":"Understanding Diversity in Canada",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Shaikh,Arshi"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:36-05:00"
+    },
+    {
+      "class_number":7985,
+      "subject":"SWREN",
+      "catalog_number":"220R",
+      "title":"Social Work with Individuals - Theory and Practice 1",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Boyd,Jon Allan"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:46-05:00"
+    },
+    {
+      "class_number":6473,
+      "subject":"SWREN",
+      "catalog_number":"221R",
+      "title":"Social Group Work",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Boyd,Jon Allan"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:46-05:00"
+    },
+    {
+      "class_number":6469,
+      "subject":"SWREN",
+      "catalog_number":"222R",
+      "title":"Community Organization 1",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Robertson,Tracey"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:46-05:00"
+    },
+    {
+      "class_number":6555,
+      "subject":"SWREN",
+      "catalog_number":"301R",
+      "title":"Understanding Diversity in Canada",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Shaikh,Arshi"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:47-05:00"
+    },
+    {
+      "class_number":6454,
+      "subject":"SWREN",
+      "catalog_number":"414R",
+      "title":"Interviewing and Assessment in Social Work Practice",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Notar,Margaret Katherine"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:47-05:00"
+    },
+    {
+      "class_number":6474,
+      "subject":"SWREN",
+      "catalog_number":"422R",
+      "title":"Advanced Macro Practice",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Oba,Olufunke"
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:47-05:00"
+    },
+    {
+      "class_number":6455,
+      "subject":"SWREN",
+      "catalog_number":"423R",
+      "title":"Advanced Social Group Work Practice",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:47-05:00"
+    },
+    {
+      "class_number":6475,
+      "subject":"SWREN",
+      "catalog_number":"441R",
+      "title":"Practicum 1",
+      "section":"PRA 003",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:48-05:00"
+    }
+  ]
+}

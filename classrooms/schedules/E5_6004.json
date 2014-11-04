@@ -1,0 +1,457 @@
+{
+  "meta":{
+    "requests":2523,
+    "timestamp":1415081576,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7789,
+      "subject":"BME",
+      "catalog_number":"161",
+      "title":"Introduction to Biomedical Design",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Gorbet,Maud B"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:02-05:00"
+    },
+    {
+      "class_number":7789,
+      "subject":"BME",
+      "catalog_number":"161",
+      "title":"Introduction to Biomedical Design",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Gorbet,Maud B"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:02-05:00"
+    },
+    {
+      "class_number":7790,
+      "subject":"BME",
+      "catalog_number":"161",
+      "title":"Introduction to Biomedical Design",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Gorbet,Maud B"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:02-05:00"
+    },
+    {
+      "class_number":7791,
+      "subject":"BME",
+      "catalog_number":"181",
+      "title":"Physics I - Statics",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Kofman,Jonathan"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:02-05:00"
+    },
+    {
+      "class_number":7791,
+      "subject":"BME",
+      "catalog_number":"181",
+      "title":"Physics I - Statics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Kofman,Jonathan"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:02-05:00"
+    },
+    {
+      "class_number":7792,
+      "subject":"BME",
+      "catalog_number":"181",
+      "title":"Physics I - Statics",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Kofman,Jonathan"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:02-05:00"
+    },
+    {
+      "class_number":7248,
+      "subject":"STV",
+      "catalog_number":"100",
+      "title":"Society, Technology and Values: Introduction",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":80,
+      "instructors":[
+        "Campbell,Scott Martin"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:45-05:00"
+    },
+    {
+      "class_number":7249,
+      "subject":"STV",
+      "catalog_number":"202",
+      "title":"Design and Society",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":76,
+      "instructors":[
+        "Shelley,Cameron P"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:45-05:00"
+    },
+    {
+      "class_number":7779,
+      "subject":"SYDE",
+      "catalog_number":"113",
+      "title":"Matrices and Linear Systems",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Scott,Katharine Andrea"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:49-05:00"
+    },
+    {
+      "class_number":7780,
+      "subject":"SYDE",
+      "catalog_number":"113",
+      "title":"Matrices and Linear Systems",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Scott,Katharine Andrea"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:49-05:00"
+    },
+    {
+      "class_number":4652,
+      "subject":"SYDE",
+      "catalog_number":"401",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "MacGregor,Carolyn G",
+        "Scott,Stacey"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    },
+    {
+      "class_number":5115,
+      "subject":"SYDE",
+      "catalog_number":"411",
+      "title":"Optimization and Numerical Methods",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:00",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":72,
+      "instructors":[
+        "Calamai,Paul H"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    },
+    {
+      "class_number":5115,
+      "subject":"SYDE",
+      "catalog_number":"411",
+      "title":"Optimization and Numerical Methods",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":72,
+      "instructors":[
+        "Calamai,Paul H"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    },
+    {
+      "class_number":5116,
+      "subject":"SYDE",
+      "catalog_number":"411",
+      "title":"Optimization and Numerical Methods",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":72,
+      "instructors":[
+        "Calamai,Paul H"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    },
+    {
+      "class_number":4668,
+      "subject":"SYDE",
+      "catalog_number":"461",
+      "title":"Systems Design Workshop 2",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":61,
+      "instructors":[
+        "MacGregor,Carolyn G",
+        "Scott,Stacey"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    },
+    {
+      "class_number":4669,
+      "subject":"SYDE",
+      "catalog_number":"461",
+      "title":"Systems Design Workshop 2",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":61,
+      "instructors":[
+        "MacGregor,Carolyn G",
+        "Scott,Stacey"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    },
+    {
+      "class_number":4432,
+      "subject":"SYDE",
+      "catalog_number":"533",
+      "title":"Conflict Resolution",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Hipel,Keith W"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    },
+    {
+      "class_number":4650,
+      "subject":"SYDE",
+      "catalog_number":"533",
+      "title":"Conflict Resolution",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Hipel,Keith W"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    },
+    {
+      "class_number":4434,
+      "subject":"SYDE",
+      "catalog_number":"553",
+      "title":"Advanced Dynamics",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "McPhee,John"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    },
+    {
+      "class_number":4435,
+      "subject":"SYDE",
+      "catalog_number":"575",
+      "title":"Image Processing",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":62,
+      "instructors":[
+        "Clausi,David A"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    },
+    {
+      "class_number":4435,
+      "subject":"SYDE",
+      "catalog_number":"575",
+      "title":"Image Processing",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":62,
+      "instructors":[
+        "Clausi,David A"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    },
+    {
+      "class_number":4437,
+      "subject":"SYDE",
+      "catalog_number":"575",
+      "title":"Image Processing",
+      "section":"TUT 201",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":62,
+      "instructors":[
+        "Clausi,David A"
+      ],
+      "building":"E5",
+      "room":"6004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    }
+  ]
+}

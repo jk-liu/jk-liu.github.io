@@ -1,0 +1,294 @@
+{
+  "meta":{
+    "requests":2566,
+    "timestamp":1415081590,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6255,
+      "subject":"COMM",
+      "catalog_number":"421",
+      "title":"Financial Statement Analysis",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Matheson,Brenton James"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:31-05:00"
+    },
+    {
+      "class_number":4517,
+      "subject":"ENVE",
+      "catalog_number":"223",
+      "title":"Differential Equations",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Rothenburg,Leo"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:12-05:00"
+    },
+    {
+      "class_number":5401,
+      "subject":"ENVS",
+      "catalog_number":"278",
+      "title":"Advanced Environmental Research Methods",
+      "section":"TUT 104",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":5455,
+      "subject":"ENVS",
+      "catalog_number":"278",
+      "title":"Advanced Environmental Research Methods",
+      "section":"TUT 108",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":8077,
+      "subject":"ERS",
+      "catalog_number":"462",
+      "title":"Global Food and Agricultural Politics",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Martin,Sarah"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:17-05:00"
+    },
+    {
+      "class_number":5370,
+      "subject":"GEOG",
+      "catalog_number":"294",
+      "title":"Approaches to Research in Physical Geography",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Strack,Maria"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:32-05:00"
+    },
+    {
+      "class_number":8078,
+      "subject":"GEOG",
+      "catalog_number":"462",
+      "title":"Global Food and Agricultural Politics",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Martin,Sarah"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:34-05:00"
+    },
+    {
+      "class_number":4173,
+      "subject":"HIST",
+      "catalog_number":"269",
+      "title":"Aboriginal History of Canada",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Roy,Susan"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":5505,
+      "subject":"PLAN",
+      "catalog_number":"362",
+      "title":"Regional Planning and Economic Development",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Ferguson,Philip Alan"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:59-05:00"
+    },
+    {
+      "class_number":8074,
+      "subject":"PSCI",
+      "catalog_number":"353",
+      "title":"Politics in Russia",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Jaworsky,John S"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:03-05:00"
+    },
+    {
+      "class_number":8076,
+      "subject":"PSCI",
+      "catalog_number":"488",
+      "title":"Global Food and Agricultural Politics",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Martin,Sarah"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:04-05:00"
+    },
+    {
+      "class_number":3062,
+      "subject":"REC",
+      "catalog_number":"408",
+      "title":"Gender and Leisure",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Parry,Diana"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:15-05:00"
+    },
+    {
+      "class_number":4180,
+      "subject":"WS",
+      "catalog_number":"308",
+      "title":"Gender and Leisure",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Parry,Diana"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:55-05:00"
+    },
+    {
+      "class_number":5504,
+      "subject":"PLAN",
+      "catalog_number":"674",
+      "title":"Special Topics in Planning",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Ferguson,Philip Alan"
+      ],
+      "building":"EV2",
+      "room":"2002",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:59-05:00"
+    }
+  ]
+}

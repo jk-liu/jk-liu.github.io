@@ -1,0 +1,334 @@
+{
+  "meta":{
+    "requests":2702,
+    "timestamp":1415081630,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8251,
+      "subject":"BASE",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":8025,
+      "subject":"CHEM",
+      "catalog_number":"420",
+      "title":"Special Topics in Analytical Chem",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Karanassios,Vassili"
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:23-05:00"
+    },
+    {
+      "class_number":7058,
+      "subject":"EARTH",
+      "catalog_number":"461",
+      "title":"Applied Geophysics 3",
+      "section":"LEC 001",
+      "weekdays":"TThF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Endres,Anthony L."
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:46-05:00"
+    },
+    {
+      "class_number":5285,
+      "subject":"ERS",
+      "catalog_number":"375",
+      "title":"Special Readings\/Seminar on Select Topics",
+      "section":"RDG 001",
+      "weekdays":"WF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":3263,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"ORL 106",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3540,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"ORL 115",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":4704,
+      "subject":"ME",
+      "catalog_number":"100",
+      "title":"Introduction to Mechanical Engineering Practice 1",
+      "section":"TUT 205",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:15-05:00"
+    },
+    {
+      "class_number":8054,
+      "subject":"PSCI",
+      "catalog_number":"252",
+      "title":"Global South: Introduction to International Development",
+      "section":"DIS 102",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":8071,
+      "subject":"PSCI",
+      "catalog_number":"260",
+      "title":"Canadian Government & Politics",
+      "section":"DIS 105",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":3717,
+      "subject":"PSYCH",
+      "catalog_number":"340",
+      "title":"Training and Development",
+      "section":"DIS 103",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:09-05:00"
+    },
+    {
+      "class_number":3136,
+      "subject":"RUSS",
+      "catalog_number":"101",
+      "title":"Elementary Russian I",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Reichert,Tetyana"
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:22-05:00"
+    },
+    {
+      "class_number":3460,
+      "subject":"SPCOM",
+      "catalog_number":"223",
+      "title":"Public Speaking",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Paci,Timothy P"
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":3569,
+      "subject":"SPCOM",
+      "catalog_number":"223",
+      "title":"Public Speaking",
+      "section":"LEC 004",
+      "weekdays":"WF",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Paci,Timothy P"
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":8123,
+      "subject":"SPCOM",
+      "catalog_number":"223",
+      "title":"Public Speaking",
+      "section":"LEC 009",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Doyle,Jennifer"
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":8128,
+      "subject":"SPCOM",
+      "catalog_number":"223",
+      "title":"Public Speaking",
+      "section":"LEC 014",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Stacey,Jeffery Edward"
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":7057,
+      "subject":"EARTH",
+      "catalog_number":"668",
+      "title":"Advanced Applied Geophysics",
+      "section":"LEC 001",
+      "weekdays":"TThF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Endres,Anthony L."
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:18-05:00"
+    }
+  ]
+}

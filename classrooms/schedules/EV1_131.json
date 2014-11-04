@@ -1,0 +1,254 @@
+{
+  "meta":{
+    "requests":2558,
+    "timestamp":1415081587,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5383,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Grant,Ankica Perina"
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":5384,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Grant,Ankica Perina"
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":5385,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
+      "section":"LAB 103",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Grant,Ankica Perina"
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":5386,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
+      "section":"LAB 104",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Grant,Ankica Perina"
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":5387,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
+      "section":"LAB 105",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Grant,Ankica Perina"
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":5400,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
+      "section":"LAB 106",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Grant,Ankica Perina"
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":5417,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
+      "section":"LAB 107",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Grant,Ankica Perina"
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":5418,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
+      "section":"LAB 108",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Grant,Ankica Perina"
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":5419,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
+      "section":"LAB 109",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Grant,Ankica Perina"
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":5420,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
+      "section":"LAB 110",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Grant,Ankica Perina"
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":5472,
+      "subject":"GEOG",
+      "catalog_number":"294",
+      "title":"Approaches to Research in Physical Geography",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"11:00",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:32-05:00"
+    },
+    {
+      "class_number":5473,
+      "subject":"GEOG",
+      "catalog_number":"294",
+      "title":"Approaches to Research in Physical Geography",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        
+      ],
+      "building":"EV1",
+      "room":"131",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:32-05:00"
+    }
+  ]
+}

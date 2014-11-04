@@ -1,0 +1,254 @@
+{
+  "meta":{
+    "requests":2750,
+    "timestamp":1415081645,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7581,
+      "subject":"ENVS",
+      "catalog_number":"105",
+      "title":"Environmental Stewardship and Ethics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":100,
+      "instructors":[
+        
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:13-05:00"
+    },
+    {
+      "class_number":5414,
+      "subject":"INDEV",
+      "catalog_number":"10",
+      "title":"International Development Seminar",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"11:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "Ryder,Grainne"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:48-05:00"
+    },
+    {
+      "class_number":5382,
+      "subject":"INDEV",
+      "catalog_number":"100",
+      "title":"Introduction to International Development",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":105,
+      "instructors":[
+        "Nayak,Prateep"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:48-05:00"
+    },
+    {
+      "class_number":5443,
+      "subject":"INDEV",
+      "catalog_number":"100",
+      "title":"Introduction to International Development",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Nayak,Prateep"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:48-05:00"
+    },
+    {
+      "class_number":5444,
+      "subject":"INDEV",
+      "catalog_number":"100",
+      "title":"Introduction to International Development",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Nayak,Prateep"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:48-05:00"
+    },
+    {
+      "class_number":5445,
+      "subject":"INDEV",
+      "catalog_number":"100",
+      "title":"Introduction to International Development",
+      "section":"TUT 103",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Nayak,Prateep"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:48-05:00"
+    },
+    {
+      "class_number":5446,
+      "subject":"INDEV",
+      "catalog_number":"100",
+      "title":"Introduction to International Development",
+      "section":"TUT 104",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Nayak,Prateep"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:48-05:00"
+    },
+    {
+      "class_number":5523,
+      "subject":"INDEV",
+      "catalog_number":"200",
+      "title":"The Political Economy of Development",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Swatuk,Larry L.A."
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:48-05:00"
+    },
+    {
+      "class_number":5415,
+      "subject":"INDEV",
+      "catalog_number":"300",
+      "title":"Culture and Ethics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"09:30",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Seirlis,Julia"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:48-05:00"
+    },
+    {
+      "class_number":5416,
+      "subject":"INDEV",
+      "catalog_number":"302",
+      "title":"Development Agents",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"15:00",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Frayne,Bruce"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:48-05:00"
+    },
+    {
+      "class_number":5452,
+      "subject":"INDEV",
+      "catalog_number":"387",
+      "title":"Global Cities in Global Development",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Frayne,Bruce"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:48-05:00"
+    },
+    {
+      "class_number":8388,
+      "subject":"WATER",
+      "catalog_number":"602",
+      "title":"Integrated Water Management Project",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"18:00",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Servos,Mark"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:20-05:00"
+    }
+  ]
+}

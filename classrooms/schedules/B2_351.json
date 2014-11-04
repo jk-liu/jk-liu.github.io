@@ -1,0 +1,894 @@
+{
+  "meta":{
+    "requests":2434,
+    "timestamp":1415081548,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6598,
+      "subject":"BIOL",
+      "catalog_number":"335L",
+      "title":"Molecular Biology Techniques",
+      "section":"LAB 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:57-05:00"
+    },
+    {
+      "class_number":6599,
+      "subject":"BIOL",
+      "catalog_number":"335L",
+      "title":"Molecular Biology Techniques",
+      "section":"LAB 002",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:57-05:00"
+    },
+    {
+      "class_number":6576,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6576,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6576,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6576,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6576,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6576,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":30,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6577,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6577,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6577,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6577,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6577,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6577,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6578,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6578,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6578,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6578,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6578,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6578,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":32,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6579,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 104",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6579,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 104",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6579,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 104",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6579,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 104",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6579,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 104",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6579,
+      "subject":"BIOL",
+      "catalog_number":"354",
+      "title":"Environmental Toxicology 1",
+      "section":"LAB 104",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":31,
+      "instructors":[
+        "Duxbury,Cheryl"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":7043,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/09",
+      "end_date":"09\/09",
+      "enrollment_total":31,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7043,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":31,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7043,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":31,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7043,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":31,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7043,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":31,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7043,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":31,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7044,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"09\/09",
+      "end_date":"09\/09",
+      "enrollment_total":27,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7044,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":27,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7044,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":27,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7044,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":27,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7044,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":27,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7044,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 102",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":27,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7045,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/10",
+      "end_date":"09\/10",
+      "enrollment_total":31,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7045,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":31,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7045,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":31,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7045,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":31,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7045,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":31,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":7045,
+      "subject":"BIOL",
+      "catalog_number":"473",
+      "title":"Mammalian Reproduction",
+      "section":"LAB 103",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":31,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"B2",
+      "room":"351",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    }
+  ]
+}

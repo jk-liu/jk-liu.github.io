@@ -1,0 +1,374 @@
+{
+  "meta":{
+    "requests":2735,
+    "timestamp":1415081641,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8339,
+      "subject":"BASE",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 004",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":6440,
+      "subject":"CHINA",
+      "catalog_number":"101R",
+      "title":"First-Year Chinese 1",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Li,Yan"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:25-05:00"
+    },
+    {
+      "class_number":6559,
+      "subject":"CHINA",
+      "catalog_number":"101R",
+      "title":"First-Year Chinese 1",
+      "section":"LEC 002",
+      "weekdays":"TF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Li,Yan"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:25-05:00"
+    },
+    {
+      "class_number":6536,
+      "subject":"EASIA",
+      "catalog_number":"301R",
+      "title":"The Political Economy of East Asia",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Cai,Kevin"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:46-05:00"
+    },
+    {
+      "class_number":6566,
+      "subject":"EFAS",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":6566,
+      "subject":"EFAS",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 002",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":6567,
+      "subject":"EFAS",
+      "catalog_number":"36",
+      "title":"Oral Skills",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":8375,
+      "subject":"ESL",
+      "catalog_number":"101R",
+      "title":"Oral Communications for Academic Purposes",
+      "section":"LEC 007",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Pop,Maria Victoria"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":6561,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 008",
+      "weekdays":"MThF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Wolczuk,Agnieszka"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":6424,
+      "subject":"JAPAN",
+      "catalog_number":"101R",
+      "title":"First-Year Japanese 1",
+      "section":"TUT 201",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Burns,Eri"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:57-05:00"
+    },
+    {
+      "class_number":6425,
+      "subject":"JAPAN",
+      "catalog_number":"101R",
+      "title":"First-Year Japanese 1",
+      "section":"TUT 202",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Burns,Eri"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:57-05:00"
+    },
+    {
+      "class_number":6471,
+      "subject":"JAPAN",
+      "catalog_number":"101R",
+      "title":"First-Year Japanese 1",
+      "section":"TUT 203",
+      "weekdays":"W",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Burns,Eri"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:57-05:00"
+    },
+    {
+      "class_number":6487,
+      "subject":"JAPAN",
+      "catalog_number":"102R",
+      "title":"First-Year Japanese 2",
+      "section":"TUT 202",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Shimoda,Fumie"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:57-05:00"
+    },
+    {
+      "class_number":6537,
+      "subject":"JAPAN",
+      "catalog_number":"102R",
+      "title":"First-Year Japanese 2",
+      "section":"TUT 203",
+      "weekdays":"F",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Shimoda,Fumie"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:57-05:00"
+    },
+    {
+      "class_number":6542,
+      "subject":"KOREA",
+      "catalog_number":"101R",
+      "title":"First-Year Korean 1",
+      "section":"TUT 203",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Kim,Soojin"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:05-05:00"
+    },
+    {
+      "class_number":6550,
+      "subject":"SDS",
+      "catalog_number":"400R",
+      "title":"Comparative Social Policy",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Case,Robert A."
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:26-05:00"
+    },
+    {
+      "class_number":6501,
+      "subject":"SI",
+      "catalog_number":"101R",
+      "title":"Introduction to Arabic 1",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"19:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Al Ali,Kanan"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:29-05:00"
+    },
+    {
+      "class_number":6547,
+      "subject":"SI",
+      "catalog_number":"221R",
+      "title":"Islam, the West, and the Modern World",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Sheikh,Shiraz"
+      ],
+      "building":"REN",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:30-05:00"
+    }
+  ]
+}

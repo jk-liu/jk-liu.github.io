@@ -1,0 +1,134 @@
+{
+  "meta":{
+    "requests":2521,
+    "timestamp":1415081576,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7784,
+      "subject":"BME",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Freeman,George H"
+      ],
+      "building":"E5",
+      "room":"5106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:02-05:00"
+    },
+    {
+      "class_number":7784,
+      "subject":"BME",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Freeman,George H"
+      ],
+      "building":"E5",
+      "room":"5106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:02-05:00"
+    },
+    {
+      "class_number":4977,
+      "subject":"ECE",
+      "catalog_number":"290",
+      "title":"Engineering Profession, Ethics, and Law",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        
+      ],
+      "building":"E5",
+      "room":"5106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4978,
+      "subject":"ECE",
+      "catalog_number":"290",
+      "title":"Engineering Profession, Ethics, and Law",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"E5",
+      "room":"5106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":4979,
+      "subject":"ECE",
+      "catalog_number":"290",
+      "title":"Engineering Profession, Ethics, and Law",
+      "section":"TUT 103",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"E5",
+      "room":"5106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:52-05:00"
+    },
+    {
+      "class_number":8016,
+      "subject":"ECE",
+      "catalog_number":"661",
+      "title":"HVDC and FACTS",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "El Shatshat,Ramadan A"
+      ],
+      "building":"E5",
+      "room":"5106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:20-05:00"
+    }
+  ]
+}

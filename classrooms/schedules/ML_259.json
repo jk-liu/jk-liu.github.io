@@ -1,0 +1,274 @@
+{
+  "meta":{
+    "requests":2644,
+    "timestamp":1415081614,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3152,
+      "subject":"DRAMA",
+      "catalog_number":"243",
+      "title":"Introduction to Technical Production 1",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:41-05:00"
+    },
+    {
+      "class_number":3152,
+      "subject":"DRAMA",
+      "catalog_number":"243",
+      "title":"Introduction to Technical Production 1",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"15:00",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:41-05:00"
+    },
+    {
+      "class_number":3152,
+      "subject":"DRAMA",
+      "catalog_number":"243",
+      "title":"Introduction to Technical Production 1",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:41-05:00"
+    },
+    {
+      "class_number":3224,
+      "subject":"DRAMA",
+      "catalog_number":"306",
+      "title":"Spec Studies: Theatre Prod 1",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"17:00",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Arnott,Stewart"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:41-05:00"
+    },
+    {
+      "class_number":3224,
+      "subject":"DRAMA",
+      "catalog_number":"306",
+      "title":"Spec Studies: Theatre Prod 1",
+      "section":"LAB 001",
+      "weekdays":"S",
+      "start_time":"10:00",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:41-05:00"
+    },
+    {
+      "class_number":3224,
+      "subject":"DRAMA",
+      "catalog_number":"306",
+      "title":"Spec Studies: Theatre Prod 1",
+      "section":"LAB 001",
+      "weekdays":"F",
+      "start_time":"17:00",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:41-05:00"
+    },
+    {
+      "class_number":3312,
+      "subject":"DRAMA",
+      "catalog_number":"306",
+      "title":"Spec Studies: Theatre Prod 1",
+      "section":"LAB 002",
+      "weekdays":"T",
+      "start_time":"14:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:41-05:00"
+    },
+    {
+      "class_number":3312,
+      "subject":"DRAMA",
+      "catalog_number":"306",
+      "title":"Spec Studies: Theatre Prod 1",
+      "section":"LAB 002",
+      "weekdays":"F",
+      "start_time":"13:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:41-05:00"
+    },
+    {
+      "class_number":3311,
+      "subject":"DRAMA",
+      "catalog_number":"406",
+      "title":"Theatre Workshop 1",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"17:00",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Arnott,Stewart"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:42-05:00"
+    },
+    {
+      "class_number":3311,
+      "subject":"DRAMA",
+      "catalog_number":"406",
+      "title":"Theatre Workshop 1",
+      "section":"LAB 001",
+      "weekdays":"S",
+      "start_time":"10:00",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:42-05:00"
+    },
+    {
+      "class_number":3311,
+      "subject":"DRAMA",
+      "catalog_number":"406",
+      "title":"Theatre Workshop 1",
+      "section":"LAB 001",
+      "weekdays":"F",
+      "start_time":"17:00",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:42-05:00"
+    },
+    {
+      "class_number":3310,
+      "subject":"DRAMA",
+      "catalog_number":"406",
+      "title":"Theatre Workshop 1",
+      "section":"LAB 002",
+      "weekdays":"T",
+      "start_time":"14:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:42-05:00"
+    },
+    {
+      "class_number":3310,
+      "subject":"DRAMA",
+      "catalog_number":"406",
+      "title":"Theatre Workshop 1",
+      "section":"LAB 002",
+      "weekdays":"F",
+      "start_time":"13:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Cegys,Paul"
+      ],
+      "building":"ML",
+      "room":"259",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:42-05:00"
+    }
+  ]
+}

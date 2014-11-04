@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":2513,
+    "timestamp":1415081573,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4440,
+      "subject":"ME",
+      "catalog_number":"262",
+      "title":"Introduction to Microprocessors and Digital Logic",
+      "section":"LAB 201",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4441,
+      "subject":"ME",
+      "catalog_number":"262",
+      "title":"Introduction to Microprocessors and Digital Logic",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4442,
+      "subject":"ME",
+      "catalog_number":"262",
+      "title":"Introduction to Microprocessors and Digital Logic",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":7643,
+      "subject":"ME",
+      "catalog_number":"262",
+      "title":"Introduction to Microprocessors and Digital Logic",
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        
+      ],
+      "building":"E3",
+      "room":"2103",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    }
+  ]
+}

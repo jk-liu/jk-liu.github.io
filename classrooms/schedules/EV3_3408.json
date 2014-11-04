@@ -1,0 +1,394 @@
+{
+  "meta":{
+    "requests":2575,
+    "timestamp":1415081592,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8258,
+      "subject":"BASE",
+      "catalog_number":"44",
+      "title":"Writing Skills",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":3209,
+      "subject":"ECON",
+      "catalog_number":"472",
+      "title":"Senior Honours Essay",
+      "section":"ESS 001",
+      "weekdays":"F",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Nguyen,Trien T"
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":5376,
+      "subject":"ENBUS",
+      "catalog_number":"102",
+      "title":"Introduction to Environment and Business",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:02-05:00"
+    },
+    {
+      "class_number":5377,
+      "subject":"ENBUS",
+      "catalog_number":"102",
+      "title":"Introduction to Environment and Business",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:02-05:00"
+    },
+    {
+      "class_number":7922,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 004",
+      "weekdays":"TF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Al Ethari,Lamees"
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":7926,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 008",
+      "weekdays":"MWTh",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Deman,Jonathon Andrew"
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":3171,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Deshane,Evelyn"
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":3175,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"TUT 105",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Fast,William"
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":8283,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"TUT 114",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Woodford,Benjamin"
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":5369,
+      "subject":"GEOG",
+      "catalog_number":"293",
+      "title":"Professional and Scholarly Practice in Geography",
+      "section":"TUT 103",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:32-05:00"
+    },
+    {
+      "class_number":5425,
+      "subject":"PLAN",
+      "catalog_number":"102",
+      "title":"Professional Communication",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:57-05:00"
+    },
+    {
+      "class_number":5426,
+      "subject":"PLAN",
+      "catalog_number":"102",
+      "title":"Professional Communication",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:57-05:00"
+    },
+    {
+      "class_number":3303,
+      "subject":"ENGL",
+      "catalog_number":"700",
+      "title":"Rhetorical Studies",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Macdonald,Michael"
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:26-05:00"
+    },
+    {
+      "class_number":5529,
+      "subject":"GEMCC",
+      "catalog_number":"601",
+      "title":"Climate Change: Physical Science Basis",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Petrone,Richard Michael"
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:30-05:00"
+    },
+    {
+      "class_number":5531,
+      "subject":"GEMCC",
+      "catalog_number":"603",
+      "title":"Climate Change Mitigation",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "May,Bradley"
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:31-05:00"
+    },
+    {
+      "class_number":5499,
+      "subject":"GEOG",
+      "catalog_number":"608",
+      "title":"Urban Remote Sensing",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Li,Jonathan"
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:31-05:00"
+    },
+    {
+      "class_number":5438,
+      "subject":"GEOG",
+      "catalog_number":"640",
+      "title":"Seminar in Physical Geography",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Petrone,Richard Michael"
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:32-05:00"
+    },
+    {
+      "class_number":5535,
+      "subject":"GEOG",
+      "catalog_number":"641",
+      "title":"Climate Change: Physical Science Basis",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Petrone,Richard Michael"
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:32-05:00"
+    },
+    {
+      "class_number":5537,
+      "subject":"GEOG",
+      "catalog_number":"679",
+      "title":"Climate Change Mitigation",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "May,Bradley"
+      ],
+      "building":"EV3",
+      "room":"3408",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:33-05:00"
+    }
+  ]
+}

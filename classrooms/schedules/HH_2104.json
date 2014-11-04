@@ -1,0 +1,175 @@
+{
+  "meta":{
+    "requests":2591,
+    "timestamp":1415081597,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3851,
+      "subject":"AFM",
+      "catalog_number":"202",
+      "title":"Introduction to Public Practice",
+      "section":"LEC 004",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Fiolleau,Krista",
+        "Macnaughton,Alan"
+      ],
+      "building":"HH",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:15-05:00"
+    },
+    {
+      "class_number":4029,
+      "subject":"AFM",
+      "catalog_number":"274",
+      "title":"Managerial Finance 2",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"16:00",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Balaban,Steven J"
+      ],
+      "building":"HH",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:16-05:00"
+    },
+    {
+      "class_number":3434,
+      "subject":"AFM",
+      "catalog_number":"372",
+      "title":"Corporate Finance 2",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Vetzal,Kenneth R"
+      ],
+      "building":"HH",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:20-05:00"
+    },
+    {
+      "class_number":4023,
+      "subject":"AFM",
+      "catalog_number":"391",
+      "title":"Intermediate Financial Accounting 2",
+      "section":"LEC 004",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Bandyopadhyay,Satiprasad"
+      ],
+      "building":"HH",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:21-05:00"
+    },
+    {
+      "class_number":3617,
+      "subject":"AFM",
+      "catalog_number":"415",
+      "title":"Special Topics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Wirjanto,Tony"
+      ],
+      "building":"HH",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:22-05:00"
+    },
+    {
+      "class_number":7889,
+      "subject":"AFM",
+      "catalog_number":"425",
+      "title":"Fixed Income Securities",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Vetzal,Kenneth R"
+      ],
+      "building":"HH",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:23-05:00"
+    },
+    {
+      "class_number":3357,
+      "subject":"AFM",
+      "catalog_number":"491",
+      "title":"Advanced Financial Accounting",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Mann,Shari"
+      ],
+      "building":"HH",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:27-05:00"
+    },
+    {
+      "class_number":3752,
+      "subject":"AFM",
+      "catalog_number":"491",
+      "title":"Advanced Financial Accounting",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Mann,Shari"
+      ],
+      "building":"HH",
+      "room":"2104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:27-05:00"
+    }
+  ]
+}

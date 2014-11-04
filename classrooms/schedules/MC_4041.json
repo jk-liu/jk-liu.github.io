@@ -1,0 +1,294 @@
+{
+  "meta":{
+    "requests":2626,
+    "timestamp":1415081608,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7613,
+      "subject":"AMATH",
+      "catalog_number":"390",
+      "title":"Mathematics and Music",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Morris,Kirsten A"
+      ],
+      "building":"MC",
+      "room":"4041",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:30-05:00"
+    },
+    {
+      "class_number":7040,
+      "subject":"BIOL",
+      "catalog_number":"364",
+      "title":"Mathematical Modelling in Biology",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Cuddington,Kim"
+      ],
+      "building":"MC",
+      "room":"4041",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:58-05:00"
+    },
+    {
+      "class_number":6874,
+      "subject":"BIOL",
+      "catalog_number":"444",
+      "title":"Microorganisms and Disease",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Dupont,Christine"
+      ],
+      "building":"MC",
+      "room":"4041",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":4500,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 118",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"MC",
+      "room":"4041",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":6078,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4041",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":5900,
+      "subject":"CS",
+      "catalog_number":"135",
+      "title":"Designing Functional Programs",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":64,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4041",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":6023,
+      "subject":"CS",
+      "catalog_number":"135",
+      "title":"Designing Functional Programs",
+      "section":"TUT 110",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":58,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4041",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":5394,
+      "subject":"GEOG",
+      "catalog_number":"381",
+      "title":"Advanced Geographic Information Systems",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Johnson,Peter Allan"
+      ],
+      "building":"MC",
+      "room":"4041",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:33-05:00"
+    },
+    {
+      "class_number":5645,
+      "subject":"MATH",
+      "catalog_number":"103",
+      "title":"Introductory Algebra for Arts and Social Science",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Ferguson,Barry"
+      ],
+      "building":"MC",
+      "room":"4041",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:10-05:00"
+    },
+    {
+      "class_number":5844,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 107",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4041",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5786,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4041",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5395,
+      "subject":"PLAN",
+      "catalog_number":"381",
+      "title":"Advanced Geographic Information Systems",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Johnson,Peter Allan"
+      ],
+      "building":"MC",
+      "room":"4041",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:59-05:00"
+    },
+    {
+      "class_number":5703,
+      "subject":"PMATH",
+      "catalog_number":"351",
+      "title":"Real Analysis",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4041",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:00-05:00"
+    },
+    {
+      "class_number":6159,
+      "subject":"STAT",
+      "catalog_number":"337",
+      "title":"Introduction to Medical Statistics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        "Cotton,Cecilia Anne"
+      ],
+      "building":"MC",
+      "room":"4041",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:43-05:00"
+    }
+  ]
+}

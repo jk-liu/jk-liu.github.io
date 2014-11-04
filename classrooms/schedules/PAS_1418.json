@@ -1,0 +1,136 @@
+{
+  "meta":{
+    "requests":2662,
+    "timestamp":1415081618,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4256,
+      "subject":"PSYCH",
+      "catalog_number":"717",
+      "title":"Psychological Assessment I",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Friesen-Eulette,Lynette Joyce",
+        "McAuley,Tara"
+      ],
+      "building":"PAS",
+      "room":"1418",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:06-05:00"
+    },
+    {
+      "class_number":4257,
+      "subject":"PSYCH",
+      "catalog_number":"720A",
+      "title":"Practicum in Interviewing & Cognitive Assessment I",
+      "section":"PRA 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Friesen-Eulette,Lynette Joyce",
+        "McAuley,Tara"
+      ],
+      "building":"PAS",
+      "room":"1418",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:06-05:00"
+    },
+    {
+      "class_number":4259,
+      "subject":"PSYCH",
+      "catalog_number":"721A",
+      "title":"Diagnostic Assessment Practicum I",
+      "section":"PRA 001",
+      "weekdays":"W",
+      "start_time":"09:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Mittelstaedt,Walter H"
+      ],
+      "building":"PAS",
+      "room":"1418",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:06-05:00"
+    },
+    {
+      "class_number":7887,
+      "subject":"PSYCH",
+      "catalog_number":"723",
+      "title":"Child Psychopathology and Psychotherapy",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Nilsen,Elizabeth Sidonie"
+      ],
+      "building":"PAS",
+      "room":"1418",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:06-05:00"
+    },
+    {
+      "class_number":4260,
+      "subject":"PSYCH",
+      "catalog_number":"726A",
+      "title":"Practicum in Integrated Assessment I",
+      "section":"PRA 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Seeds,Pamela"
+      ],
+      "building":"PAS",
+      "room":"1418",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:06-05:00"
+    },
+    {
+      "class_number":4265,
+      "subject":"PSYCH",
+      "catalog_number":"734A",
+      "title":"Practicum in Supervision I",
+      "section":"PRA 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Oakman,Jonathan"
+      ],
+      "building":"PAS",
+      "room":"1418",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:07-05:00"
+    }
+  ]
+}

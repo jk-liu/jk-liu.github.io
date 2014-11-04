@@ -1,0 +1,1354 @@
+{
+  "meta":{
+    "requests":2691,
+    "timestamp":1415081627,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8028,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 012",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/26",
+      "end_date":"09\/26",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":8028,
+      "subject":"GENE",
+      "catalog_number":"119",
+      "title":"Problems Seminar",
+      "section":"SEM 012",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:29-05:00"
+    },
+    {
+      "class_number":5884,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 004",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Harmsworth,David L"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5884,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 004",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Harmsworth,David L"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":4822,
+      "subject":"NE",
+      "catalog_number":"100",
+      "title":"Introduction to Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"TWTh",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":118,
+      "instructors":[
+        "Gu,Frank"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:29-05:00"
+    },
+    {
+      "class_number":4822,
+      "subject":"NE",
+      "catalog_number":"100",
+      "title":"Introduction to Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":118,
+      "instructors":[
+        "Gu,Frank"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:29-05:00"
+    },
+    {
+      "class_number":4822,
+      "subject":"NE",
+      "catalog_number":"100",
+      "title":"Introduction to Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":118,
+      "instructors":[
+        "Gu,Frank"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:29-05:00"
+    },
+    {
+      "class_number":4822,
+      "subject":"NE",
+      "catalog_number":"100",
+      "title":"Introduction to Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":118,
+      "instructors":[
+        "Gu,Frank"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:29-05:00"
+    },
+    {
+      "class_number":4822,
+      "subject":"NE",
+      "catalog_number":"100",
+      "title":"Introduction to Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":118,
+      "instructors":[
+        "Gu,Frank"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:29-05:00"
+    },
+    {
+      "class_number":4822,
+      "subject":"NE",
+      "catalog_number":"100",
+      "title":"Introduction to Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":118,
+      "instructors":[
+        "Gu,Frank"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:29-05:00"
+    },
+    {
+      "class_number":4710,
+      "subject":"NE",
+      "catalog_number":"101",
+      "title":"Nanotechnology Engineering Practice",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":118,
+      "instructors":[
+        "Chan,Wan-Ju Ariel"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4711,
+      "subject":"NE",
+      "catalog_number":"112",
+      "title":"Linear Algebra with Numerical Applications",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Abukhdeir,Nasser Mohieddin"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4711,
+      "subject":"NE",
+      "catalog_number":"112",
+      "title":"Linear Algebra with Numerical Applications",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":117,
+      "instructors":[
+        "Abukhdeir,Nasser Mohieddin"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4711,
+      "subject":"NE",
+      "catalog_number":"112",
+      "title":"Linear Algebra with Numerical Applications",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":117,
+      "instructors":[
+        "Abukhdeir,Nasser Mohieddin"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4711,
+      "subject":"NE",
+      "catalog_number":"112",
+      "title":"Linear Algebra with Numerical Applications",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":117,
+      "instructors":[
+        "Abukhdeir,Nasser Mohieddin"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4711,
+      "subject":"NE",
+      "catalog_number":"112",
+      "title":"Linear Algebra with Numerical Applications",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":117,
+      "instructors":[
+        "Abukhdeir,Nasser Mohieddin"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4711,
+      "subject":"NE",
+      "catalog_number":"112",
+      "title":"Linear Algebra with Numerical Applications",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":117,
+      "instructors":[
+        "Abukhdeir,Nasser Mohieddin"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4711,
+      "subject":"NE",
+      "catalog_number":"112",
+      "title":"Linear Algebra with Numerical Applications",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"12\/01",
+      "end_date":"12\/01",
+      "enrollment_total":117,
+      "instructors":[
+        "Abukhdeir,Nasser Mohieddin"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7670,
+      "subject":"NE",
+      "catalog_number":"115",
+      "title":"Probability and Statistics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Madhuranthakam,Chandra Mouli R"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7670,
+      "subject":"NE",
+      "catalog_number":"115",
+      "title":"Probability and Statistics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":120,
+      "instructors":[
+        "Madhuranthakam,Chandra Mouli R"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7670,
+      "subject":"NE",
+      "catalog_number":"115",
+      "title":"Probability and Statistics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":120,
+      "instructors":[
+        "Madhuranthakam,Chandra Mouli R"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7670,
+      "subject":"NE",
+      "catalog_number":"115",
+      "title":"Probability and Statistics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":120,
+      "instructors":[
+        "Madhuranthakam,Chandra Mouli R"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7670,
+      "subject":"NE",
+      "catalog_number":"115",
+      "title":"Probability and Statistics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":120,
+      "instructors":[
+        "Madhuranthakam,Chandra Mouli R"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7670,
+      "subject":"NE",
+      "catalog_number":"115",
+      "title":"Probability and Statistics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":120,
+      "instructors":[
+        "Madhuranthakam,Chandra Mouli R"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4715,
+      "subject":"NE",
+      "catalog_number":"121",
+      "title":"Chemical Principles",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4715,
+      "subject":"NE",
+      "catalog_number":"121",
+      "title":"Chemical Principles",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4715,
+      "subject":"NE",
+      "catalog_number":"121",
+      "title":"Chemical Principles",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4715,
+      "subject":"NE",
+      "catalog_number":"121",
+      "title":"Chemical Principles",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":120,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4715,
+      "subject":"NE",
+      "catalog_number":"121",
+      "title":"Chemical Principles",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":120,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4715,
+      "subject":"NE",
+      "catalog_number":"121",
+      "title":"Chemical Principles",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":120,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4715,
+      "subject":"NE",
+      "catalog_number":"121",
+      "title":"Chemical Principles",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":120,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4715,
+      "subject":"NE",
+      "catalog_number":"121",
+      "title":"Chemical Principles",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":120,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7680,
+      "subject":"NE",
+      "catalog_number":"201",
+      "title":"Nanotoxicology and Nanotechnology Engineering Practice",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"09\/09",
+      "end_date":"10\/28",
+      "enrollment_total":91,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7680,
+      "subject":"NE",
+      "catalog_number":"201",
+      "title":"Nanotoxicology and Nanotechnology Engineering Practice",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"11\/07",
+      "end_date":"11\/25",
+      "enrollment_total":91,
+      "instructors":[
+        "Wang,Xiaosong"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7680,
+      "subject":"NE",
+      "catalog_number":"201",
+      "title":"Nanotoxicology and Nanotechnology Engineering Practice",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":91,
+      "instructors":[
+        "Wang,Xiaosong"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7674,
+      "subject":"NE",
+      "catalog_number":"216",
+      "title":"Advanced Calculus 1 for Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":94,
+      "instructors":[
+        "Teertstra,Peter Michael"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7674,
+      "subject":"NE",
+      "catalog_number":"216",
+      "title":"Advanced Calculus 1 for Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"09\/08",
+      "end_date":"09\/08",
+      "enrollment_total":94,
+      "instructors":[
+        "Teertstra,Peter Michael"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7674,
+      "subject":"NE",
+      "catalog_number":"216",
+      "title":"Advanced Calculus 1 for Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":94,
+      "instructors":[
+        "Teertstra,Peter Michael"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7674,
+      "subject":"NE",
+      "catalog_number":"216",
+      "title":"Advanced Calculus 1 for Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":94,
+      "instructors":[
+        "Teertstra,Peter Michael"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7674,
+      "subject":"NE",
+      "catalog_number":"216",
+      "title":"Advanced Calculus 1 for Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":94,
+      "instructors":[
+        "Teertstra,Peter Michael"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7674,
+      "subject":"NE",
+      "catalog_number":"216",
+      "title":"Advanced Calculus 1 for Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":94,
+      "instructors":[
+        "Teertstra,Peter Michael"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7674,
+      "subject":"NE",
+      "catalog_number":"216",
+      "title":"Advanced Calculus 1 for Nanotechnology Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":94,
+      "instructors":[
+        "Teertstra,Peter Michael"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4761,
+      "subject":"NE",
+      "catalog_number":"224",
+      "title":"Biochemistry for Nanotechnology Engineers",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":94,
+      "instructors":[
+        "Daub,Elisabeth"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4761,
+      "subject":"NE",
+      "catalog_number":"224",
+      "title":"Biochemistry for Nanotechnology Engineers",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":94,
+      "instructors":[
+        "Daub,Elisabeth"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4761,
+      "subject":"NE",
+      "catalog_number":"224",
+      "title":"Biochemistry for Nanotechnology Engineers",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":94,
+      "instructors":[
+        "Daub,Elisabeth"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4761,
+      "subject":"NE",
+      "catalog_number":"224",
+      "title":"Biochemistry for Nanotechnology Engineers",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":94,
+      "instructors":[
+        "Daub,Elisabeth"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4761,
+      "subject":"NE",
+      "catalog_number":"224",
+      "title":"Biochemistry for Nanotechnology Engineers",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":94,
+      "instructors":[
+        "Daub,Elisabeth"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4761,
+      "subject":"NE",
+      "catalog_number":"224",
+      "title":"Biochemistry for Nanotechnology Engineers",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":94,
+      "instructors":[
+        "Daub,Elisabeth"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4761,
+      "subject":"NE",
+      "catalog_number":"224",
+      "title":"Biochemistry for Nanotechnology Engineers",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":94,
+      "instructors":[
+        "Daub,Elisabeth"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4761,
+      "subject":"NE",
+      "catalog_number":"224",
+      "title":"Biochemistry for Nanotechnology Engineers",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"12\/01",
+      "end_date":"12\/01",
+      "enrollment_total":94,
+      "instructors":[
+        "Daub,Elisabeth"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4757,
+      "subject":"NE",
+      "catalog_number":"225",
+      "title":"Structure and Properties of Matter: From Nanoscale to Bulk",
+      "section":"LEC 001",
+      "weekdays":"TWTh",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":96,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4757,
+      "subject":"NE",
+      "catalog_number":"225",
+      "title":"Structure and Properties of Matter: From Nanoscale to Bulk",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"09\/08",
+      "end_date":"09\/08",
+      "enrollment_total":96,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4757,
+      "subject":"NE",
+      "catalog_number":"225",
+      "title":"Structure and Properties of Matter: From Nanoscale to Bulk",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":96,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4757,
+      "subject":"NE",
+      "catalog_number":"225",
+      "title":"Structure and Properties of Matter: From Nanoscale to Bulk",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":96,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4757,
+      "subject":"NE",
+      "catalog_number":"225",
+      "title":"Structure and Properties of Matter: From Nanoscale to Bulk",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":96,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4757,
+      "subject":"NE",
+      "catalog_number":"225",
+      "title":"Structure and Properties of Matter: From Nanoscale to Bulk",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":96,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4757,
+      "subject":"NE",
+      "catalog_number":"225",
+      "title":"Structure and Properties of Matter: From Nanoscale to Bulk",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":96,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4848,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LEC 001",
+      "weekdays":"TWTh",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":94,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4848,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":94,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4848,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":94,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4848,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":94,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4848,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":94,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4848,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"12\/01",
+      "end_date":"12\/01",
+      "enrollment_total":94,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4848,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":94,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4858,
+      "subject":"NE",
+      "catalog_number":"336",
+      "title":"Micro and Nanosystem Computer-aided Design",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":4863,
+      "subject":"NE",
+      "catalog_number":"352",
+      "title":"Surfaces and Interfaces",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Liu,Juewen"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:32-05:00"
+    },
+    {
+      "class_number":6936,
+      "subject":"SCBUS",
+      "catalog_number":"323",
+      "title":"Technology Development Workshop 3",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":62,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"QNC",
+      "room":"1502",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:23-05:00"
+    }
+  ]
+}

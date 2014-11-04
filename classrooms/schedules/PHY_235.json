@@ -1,0 +1,474 @@
+{
+  "meta":{
+    "requests":2684,
+    "timestamp":1415081625,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6580,
+      "subject":"CHEM",
+      "catalog_number":"262",
+      "title":"Organic Chemistry for Engineering and Bioinformatics Students",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":75,
+      "instructors":[
+        "Dmitrienko,Gary I"
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:21-05:00"
+    },
+    {
+      "class_number":6580,
+      "subject":"CHEM",
+      "catalog_number":"262",
+      "title":"Organic Chemistry for Engineering and Bioinformatics Students",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":75,
+      "instructors":[
+        "Dmitrienko,Gary I"
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:21-05:00"
+    },
+    {
+      "class_number":6581,
+      "subject":"CHEM",
+      "catalog_number":"262",
+      "title":"Organic Chemistry for Engineering and Bioinformatics Students",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":75,
+      "instructors":[
+        "Dmitrienko,Gary I"
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:21-05:00"
+    },
+    {
+      "class_number":4549,
+      "subject":"CIVE",
+      "catalog_number":"292",
+      "title":"Engineering Economics",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Soleimani Dahaj,Arash"
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:27-05:00"
+    },
+    {
+      "class_number":5718,
+      "subject":"CS",
+      "catalog_number":"445",
+      "title":"Software Requirements Specification and Analysis",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Trefler,Richard"
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:39-05:00"
+    },
+    {
+      "class_number":6621,
+      "subject":"EARTH",
+      "catalog_number":"260",
+      "title":"Applied Geophysics 1",
+      "section":"LEC 001",
+      "weekdays":"MThF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":80,
+      "instructors":[
+        "Endres,Anthony L."
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:44-05:00"
+    },
+    {
+      "class_number":4990,
+      "subject":"ECE",
+      "catalog_number":"451",
+      "title":"Software Requirements Specification and Analysis",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Trefler,Richard"
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:54-05:00"
+    },
+    {
+      "class_number":5603,
+      "subject":"MATH",
+      "catalog_number":"138",
+      "title":"Calculus 2 For Honours Mathematics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":91,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":6014,
+      "subject":"MATH",
+      "catalog_number":"138",
+      "title":"Calculus 2 For Honours Mathematics",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":91,
+      "instructors":[
+        "Chow,Amenda"
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":6663,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":78,
+      "instructors":[
+        
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:52-05:00"
+    },
+    {
+      "class_number":6664,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:52-05:00"
+    },
+    {
+      "class_number":6665,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":76,
+      "instructors":[
+        
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:52-05:00"
+    },
+    {
+      "class_number":6667,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 105",
+      "weekdays":"M",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":75,
+      "instructors":[
+        
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:52-05:00"
+    },
+    {
+      "class_number":6668,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 106",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":80,
+      "instructors":[
+        
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:52-05:00"
+    },
+    {
+      "class_number":6669,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 107",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":79,
+      "instructors":[
+        
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:52-05:00"
+    },
+    {
+      "class_number":6670,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 108",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":66,
+      "instructors":[
+        
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:52-05:00"
+    },
+    {
+      "class_number":6922,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 110",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:52-05:00"
+    },
+    {
+      "class_number":6923,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 111",
+      "weekdays":"F",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:52-05:00"
+    },
+    {
+      "class_number":6713,
+      "subject":"PHYS",
+      "catalog_number":"121",
+      "title":"Mechanics",
+      "section":"TUT 103",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6883,
+      "subject":"PHYS",
+      "catalog_number":"121",
+      "title":"Mechanics",
+      "section":"TUT 105",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":87,
+      "instructors":[
+        
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6759,
+      "subject":"PHYS",
+      "catalog_number":"434",
+      "title":"Quantum Physics 3",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:56-05:00"
+    },
+    {
+      "class_number":6935,
+      "subject":"SCBUS",
+      "catalog_number":"223",
+      "title":"Science and Business Workshop 2",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "Memon,Muhammad Kashif"
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:23-05:00"
+    },
+    {
+      "class_number":5796,
+      "subject":"CS",
+      "catalog_number":"645",
+      "title":"Software Requirements Specification and Analysis",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Trefler,Richard"
+      ],
+      "building":"PHY",
+      "room":"235",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:12-05:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meta":{
+    "requests":2637,
+    "timestamp":1415081611,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5813,
+      "subject":"AMATH",
+      "catalog_number":"731",
+      "title":"Applied Functional Analysis",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Vrscay,Edward R"
+      ],
+      "building":"MC",
+      "room":"6496",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:00-05:00"
+    },
+    {
+      "class_number":5879,
+      "subject":"AMATH",
+      "catalog_number":"732",
+      "title":"Asymptotic Analysis and Perturbation Theory",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Lamb,Kevin G"
+      ],
+      "building":"MC",
+      "room":"6496",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:00-05:00"
+    },
+    {
+      "class_number":6304,
+      "subject":"AMATH",
+      "catalog_number":"751",
+      "title":"Advanced Ordinary Differential Equations",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Liu,Xinzhi"
+      ],
+      "building":"MC",
+      "room":"6496",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:00-05:00"
+    }
+  ]
+}

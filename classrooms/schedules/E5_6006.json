@@ -1,0 +1,374 @@
+{
+  "meta":{
+    "requests":2525,
+    "timestamp":1415081577,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7781,
+      "subject":"BME",
+      "catalog_number":"101",
+      "title":"Introduction to Biomedical Engineering",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Gorbet,Maud B"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:02-05:00"
+    },
+    {
+      "class_number":4651,
+      "subject":"SYDE",
+      "catalog_number":"202",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":87,
+      "instructors":[
+        "Lashgarian Azad,Nasser"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":4940,
+      "subject":"SYDE",
+      "catalog_number":"212",
+      "title":"Probability and Statistics",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":85,
+      "instructors":[
+        "Banerjee,Suryapratim"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":4940,
+      "subject":"SYDE",
+      "catalog_number":"212",
+      "title":"Probability and Statistics",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":85,
+      "instructors":[
+        "Banerjee,Suryapratim"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":4941,
+      "subject":"SYDE",
+      "catalog_number":"212",
+      "title":"Probability and Statistics",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":85,
+      "instructors":[
+        "Banerjee,Suryapratim"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":4429,
+      "subject":"SYDE",
+      "catalog_number":"252",
+      "title":"Linear Systems and Signals",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":88,
+      "instructors":[
+        "Lashgarian Azad,Nasser"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":4430,
+      "subject":"SYDE",
+      "catalog_number":"252",
+      "title":"Linear Systems and Signals",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":88,
+      "instructors":[
+        "Lashgarian Azad,Nasser"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":4942,
+      "subject":"SYDE",
+      "catalog_number":"262",
+      "title":"Engineering Economics of Design",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Ponnambalam,Kumaraswamy"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":4943,
+      "subject":"SYDE",
+      "catalog_number":"262",
+      "title":"Engineering Economics of Design",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"09:00",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Ponnambalam,Kumaraswamy"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":5018,
+      "subject":"SYDE",
+      "catalog_number":"286",
+      "title":"Mechanics of Deformable Solids",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":87,
+      "instructors":[
+        "Heppler,Glenn R"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":5019,
+      "subject":"SYDE",
+      "catalog_number":"286",
+      "title":"Mechanics of Deformable Solids",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":87,
+      "instructors":[
+        "Heppler,Glenn R"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":4431,
+      "subject":"SYDE",
+      "catalog_number":"292",
+      "title":"Circuits, Instrumentation, and Measurements",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":89,
+      "instructors":[
+        "Stashuk,Daniel W"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":4431,
+      "subject":"SYDE",
+      "catalog_number":"292",
+      "title":"Circuits, Instrumentation, and Measurements",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":89,
+      "instructors":[
+        "Stashuk,Daniel W"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":8413,
+      "subject":"SYDE",
+      "catalog_number":"292",
+      "title":"Circuits, Instrumentation, and Measurements",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":88,
+      "instructors":[
+        "Stashuk,Daniel W"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:50-05:00"
+    },
+    {
+      "class_number":5161,
+      "subject":"SYDE",
+      "catalog_number":"543",
+      "title":"Cognitive Ergonomics",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Cao,Shi"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    },
+    {
+      "class_number":5161,
+      "subject":"SYDE",
+      "catalog_number":"543",
+      "title":"Cognitive Ergonomics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Cao,Shi"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    },
+    {
+      "class_number":5162,
+      "subject":"SYDE",
+      "catalog_number":"543",
+      "title":"Cognitive Ergonomics",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Cao,Shi"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    },
+    {
+      "class_number":4433,
+      "subject":"SYDE",
+      "catalog_number":"553",
+      "title":"Advanced Dynamics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "McPhee,John"
+      ],
+      "building":"E5",
+      "room":"6006",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    }
+  ]
+}

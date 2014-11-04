@@ -1,0 +1,414 @@
+{
+  "meta":{
+    "requests":2710,
+    "timestamp":1415081632,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7881,
+      "subject":"AFM",
+      "catalog_number":"411",
+      "title":"Connections Across Competencies for Accounting Professionals",
+      "section":"SEM 103",
+      "weekdays":"T",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Vert,David"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:21-05:00"
+    },
+    {
+      "class_number":7882,
+      "subject":"AFM",
+      "catalog_number":"411",
+      "title":"Connections Across Competencies for Accounting Professionals",
+      "section":"SEM 104",
+      "weekdays":"Th",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Vert,David"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:21-05:00"
+    },
+    {
+      "class_number":5858,
+      "subject":"CS",
+      "catalog_number":"456",
+      "title":"Computer Networks",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "Limam,Noura"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:39-05:00"
+    },
+    {
+      "class_number":6331,
+      "subject":"CS",
+      "catalog_number":"456",
+      "title":"Computer Networks",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Limam,Noura"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:39-05:00"
+    },
+    {
+      "class_number":4904,
+      "subject":"ECE",
+      "catalog_number":"105",
+      "title":"Physics of Electrical Engineering 1",
+      "section":"TUT 107",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":4519,
+      "subject":"ENVE",
+      "catalog_number":"299",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "MacVicar,Bruce Jonathan"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:13-05:00"
+    },
+    {
+      "class_number":4524,
+      "subject":"GEOE",
+      "catalog_number":"299",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "MacVicar,Bruce Jonathan"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:30-05:00"
+    },
+    {
+      "class_number":5360,
+      "subject":"GEOG",
+      "catalog_number":"293",
+      "title":"Professional and Scholarly Practice in Geography",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        "Wandel,Johanna"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:32-05:00"
+    },
+    {
+      "class_number":4091,
+      "subject":"HIST",
+      "catalog_number":"230",
+      "title":"Introduction to the Modern Middle East",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Kholdi,Amir-Shahram"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:40-05:00"
+    },
+    {
+      "class_number":7665,
+      "subject":"PMATH",
+      "catalog_number":"445",
+      "title":"Representations of Finite Groups",
+      "section":"LEC 001",
+      "weekdays":"MTTh",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Willard,Ross D"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:00-05:00"
+    },
+    {
+      "class_number":4090,
+      "subject":"PSCI",
+      "catalog_number":"257",
+      "title":"Introduction to the Modern Middle East",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Kholdi,Amir-Shahram"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":3889,
+      "subject":"REES",
+      "catalog_number":"271",
+      "title":"Russian Thought and Culture",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Reichert,Tetyana"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:16-05:00"
+    },
+    {
+      "class_number":8127,
+      "subject":"SPCOM",
+      "catalog_number":"223",
+      "title":"Public Speaking",
+      "section":"LEC 013",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Moll,Sorouja"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":8129,
+      "subject":"SPCOM",
+      "catalog_number":"223",
+      "title":"Public Speaking",
+      "section":"LEC 015",
+      "weekdays":"WF",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Stacey,Jeffery Edward"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":5960,
+      "subject":"STAT",
+      "catalog_number":"442",
+      "title":"Data Visualization",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Ghodsi Boushehri,Ali"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:45-05:00"
+    },
+    {
+      "class_number":6176,
+      "subject":"CM",
+      "catalog_number":"762",
+      "title":"Data Visualization",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Ghodsi Boushehri,Ali"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:09-05:00"
+    },
+    {
+      "class_number":5859,
+      "subject":"CS",
+      "catalog_number":"656",
+      "title":"Computer Networks",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Limam,Noura"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:12-05:00"
+    },
+    {
+      "class_number":6335,
+      "subject":"CS",
+      "catalog_number":"656",
+      "title":"Computer Networks",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Limam,Noura"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:12-05:00"
+    },
+    {
+      "class_number":6275,
+      "subject":"PMATH",
+      "catalog_number":"745",
+      "title":"Groups and Representations",
+      "section":"LEC 001",
+      "weekdays":"MTTh",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Willard,Ross D"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:01-05:00"
+    },
+    {
+      "class_number":5974,
+      "subject":"STAT",
+      "catalog_number":"842",
+      "title":"Data Visualization",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Ghodsi Boushehri,Ali"
+      ],
+      "building":"RCH",
+      "room":"207",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:13-05:00"
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "meta":{
+    "requests":2736,
+    "timestamp":1415081641,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8255,
+      "subject":"BASE",
+      "catalog_number":"36",
+      "title":"Oral Skills",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":6470,
+      "subject":"EASIA",
+      "catalog_number":"201R",
+      "title":"Introduction to East Asia",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Cai,Kevin"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:46-05:00"
+    },
+    {
+      "class_number":6560,
+      "subject":"EASIA",
+      "catalog_number":"201R",
+      "title":"Introduction to East Asia",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Lee,Seung Hyok"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:46-05:00"
+    },
+    {
+      "class_number":8323,
+      "subject":"EASIA",
+      "catalog_number":"201R",
+      "title":"Introduction to East Asia",
+      "section":"LEC 003",
+      "weekdays":"TF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Deng,Qingzhen"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:46-05:00"
+    },
+    {
+      "class_number":6451,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 002",
+      "weekdays":"TThF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Smithwick,Neal Andrew"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":6526,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 006",
+      "weekdays":"Th",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Smithwick,Neal Andrew"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":6422,
+      "subject":"JAPAN",
+      "catalog_number":"101R",
+      "title":"First-Year Japanese 1",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "Shimoda,Fumie"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:57-05:00"
+    },
+    {
+      "class_number":6494,
+      "subject":"JAPAN",
+      "catalog_number":"101R",
+      "title":"First-Year Japanese 1",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":71,
+      "instructors":[
+        "Shimoda,Fumie"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:57-05:00"
+    },
+    {
+      "class_number":6426,
+      "subject":"JAPAN",
+      "catalog_number":"102R",
+      "title":"First-Year Japanese 2",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":68,
+      "instructors":[
+        "Shimoda,Fumie"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:57-05:00"
+    },
+    {
+      "class_number":6431,
+      "subject":"KOREA",
+      "catalog_number":"101R",
+      "title":"First-Year Korean 1",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":71,
+      "instructors":[
+        "Kim,Young Gon G"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:05-05:00"
+    },
+    {
+      "class_number":6481,
+      "subject":"KOREA",
+      "catalog_number":"101R",
+      "title":"First-Year Korean 1",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"19:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "Kim,Young Gon G"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:05-05:00"
+    },
+    {
+      "class_number":6506,
+      "subject":"SDS",
+      "catalog_number":"250R",
+      "title":"Social Statistics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "D'Ailly,Hsiao"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:25-05:00"
+    },
+    {
+      "class_number":6514,
+      "subject":"SDS",
+      "catalog_number":"250R",
+      "title":"Social Statistics",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "D'Ailly,Hsiao"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:25-05:00"
+    },
+    {
+      "class_number":6515,
+      "subject":"SDS",
+      "catalog_number":"250R",
+      "title":"Social Statistics",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "D'Ailly,Hsiao"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:25-05:00"
+    },
+    {
+      "class_number":6466,
+      "subject":"SWREN",
+      "catalog_number":"250R",
+      "title":"Social Statistics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "D'Ailly,Hsiao"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:47-05:00"
+    },
+    {
+      "class_number":6491,
+      "subject":"SWREN",
+      "catalog_number":"250R",
+      "title":"Social Statistics",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "D'Ailly,Hsiao"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:47-05:00"
+    },
+    {
+      "class_number":6554,
+      "subject":"SWREN",
+      "catalog_number":"250R",
+      "title":"Social Statistics",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "D'Ailly,Hsiao"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:47-05:00"
+    },
+    {
+      "class_number":5595,
+      "subject":"ESL",
+      "catalog_number":"601R",
+      "title":"Speaking English for Professional Purposes",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Schuller,Christa"
+      ],
+      "building":"REN",
+      "room":"2106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:28-05:00"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":2527,
+    "timestamp":1415081577,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4828,
+      "subject":"SYDE",
+      "catalog_number":"631",
+      "title":"Time Series Modelling",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:00",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Hipel,Keith W"
+      ],
+      "building":"E5",
+      "room":"6127",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:15-05:00"
+    },
+    {
+      "class_number":5145,
+      "subject":"SYDE",
+      "catalog_number":"730",
+      "title":"Selected Topics in Societal-Environmental Systems",
+      "section":"RDG 001",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Hipel,Keith W"
+      ],
+      "building":"E5",
+      "room":"6127",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:16-05:00"
+    },
+    {
+      "class_number":5145,
+      "subject":"SYDE",
+      "catalog_number":"730",
+      "title":"Selected Topics in Societal-Environmental Systems",
+      "section":"RDG 001",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Hipel,Keith W"
+      ],
+      "building":"E5",
+      "room":"6127",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:16-05:00"
+    },
+    {
+      "class_number":5224,
+      "subject":"SYDE",
+      "catalog_number":"770",
+      "title":"Selected Topics in Communication and Information Systems",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Clausi,David A"
+      ],
+      "building":"E5",
+      "room":"6127",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:16-05:00"
+    }
+  ]
+}

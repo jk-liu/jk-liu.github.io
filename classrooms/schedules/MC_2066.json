@@ -1,0 +1,535 @@
+{
+  "meta":{
+    "requests":2620,
+    "timestamp":1415081606,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4483,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":126,
+      "instructors":[
+        "Chen,Pu"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4502,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"LEC 006",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":137,
+      "instructors":[
+        "Meunier,Sarah Margaret"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":6037,
+      "subject":"CS",
+      "catalog_number":"137",
+      "title":"Programming Principles",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:30",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":139,
+      "instructors":[
+        "Clarke,Charles L.A"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":4892,
+      "subject":"ECE",
+      "catalog_number":"100A",
+      "title":"Electrical and Computer Engineering Practice",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":132,
+      "instructors":[
+        "Bishop,William David"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:49-05:00"
+    },
+    {
+      "class_number":4892,
+      "subject":"ECE",
+      "catalog_number":"100A",
+      "title":"Electrical and Computer Engineering Practice",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":132,
+      "instructors":[
+        "Bishop,William David"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:49-05:00"
+    },
+    {
+      "class_number":4893,
+      "subject":"ECE",
+      "catalog_number":"100A",
+      "title":"Electrical and Computer Engineering Practice",
+      "section":"SEM 002",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":144,
+      "instructors":[
+        "Bishop,William David"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:49-05:00"
+    },
+    {
+      "class_number":4893,
+      "subject":"ECE",
+      "catalog_number":"100A",
+      "title":"Electrical and Computer Engineering Practice",
+      "section":"SEM 002",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":144,
+      "instructors":[
+        "Bishop,William David"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:49-05:00"
+    },
+    {
+      "class_number":4560,
+      "subject":"ECE",
+      "catalog_number":"150",
+      "title":"Fundamentals of Programming",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":153,
+      "instructors":[
+        "Passos,Leonardo"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":4969,
+      "subject":"ECE",
+      "catalog_number":"222",
+      "title":"Digital Computers",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":155,
+      "instructors":[
+        "Morton,Andrew"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:51-05:00"
+    },
+    {
+      "class_number":5648,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":126,
+      "instructors":[
+        "Huang,Junbo"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":6418,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 009",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":136,
+      "instructors":[
+        "Huang,Junbo"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5833,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":126,
+      "instructors":[
+        "Alwan,Mohamad S."
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5673,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":147,
+      "instructors":[
+        "Harmsworth,David L"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5903,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 005",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":136,
+      "instructors":[
+        "Penney,Jared"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5903,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 005",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":136,
+      "instructors":[
+        "Penney,Jared"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5903,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"LEC 005",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":136,
+      "instructors":[
+        "Penney,Jared"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5758,
+      "subject":"MATH",
+      "catalog_number":"127",
+      "title":"Calculus 1 for the Sciences",
+      "section":"TUT 104",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":64,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5687,
+      "subject":"MATH",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
+      "section":"LEC 005",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":191,
+      "instructors":[
+        "de Morais Coutinho,Gabriel"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":5693,
+      "subject":"MATH",
+      "catalog_number":"137",
+      "title":"Calculus 1 for Honours Mathematics",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":188,
+      "instructors":[
+        "Park,Doug"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":5695,
+      "subject":"MATH",
+      "catalog_number":"137",
+      "title":"Calculus 1 for Honours Mathematics",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":149,
+      "instructors":[
+        "Yahaghi,Bamdad"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":5696,
+      "subject":"MATH",
+      "catalog_number":"137",
+      "title":"Calculus 1 for Honours Mathematics",
+      "section":"LEC 005",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":192,
+      "instructors":[
+        "Park,Doug"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:12-05:00"
+    },
+    {
+      "class_number":6691,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"LEC 002",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":130,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":8040,
+      "subject":"PSCI",
+      "catalog_number":"100",
+      "title":"Politics I: Canadian Politics and Policy in Comparative Perspective",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":99,
+      "instructors":[
+        "MacFarlane,Emmett",
+        "Esselment,Anna L."
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":6291,
+      "subject":"STAT",
+      "catalog_number":"230",
+      "title":"Probability",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":174,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:43-05:00"
+    },
+    {
+      "class_number":5740,
+      "subject":"STAT",
+      "catalog_number":"431",
+      "title":"Generalized Linear Models and their Applications",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":72,
+      "instructors":[
+        "Liang,Kun"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:44-05:00"
+    },
+    {
+      "class_number":5802,
+      "subject":"STAT",
+      "catalog_number":"831",
+      "title":"Generalized  Linear Models and Applications",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Liang,Kun"
+      ],
+      "building":"MC",
+      "room":"2066",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:13-05:00"
+    }
+  ]
+}

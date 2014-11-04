@@ -1,0 +1,414 @@
+{
+  "meta":{
+    "requests":2671,
+    "timestamp":1415081621,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7986,
+      "subject":"PHARM",
+      "catalog_number":"220",
+      "title":"Integrated Patient Focused Care 1",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"09\/08",
+      "end_date":"10\/17",
+      "enrollment_total":122,
+      "instructors":[
+        "Bhandari,Rita"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:43-05:00"
+    },
+    {
+      "class_number":7986,
+      "subject":"PHARM",
+      "catalog_number":"220",
+      "title":"Integrated Patient Focused Care 1",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"18:20",
+      "start_date":"09\/08",
+      "end_date":"10\/17",
+      "enrollment_total":122,
+      "instructors":[
+        "Bhandari,Rita"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:43-05:00"
+    },
+    {
+      "class_number":7986,
+      "subject":"PHARM",
+      "catalog_number":"220",
+      "title":"Integrated Patient Focused Care 1",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"09\/08",
+      "end_date":"10\/17",
+      "enrollment_total":122,
+      "instructors":[
+        "Bhandari,Rita"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:43-05:00"
+    },
+    {
+      "class_number":7986,
+      "subject":"PHARM",
+      "catalog_number":"220",
+      "title":"Integrated Patient Focused Care 1",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"09\/08",
+      "end_date":"10\/17",
+      "enrollment_total":122,
+      "instructors":[
+        "Bhandari,Rita"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:43-05:00"
+    },
+    {
+      "class_number":7987,
+      "subject":"PHARM",
+      "catalog_number":"221",
+      "title":"Integrated Patient Focused Care 2",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"10\/20",
+      "end_date":"12\/01",
+      "enrollment_total":119,
+      "instructors":[
+        "Barrett,Brett"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:43-05:00"
+    },
+    {
+      "class_number":7987,
+      "subject":"PHARM",
+      "catalog_number":"221",
+      "title":"Integrated Patient Focused Care 2",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"18:20",
+      "start_date":"10\/20",
+      "end_date":"12\/01",
+      "enrollment_total":119,
+      "instructors":[
+        "Barrett,Brett"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:43-05:00"
+    },
+    {
+      "class_number":7987,
+      "subject":"PHARM",
+      "catalog_number":"221",
+      "title":"Integrated Patient Focused Care 2",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"10\/20",
+      "end_date":"12\/01",
+      "enrollment_total":119,
+      "instructors":[
+        "Barrett,Brett"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:43-05:00"
+    },
+    {
+      "class_number":7987,
+      "subject":"PHARM",
+      "catalog_number":"221",
+      "title":"Integrated Patient Focused Care 2",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":"10\/20",
+      "end_date":"12\/01",
+      "enrollment_total":119,
+      "instructors":[
+        "Barrett,Brett"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:43-05:00"
+    },
+    {
+      "class_number":7013,
+      "subject":"PHARM",
+      "catalog_number":"222",
+      "title":"Integrated Patient Focused Care 3",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"16:00",
+      "end_time":"17:50",
+      "start_date":"09\/08",
+      "end_date":"10\/17",
+      "enrollment_total":117,
+      "instructors":[
+        "Schneider,Eric"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:43-05:00"
+    },
+    {
+      "class_number":7015,
+      "subject":"PHARM",
+      "catalog_number":"223",
+      "title":"Integrated Patient Focused Care 4",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"16:00",
+      "end_time":"17:50",
+      "start_date":"10\/20",
+      "end_date":"12\/01",
+      "enrollment_total":118,
+      "instructors":[
+        "Nagge,Jeffrey Judson"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:43-05:00"
+    },
+    {
+      "class_number":8100,
+      "subject":"PHARM",
+      "catalog_number":"224",
+      "title":"Pharmacokinetic Fundamentals",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        "Edginton,Andrea"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:43-05:00"
+    },
+    {
+      "class_number":7989,
+      "subject":"PHARM",
+      "catalog_number":"227",
+      "title":"Health Systems in Society",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:00",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        "Coulson,Barbara"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:43-05:00"
+    },
+    {
+      "class_number":8395,
+      "subject":"PHARM",
+      "catalog_number":"232",
+      "title":"Medical Microbiology",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        "Wasfi,Olla"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:44-05:00"
+    },
+    {
+      "class_number":7973,
+      "subject":"PHARM",
+      "catalog_number":"262",
+      "title":"Foundation and Application of Health Informatics",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        "Nazari Nejad,Saman"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:44-05:00"
+    },
+    {
+      "class_number":8398,
+      "subject":"PHARM",
+      "catalog_number":"367",
+      "title":"Pediatric Pharmacy",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Stark,Angela"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:44-05:00"
+    },
+    {
+      "class_number":8270,
+      "subject":"PHARM",
+      "catalog_number":"374",
+      "title":"Complementary and Alternate Medicine",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Walji,Rishma"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:45-05:00"
+    },
+    {
+      "class_number":7992,
+      "subject":"PHARM",
+      "catalog_number":"420",
+      "title":"Integrated Patient Focused Care 7",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/08",
+      "end_date":"10\/17",
+      "enrollment_total":115,
+      "instructors":[
+        "Chang,Feng"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:45-05:00"
+    },
+    {
+      "class_number":7993,
+      "subject":"PHARM",
+      "catalog_number":"421",
+      "title":"Integrated Patient Focused Care 8",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/20",
+      "end_date":"12\/01",
+      "enrollment_total":115,
+      "instructors":[
+        "Rojas-Fernandez,Carlos"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:45-05:00"
+    },
+    {
+      "class_number":7994,
+      "subject":"PHARM",
+      "catalog_number":"428",
+      "title":"Professional Practice 4",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        "Grindrod,Kelly"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:45-05:00"
+    },
+    {
+      "class_number":7995,
+      "subject":"PHARM",
+      "catalog_number":"490",
+      "title":"Seminars in Pharmacy 2",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        "Grindrod,Kelly"
+      ],
+      "building":"PHR",
+      "room":"1004",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:46-05:00"
+    }
+  ]
+}

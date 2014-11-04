@@ -1,0 +1,1734 @@
+{
+  "meta":{
+    "requests":2439,
+    "timestamp":1415081549,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":2950,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"09\/09",
+      "end_date":"09\/09",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2950,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2950,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2950,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2950,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2950,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":17,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2951,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/11",
+      "end_date":"09\/11",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2951,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/25",
+      "end_date":"09\/25",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2951,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/09",
+      "end_date":"10\/09",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2951,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2951,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/06",
+      "end_date":"11\/06",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2951,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2952,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 103",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/09",
+      "end_date":"09\/09",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2952,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 103",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2952,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 103",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2952,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 103",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2952,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 103",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2952,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 103",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2953,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"09\/11",
+      "end_date":"09\/11",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2953,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"09\/25",
+      "end_date":"09\/25",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2953,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"10\/09",
+      "end_date":"10\/09",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2953,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2953,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"11\/06",
+      "end_date":"11\/06",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2953,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 104",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2954,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/10",
+      "end_date":"09\/10",
+      "enrollment_total":19,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2954,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":19,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2954,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":19,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2954,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":19,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2954,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":19,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2954,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":19,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2955,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 106",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"09\/10",
+      "end_date":"09\/10",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2955,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 106",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2955,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 106",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2955,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 106",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2955,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 106",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2955,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 106",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2956,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 107",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"09\/18",
+      "end_date":"09\/18",
+      "enrollment_total":12,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2956,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 107",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"10\/02",
+      "end_date":"10\/02",
+      "enrollment_total":12,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2956,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 107",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"10\/16",
+      "end_date":"10\/16",
+      "enrollment_total":12,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2956,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 107",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"10\/30",
+      "end_date":"10\/30",
+      "enrollment_total":12,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2956,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 107",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"11\/13",
+      "end_date":"11\/13",
+      "enrollment_total":12,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2956,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 107",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"11\/27",
+      "end_date":"11\/27",
+      "enrollment_total":12,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2957,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 108",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/18",
+      "end_date":"09\/18",
+      "enrollment_total":18,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2957,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 108",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/02",
+      "end_date":"10\/02",
+      "enrollment_total":18,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2957,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 108",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/16",
+      "end_date":"10\/16",
+      "enrollment_total":18,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2957,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 108",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/30",
+      "end_date":"10\/30",
+      "enrollment_total":18,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2957,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 108",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/13",
+      "end_date":"11\/13",
+      "enrollment_total":18,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2957,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 108",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/27",
+      "end_date":"11\/27",
+      "enrollment_total":18,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2958,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 109",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2958,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 109",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2958,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 109",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2958,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 109",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2958,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 109",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2958,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 109",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2965,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 110",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":22,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2965,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 110",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":22,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2965,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 110",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":22,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2965,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 110",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":22,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2965,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 110",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":22,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":2965,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 110",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/25",
+      "end_date":"11\/25",
+      "enrollment_total":22,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":3002,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 111",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":3002,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 111",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":3002,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 111",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":3002,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 111",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":3002,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 111",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":3002,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 111",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":20,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":3009,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 112",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":3009,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 112",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":3009,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 112",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":3009,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 112",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":3009,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 112",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":3009,
+      "subject":"KIN",
+      "catalog_number":"121",
+      "title":"Biomechanics of Human Activity",
+      "section":"LAB 112",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":"11\/26",
+      "end_date":"11\/26",
+      "enrollment_total":16,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:01-05:00"
+    },
+    {
+      "class_number":3024,
+      "subject":"KIN",
+      "catalog_number":"425",
+      "title":"Biomechanical Modelling of Human Movement",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/08",
+      "end_date":"09\/08",
+      "enrollment_total":14,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":3024,
+      "subject":"KIN",
+      "catalog_number":"425",
+      "title":"Biomechanical Modelling of Human Movement",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":14,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":3024,
+      "subject":"KIN",
+      "catalog_number":"425",
+      "title":"Biomechanical Modelling of Human Movement",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":14,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":3024,
+      "subject":"KIN",
+      "catalog_number":"425",
+      "title":"Biomechanical Modelling of Human Movement",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":14,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":3024,
+      "subject":"KIN",
+      "catalog_number":"425",
+      "title":"Biomechanical Modelling of Human Movement",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":14,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":3024,
+      "subject":"KIN",
+      "catalog_number":"425",
+      "title":"Biomechanical Modelling of Human Movement",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":14,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":3024,
+      "subject":"KIN",
+      "catalog_number":"425",
+      "title":"Biomechanical Modelling of Human Movement",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"12\/01",
+      "end_date":"12\/01",
+      "enrollment_total":14,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":3025,
+      "subject":"KIN",
+      "catalog_number":"425",
+      "title":"Biomechanical Modelling of Human Movement",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/15",
+      "end_date":"09\/15",
+      "enrollment_total":11,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":3025,
+      "subject":"KIN",
+      "catalog_number":"425",
+      "title":"Biomechanical Modelling of Human Movement",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/29",
+      "end_date":"09\/29",
+      "enrollment_total":11,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":3025,
+      "subject":"KIN",
+      "catalog_number":"425",
+      "title":"Biomechanical Modelling of Human Movement",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/13",
+      "end_date":"10\/13",
+      "enrollment_total":11,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":3025,
+      "subject":"KIN",
+      "catalog_number":"425",
+      "title":"Biomechanical Modelling of Human Movement",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/27",
+      "end_date":"10\/27",
+      "enrollment_total":11,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":3025,
+      "subject":"KIN",
+      "catalog_number":"425",
+      "title":"Biomechanical Modelling of Human Movement",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":11,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":3025,
+      "subject":"KIN",
+      "catalog_number":"425",
+      "title":"Biomechanical Modelling of Human Movement",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/24",
+      "end_date":"11\/24",
+      "enrollment_total":11,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:04-05:00"
+    },
+    {
+      "class_number":2972,
+      "subject":"KIN",
+      "catalog_number":"612",
+      "title":"Instrumentation and Signal Processing in Biophysical Research",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"08:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Yates,Justin"
+      ],
+      "building":"BMH",
+      "room":"1403",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:43-05:00"
+    }
+  ]
+}

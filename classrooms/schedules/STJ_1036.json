@@ -1,0 +1,354 @@
+{
+  "meta":{
+    "requests":2738,
+    "timestamp":1415081641,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4274,
+      "subject":"ARBUS",
+      "catalog_number":"200",
+      "title":"Entrepreneurship Principles and Practices",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":154,
+      "instructors":[
+        "Malleck,Geoff"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:39-05:00"
+    },
+    {
+      "class_number":4275,
+      "subject":"ARBUS",
+      "catalog_number":"200",
+      "title":"Entrepreneurship Principles and Practices",
+      "section":"PRA 101",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":154,
+      "instructors":[
+        "Malleck,Geoff"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:39-05:00"
+    },
+    {
+      "class_number":3775,
+      "subject":"ARBUS",
+      "catalog_number":"300",
+      "title":"Practical Business Skills",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":102,
+      "instructors":[
+        "O'Hara,Kathleen"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:39-05:00"
+    },
+    {
+      "class_number":4113,
+      "subject":"ARBUS",
+      "catalog_number":"300",
+      "title":"Practical Business Skills",
+      "section":"LEC 002",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":102,
+      "instructors":[
+        "O'Hara,Kathleen"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:39-05:00"
+    },
+    {
+      "class_number":8172,
+      "subject":"ARBUS",
+      "catalog_number":"400",
+      "title":"Strategy and Program Integration",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        "Malleck,Geoff"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:40-05:00"
+    },
+    {
+      "class_number":4276,
+      "subject":"ARBUS",
+      "catalog_number":"400",
+      "title":"Strategy and Program Integration",
+      "section":"PRA 101",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        "Malleck,Geoff"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:40-05:00"
+    },
+    {
+      "class_number":2989,
+      "subject":"GERON",
+      "catalog_number":"218",
+      "title":"Psychology of Death and Dying",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Burris,Christopher"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:37-05:00"
+    },
+    {
+      "class_number":2990,
+      "subject":"HLTH",
+      "catalog_number":"218",
+      "title":"Psychology of Death and Dying",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Burris,Christopher"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:45-05:00"
+    },
+    {
+      "class_number":3445,
+      "subject":"LS",
+      "catalog_number":"101",
+      "title":"Introduction to Legal Studies",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":127,
+      "instructors":[
+        "Brophy,Susan"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:07-05:00"
+    },
+    {
+      "class_number":7793,
+      "subject":"LS",
+      "catalog_number":"101",
+      "title":"Introduction to Legal Studies",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":196,
+      "instructors":[
+        "Whitehead,Denise"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:07-05:00"
+    },
+    {
+      "class_number":3492,
+      "subject":"PSYCH",
+      "catalog_number":"101",
+      "title":"Introductory Psychology",
+      "section":"LEC 004",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":199,
+      "instructors":[
+        "Campbell,John"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:06-05:00"
+    },
+    {
+      "class_number":3421,
+      "subject":"PSYCH",
+      "catalog_number":"212",
+      "title":"Educational Psychology",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":145,
+      "instructors":[
+        "Nosko,Amanda Elizabeth"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:07-05:00"
+    },
+    {
+      "class_number":3622,
+      "subject":"PSYCH",
+      "catalog_number":"218",
+      "title":"Psychology of Death and Dying",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":104,
+      "instructors":[
+        "Burris,Christopher"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:07-05:00"
+    },
+    {
+      "class_number":3809,
+      "subject":"PSYCH",
+      "catalog_number":"230",
+      "title":"Psychology and Law",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":109,
+      "instructors":[
+        "Rempel,John"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:07-05:00"
+    },
+    {
+      "class_number":7724,
+      "subject":"RS",
+      "catalog_number":"121",
+      "title":"Evil",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Seljak,David A"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:18-05:00"
+    },
+    {
+      "class_number":7228,
+      "subject":"SMF",
+      "catalog_number":"204",
+      "title":"Introduction to Human Sexuality",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":139,
+      "instructors":[
+        "Rye,BJ"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:30-05:00"
+    },
+    {
+      "class_number":7735,
+      "subject":"SMF",
+      "catalog_number":"206",
+      "title":"Couples, Marriages, and Families",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":87,
+      "instructors":[
+        "Whitehead,Denise"
+      ],
+      "building":"STJ",
+      "room":"1036",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:30-05:00"
+    }
+  ]
+}

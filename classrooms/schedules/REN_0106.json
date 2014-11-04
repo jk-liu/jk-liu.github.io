@@ -1,0 +1,334 @@
+{
+  "meta":{
+    "requests":2723,
+    "timestamp":1415081637,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8248,
+      "subject":"BASE",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 003",
+      "weekdays":"T",
+      "start_time":"09:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":6480,
+      "subject":"CHINA",
+      "catalog_number":"301R",
+      "title":"Third-Year Chinese 1",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Bao,Huai"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:25-05:00"
+    },
+    {
+      "class_number":6565,
+      "subject":"EFAS",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 002",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":8376,
+      "subject":"ESL",
+      "catalog_number":"101R",
+      "title":"Oral Communications for Academic Purposes",
+      "section":"LEC 008",
+      "weekdays":"MWF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Schuller,Christa"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":6449,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Heeney,Margaret Christine"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":6526,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 006",
+      "weekdays":"T",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Smithwick,Neal Andrew"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":7952,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 010",
+      "weekdays":"MWF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Zehr,Roslyn"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":6485,
+      "subject":"ESL",
+      "catalog_number":"129R",
+      "title":"Written Academic English",
+      "section":"LEC 001",
+      "weekdays":"TWF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Skinner,Patricia Anne"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":6429,
+      "subject":"JAPAN",
+      "catalog_number":"201R",
+      "title":"Second-Year Japanese 1",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Kunizane,Kumiko"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:57-05:00"
+    },
+    {
+      "class_number":6538,
+      "subject":"JAPAN",
+      "catalog_number":"201R",
+      "title":"Second-Year Japanese 1",
+      "section":"LEC 002",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Kunizane,Kumiko"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:57-05:00"
+    },
+    {
+      "class_number":6498,
+      "subject":"KOREA",
+      "catalog_number":"201R",
+      "title":"Second-Year Korean 1",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Kim,Young Gon G"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:05-05:00"
+    },
+    {
+      "class_number":4273,
+      "subject":"RS",
+      "catalog_number":"125",
+      "title":"Introduction to Religion",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Shrubsole,Nicholas"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:18-05:00"
+    },
+    {
+      "class_number":7972,
+      "subject":"RS",
+      "catalog_number":"370",
+      "title":"Atheism, Skepticism, and Free Thought",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Cowan,Douglas"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:22-05:00"
+    },
+    {
+      "class_number":7976,
+      "subject":"SDS",
+      "catalog_number":"131R",
+      "title":"Social Ideas, Social Policy and Political Practice",
+      "section":"LEC 003",
+      "weekdays":"M",
+      "start_time":"18:00",
+      "end_time":"20:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Romkey,Theresa Lea"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:25-05:00"
+    },
+    {
+      "class_number":3219,
+      "subject":"SOC",
+      "catalog_number":"224R",
+      "title":"Poverty in Canada and its Social Consequences",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Peressini,Tracy"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:33-05:00"
+    },
+    {
+      "class_number":6462,
+      "subject":"SWREN",
+      "catalog_number":"224R",
+      "title":"Poverty in Canada and its Social Consequences",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Peressini,Tracy"
+      ],
+      "building":"REN",
+      "room":"0106",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:46-05:00"
+    }
+  ]
+}

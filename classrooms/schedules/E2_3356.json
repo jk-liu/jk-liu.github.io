@@ -1,0 +1,174 @@
+{
+  "meta":{
+    "requests":2512,
+    "timestamp":1415081573,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4773,
+      "subject":"CIVE",
+      "catalog_number":"601",
+      "title":"Engineering Risk and Reliability",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Jyrkama,Mikko Ilmari"
+      ],
+      "building":"E2",
+      "room":"3356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:07-05:00"
+    },
+    {
+      "class_number":5194,
+      "subject":"CIVE",
+      "catalog_number":"611",
+      "title":"Finite Element Analysis",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Gracie,Robert R"
+      ],
+      "building":"E2",
+      "room":"3356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:08-05:00"
+    },
+    {
+      "class_number":4877,
+      "subject":"CIVE",
+      "catalog_number":"671",
+      "title":"Aquatic Chemistry",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Huck,Peter M"
+      ],
+      "building":"E2",
+      "room":"3356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:08-05:00"
+    },
+    {
+      "class_number":4877,
+      "subject":"CIVE",
+      "catalog_number":"671",
+      "title":"Aquatic Chemistry",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Huck,Peter M"
+      ],
+      "building":"E2",
+      "room":"3356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:08-05:00"
+    },
+    {
+      "class_number":8425,
+      "subject":"CIVE",
+      "catalog_number":"681",
+      "title":"Surface Water: Theory and Modelling",
+      "section":"LEC 001",
+      "weekdays":"MF",
+      "start_time":"13:00",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Soulis,Eric D"
+      ],
+      "building":"E2",
+      "room":"3356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:08-05:00"
+    },
+    {
+      "class_number":5222,
+      "subject":"CIVE",
+      "catalog_number":"704",
+      "title":"Bridge Design",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Walbridge,Scott"
+      ],
+      "building":"E2",
+      "room":"3356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:08-05:00"
+    },
+    {
+      "class_number":7943,
+      "subject":"CIVE",
+      "catalog_number":"711",
+      "title":"Computer-Aided Project Organization and Management",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Hegazi,Tarek"
+      ],
+      "building":"E2",
+      "room":"3356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:08-05:00"
+    },
+    {
+      "class_number":8426,
+      "subject":"CIVE",
+      "catalog_number":"750",
+      "title":"Topics in Geotechnical Engineering",
+      "section":"RDG 002",
+      "weekdays":"MF",
+      "start_time":"15:00",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Rothenburg,Leo"
+      ],
+      "building":"E2",
+      "room":"3356",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:08-05:00"
+    }
+  ]
+}

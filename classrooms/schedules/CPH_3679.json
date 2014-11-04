@@ -1,0 +1,534 @@
+{
+  "meta":{
+    "requests":2464,
+    "timestamp":1415081557,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4992,
+      "subject":"CIVE",
+      "catalog_number":"497",
+      "title":"Special Topics in Civil Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Mather,David W"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:28-05:00"
+    },
+    {
+      "class_number":4598,
+      "subject":"ME",
+      "catalog_number":"400A",
+      "title":"Seminar",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":78,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4637,
+      "subject":"ME",
+      "catalog_number":"401",
+      "title":"Law for the Professional Engineer",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Byskal,Daniel"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4599,
+      "subject":"ME",
+      "catalog_number":"423",
+      "title":"Mechanical Design 2",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Worswick,Michael J"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4599,
+      "subject":"ME",
+      "catalog_number":"423",
+      "title":"Mechanical Design 2",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Worswick,Michael J"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4600,
+      "subject":"ME",
+      "catalog_number":"423",
+      "title":"Mechanical Design 2",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4601,
+      "subject":"ME",
+      "catalog_number":"435",
+      "title":"Industrial Metallurgy",
+      "section":"LEC 001",
+      "weekdays":"WTh",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Fallah,Vahid"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4601,
+      "subject":"ME",
+      "catalog_number":"435",
+      "title":"Industrial Metallurgy",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Fallah,Vahid"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4604,
+      "subject":"ME",
+      "catalog_number":"436",
+      "title":"Welding and Joining Processes",
+      "section":"LEC 001",
+      "weekdays":"MT",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Weckman,David C"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4604,
+      "subject":"ME",
+      "catalog_number":"436",
+      "title":"Welding and Joining Processes",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Weckman,David C"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:17-05:00"
+    },
+    {
+      "class_number":4602,
+      "subject":"ME",
+      "catalog_number":"456",
+      "title":"Heat Transfer 2",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Tan,Zhongchao"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:18-05:00"
+    },
+    {
+      "class_number":4602,
+      "subject":"ME",
+      "catalog_number":"456",
+      "title":"Heat Transfer 2",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Tan,Zhongchao"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:18-05:00"
+    },
+    {
+      "class_number":4603,
+      "subject":"ME",
+      "catalog_number":"459",
+      "title":"Energy Conversion",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        "Qazi Zade,Azad"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:18-05:00"
+    },
+    {
+      "class_number":4646,
+      "subject":"ME",
+      "catalog_number":"481",
+      "title":"Mechanical Engineering Design Project 1",
+      "section":"PRJ 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":71,
+      "instructors":[
+        "Lambert,Stephan B"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:18-05:00"
+    },
+    {
+      "class_number":4606,
+      "subject":"ME",
+      "catalog_number":"548",
+      "title":"Numerical Control of Machine Tools 1",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Erkorkmaz,Kaan"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:18-05:00"
+    },
+    {
+      "class_number":4606,
+      "subject":"ME",
+      "catalog_number":"548",
+      "title":"Numerical Control of Machine Tools 1",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Erkorkmaz,Kaan"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:18-05:00"
+    },
+    {
+      "class_number":4606,
+      "subject":"ME",
+      "catalog_number":"548",
+      "title":"Numerical Control of Machine Tools 1",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Erkorkmaz,Kaan"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:18-05:00"
+    },
+    {
+      "class_number":4608,
+      "subject":"ME",
+      "catalog_number":"559",
+      "title":"Finite Element Methods",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Chandrashekar,Naveen"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:18-05:00"
+    },
+    {
+      "class_number":4609,
+      "subject":"ME",
+      "catalog_number":"561",
+      "title":"Fluid Power Control Systems",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Khajepour,Amir"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:18-05:00"
+    },
+    {
+      "class_number":4610,
+      "subject":"ME",
+      "catalog_number":"566",
+      "title":"Computational Fluid Dynamics for Engineering Design",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Stubley,Gordon"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:18-05:00"
+    },
+    {
+      "class_number":4610,
+      "subject":"ME",
+      "catalog_number":"566",
+      "title":"Computational Fluid Dynamics for Engineering Design",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Stubley,Gordon"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:18-05:00"
+    },
+    {
+      "class_number":4998,
+      "subject":"ME",
+      "catalog_number":"599",
+      "title":"Special Topics in Mechanical Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Mather,David W"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:18-05:00"
+    },
+    {
+      "class_number":5122,
+      "subject":"MTE",
+      "catalog_number":"420",
+      "title":"Power Electronics and Motor Drives",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":5126,
+      "subject":"MTE",
+      "catalog_number":"460",
+      "title":"Mechatronic System Integration",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:23-05:00"
+    },
+    {
+      "class_number":7634,
+      "subject":"MTE",
+      "catalog_number":"545",
+      "title":"Introduction to MEMS Fabrication",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Nieva,Patricia"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:24-05:00"
+    },
+    {
+      "class_number":5017,
+      "subject":"ME",
+      "catalog_number":"760",
+      "title":"Special Topics in Thermal Engineering",
+      "section":"LEC 003",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Mather,David W"
+      ],
+      "building":"CPH",
+      "room":"3679",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:48-05:00"
+    }
+  ]
+}

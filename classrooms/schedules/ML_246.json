@@ -1,0 +1,374 @@
+{
+  "meta":{
+    "requests":2643,
+    "timestamp":1415081613,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5328,
+      "subject":"ENVS",
+      "catalog_number":"334",
+      "title":"Introduction to Park Management",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Grimwood,Bryan"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":7658,
+      "subject":"FR",
+      "catalog_number":"101",
+      "title":"Beginner French",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Kliashchuk,Mikalai"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:23-05:00"
+    },
+    {
+      "class_number":3950,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Petrescu,Maria"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":3111,
+      "subject":"FR",
+      "catalog_number":"251",
+      "title":"French Language 2: Module 1",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Gauthier,Nicolas"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:25-05:00"
+    },
+    {
+      "class_number":3627,
+      "subject":"FR",
+      "catalog_number":"252",
+      "title":"French Language 2: Module 2",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Abd-Elrazak,Loula"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:25-05:00"
+    },
+    {
+      "class_number":3121,
+      "subject":"GER",
+      "catalog_number":"101",
+      "title":"Elementary German I",
+      "section":"LEC 005",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Hirstein,Mario"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:35-05:00"
+    },
+    {
+      "class_number":3121,
+      "subject":"GER",
+      "catalog_number":"101",
+      "title":"Elementary German I",
+      "section":"LEC 005",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Hirstein,Mario"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:35-05:00"
+    },
+    {
+      "class_number":3135,
+      "subject":"PORT",
+      "catalog_number":"101",
+      "title":"Introduction to Portuguese 1",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Mota,Fatima"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:01-05:00"
+    },
+    {
+      "class_number":2919,
+      "subject":"REC",
+      "catalog_number":"334",
+      "title":"Introduction to Park Management",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Grimwood,Bryan"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    },
+    {
+      "class_number":3409,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LEC 004",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Jaimes-Dominguez,Jose Luis"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3781,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LEC 005",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Atoche,Cristina"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3970,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LEC 006",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Lam,Ibis"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3233,
+      "subject":"SPAN",
+      "catalog_number":"102",
+      "title":"Introduction to Spanish 2",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Rozotto,David"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3236,
+      "subject":"SPAN",
+      "catalog_number":"201A",
+      "title":"Intermediate Spanish 1",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Leoni,Monica"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:38-05:00"
+    },
+    {
+      "class_number":3345,
+      "subject":"SPCOM",
+      "catalog_number":"100",
+      "title":"Interpersonal Communication",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Harvie,Jo"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":7857,
+      "subject":"ENGL",
+      "catalog_number":"785",
+      "title":"Studies in Literary Criticism",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Kuzniar,Alice"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:27-05:00"
+    },
+    {
+      "class_number":7853,
+      "subject":"GER",
+      "catalog_number":"620",
+      "title":"Topics in German Literature and Culture",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Kuzniar,Alice"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:33-05:00"
+    },
+    {
+      "class_number":7856,
+      "subject":"GER",
+      "catalog_number":"720",
+      "title":"Topics in German Literature and Culture",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Kuzniar,Alice"
+      ],
+      "building":"ML",
+      "room":"246",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:34-05:00"
+    }
+  ]
+}

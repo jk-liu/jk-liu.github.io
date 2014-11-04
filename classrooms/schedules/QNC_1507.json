@@ -1,0 +1,374 @@
+{
+  "meta":{
+    "requests":2693,
+    "timestamp":1415081627,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5639,
+      "subject":"CO",
+      "catalog_number":"442",
+      "title":"Graph Theory",
+      "section":"LEC 001",
+      "weekdays":"TWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Richter,R. Bruce"
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:31-05:00"
+    },
+    {
+      "class_number":7930,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 012",
+      "weekdays":"MTTh",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Dadey,Bruce Alexander"
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":7762,
+      "subject":"HIST",
+      "catalog_number":"305",
+      "title":"Historical Memory and National Identity",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Roberts,Julia"
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":5905,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 110",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":7668,
+      "subject":"NE",
+      "catalog_number":"112",
+      "title":"Linear Algebra with Numerical Applications",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Abukhdeir,Nasser Mohieddin"
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7672,
+      "subject":"NE",
+      "catalog_number":"115",
+      "title":"Probability and Statistics",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4883,
+      "subject":"NE",
+      "catalog_number":"121",
+      "title":"Chemical Principles",
+      "section":"TUT 102",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":7676,
+      "subject":"NE",
+      "catalog_number":"216",
+      "title":"Advanced Calculus 1 for Nanotechnology Engineering",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Teertstra,Peter Michael"
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:30-05:00"
+    },
+    {
+      "class_number":4763,
+      "subject":"NE",
+      "catalog_number":"224",
+      "title":"Biochemistry for Nanotechnology Engineers",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Daub,Elisabeth"
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4759,
+      "subject":"NE",
+      "catalog_number":"225",
+      "title":"Structure and Properties of Matter: From Nanoscale to Bulk",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Deakin,Laura"
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":4850,
+      "subject":"NE",
+      "catalog_number":"241",
+      "title":"Electromagnetism",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Ban,Dayan"
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:31-05:00"
+    },
+    {
+      "class_number":3777,
+      "subject":"PHIL",
+      "catalog_number":"110B",
+      "title":"Introduction to Philosophy: Ethics and Values",
+      "section":"LEC 002",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Jordan,William James"
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:46-05:00"
+    },
+    {
+      "class_number":6720,
+      "subject":"PHYS",
+      "catalog_number":"364",
+      "title":"Mathematical Physics 1",
+      "section":"LEC 001",
+      "weekdays":"TWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Mir,Faizal"
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:55-05:00"
+    },
+    {
+      "class_number":6190,
+      "subject":"PMATH",
+      "catalog_number":"451",
+      "title":"Measure and Integration",
+      "section":"LEC 001",
+      "weekdays":"TW",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Mazowita,Matthew"
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:00-05:00"
+    },
+    {
+      "class_number":6190,
+      "subject":"PMATH",
+      "catalog_number":"451",
+      "title":"Measure and Integration",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:00-05:00"
+    },
+    {
+      "class_number":5962,
+      "subject":"CO",
+      "catalog_number":"642",
+      "title":"Graph Theory",
+      "section":"LEC 001",
+      "weekdays":"TWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Richter,R. Bruce"
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:10-05:00"
+    },
+    {
+      "class_number":6191,
+      "subject":"PMATH",
+      "catalog_number":"651",
+      "title":"Measure and Integration",
+      "section":"LEC 001",
+      "weekdays":"TW",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Mazowita,Matthew"
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:00-05:00"
+    },
+    {
+      "class_number":6191,
+      "subject":"PMATH",
+      "catalog_number":"651",
+      "title":"Measure and Integration",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        
+      ],
+      "building":"QNC",
+      "room":"1507",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:00-05:00"
+    }
+  ]
+}

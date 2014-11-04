@@ -1,0 +1,314 @@
+{
+  "meta":{
+    "requests":2722,
+    "timestamp":1415081636,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6465,
+      "subject":"CHINA",
+      "catalog_number":"102R",
+      "title":"First-Year Chinese 2",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Wang,Renee Rui"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:25-05:00"
+    },
+    {
+      "class_number":7942,
+      "subject":"CHINA",
+      "catalog_number":"120R",
+      "title":"Advanced First-Year Chinese",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Yang,Jie"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:25-05:00"
+    },
+    {
+      "class_number":6562,
+      "subject":"EFAS",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"09:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":6564,
+      "subject":"EFAS",
+      "catalog_number":"36",
+      "title":"Oral Skills",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":3210,
+      "subject":"ENGL",
+      "catalog_number":"376R",
+      "title":"Applied English Grammar 1",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Rehm,Stefan"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:11-05:00"
+    },
+    {
+      "class_number":8373,
+      "subject":"ESL",
+      "catalog_number":"101R",
+      "title":"Oral Communications for Academic Purposes",
+      "section":"LEC 005",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Astley,Joanne"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":6490,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 004",
+      "weekdays":"MTTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Heeney,Margaret Christine"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":7954,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 012",
+      "weekdays":"MThF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Wolczuk,Agnieszka"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":8372,
+      "subject":"ESL",
+      "catalog_number":"129R",
+      "title":"Written Academic English",
+      "section":"LEC 006",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Pop,Maria Victoria"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:18-05:00"
+    },
+    {
+      "class_number":4284,
+      "subject":"PSYCH",
+      "catalog_number":"101R",
+      "title":"Introductory Psychology",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Logel,Christine Elizabeth"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:06-05:00"
+    },
+    {
+      "class_number":7970,
+      "subject":"PSYCH",
+      "catalog_number":"356R",
+      "title":"Personality",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Yoshida,Emiko"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:09-05:00"
+    },
+    {
+      "class_number":6521,
+      "subject":"SDS",
+      "catalog_number":"131R",
+      "title":"Social Ideas, Social Policy and Political Practice",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Blokhuis,Jason C."
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:25-05:00"
+    },
+    {
+      "class_number":7975,
+      "subject":"SDS",
+      "catalog_number":"131R",
+      "title":"Social Ideas, Social Policy and Political Practice",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Romkey,Theresa Lea"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:25-05:00"
+    },
+    {
+      "class_number":8290,
+      "subject":"SDS",
+      "catalog_number":"331R",
+      "title":"Social Inequality, Social Justice, and Public Policy",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Peressini,Tracy"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:25-05:00"
+    },
+    {
+      "class_number":6483,
+      "subject":"SI",
+      "catalog_number":"101R",
+      "title":"Introduction to Arabic 1",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Al Ali,Kanan"
+      ],
+      "building":"REN",
+      "room":"0104",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:29-05:00"
+    }
+  ]
+}

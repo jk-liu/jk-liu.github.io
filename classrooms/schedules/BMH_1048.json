@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":2438,
+    "timestamp":1415081549,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8082,
+      "subject":"REC",
+      "catalog_number":"361",
+      "title":"Aging and Leisure",
+      "section":"SEM 109",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Dupuis,Sherry"
+      ],
+      "building":"BMH",
+      "room":"1048",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:14-05:00"
+    }
+  ]
+}

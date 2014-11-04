@@ -1,0 +1,414 @@
+{
+  "meta":{
+    "requests":2721,
+    "timestamp":1415081636,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7700,
+      "subject":"ME",
+      "catalog_number":"732",
+      "title":"Thermodynamics and Phase Transformations",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Esmaeili,Shahrzad"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-07-09T16:07:06-04:00"
+    },
+    {
+      "class_number":8147,
+      "subject":"BIOL",
+      "catalog_number":"447",
+      "title":"Environmental Microbiology",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":71,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":8148,
+      "subject":"BIOL",
+      "catalog_number":"447",
+      "title":"Environmental Microbiology",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":71,
+      "instructors":[
+        "Butler,Barbara J"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:59-05:00"
+    },
+    {
+      "class_number":7084,
+      "subject":"BIOL",
+      "catalog_number":"483",
+      "title":"Animal Cell Biotechnology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Dayeh,Vivian Rashida"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:00-05:00"
+    },
+    {
+      "class_number":6779,
+      "subject":"CHEM",
+      "catalog_number":"432",
+      "title":"Metabolism 2",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Palmer,Michael"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:23-05:00"
+    },
+    {
+      "class_number":5185,
+      "subject":"CIVE",
+      "catalog_number":"204",
+      "title":"Statics and Solid Mechanics 2",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":75,
+      "instructors":[
+        "Potapenko,Stan"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:26-05:00"
+    },
+    {
+      "class_number":5190,
+      "subject":"CIVE",
+      "catalog_number":"292",
+      "title":"Engineering Economics",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":79,
+      "instructors":[
+        "Soleimani Dahaj,Arash"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:27-05:00"
+    },
+    {
+      "class_number":5713,
+      "subject":"CS",
+      "catalog_number":"341",
+      "title":"Algorithms",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":80,
+      "instructors":[
+        "Shallit,Jeffrey O"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:38-05:00"
+    },
+    {
+      "class_number":8343,
+      "subject":"ENVS",
+      "catalog_number":"278",
+      "title":"Advanced Environmental Research Methods",
+      "section":"TUT 109",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":5298,
+      "subject":"ERS",
+      "catalog_number":"210",
+      "title":"Environmental Analysis and Solutions III: Greening Communities",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":78,
+      "instructors":[
+        "McAllister,Mary Louise"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:15-05:00"
+    },
+    {
+      "class_number":3090,
+      "subject":"HIST",
+      "catalog_number":"253",
+      "title":"Canadian History: The Colonial Period",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Briggs,Catherine"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:41-05:00"
+    },
+    {
+      "class_number":8027,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"TUT 114",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":5287,
+      "subject":"PLAN",
+      "catalog_number":"100",
+      "title":"The Evolution of Planning",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:57-05:00"
+    },
+    {
+      "class_number":5288,
+      "subject":"PLAN",
+      "catalog_number":"100",
+      "title":"The Evolution of Planning",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:57-05:00"
+    },
+    {
+      "class_number":5434,
+      "subject":"PLAN",
+      "catalog_number":"340",
+      "title":"Ecology-Based Policy-Making",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Drescher,Michael"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:58-05:00"
+    },
+    {
+      "class_number":7287,
+      "subject":"SE",
+      "catalog_number":"302",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Tahvildari,Ladan"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:28-05:00"
+    },
+    {
+      "class_number":7692,
+      "subject":"SOC",
+      "catalog_number":"223",
+      "title":"Deviance: Perspectives and Processes",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":75,
+      "instructors":[
+        "Leroux,Carlie Luciana"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:33-05:00"
+    },
+    {
+      "class_number":8010,
+      "subject":"ECE",
+      "catalog_number":"600",
+      "title":"Analytical Methods for E&CE",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Wasef,Albert Monir Tadros"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:18-05:00"
+    },
+    {
+      "class_number":8014,
+      "subject":"ECE",
+      "catalog_number":"650",
+      "title":"Methods&Tools for Software Eng",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Dietl,Werner"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:20-05:00"
+    },
+    {
+      "class_number":7701,
+      "subject":"ME",
+      "catalog_number":"739",
+      "title":"Manufacturing Processes Topics",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"19:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Toyserkani,Ehsan"
+      ],
+      "building":"RCH",
+      "room":"309",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:48-05:00"
+    }
+  ]
+}

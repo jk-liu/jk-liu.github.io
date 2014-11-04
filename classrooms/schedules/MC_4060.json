@@ -1,0 +1,394 @@
+{
+  "meta":{
+    "requests":2631,
+    "timestamp":1415081609,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6241,
+      "subject":"AMATH",
+      "catalog_number":"251",
+      "title":"Introduction to Differential Equations (Advanced level)",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Lamb,Kevin G"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:28-05:00"
+    },
+    {
+      "class_number":5956,
+      "subject":"AMATH",
+      "catalog_number":"442",
+      "title":"Computational Methods for Partial Differential Equations",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Krivodonova,Lilia"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:30-05:00"
+    },
+    {
+      "class_number":4501,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 119",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":6901,
+      "subject":"CHEM",
+      "catalog_number":"240",
+      "title":"Mathematical Methods for Chemistry",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":67,
+      "instructors":[
+        "Bennett,William"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:21-05:00"
+    },
+    {
+      "class_number":6650,
+      "subject":"CHEM",
+      "catalog_number":"310",
+      "title":"Transition Element Compounds and Inorganic Materials",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":48,
+      "instructors":[
+        "Nazar,Linda F"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":5899,
+      "subject":"CS",
+      "catalog_number":"135",
+      "title":"Designing Functional Programs",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":64,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":6022,
+      "subject":"CS",
+      "catalog_number":"135",
+      "title":"Designing Functional Programs",
+      "section":"TUT 109",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":65,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":6081,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":6317,
+      "subject":"CS",
+      "catalog_number":"241",
+      "title":"Foundations of Sequential Programs",
+      "section":"TUT 105",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:36-05:00"
+    },
+    {
+      "class_number":5747,
+      "subject":"CS",
+      "catalog_number":"246",
+      "title":"Object-Oriented Software Development",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:37-05:00"
+    },
+    {
+      "class_number":6084,
+      "subject":"CS",
+      "catalog_number":"246",
+      "title":"Object-Oriented Software Development",
+      "section":"TUT 103",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:37-05:00"
+    },
+    {
+      "class_number":6326,
+      "subject":"CS",
+      "catalog_number":"349",
+      "title":"User Interfaces",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "Becker,Byron Weber"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:38-05:00"
+    },
+    {
+      "class_number":6327,
+      "subject":"CS",
+      "catalog_number":"349",
+      "title":"User Interfaces",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":61,
+      "instructors":[
+        "Becker,Byron Weber"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:38-05:00"
+    },
+    {
+      "class_number":4901,
+      "subject":"ECE",
+      "catalog_number":"105",
+      "title":"Physics of Electrical Engineering 1",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:50-05:00"
+    },
+    {
+      "class_number":5845,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 108",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5003,
+      "subject":"ME",
+      "catalog_number":"262",
+      "title":"Introduction to Microprocessors and Digital Logic",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4930,
+      "subject":"NE",
+      "catalog_number":"481",
+      "title":"Introduction to Nanomedicine and Nanobiotechnology",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"11\/07",
+      "end_date":"11\/07",
+      "enrollment_total":59,
+      "instructors":[
+        "Gu,Frank"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":4930,
+      "subject":"NE",
+      "catalog_number":"481",
+      "title":"Introduction to Nanomedicine and Nanobiotechnology",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":"11\/21",
+      "end_date":"11\/21",
+      "enrollment_total":59,
+      "instructors":[
+        "Gu,Frank"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":7315,
+      "subject":"UNIV",
+      "catalog_number":"101",
+      "title":"Strategies and Skills for Academic Success",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "McKellar,Erica"
+      ],
+      "building":"MC",
+      "room":"4060",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:52-05:00"
+    }
+  ]
+}

@@ -1,0 +1,1834 @@
+{
+  "meta":{
+    "requests":2683,
+    "timestamp":1415081624,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6672,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/13",
+      "end_date":"10\/13",
+      "enrollment_total":23,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6672,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":23,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6673,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 002",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":23,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6673,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 002",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":23,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6674,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 003",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":24,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6674,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 003",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":24,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6675,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 004",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":24,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6675,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 004",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":24,
+      "instructors":[
+        
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6676,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 005",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":23,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6676,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 005",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":23,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6677,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 006",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":24,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6677,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 006",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":24,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6678,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 007",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":23,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6678,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 007",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":23,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6679,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 008",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":21,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6679,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 008",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":21,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6680,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 009",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/16",
+      "end_date":"10\/16",
+      "enrollment_total":24,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6680,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 009",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/13",
+      "end_date":"11\/13",
+      "enrollment_total":24,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6681,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 010",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":23,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6681,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 010",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":23,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6682,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 011",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/16",
+      "end_date":"10\/16",
+      "enrollment_total":24,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6682,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 011",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/13",
+      "end_date":"11\/13",
+      "enrollment_total":24,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6683,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 012",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":24,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6683,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 012",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":24,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6684,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 013",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/17",
+      "end_date":"10\/17",
+      "enrollment_total":20,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6684,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 013",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/14",
+      "end_date":"11\/14",
+      "enrollment_total":20,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6685,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 014",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/24",
+      "end_date":"10\/24",
+      "enrollment_total":24,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6685,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 014",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/21",
+      "end_date":"11\/21",
+      "enrollment_total":24,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6686,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 015",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/13",
+      "end_date":"10\/13",
+      "enrollment_total":18,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6686,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 015",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/10",
+      "end_date":"11\/10",
+      "enrollment_total":18,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6687,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 016",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/20",
+      "end_date":"10\/20",
+      "enrollment_total":21,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6687,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 016",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/17",
+      "end_date":"11\/17",
+      "enrollment_total":21,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6688,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 017",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":15,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6688,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 017",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":15,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6689,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 018",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":19,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6689,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 018",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":19,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6863,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 019",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":18,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6863,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 019",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":18,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6864,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 020",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":20,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6864,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 020",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":20,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6865,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 021",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/16",
+      "end_date":"10\/16",
+      "enrollment_total":15,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6865,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 021",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/13",
+      "end_date":"11\/13",
+      "enrollment_total":15,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6866,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 022",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":21,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6866,
+      "subject":"PHYS",
+      "catalog_number":"111L",
+      "title":"Physics 1 Laboratory",
+      "section":"LAB 022",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":21,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6715,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":15,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6715,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":15,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6715,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":15,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6716,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":17,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6716,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":17,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6716,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":17,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6717,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 003",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":9,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6717,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 003",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":9,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6717,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 003",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":9,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6718,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 004",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"09\/18",
+      "end_date":"09\/18",
+      "enrollment_total":13,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6718,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 004",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/02",
+      "end_date":"10\/02",
+      "enrollment_total":13,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6718,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 004",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/30",
+      "end_date":"10\/30",
+      "enrollment_total":13,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6946,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 005",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/18",
+      "end_date":"09\/18",
+      "enrollment_total":22,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6946,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 005",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/02",
+      "end_date":"10\/02",
+      "enrollment_total":22,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6946,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 005",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/30",
+      "end_date":"10\/30",
+      "enrollment_total":22,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7188,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 006",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/19",
+      "end_date":"09\/19",
+      "enrollment_total":0,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7188,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 006",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/03",
+      "end_date":"10\/03",
+      "enrollment_total":0,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7188,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 006",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":0,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7189,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 007",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":17,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7189,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 007",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":17,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7189,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 007",
+      "weekdays":"T",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":17,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7194,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 008",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":14,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7194,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 008",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":14,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7194,
+      "subject":"PHYS",
+      "catalog_number":"121L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 008",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":14,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6757,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/22",
+      "end_date":"09\/22",
+      "enrollment_total":21,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6757,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/06",
+      "end_date":"10\/06",
+      "enrollment_total":21,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6757,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/03",
+      "end_date":"11\/03",
+      "enrollment_total":21,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6758,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":7,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6758,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":7,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6758,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":7,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6867,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 003",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":24,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6867,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 003",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":24,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6867,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 003",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":24,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6950,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 004",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":16,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6950,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 004",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":16,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6950,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 004",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":16,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7107,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 005",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"09\/25",
+      "end_date":"09\/25",
+      "enrollment_total":24,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7107,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 005",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/09",
+      "end_date":"10\/09",
+      "enrollment_total":24,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7108,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 006",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/25",
+      "end_date":"09\/25",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7108,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 006",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/09",
+      "end_date":"10\/09",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7108,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 006",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/06",
+      "end_date":"11\/06",
+      "enrollment_total":23,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7187,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 007",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/26",
+      "end_date":"09\/26",
+      "enrollment_total":20,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7187,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 007",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/10",
+      "end_date":"10\/10",
+      "enrollment_total":20,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7187,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 007",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/07",
+      "end_date":"11\/07",
+      "enrollment_total":20,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7195,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 008",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":24,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7195,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 008",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":24,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":7195,
+      "subject":"PHYS",
+      "catalog_number":"131L",
+      "title":"Mechanics Laboratory",
+      "section":"LAB 008",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":24,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"218",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    }
+  ]
+}

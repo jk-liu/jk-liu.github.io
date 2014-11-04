@@ -1,0 +1,654 @@
+{
+  "meta":{
+    "requests":2498,
+    "timestamp":1415081568,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5061,
+      "subject":"ME",
+      "catalog_number":"235",
+      "title":"Materials Science and Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        "Yavuz,Mustafa"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":5061,
+      "subject":"ME",
+      "catalog_number":"235",
+      "title":"Materials Science and Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        "Yavuz,Mustafa"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":5062,
+      "subject":"ME",
+      "catalog_number":"235",
+      "title":"Materials Science and Engineering",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4831,
+      "subject":"ME",
+      "catalog_number":"250",
+      "title":"Thermodynamics 1",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Amini-Baziani,Ghobad"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":4831,
+      "subject":"ME",
+      "catalog_number":"250",
+      "title":"Thermodynamics 1",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Amini-Baziani,Ghobad"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:16-05:00"
+    },
+    {
+      "class_number":8380,
+      "subject":"MSCI",
+      "catalog_number":"200A",
+      "title":"Seminar",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Smucker,Mark"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4839,
+      "subject":"MSCI",
+      "catalog_number":"240",
+      "title":"Algorithms and Data Structures",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":58,
+      "instructors":[
+        "Smucker,Mark"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4840,
+      "subject":"MSCI",
+      "catalog_number":"240",
+      "title":"Algorithms and Data Structures",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":58,
+      "instructors":[
+        "Yildiz,Burak Can"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4844,
+      "subject":"MSCI",
+      "catalog_number":"262",
+      "title":"Managerial and Cost Accounting",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Manning,Thomas"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4844,
+      "subject":"MSCI",
+      "catalog_number":"262",
+      "title":"Managerial and Cost Accounting",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Manning,Thomas"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":5085,
+      "subject":"MSCI",
+      "catalog_number":"262",
+      "title":"Managerial and Cost Accounting",
+      "section":"LEC 002",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Manning,Thomas"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":5085,
+      "subject":"MSCI",
+      "catalog_number":"262",
+      "title":"Managerial and Cost Accounting",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Manning,Thomas"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4845,
+      "subject":"MSCI",
+      "catalog_number":"262",
+      "title":"Managerial and Cost Accounting",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"16:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":65,
+      "instructors":[
+        "Wang,Chenyu"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4846,
+      "subject":"MSCI",
+      "catalog_number":"271",
+      "title":"Advanced Calculus and Numerical Methods",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Soltani Koopa,Meisam"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4846,
+      "subject":"MSCI",
+      "catalog_number":"271",
+      "title":"Advanced Calculus and Numerical Methods",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Soltani Koopa,Meisam"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4847,
+      "subject":"MSCI",
+      "catalog_number":"271",
+      "title":"Advanced Calculus and Numerical Methods",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"16:00",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Karimi,Majid"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":8381,
+      "subject":"MSCI",
+      "catalog_number":"300B",
+      "title":"Seminar",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":55,
+      "instructors":[
+        "Hurst,Ada"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:20-05:00"
+    },
+    {
+      "class_number":4627,
+      "subject":"MSCI",
+      "catalog_number":"331",
+      "title":"Introduction to Optimization",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Cai,Qishu"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4947,
+      "subject":"MSCI",
+      "catalog_number":"332",
+      "title":"Deterministic Optimization Models and Methods",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":55,
+      "instructors":[
+        "Gzara,Fatma"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4947,
+      "subject":"MSCI",
+      "catalog_number":"332",
+      "title":"Deterministic Optimization Models and Methods",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":55,
+      "instructors":[
+        "Gzara,Fatma"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":5086,
+      "subject":"MSCI",
+      "catalog_number":"332",
+      "title":"Deterministic Optimization Models and Methods",
+      "section":"LEC 002",
+      "weekdays":"M",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Gzara,Fatma"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":5086,
+      "subject":"MSCI",
+      "catalog_number":"332",
+      "title":"Deterministic Optimization Models and Methods",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Gzara,Fatma"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4949,
+      "subject":"MSCI",
+      "catalog_number":"333",
+      "title":"Simulation Analysis and Design",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        "He,Qi-Ming"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4952,
+      "subject":"MSCI",
+      "catalog_number":"342",
+      "title":"Principles of Software Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Ivkovic,Igor"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4952,
+      "subject":"MSCI",
+      "catalog_number":"342",
+      "title":"Principles of Software Engineering",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Ivkovic,Igor"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4955,
+      "subject":"MSCI",
+      "catalog_number":"343",
+      "title":"Human-Computer Interaction",
+      "section":"LEC 001",
+      "weekdays":"MTTh",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Chilana,Parmit"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4956,
+      "subject":"MSCI",
+      "catalog_number":"343",
+      "title":"Human-Computer Interaction",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Goyal,Nippun"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4629,
+      "subject":"MSCI",
+      "catalog_number":"432",
+      "title":"Production and Service Operations Management",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Bayley,Tiffany Amber"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4630,
+      "subject":"MSCI",
+      "catalog_number":"432",
+      "title":"Production and Service Operations Management",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Nemutlu,Gizem Sultan"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:21-05:00"
+    },
+    {
+      "class_number":4959,
+      "subject":"MSCI",
+      "catalog_number":"446",
+      "title":"Data Warehousing and Mining",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        "Golab,Lukasz"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":4960,
+      "subject":"MSCI",
+      "catalog_number":"446",
+      "title":"Data Warehousing and Mining",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        "Jiang,Yuheng"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":8296,
+      "subject":"MSCI",
+      "catalog_number":"760",
+      "title":"Topics in Other Areas of Management Sciences",
+      "section":"RDG 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Golab,Lukasz"
+      ],
+      "building":"E2",
+      "room":"1303A",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:50-05:00"
+    }
+  ]
+}

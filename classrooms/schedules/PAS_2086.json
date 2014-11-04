@@ -1,0 +1,334 @@
+{
+  "meta":{
+    "requests":2666,
+    "timestamp":1415081619,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7798,
+      "subject":"ANTH",
+      "catalog_number":"290",
+      "title":"Visual Anthropology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Hoeppe,Goetz"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:34-05:00"
+    },
+    {
+      "class_number":3881,
+      "subject":"ANTH",
+      "catalog_number":"400",
+      "title":"Special Topics in Anthropology",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Liu,Jennifer"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:36-05:00"
+    },
+    {
+      "class_number":7801,
+      "subject":"ANTH",
+      "catalog_number":"430",
+      "title":"Anthropology of Science",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Hoeppe,Goetz"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:37-05:00"
+    },
+    {
+      "class_number":8555,
+      "subject":"EFAS",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 004",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":3169,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Fernandez,Stephen Frederick"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:06-05:00"
+    },
+    {
+      "class_number":5326,
+      "subject":"ERS",
+      "catalog_number":"315",
+      "title":"Environmental and Sustainability Assessment II",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":5327,
+      "subject":"ERS",
+      "catalog_number":"315",
+      "title":"Environmental and Sustainability Assessment II",
+      "section":"TUT 104",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:16-05:00"
+    },
+    {
+      "class_number":3287,
+      "subject":"FR",
+      "catalog_number":"192A",
+      "title":"French Language 1: Module 1",
+      "section":"ORL 110",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:24-05:00"
+    },
+    {
+      "class_number":8067,
+      "subject":"PSCI",
+      "catalog_number":"260",
+      "title":"Canadian Government & Politics",
+      "section":"DIS 101",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":4187,
+      "subject":"SOC",
+      "catalog_number":"256",
+      "title":"Ethnic and Racial Relations",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Fleras,Augie"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:33-05:00"
+    },
+    {
+      "class_number":7697,
+      "subject":"SOC",
+      "catalog_number":"417",
+      "title":"Liberal Arts Education and Knowledge Society",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Aurini,Janice"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:35-05:00"
+    },
+    {
+      "class_number":3493,
+      "subject":"SPCOM",
+      "catalog_number":"100",
+      "title":"Interpersonal Communication",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Hartling,Shannon Lee"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":8108,
+      "subject":"SPCOM",
+      "catalog_number":"100",
+      "title":"Interpersonal Communication",
+      "section":"LEC 005",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":28,
+      "instructors":[
+        "Hartling,Shannon Lee"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":8122,
+      "subject":"SPCOM",
+      "catalog_number":"223",
+      "title":"Public Speaking",
+      "section":"LEC 008",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Shakespeare,Robert David"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:40-05:00"
+    },
+    {
+      "class_number":4236,
+      "subject":"SPCOM",
+      "catalog_number":"228",
+      "title":"Public Communication",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Zimmerman,Amber L."
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:41-05:00"
+    },
+    {
+      "class_number":3504,
+      "subject":"ANTH",
+      "catalog_number":"600",
+      "title":"Public Issues Anthropology",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Park,Robert"
+      ],
+      "building":"PAS",
+      "room":"2086",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:01-05:00"
+    }
+  ]
+}

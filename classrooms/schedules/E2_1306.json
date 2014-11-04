@@ -1,0 +1,74 @@
+{
+  "meta":{
+    "requests":2500,
+    "timestamp":1415081569,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":7787,
+      "subject":"BME",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Freeman,George H"
+      ],
+      "building":"E2",
+      "room":"1306",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:02-05:00"
+    },
+    {
+      "class_number":7788,
+      "subject":"BME",
+      "catalog_number":"121",
+      "title":"Digital Computation",
+      "section":"LAB 201",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        "Freeman,George H"
+      ],
+      "building":"E2",
+      "room":"1306",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:02-05:00"
+    },
+    {
+      "class_number":4436,
+      "subject":"SYDE",
+      "catalog_number":"575",
+      "title":"Image Processing",
+      "section":"LAB 101",
+      "weekdays":"W",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":62,
+      "instructors":[
+        "Clausi,David A"
+      ],
+      "building":"E2",
+      "room":"1306",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:51-05:00"
+    }
+  ]
+}

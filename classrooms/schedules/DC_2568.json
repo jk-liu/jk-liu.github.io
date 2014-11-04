@@ -1,0 +1,174 @@
+{
+  "meta":{
+    "requests":2469,
+    "timestamp":1415081559,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5811,
+      "subject":"CS",
+      "catalog_number":"697",
+      "title":"Graduate Research Skills Seminar",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"12:00",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "DiMarco,Chrysanne"
+      ],
+      "building":"DC",
+      "room":"2568",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:13-05:00"
+    },
+    {
+      "class_number":7842,
+      "subject":"CS",
+      "catalog_number":"743",
+      "title":"Principles of Database Management and Use",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Salem,Kenneth"
+      ],
+      "building":"DC",
+      "room":"2568",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:13-05:00"
+    },
+    {
+      "class_number":7843,
+      "subject":"CS",
+      "catalog_number":"798",
+      "title":"Advanced Research Topics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Ragde,Prabhakar"
+      ],
+      "building":"DC",
+      "room":"2568",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:14-05:00"
+    },
+    {
+      "class_number":7844,
+      "subject":"CS",
+      "catalog_number":"840",
+      "title":"Advanced Topics in Data Structures",
+      "section":"SEM 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Munro,Ian"
+      ],
+      "building":"DC",
+      "room":"2568",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:14-05:00"
+    },
+    {
+      "class_number":6232,
+      "subject":"CS",
+      "catalog_number":"854",
+      "title":"Advanced Topics in Computer Systems",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Brecht,Timothy"
+      ],
+      "building":"DC",
+      "room":"2568",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:14-05:00"
+    },
+    {
+      "class_number":6351,
+      "subject":"CS",
+      "catalog_number":"860",
+      "title":"Advanced Topics in Algorithms and Complexity",
+      "section":"SEM 001",
+      "weekdays":"MW",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Lubiw,Anna"
+      ],
+      "building":"DC",
+      "room":"2568",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:15-05:00"
+    },
+    {
+      "class_number":7846,
+      "subject":"CS",
+      "catalog_number":"882",
+      "title":"Advanced Topics in Bioinformatics",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Ma,Bin"
+      ],
+      "building":"DC",
+      "room":"2568",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:15-05:00"
+    },
+    {
+      "class_number":8456,
+      "subject":"CS",
+      "catalog_number":"886",
+      "title":"Advanced Topics in Artificial Intelligence",
+      "section":"SEM 001",
+      "weekdays":"WF",
+      "start_time":"10:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Lizotte,Daniel James"
+      ],
+      "building":"DC",
+      "room":"2568",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:15-05:00"
+    }
+  ]
+}

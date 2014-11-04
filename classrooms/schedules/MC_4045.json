@@ -1,0 +1,354 @@
+{
+  "meta":{
+    "requests":2628,
+    "timestamp":1415081608,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5627,
+      "subject":"CO",
+      "catalog_number":"227",
+      "title":"Introduction to Optimization (Non-Specialist Level)",
+      "section":"LEC 001",
+      "weekdays":"TWF",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Roh,Patrick Young"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:30-05:00"
+    },
+    {
+      "class_number":5969,
+      "subject":"CS",
+      "catalog_number":"135",
+      "title":"Designing Functional Programs",
+      "section":"TUT 105",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":72,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":5721,
+      "subject":"CS",
+      "catalog_number":"466",
+      "title":"Algorithm Design and Analysis",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Ma,Bin"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:40-05:00"
+    },
+    {
+      "class_number":3612,
+      "subject":"ECON",
+      "catalog_number":"231",
+      "title":"Introduction to International Economics",
+      "section":"LEC 002",
+      "weekdays":"MTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        "Kumase,Wokia-azi"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:57-05:00"
+    },
+    {
+      "class_number":5676,
+      "subject":"MATH",
+      "catalog_number":"127",
+      "title":"Calculus 1 for the Sciences",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":100,
+      "instructors":[
+        "Loo,Clinton"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5759,
+      "subject":"MATH",
+      "catalog_number":"127",
+      "title":"Calculus 1 for the Sciences",
+      "section":"TUT 105",
+      "weekdays":"M",
+      "start_time":"17:30",
+      "end_time":"18:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":100,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5618,
+      "subject":"MATH",
+      "catalog_number":"235",
+      "title":"Linear Algebra 2 for Honours Mathematics",
+      "section":"LEC 003",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":72,
+      "instructors":[
+        "Gindi,Steven"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:13-05:00"
+    },
+    {
+      "class_number":6088,
+      "subject":"MATH",
+      "catalog_number":"235",
+      "title":"Linear Algebra 2 for Honours Mathematics",
+      "section":"LEC 005",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":95,
+      "instructors":[
+        "Rooney,Brendan"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:13-05:00"
+    },
+    {
+      "class_number":4928,
+      "subject":"NE",
+      "catalog_number":"461",
+      "title":"Micro and Nanoinstruments",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Maheshwari,Vivek"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:33-05:00"
+    },
+    {
+      "class_number":6666,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:52-05:00"
+    },
+    {
+      "class_number":7157,
+      "subject":"PHYS",
+      "catalog_number":"275",
+      "title":"Planets",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":66,
+      "instructors":[
+        "Taylor,James"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:55-05:00"
+    },
+    {
+      "class_number":6056,
+      "subject":"PMATH",
+      "catalog_number":"340",
+      "title":"Elementary Number Theory",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        "Rubinstein,Michael"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:00-05:00"
+    },
+    {
+      "class_number":5739,
+      "subject":"STAT",
+      "catalog_number":"430",
+      "title":"Experimental Design",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":67,
+      "instructors":[
+        "Li,Pengfei"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:44-05:00"
+    },
+    {
+      "class_number":5975,
+      "subject":"STAT",
+      "catalog_number":"430",
+      "title":"Experimental Design",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":67,
+      "instructors":[
+        "Li,Pengfei"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:44-05:00"
+    },
+    {
+      "class_number":5798,
+      "subject":"CS",
+      "catalog_number":"666",
+      "title":"Algorithm Design and Analysis",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Ma,Bin"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:13-05:00"
+    },
+    {
+      "class_number":5801,
+      "subject":"STAT",
+      "catalog_number":"830",
+      "title":"Experimental Design",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Li,Pengfei"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:13-05:00"
+    },
+    {
+      "class_number":8359,
+      "subject":"STAT",
+      "catalog_number":"830",
+      "title":"Experimental Design",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Li,Pengfei"
+      ],
+      "building":"MC",
+      "room":"4045",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:13-05:00"
+    }
+  ]
+}

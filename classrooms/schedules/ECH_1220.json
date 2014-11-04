@@ -1,0 +1,54 @@
+{
+  "meta":{
+    "requests":2537,
+    "timestamp":1415081580,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8037,
+      "subject":"FINE",
+      "catalog_number":"244",
+      "title":"History of Visual Media to 1910",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Balaisis,Nicholas"
+      ],
+      "building":"ECH",
+      "room":"1220",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:20-05:00"
+    },
+    {
+      "class_number":8033,
+      "subject":"VCULT",
+      "catalog_number":"300",
+      "title":"Visual Culture in Theory",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "MacDonald,Shana"
+      ],
+      "building":"ECH",
+      "room":"1220",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:53-05:00"
+    }
+  ]
+}

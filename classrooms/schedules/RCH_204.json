@@ -1,0 +1,335 @@
+{
+  "meta":{
+    "requests":2707,
+    "timestamp":1415081632,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8119,
+      "subject":"GEMCC",
+      "catalog_number":"620",
+      "title":"Climate and Society",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Andrey,Jean"
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-07-16T10:09:04-04:00"
+    },
+    {
+      "class_number":4485,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4510,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 126",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":5067,
+      "subject":"CIVE",
+      "catalog_number":"486",
+      "title":"Hydrology",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:28-05:00"
+    },
+    {
+      "class_number":5987,
+      "subject":"CS",
+      "catalog_number":"135",
+      "title":"Designing Functional Programs",
+      "section":"TUT 106",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:35-05:00"
+    },
+    {
+      "class_number":4523,
+      "subject":"ENVE",
+      "catalog_number":"472",
+      "title":"Wastewater Treatment",
+      "section":"TUT 201",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Parker,Wayne Jeffery"
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:13-05:00"
+    },
+    {
+      "class_number":5264,
+      "subject":"ERS",
+      "catalog_number":"110",
+      "title":"Environmental Analysis and Solutions I: Foundations",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:15-05:00"
+    },
+    {
+      "class_number":7755,
+      "subject":"HIST",
+      "catalog_number":"268",
+      "title":"A Comparative History of Empires",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":56,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:42-05:00"
+    },
+    {
+      "class_number":5660,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":42,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5979,
+      "subject":"MATH",
+      "catalog_number":"116",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 112",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":5904,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 109",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":46,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":6701,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"TUT 106",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6707,
+      "subject":"PHYS",
+      "catalog_number":"115",
+      "title":"Mechanics",
+      "section":"TUT 112",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:53-05:00"
+    },
+    {
+      "class_number":6937,
+      "subject":"SCBUS",
+      "catalog_number":"423",
+      "title":"Senior Honours Science and Business Workshop 4",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        "Memon,Muhammad Kashif"
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:23-05:00"
+    },
+    {
+      "class_number":4827,
+      "subject":"ECE",
+      "catalog_number":"651",
+      "title":"Foundations of Software Engineering",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Singh,Ajit"
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:20-05:00"
+    },
+    {
+      "class_number":2903,
+      "subject":"HSG",
+      "catalog_number":"601",
+      "title":"Lifespan Approaches to Disease Prevention and Health Promotion",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Leatherdale,Scott Thomas",
+        "Mielke,John G."
+      ],
+      "building":"RCH",
+      "room":"204",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:41-05:00"
+    }
+  ]
+}

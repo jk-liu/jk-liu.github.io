@@ -1,0 +1,374 @@
+{
+  "meta":{
+    "requests":2407,
+    "timestamp":1415081540,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5810,
+      "subject":"ACTSC",
+      "catalog_number":"371",
+      "title":"Corporate Finance 1",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":214,
+      "instructors":[
+        "Tan,Ken S"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:10-05:00"
+    },
+    {
+      "class_number":3085,
+      "subject":"ANTH",
+      "catalog_number":"101",
+      "title":"Human and Cultural Evolution",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":174,
+      "instructors":[
+        "Millson,Dana"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:32-05:00"
+    },
+    {
+      "class_number":3086,
+      "subject":"ANTH",
+      "catalog_number":"102",
+      "title":"Introduction to Social and Cultural Anthropology",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":186,
+      "instructors":[
+        "Hayes,Nicole"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:33-05:00"
+    },
+    {
+      "class_number":4473,
+      "subject":"CHE",
+      "catalog_number":"100",
+      "title":"Chemical Engineering Concepts 1",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"09\/08",
+      "end_date":"12\/01",
+      "enrollment_total":149,
+      "instructors":[
+        "Croiset,Eric"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4473,
+      "subject":"CHE",
+      "catalog_number":"100",
+      "title":"Chemical Engineering Concepts 1",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":"09\/08",
+      "end_date":"12\/01",
+      "enrollment_total":149,
+      "instructors":[
+        "Grove,Jason Andrew"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":6884,
+      "subject":"CHEM",
+      "catalog_number":"220",
+      "title":"Intro Analytical Chemistry",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":219,
+      "instructors":[
+        "Mikkelsen,Susan R"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:21-05:00"
+    },
+    {
+      "class_number":5380,
+      "subject":"ENBUS",
+      "catalog_number":"202",
+      "title":"Environmental Management Systems",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":126,
+      "instructors":[
+        "Young,Steve"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:02-05:00"
+    },
+    {
+      "class_number":5458,
+      "subject":"ENBUS",
+      "catalog_number":"306",
+      "title":"Research Design",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":107,
+      "instructors":[
+        "Lin,Haiying"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:02-05:00"
+    },
+    {
+      "class_number":7920,
+      "subject":"ENBUS",
+      "catalog_number":"402A",
+      "title":"Environment and Business Project",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":112,
+      "instructors":[
+        
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:02-05:00"
+    },
+    {
+      "class_number":8193,
+      "subject":"FINE",
+      "catalog_number":"101",
+      "title":"Art History and Visual Culture",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":94,
+      "instructors":[
+        "Coutu,Joan M"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:19-05:00"
+    },
+    {
+      "class_number":8079,
+      "subject":"INTST",
+      "catalog_number":"101",
+      "title":"Introduction to International Studies",
+      "section":"LEC 003",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":202,
+      "instructors":[
+        "Welch,David Andrew"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:50-05:00"
+    },
+    {
+      "class_number":5648,
+      "subject":"MATH",
+      "catalog_number":"115",
+      "title":"Linear Algebra for Engineering",
+      "section":"LEC 002",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":126,
+      "instructors":[
+        "Huang,Junbo"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":4363,
+      "subject":"MUSIC",
+      "catalog_number":"140",
+      "title":"Popular Music and Culture",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":198,
+      "instructors":[
+        "Wood,Simon James David"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:25-05:00"
+    },
+    {
+      "class_number":3145,
+      "subject":"PSYCH",
+      "catalog_number":"261",
+      "title":"Physiological Psychology",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":210,
+      "instructors":[
+        "Itier,Roxane"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:08-05:00"
+    },
+    {
+      "class_number":3149,
+      "subject":"PSYCH",
+      "catalog_number":"391",
+      "title":"Advanced Data Analysis",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":196,
+      "instructors":[
+        "Fugelsang,Jonathan"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:09-05:00"
+    },
+    {
+      "class_number":3411,
+      "subject":"RS",
+      "catalog_number":"100",
+      "title":"Religions of the East",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":"09\/08",
+      "end_date":"12\/01",
+      "enrollment_total":46,
+      "instructors":[
+        "Fenn,Mavis"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:18-05:00"
+    },
+    {
+      "class_number":5780,
+      "subject":"STAT",
+      "catalog_number":"206",
+      "title":"Statistics for Software Engineering",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":148,
+      "instructors":[
+        "Roberts,Collin Donald"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:42-05:00"
+    },
+    {
+      "class_number":3773,
+      "subject":"VCULT",
+      "catalog_number":"101",
+      "title":"Art History and Visual Culture",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":96,
+      "instructors":[
+        "Coutu,Joan M"
+      ],
+      "building":"AL",
+      "room":"113",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:52-05:00"
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "meta":{
+    "requests":2570,
+    "timestamp":1415081591,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":5358,
+      "subject":"ENVS",
+      "catalog_number":"444",
+      "title":"Ecosystem and Resource Management in Parks\/Natural Areas",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Hooykaas,Amanda Leigh"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:14-05:00"
+    },
+    {
+      "class_number":7654,
+      "subject":"INTEG",
+      "catalog_number":"121",
+      "title":"Introduction to the Academy: Design and Problem-Solving",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "McKone,Paul David",
+        "Schweizer,Vanessa"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:49-05:00"
+    },
+    {
+      "class_number":5393,
+      "subject":"INTEG",
+      "catalog_number":"220",
+      "title":"Nature of Scientific Knowledge",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Plaisance,Kathryn"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:49-05:00"
+    },
+    {
+      "class_number":5456,
+      "subject":"INTEG",
+      "catalog_number":"231",
+      "title":"The Museum Course: Field Trip Project",
+      "section":"PRJ 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/08",
+      "end_date":"10\/03",
+      "enrollment_total":30,
+      "instructors":[
+        "Gorbet,Robert B",
+        "McKone,Paul David"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:49-05:00"
+    },
+    {
+      "class_number":7655,
+      "subject":"INTEG",
+      "catalog_number":"275",
+      "title":"Special Topics in Knowledge Integration",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Jernigan,Marvin Edward"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:49-05:00"
+    },
+    {
+      "class_number":5409,
+      "subject":"INTEG",
+      "catalog_number":"320",
+      "title":"The Museum Course: Research & Design",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "McKone,Paul David",
+        "Gorbet,Robert B"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:49-05:00"
+    },
+    {
+      "class_number":5457,
+      "subject":"INTEG",
+      "catalog_number":"420",
+      "title":"Senior Research Project A",
+      "section":"SEM 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Plaisance,Kathryn"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:49-05:00"
+    },
+    {
+      "class_number":8401,
+      "subject":"INTEG",
+      "catalog_number":"421",
+      "title":"Senior Research Project B",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Plaisance,Kathryn"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:50-05:00"
+    },
+    {
+      "class_number":7656,
+      "subject":"INTEG",
+      "catalog_number":"452A",
+      "title":"Real World Problem Solving A",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Schweizer,Vanessa"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:50-05:00"
+    },
+    {
+      "class_number":2970,
+      "subject":"REC",
+      "catalog_number":"437",
+      "title":"Ecosystem and Resource Management in Parks\/Natural Areas",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Hooykaas,Amanda Leigh"
+      ],
+      "building":"EV2",
+      "room":"2069",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:15-05:00"
+    }
+  ]
+}

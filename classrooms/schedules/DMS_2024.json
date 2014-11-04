@@ -1,0 +1,94 @@
+{
+  "meta":{
+    "requests":2475,
+    "timestamp":1415081560,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":4350,
+      "subject":"GBDA",
+      "catalog_number":"101",
+      "title":"Digital Media Design and Production",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Tingley,Jane"
+      ],
+      "building":"DMS",
+      "room":"2024",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:27-05:00"
+    },
+    {
+      "class_number":4351,
+      "subject":"GBDA",
+      "catalog_number":"101",
+      "title":"Digital Media Design and Production",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Tingley,Jane"
+      ],
+      "building":"DMS",
+      "room":"2024",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:27-05:00"
+    },
+    {
+      "class_number":4352,
+      "subject":"GBDA",
+      "catalog_number":"101",
+      "title":"Digital Media Design and Production",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Tingley,Jane"
+      ],
+      "building":"DMS",
+      "room":"2024",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:27-05:00"
+    },
+    {
+      "class_number":4353,
+      "subject":"GBDA",
+      "catalog_number":"101",
+      "title":"Digital Media Design and Production",
+      "section":"LAB 102",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Tingley,Jane"
+      ],
+      "building":"DMS",
+      "room":"2024",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:27-05:00"
+    }
+  ]
+}

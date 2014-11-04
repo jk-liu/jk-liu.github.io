@@ -1,0 +1,1648 @@
+{
+  "meta":{
+    "requests":2556,
+    "timestamp":1415081586,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":6582,
+      "subject":"CHEM",
+      "catalog_number":"262L",
+      "title":"Organic Chemistry Laboratory for Engineering Students",
+      "section":"LAB 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"09\/12",
+      "end_date":"09\/12",
+      "enrollment_total":44,
+      "instructors":[
+        "Goll,Julie Maria"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6582,
+      "subject":"CHEM",
+      "catalog_number":"262L",
+      "title":"Organic Chemistry Laboratory for Engineering Students",
+      "section":"LAB 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"09\/26",
+      "end_date":"09\/26",
+      "enrollment_total":44,
+      "instructors":[
+        "Goll,Julie Maria"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6582,
+      "subject":"CHEM",
+      "catalog_number":"262L",
+      "title":"Organic Chemistry Laboratory for Engineering Students",
+      "section":"LAB 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/10",
+      "end_date":"10\/10",
+      "enrollment_total":44,
+      "instructors":[
+        "Goll,Julie Maria"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6582,
+      "subject":"CHEM",
+      "catalog_number":"262L",
+      "title":"Organic Chemistry Laboratory for Engineering Students",
+      "section":"LAB 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/24",
+      "end_date":"10\/24",
+      "enrollment_total":44,
+      "instructors":[
+        "Goll,Julie Maria"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6582,
+      "subject":"CHEM",
+      "catalog_number":"262L",
+      "title":"Organic Chemistry Laboratory for Engineering Students",
+      "section":"LAB 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/07",
+      "end_date":"11\/07",
+      "enrollment_total":44,
+      "instructors":[
+        "Goll,Julie Maria"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6834,
+      "subject":"CHEM",
+      "catalog_number":"262L",
+      "title":"Organic Chemistry Laboratory for Engineering Students",
+      "section":"LAB 002",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"09\/19",
+      "end_date":"09\/19",
+      "enrollment_total":45,
+      "instructors":[
+        "Goll,Julie Maria"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6834,
+      "subject":"CHEM",
+      "catalog_number":"262L",
+      "title":"Organic Chemistry Laboratory for Engineering Students",
+      "section":"LAB 002",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/03",
+      "end_date":"10\/03",
+      "enrollment_total":45,
+      "instructors":[
+        "Goll,Julie Maria"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6834,
+      "subject":"CHEM",
+      "catalog_number":"262L",
+      "title":"Organic Chemistry Laboratory for Engineering Students",
+      "section":"LAB 002",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/17",
+      "end_date":"10\/17",
+      "enrollment_total":45,
+      "instructors":[
+        "Goll,Julie Maria"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6834,
+      "subject":"CHEM",
+      "catalog_number":"262L",
+      "title":"Organic Chemistry Laboratory for Engineering Students",
+      "section":"LAB 002",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":45,
+      "instructors":[
+        "Goll,Julie Maria"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6834,
+      "subject":"CHEM",
+      "catalog_number":"262L",
+      "title":"Organic Chemistry Laboratory for Engineering Students",
+      "section":"LAB 002",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/14",
+      "end_date":"11\/14",
+      "enrollment_total":45,
+      "instructors":[
+        "Goll,Julie Maria"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6642,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":46,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6642,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":46,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6642,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":46,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6642,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":46,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6642,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":46,
+      "instructors":[
+        "Marta,Richard Alexander",
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6643,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 002",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":48,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6643,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 002",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":48,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6643,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 002",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":48,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6643,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 002",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":48,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6643,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 002",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":48,
+      "instructors":[
+        "Marta,Richard Alexander",
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6644,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 003",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/16",
+      "end_date":"09\/16",
+      "enrollment_total":47,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6644,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 003",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/30",
+      "end_date":"09\/30",
+      "enrollment_total":47,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6644,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 003",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/14",
+      "end_date":"10\/14",
+      "enrollment_total":47,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6644,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 003",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/28",
+      "end_date":"10\/28",
+      "enrollment_total":47,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6644,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 003",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/11",
+      "end_date":"11\/11",
+      "enrollment_total":47,
+      "instructors":[
+        "Marta,Richard Alexander",
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6645,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 004",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/23",
+      "end_date":"09\/23",
+      "enrollment_total":48,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6645,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 004",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/07",
+      "end_date":"10\/07",
+      "enrollment_total":48,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6645,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 004",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/21",
+      "end_date":"10\/21",
+      "enrollment_total":48,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6645,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 004",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/04",
+      "end_date":"11\/04",
+      "enrollment_total":48,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6645,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 004",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/18",
+      "end_date":"11\/18",
+      "enrollment_total":48,
+      "instructors":[
+        "Marta,Richard Alexander",
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6646,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 005",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":47,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6646,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 005",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":47,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6646,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 005",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":47,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6646,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 005",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":47,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6646,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 005",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":47,
+      "instructors":[
+        "Marta,Richard Alexander",
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6647,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 006",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":46,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6647,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 006",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":46,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6647,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 006",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":46,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6647,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 006",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":46,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6647,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 006",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":46,
+      "instructors":[
+        "Gilbert,Dara",
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6648,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 007",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"09\/17",
+      "end_date":"09\/17",
+      "enrollment_total":37,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6648,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 007",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/01",
+      "end_date":"10\/01",
+      "enrollment_total":37,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6648,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 007",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/15",
+      "end_date":"10\/15",
+      "enrollment_total":37,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6648,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 007",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/29",
+      "end_date":"10\/29",
+      "enrollment_total":37,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6648,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 007",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/12",
+      "end_date":"11\/12",
+      "enrollment_total":37,
+      "instructors":[
+        "Marta,Richard Alexander",
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6649,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 008",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"09\/24",
+      "end_date":"09\/24",
+      "enrollment_total":32,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6649,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 008",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/08",
+      "end_date":"10\/08",
+      "enrollment_total":32,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6649,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 008",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/22",
+      "end_date":"10\/22",
+      "enrollment_total":32,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6649,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 008",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/05",
+      "end_date":"11\/05",
+      "enrollment_total":32,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6649,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 008",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/19",
+      "end_date":"11\/19",
+      "enrollment_total":32,
+      "instructors":[
+        "Marta,Richard Alexander",
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6768,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 009",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"09\/18",
+      "end_date":"09\/18",
+      "enrollment_total":48,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6768,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 009",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/02",
+      "end_date":"10\/02",
+      "enrollment_total":48,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6768,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 009",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/16",
+      "end_date":"10\/16",
+      "enrollment_total":48,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6768,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 009",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/30",
+      "end_date":"10\/30",
+      "enrollment_total":48,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6768,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 009",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/13",
+      "end_date":"11\/13",
+      "enrollment_total":48,
+      "instructors":[
+        "Marta,Richard Alexander",
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6851,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 010",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"09\/25",
+      "end_date":"09\/25",
+      "enrollment_total":47,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6851,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 010",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/09",
+      "end_date":"10\/09",
+      "enrollment_total":47,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6851,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 010",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":47,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6851,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 010",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/06",
+      "end_date":"11\/06",
+      "enrollment_total":47,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6851,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 010",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":47,
+      "instructors":[
+        "Gilbert,Dara",
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6868,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 011",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/18",
+      "end_date":"09\/18",
+      "enrollment_total":47,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6868,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 011",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/02",
+      "end_date":"10\/02",
+      "enrollment_total":47,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6868,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 011",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/16",
+      "end_date":"10\/16",
+      "enrollment_total":47,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6868,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 011",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/30",
+      "end_date":"10\/30",
+      "enrollment_total":47,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6868,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 011",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/13",
+      "end_date":"11\/13",
+      "enrollment_total":47,
+      "instructors":[
+        "Marta,Richard Alexander",
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6869,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 012",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/25",
+      "end_date":"09\/25",
+      "enrollment_total":48,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6869,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 012",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/09",
+      "end_date":"10\/09",
+      "enrollment_total":48,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6869,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 012",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/23",
+      "end_date":"10\/23",
+      "enrollment_total":48,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6869,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 012",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/06",
+      "end_date":"11\/06",
+      "enrollment_total":48,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6869,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 012",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/20",
+      "end_date":"11\/20",
+      "enrollment_total":48,
+      "instructors":[
+        "Marta,Richard Alexander",
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":7148,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 013",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/19",
+      "end_date":"09\/19",
+      "enrollment_total":46,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":7148,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 013",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/03",
+      "end_date":"10\/03",
+      "enrollment_total":46,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":7148,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 013",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/17",
+      "end_date":"10\/17",
+      "enrollment_total":46,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":7148,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 013",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/31",
+      "end_date":"10\/31",
+      "enrollment_total":46,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":7148,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 013",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/14",
+      "end_date":"11\/14",
+      "enrollment_total":46,
+      "instructors":[
+        "Marta,Richard Alexander",
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":7149,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 014",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"09\/26",
+      "end_date":"09\/26",
+      "enrollment_total":48,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":7149,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 014",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/10",
+      "end_date":"10\/10",
+      "enrollment_total":48,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":7149,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 014",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"10\/24",
+      "end_date":"10\/24",
+      "enrollment_total":48,
+      "instructors":[
+        "Marta,Richard Alexander"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":7149,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 014",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/07",
+      "end_date":"11\/07",
+      "enrollment_total":48,
+      "instructors":[
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":7149,
+      "subject":"CHEM",
+      "catalog_number":"266L",
+      "title":"Organic Chemistry Laboratory",
+      "section":"LAB 014",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"11\/21",
+      "end_date":"11\/21",
+      "enrollment_total":48,
+      "instructors":[
+        "Marta,Richard Alexander",
+        "Gilbert,Dara"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:22-05:00"
+    },
+    {
+      "class_number":6969,
+      "subject":"CHEM",
+      "catalog_number":"382L",
+      "title":"Advanced Organic Synthesis Laboratory",
+      "section":"LAB 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Goll,Julie Maria"
+      ],
+      "building":"ESC",
+      "room":"342",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:23-05:00"
+    }
+  ]
+}

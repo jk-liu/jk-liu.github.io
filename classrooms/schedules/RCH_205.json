@@ -1,0 +1,454 @@
+{
+  "meta":{
+    "requests":2708,
+    "timestamp":1415081632,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8337,
+      "subject":"BASE",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 004",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:49-05:00"
+    },
+    {
+      "class_number":4487,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 108",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4496,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 115",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":4555,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 128",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":5012,
+      "subject":"CHE",
+      "catalog_number":"102",
+      "title":"Chemistry for Engineers",
+      "section":"TUT 136",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Scott,Alison Jean"
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:14-05:00"
+    },
+    {
+      "class_number":6748,
+      "subject":"CHEM",
+      "catalog_number":"356",
+      "title":"Introductory Quantum Mechanics",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Nooijen,Marcel"
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:23-05:00"
+    },
+    {
+      "class_number":7035,
+      "subject":"CHEM",
+      "catalog_number":"404",
+      "title":"Physicochemical Aspects of Natural Waters",
+      "section":"LEC 001",
+      "weekdays":"MTTh",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Gorecki,Tadeusz"
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:01:23-05:00"
+    },
+    {
+      "class_number":6565,
+      "subject":"EFAS",
+      "catalog_number":"32",
+      "title":"Academic Skills",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"09:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:00-05:00"
+    },
+    {
+      "class_number":3891,
+      "subject":"ENGL",
+      "catalog_number":"220A",
+      "title":"Languages and Society I",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Reichert,Tetyana"
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:08-05:00"
+    },
+    {
+      "class_number":3892,
+      "subject":"GER",
+      "catalog_number":"261",
+      "title":"Languages and Society I",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Reichert,Tetyana"
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:02:36-05:00"
+    },
+    {
+      "class_number":5784,
+      "subject":"MATH",
+      "catalog_number":"117",
+      "title":"Calculus 1 for Engineering",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:11-05:00"
+    },
+    {
+      "class_number":4665,
+      "subject":"MTE",
+      "catalog_number":"100",
+      "title":"Mechatronics Engineering",
+      "section":"TUT 202",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:22-05:00"
+    },
+    {
+      "class_number":8001,
+      "subject":"PHIL",
+      "catalog_number":"350",
+      "title":"Theories of Knowledge",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "MacDonald,Ian"
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:49-05:00"
+    },
+    {
+      "class_number":5338,
+      "subject":"PLAN",
+      "catalog_number":"300",
+      "title":"Planning Theory",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:58-05:00"
+    },
+    {
+      "class_number":5339,
+      "subject":"PLAN",
+      "catalog_number":"300",
+      "title":"Planning Theory",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:03:58-05:00"
+    },
+    {
+      "class_number":8072,
+      "subject":"PSCI",
+      "catalog_number":"260",
+      "title":"Canadian Government & Politics",
+      "section":"DIS 106",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:02-05:00"
+    },
+    {
+      "class_number":3716,
+      "subject":"PSYCH",
+      "catalog_number":"340",
+      "title":"Training and Development",
+      "section":"DIS 102",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:09-05:00"
+    },
+    {
+      "class_number":3890,
+      "subject":"REES",
+      "catalog_number":"261",
+      "title":"Languages and Society I",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Reichert,Tetyana"
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:16-05:00"
+    },
+    {
+      "class_number":3212,
+      "subject":"SPAN",
+      "catalog_number":"227",
+      "title":"Introduction to Latin American Poetry and Drama",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Boido,Mario"
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:04:39-05:00"
+    },
+    {
+      "class_number":6161,
+      "subject":"AMATH",
+      "catalog_number":"740",
+      "title":"Numerical Analysis",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "De Sterck,Hans"
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:00-05:00"
+    },
+    {
+      "class_number":6018,
+      "subject":"CM",
+      "catalog_number":"770",
+      "title":"Numerical Analysis",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "De Sterck,Hans"
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:09-05:00"
+    },
+    {
+      "class_number":6139,
+      "subject":"CS",
+      "catalog_number":"770",
+      "title":"Numerical Analysis",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "De Sterck,Hans"
+      ],
+      "building":"RCH",
+      "room":"205",
+      "term":1149,
+      "last_updated":"2014-11-04T01:05:14-05:00"
+    }
+  ]
+}

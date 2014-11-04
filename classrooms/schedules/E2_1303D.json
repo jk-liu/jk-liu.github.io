@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":2499,
+    "timestamp":1415081569,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":8573,
+      "subject":"SYDE",
+      "catalog_number":"750",
+      "title":"Topics in Systems Modelling",
+      "section":"SEM 004",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Wong,Alexander"
+      ],
+      "building":"E2",
+      "room":"1303D",
+      "term":1149,
+      "last_updated":"2014-11-04T01:06:16-05:00"
+    }
+  ]
+}

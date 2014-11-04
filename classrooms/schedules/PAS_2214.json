@@ -1,0 +1,34 @@
+{
+  "meta":{
+    "requests":2667,
+    "timestamp":1415081620,
+    "status":200,
+    "message":"Request successful",
+    "method_id":1223,
+    "method":{
+      
+    }
+  },
+  "data":[
+    {
+      "class_number":3673,
+      "subject":"ANTH",
+      "catalog_number":"355",
+      "title":"Human Osteology",
+      "section":"SEM 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Liston,Maria"
+      ],
+      "building":"PAS",
+      "room":"2214",
+      "term":1149,
+      "last_updated":"2014-11-04T01:00:36-05:00"
+    }
+  ]
+}
