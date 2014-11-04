@@ -7,5 +7,5 @@ function UrlExists(url)
 }
 
 function collectInfo() {
-	console.log(UrlExists("http://www.jkliu.ca/classrooms/schedule/AL_116.json"))
+	console.log(UrlExists("http://www.jkliu.ca/classrooms/schedules/AL_116.json"))
 }
