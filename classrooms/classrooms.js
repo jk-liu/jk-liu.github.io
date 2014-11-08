@@ -1,3 +1,38 @@
+function getDayofWeek() {
+    var d = new Date();
+    var weekday = new Array(7);
+    weekday[0] = "S";
+    weekday[1] = "M";
+    weekday[2] = "T";
+    weekday[3] = "W";
+    weekday[4] = "Th";
+    weekday[5] = "F";
+    weekday[6] = "S";
+
+    var n = weekday[d.getDay()];
+    return n;
+}
+
+function getHourPlusMinutes() {
+    var d = new Date();
+    var hours = (d.getHours()-8)*6;
+	var minutes = Math.floor(d.getMinutes()/10);
+    return hours+minutes;
+}
+
+function HplusM_to_12hr(i) {
+	var outputString = "";
+	
+	// don't change to 12 hour until at least 1pm
+	if (i<30) { outputString+=(Math.floor(i/6)+8)+":"+i%6+"0"; }
+	else { outputString+=(Math.floor(i/6)+8)%12+":"+i%6+"0"; }
+	
+	if (i<=23) { outputString+=" am"; }
+	else { outputString+=" pm"; }
+	
+	return outputString;
+}
+
 function UrlExists(url) {
     var http = new XMLHttpRequest();
     http.open('HEAD', url, false);
@@ -12,16 +47,64 @@ function collectInfo() {
 	var urlFull = "schedules/"+building+"_"+roomNumber+".json";
 	var roomSchedule;
 	
+	var curr_dayOfWeek = getDayofWeek();
+	var curr_hourMin = getHourPlusMinutes();
+	
 	$("#displayOpenTimes").slideUp();
 	$("#displayStatus").slideUp();
 	$("#displayTimes").slideUp();
 
-	if (UrlExists(urlFull)) {
+	// show currently open rooms in building
+	if (roomNumber == "" && curr_hourMin >=3 && curr_hourMin <=84 && curr_dayOfWeek!="S") {
+		urlFull = "open_times/"+building+".json";
+	
+		$.getJSON(urlFull, function(data) {
+			var outputString = "";
+
+			outputString+="<ul>";
+			for (var i in data) {
+				// if a room in the building is open for current day of week and hour
+				if (data[i][curr_dayOfWeek][curr_hourMin]==0) { 
+					outputString+="<li><strong>"+building+" "+data[i].roomNumber+"</strong>: now - "; 
+					
+					var j = curr_hourMin;
+					var foundOccupiedTime=0;
+					
+					while (!foundOccupiedTime) {
+						j++;
+						
+						if (j==84) { 
+							foundOccupiedTime=1;
+							outputString+="building closes</li>"; 	
+						}
+						
+						else if (data[i][curr_dayOfWeek][j]==1) {
+							foundOccupiedTime=1;
+							outputString+=HplusM_to_12hr(j);
+							outputString+="</li>";
+						}
+					}
+				}
+			}
+			
+			outputString+="</ul>";
+
+			document.getElementById("displayStatus").innerHTML="<strong>Rooms with no classes scheduled:</strong>";
+			document.getElementById("displayTimes").innerHTML=outputString;
+			
+			$("#displayStatus").slideDown(800);
+			$("#displayTimes").slideDown(800);
+		});
+	}
+	
+	else if (roomNumber == "") {}
+	
+	// process the room schedule if the room exists
+	else if (UrlExists(urlFull)) {
 		$.getJSON(urlFull, function(data) {
 			roomSchedule = data.data;
 			var metaStatus = data.meta.status;
 			
-			// process the room schedule if the room exists
 			document.getElementById("displayStatus").innerHTML="<strong>Room has classes scheduled:</strong>";
 			var output = [];
 			var timeArray = [];
@@ -93,29 +176,19 @@ function collectInfo() {
 			document.getElementById("displayTimes").innerHTML=outputString;
 			
 			// output open times
-			outputString = "<strong>Open times: </strong>";
+			outputString = "<strong>No classes scheduled for: </strong>";
 			outputString+="<ul>";
 			var lastTimeOccupied=0;
 			
 			for (var i=3; i<84; i++) {
 				if (timeArray[i]==0 && timeArray[i+1]==0 && lastTimeOccupied==0) {
 					outputString+="<li>";
-					// don't change to 12 hour until at least 1pm
-					if (i<30) { outputString+=(Math.floor(i/6)+8)+":"+i%6+"0"; }
-					else { outputString+=(Math.floor(i/6)+8)%12+":"+i%6+"0"; }
-					
-					if (i<=23) { outputString+=" am"; }
-					else { outputString+=" pm"; }
+					outputString+=HplusM_to_12hr(i);
 					outputString+=" - "
 					lastTimeOccupied=1;
 				}
 				else if (timeArray[i]==1 && lastTimeOccupied==1) {
-					// don't change to 12 hour until at least 1pm
-					if (i<30) { outputString+=(Math.floor(i/6)+8)+":"+i%6+"0"; }
-					else { outputString+=(Math.floor(i/6)+8)%12+":"+i%6+"0"; }
-					
-					if (i<=23) { outputString+=" am"; }
-					else { outputString+=" pm"; }
+					outputString+=HplusM_to_12hr(i);
 					outputString+="</li>";
 					lastTimeOccupied=0;
 				}
@@ -132,9 +205,7 @@ function collectInfo() {
 
 	else {
 		// if input returns no information
-		$("#displayOpenTimes").slideUp(800);
-		$("#displayStatus").slideDown(800);
-		$("#displayTimes").slideUp(800);
 		document.getElementById("displayStatus").innerHTML="<strong>Room selected has no classes scheduled or does not exist.</strong>";
+		$("#displayStatus").slideDown(800);
 	}
 }
