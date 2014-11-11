@@ -236,6 +236,8 @@ function collectInfo() {
 }
 
 function showRm(rmNum, day) {
+	console.log(typeof rmNum);
+	console.log(rmNum);
 	if (rmNum=="") {document.getElementById('room').value="";}
 	else {
 		document.getElementById('room').value=rmNum;
