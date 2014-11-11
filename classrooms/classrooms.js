@@ -88,7 +88,7 @@ function collectInfo() {
 			}
 			
 			outputString+="</ul>";
-
+			outputString+="<i>Rooms are built off of a list of rooms that sections of classes are held in and may not always be accessible.</i>"
 			document.getElementById("displayStatus").innerHTML="<strong>Rooms with no classes scheduled:</strong>";
 			document.getElementById("displayTimes").innerHTML=outputString;
 			
