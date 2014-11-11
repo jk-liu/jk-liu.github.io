@@ -236,11 +236,11 @@ function collectInfo() {
 }
 
 function showRm(rmNum, day) {
-	if (rmNum!="") {
+	if (rmNum=="") {document.getElementById('room').value="";}
+	else {
 		document.getElementById('room').value=rmNum;
 		document.getElementById('dayOfWeek').value=day;
 	}
-	else {document.getElementById('room').value="";}
 	
 	collectInfo();
 }
