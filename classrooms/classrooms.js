@@ -97,7 +97,10 @@ function collectInfo() {
 		});
 	}
 	
-	else if (roomNumber == "") {}
+	else if (roomNumber == "") {
+		document.getElementById("displayStatus").innerHTML="<strong>Building has no classes scheduled at this time.</strong>";
+		$("#displayStatus").slideDown(800);
+	}
 	
 	// process the room schedule if the room exists
 	else if (UrlExists(urlFull)) {
