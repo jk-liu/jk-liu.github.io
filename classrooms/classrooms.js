@@ -66,9 +66,9 @@ function collectInfo() {
 				// if a room in the building is open for current day of week and hour
 				if (data[i][curr_dayOfWeek][curr_hourMin]==0) { 
 					outputString+="<li><strong>";
-					outputString+="<a href=\"javascript:function showRm(){document.getElementById('room').value=\"";
-					outputString+=data[i].roomNumber+"\";"
-					outputString+="document.getElementById('dayOfWeek').value=\""+curr_dayOfWeek+"\";} showRm();";
+					outputString+="<a href=\"javascript:function showRm(){document.getElementById('room').value=";
+					outputString+=data[i].roomNumber+";"
+					outputString+="document.getElementById('dayOfWeek').value="+curr_dayOfWeek+";} showRm();\">";
 					outputString+=building+" "+data[i].roomNumber;
 					outputString+="</a></strong>: now - "; 
 					
