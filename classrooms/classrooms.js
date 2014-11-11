@@ -113,7 +113,10 @@ function collectInfo() {
 			outputString+="<i>Rooms are built off of a list of rooms that sections of classes are held in and may not always be accessible.</i>"
 			document.getElementById("displayTimes").innerHTML=outputString;
 			document.getElementById("displayStatus").innerHTML="<strong>Building has no classes scheduled at this time, these rooms may be available:</strong>";
+			
 			$("#displayStatus").slideDown(800);
+			$("#displayTimes").slideDown(800);
+
 		});
 	}
 	
