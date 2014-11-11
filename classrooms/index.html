@@ -10,8 +10,9 @@
   <body>
     <div class="container">
       <h2>Classrooms</h2>
-	  <form role="form">
-        <div class="col-sm-3">
+
+      <form role="form" action="javascript:collectInfo()">
+		<div class="col-sm-3">
           <label for="sel1">Day</label>
           <select class="form-control" id="dayOfWeek">
 			<option value="M">Monday</option>
@@ -22,9 +23,7 @@
           </select>
 		  <br>
         </div>
-      </form>
 
-      <form role="form">
         <div class="col-sm-6">
           <label for="buildings">Building</label>
           <select class="form-control" id="buildings">
@@ -61,13 +60,15 @@
           </select>
 	  <br>
 	  </div>
-      </form>
-
+	  
 	  <div class="col-sm-3">
 		<label for="text">Room Number</label>
 		<input type="text" class="form-control" id="room">
 		<br>
 	  </div>
+      </form>
+
+	 
 	  
 	<div class="col-sm-3">
 		<label>

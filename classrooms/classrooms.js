@@ -1,10 +1,3 @@
-var room_enter = document.getElementById("room");
-room_enter.onkeyup = function(e){
-    if(e.keyCode == 13){
-       collectInfo();
-    }
-}
-
 function getDayofWeek() {
     var d = new Date();
     var weekday = new Array(7);
