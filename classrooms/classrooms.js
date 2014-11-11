@@ -50,6 +50,8 @@ function collectInfo() {
 	var curr_dayOfWeek = getDayofWeek();
 	var curr_hourMin = getHourPlusMinutes();
 	
+	// hide keyboard on mobile
+	document.activeElement.blur();
 	$("#displayOpenTimes").slideUp();
 	$("#displayStatus").slideUp();
 	$("#displayTimes").slideUp();
