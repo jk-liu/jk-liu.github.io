@@ -66,9 +66,7 @@ function collectInfo() {
 				// if a room in the building is open for current day of week and hour
 				if (data[i][curr_dayOfWeek][curr_hourMin]==0) { 
 					outputString+="<li><strong>";
-					outputString+="<a href=\"javascript:function showRm(){document.getElementById('room').value=";
-					outputString+=data[i].roomNumber+";"
-					outputString+="document.getElementById('dayOfWeek').value="+curr_dayOfWeek+";} showRm();\">";
+					outputString+="<a href=\"javascript:showRm(+"data[i].roomNumber+","+curr_dayOfWeek+")\">";
 					outputString+=building+" "+data[i].roomNumber;
 					outputString+="</a></strong>: now - "; 
 					
@@ -233,4 +231,9 @@ function collectInfo() {
 		document.getElementById("displayStatus").innerHTML="<strong>Room selected has no classes scheduled or does not exist.</strong>";
 		$("#displayStatus").slideDown(800);
 	}
+}
+
+function showRm(rmNum, day) {
+	document.getElementById('room').value=rmNum;
+	document.getElementById('dayOfWeek').value=day;
 }
