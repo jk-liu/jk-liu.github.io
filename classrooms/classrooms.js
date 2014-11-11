@@ -1,3 +1,10 @@
+var room_enter = document.getElementById("room");
+room_enter.onkeyup = function(e){
+    if(e.keyCode == 13){
+       collectInfo();
+    }
+}
+
 function getDayofWeek() {
     var d = new Date();
     var weekday = new Array(7);
@@ -236,8 +243,6 @@ function collectInfo() {
 }
 
 function showRm(rmNum, day) {
-	console.log(typeof rmNum);
-	console.log(rmNum);
 	if (rmNum=="") {document.getElementById('room').value="";}
 	else {
 		document.getElementById('room').value=rmNum;
