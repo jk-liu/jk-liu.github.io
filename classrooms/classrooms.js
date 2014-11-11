@@ -98,8 +98,23 @@ function collectInfo() {
 	}
 	
 	else if (roomNumber == "") {
-		document.getElementById("displayStatus").innerHTML="<strong>Building has no classes scheduled at this time.</strong>";
-		$("#displayStatus").slideDown(800);
+		urlFull = "open_times/"+building+".json";
+		
+		$.getJSON(urlFull, function(data) {
+			var outputString = "";
+
+			// output all rooms used as classrooms
+			outputString+="<ul>";
+			for (var i in data) {
+				outputString+="<li><strong>"+building+" "+data[i].roomNumber+"</strong></li>";
+			}
+			
+			outputString+="</ul>";
+			outputString+="<i>Rooms are built off of a list of rooms that sections of classes are held in and may not always be accessible.</i>"
+			document.getElementById("displayTimes").innerHTML=outputString;
+			document.getElementById("displayStatus").innerHTML="<strong>Building has no classes scheduled at this time, these rooms may be available:</strong>";
+			$("#displayStatus").slideDown(800);
+		});
 	}
 	
 	// process the room schedule if the room exists
