@@ -196,6 +196,8 @@ function collectInfo() {
 				outputString+=output[i];
 			}
 			outputString+="</ul>";
+			outputString+="<strong><a href=\"javascript:showRm(,)\">";
+			outputString+="Search for empty rooms</a></strong>"; 
 			document.getElementById("displayTimes").innerHTML=outputString;
 			
 			// output open times
@@ -234,6 +236,9 @@ function collectInfo() {
 }
 
 function showRm(rmNum, day) {
-	document.getElementById('room').value=rmNum;
-	document.getElementById('dayOfWeek').value=day;
+	if (rmNum!="") {
+		document.getElementById('room').value=String(rmNum);
+		document.getElementById('dayOfWeek').value=String(day);
+	}
+	else {document.getElementById('room').value="";}
 }
