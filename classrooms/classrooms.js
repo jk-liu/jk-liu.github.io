@@ -237,8 +237,10 @@ function collectInfo() {
 
 function showRm(rmNum, day) {
 	if (rmNum!="") {
-		document.getElementById('room').value=String(rmNum);
-		document.getElementById('dayOfWeek').value=String(day);
+		document.getElementById('room').value=rmNum;
+		document.getElementById('dayOfWeek').value=day;
 	}
 	else {document.getElementById('room').value="";}
+	
+	collectInfo();
 }
