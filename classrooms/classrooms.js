@@ -57,7 +57,7 @@ function collectInfo() {
 	$("#displayTimes").slideUp();
 
 	// show currently open rooms in building
-	if (roomNumber == "" && curr_hourMin >=3 && curr_hourMin <=84 && curr_dayOfWeek!="S") {
+	if (roomNumber == "" && curr_hourMin >=3 && curr_hourMin <84 && curr_dayOfWeek!="S") {
 		urlFull = "open_times/"+building+".json";
 	
 		$.getJSON(urlFull, function(data) {
@@ -111,7 +111,10 @@ function collectInfo() {
 			// output all rooms used as classrooms
 			outputString+="<ul>";
 			for (var i in data) {
-				outputString+="<li><strong>"+building+" "+data[i].roomNumber+"</strong></li>";
+				outputString+="<li><strong>";
+				outputString+="<a href=\"javascript:showRm('"+data[i].roomNumber+"','"+curr_dayOfWeek+"')\">";
+				outputString+=building+" "+data[i].roomNumber;
+				outputString+="</a></strong></li>";
 			}
 			
 			outputString+="</ul>";
