@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2444,
-    "timestamp":1415081551,
+    "requests":5321,
+    "timestamp":1420353801,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,1554 +11,974 @@
   },
   "data":[
     {
-      "class_number":2921,
+      "class_number":3086,
       "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
       "section":"LAB 101",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"09\/10",
-      "end_date":"09\/10",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2921,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 101",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"09\/24",
-      "end_date":"09\/24",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2921,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 101",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/08",
-      "end_date":"10\/08",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2921,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 101",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/22",
-      "end_date":"10\/22",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2921,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 101",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/05",
-      "end_date":"11\/05",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2921,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 101",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/19",
-      "end_date":"11\/19",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2922,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 102",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"09\/12",
-      "end_date":"09\/12",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2922,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 102",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"09\/26",
-      "end_date":"09\/26",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2922,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 102",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/10",
-      "end_date":"10\/10",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2922,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 102",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/24",
-      "end_date":"10\/24",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2922,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 102",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/07",
-      "end_date":"11\/07",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2922,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 102",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/21",
-      "end_date":"11\/21",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2923,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 103",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"09\/09",
-      "end_date":"09\/09",
-      "enrollment_total":21,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2923,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 103",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"09\/23",
-      "end_date":"09\/23",
-      "enrollment_total":21,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2923,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 103",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/07",
-      "end_date":"10\/07",
-      "enrollment_total":21,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2923,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 103",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/21",
-      "end_date":"10\/21",
-      "enrollment_total":21,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2923,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 103",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/04",
-      "end_date":"11\/04",
-      "enrollment_total":21,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2923,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 103",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/18",
-      "end_date":"11\/18",
-      "enrollment_total":21,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2924,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 104",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"09\/09",
-      "end_date":"09\/09",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2924,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 104",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"09\/23",
-      "end_date":"09\/23",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2924,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 104",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"10\/07",
-      "end_date":"10\/07",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2924,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 104",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"10\/21",
-      "end_date":"10\/21",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2924,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 104",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"11\/04",
-      "end_date":"11\/04",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2924,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 104",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"11\/18",
-      "end_date":"11\/18",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2925,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 105",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"09\/11",
-      "end_date":"09\/11",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2925,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 105",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"09\/25",
-      "end_date":"09\/25",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2925,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 105",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/09",
-      "end_date":"10\/09",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2925,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 105",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/23",
-      "end_date":"10\/23",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2925,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 105",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/06",
-      "end_date":"11\/06",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2925,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 105",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/20",
-      "end_date":"11\/20",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2926,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 106",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"09\/11",
-      "end_date":"09\/11",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2926,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 106",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"09\/25",
-      "end_date":"09\/25",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2926,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 106",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"10\/09",
-      "end_date":"10\/09",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2926,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 106",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"10\/23",
-      "end_date":"10\/23",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2926,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 106",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"11\/06",
-      "end_date":"11\/06",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2926,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 106",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"11\/20",
-      "end_date":"11\/20",
-      "enrollment_total":19,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2927,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 107",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"09\/18",
-      "end_date":"09\/18",
-      "enrollment_total":17,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2927,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 107",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"10\/02",
-      "end_date":"10\/02",
-      "enrollment_total":17,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2927,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 107",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"10\/16",
-      "end_date":"10\/16",
-      "enrollment_total":17,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2927,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 107",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"10\/30",
-      "end_date":"10\/30",
-      "enrollment_total":17,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2927,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 107",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"11\/13",
-      "end_date":"11\/13",
-      "enrollment_total":17,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2927,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 107",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"11\/27",
-      "end_date":"11\/27",
-      "enrollment_total":17,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2928,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 108",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"09\/19",
-      "end_date":"09\/19",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2928,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 108",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/03",
-      "end_date":"10\/03",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2928,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 108",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/17",
-      "end_date":"10\/17",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2928,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 108",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/31",
-      "end_date":"10\/31",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2928,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 108",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/14",
-      "end_date":"11\/14",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2928,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 108",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/28",
-      "end_date":"11\/28",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2929,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 109",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"09\/18",
-      "end_date":"09\/18",
-      "enrollment_total":21,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2929,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 109",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/02",
-      "end_date":"10\/02",
-      "enrollment_total":21,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2929,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 109",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/16",
-      "end_date":"10\/16",
-      "enrollment_total":21,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2929,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 109",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/30",
-      "end_date":"10\/30",
-      "enrollment_total":21,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2929,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 109",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/13",
-      "end_date":"11\/13",
-      "enrollment_total":21,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2929,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 109",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/27",
-      "end_date":"11\/27",
-      "enrollment_total":21,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2964,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 110",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"09\/17",
-      "end_date":"09\/17",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2964,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 110",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/01",
-      "end_date":"10\/01",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2964,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 110",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/15",
-      "end_date":"10\/15",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2964,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 110",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/29",
-      "end_date":"10\/29",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2964,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 110",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/12",
-      "end_date":"11\/12",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2964,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 110",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/26",
-      "end_date":"11\/26",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":3007,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 111",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"09\/16",
-      "end_date":"09\/16",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":3007,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 111",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"09\/30",
-      "end_date":"09\/30",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":3007,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 111",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"10\/14",
-      "end_date":"10\/14",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":3007,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 111",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"10\/28",
-      "end_date":"10\/28",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":3007,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 111",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"11\/11",
-      "end_date":"11\/11",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":3007,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 111",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"11\/25",
-      "end_date":"11\/25",
-      "enrollment_total":20,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":3008,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 112",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"09\/16",
-      "end_date":"09\/16",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":3008,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 112",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"09\/30",
-      "end_date":"09\/30",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":3008,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 112",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/14",
-      "end_date":"10\/14",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":3008,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 112",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"10\/28",
-      "end_date":"10\/28",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":3008,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 112",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/11",
-      "end_date":"11\/11",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":3008,
-      "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LAB 112",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":"11\/25",
-      "end_date":"11\/25",
-      "enrollment_total":18,
-      "instructors":[
-        "Vigna,Christopher"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2814,
-      "subject":"KIN",
-      "catalog_number":"405",
-      "title":"Exercise Management",
-      "section":"LAB 101",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        "Jones,Laurie L"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:03-05:00"
-    },
-    {
-      "class_number":2815,
-      "subject":"KIN",
-      "catalog_number":"405",
-      "title":"Exercise Management",
-      "section":"LAB 102",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Jones,Laurie L"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:03-05:00"
-    },
-    {
-      "class_number":2816,
-      "subject":"KIN",
-      "catalog_number":"405",
-      "title":"Exercise Management",
-      "section":"LAB 103",
       "weekdays":"M",
       "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Jones,Laurie L"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:03-05:00"
-    },
-    {
-      "class_number":2946,
-      "subject":"KIN",
-      "catalog_number":"405",
-      "title":"Exercise Management",
-      "section":"LAB 104",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Jones,Laurie L"
-      ],
-      "building":"BMH",
-      "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:03-05:00"
-    },
-    {
-      "class_number":2992,
-      "subject":"KIN",
-      "catalog_number":"405",
-      "title":"Exercise Management",
-      "section":"LAB 105",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
+      "end_time":"17:20",
+      "start_date":"01\/05",
+      "end_date":"01\/05",
       "enrollment_total":16,
       "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3086,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"01\/19",
+      "end_date":"01\/19",
+      "enrollment_total":16,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3086,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"02\/02",
+      "end_date":"02\/02",
+      "enrollment_total":16,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3086,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"02\/16",
+      "end_date":"02\/16",
+      "enrollment_total":16,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3086,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/02",
+      "end_date":"03\/02",
+      "enrollment_total":16,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3086,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/16",
+      "end_date":"03\/16",
+      "enrollment_total":16,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3086,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/30",
+      "end_date":"03\/30",
+      "enrollment_total":16,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3087,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":12,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3087,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":12,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3087,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":12,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3087,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
+      "enrollment_total":12,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3087,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
+      "enrollment_total":12,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3087,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
+      "enrollment_total":12,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3088,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/16",
+      "end_date":"01\/16",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3088,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/30",
+      "end_date":"01\/30",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3088,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/13",
+      "end_date":"02\/13",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3088,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/27",
+      "end_date":"02\/27",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3088,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/13",
+      "end_date":"03\/13",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3088,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/27",
+      "end_date":"03\/27",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3089,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":"01\/05",
+      "end_date":"01\/05",
+      "enrollment_total":18,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3089,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":"01\/19",
+      "end_date":"01\/19",
+      "enrollment_total":18,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3089,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":"02\/02",
+      "end_date":"02\/02",
+      "enrollment_total":18,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3089,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":"02\/16",
+      "end_date":"02\/16",
+      "enrollment_total":18,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3089,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":"03\/02",
+      "end_date":"03\/02",
+      "enrollment_total":18,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3089,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":"03\/16",
+      "end_date":"03\/16",
+      "enrollment_total":18,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3089,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":"03\/30",
+      "end_date":"03\/30",
+      "enrollment_total":18,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3090,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"01\/07",
+      "end_date":"01\/07",
+      "enrollment_total":14,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3090,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":14,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3090,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":14,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3090,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"02\/18",
+      "end_date":"02\/18",
+      "enrollment_total":14,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3090,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":14,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3090,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":14,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3090,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":14,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3097,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 106",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"01\/12",
+      "end_date":"01\/12",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3097,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 106",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"01\/26",
+      "end_date":"01\/26",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3097,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 106",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"02\/09",
+      "end_date":"02\/09",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3097,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 106",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"02\/23",
+      "end_date":"02\/23",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3097,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 106",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/09",
+      "end_date":"03\/09",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3097,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 106",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/23",
+      "end_date":"03\/23",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3097,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 106",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"04\/06",
+      "end_date":"04\/06",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3172,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/09",
+      "end_date":"01\/09",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3172,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/23",
+      "end_date":"01\/23",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3172,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/06",
+      "end_date":"02\/06",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3172,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/20",
+      "end_date":"02\/20",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3172,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/06",
+      "end_date":"03\/06",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3172,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/20",
+      "end_date":"03\/20",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3172,
+      "subject":"KIN",
+      "catalog_number":"205",
+      "title":"Muscle Physiology in Exercise and Work",
+      "section":"LAB 107",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"04\/03",
+      "end_date":"04\/03",
+      "enrollment_total":15,
+      "instructors":[
+        "Vigna,Christopher"
+      ],
+      "building":"BMH",
+      "room":"2402",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3009,
+      "subject":"KIN",
+      "catalog_number":"307",
+      "title":"Methods in Physiological Research",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
         "Jones,Laurie L"
       ],
       "building":"BMH",
       "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:03-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:59-05:00"
     },
     {
-      "class_number":2901,
+      "class_number":3083,
       "subject":"KIN",
-      "catalog_number":"492A",
+      "catalog_number":"492B",
       "title":"Clinical Kinesiology -- Cardiac Rehabilitation Practicum",
       "section":"PRA 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"14:20",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":8,
@@ -1567,8 +987,8 @@
       ],
       "building":"BMH",
       "room":"2402",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:05-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:03-05:00"
     }
   ]
 }

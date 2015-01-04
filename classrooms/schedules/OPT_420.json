@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2655,
-    "timestamp":1415081616,
+    "requests":5515,
+    "timestamp":1420353871,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,164 +11,124 @@
   },
   "data":[
     {
-      "class_number":6746,
+      "class_number":6632,
       "subject":"OPTOM",
-      "catalog_number":"106",
-      "title":"Geometrical, Physical and Visual Optics",
-      "section":"LAB 201",
-      "weekdays":"F",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        "Weber,Anne P"
-      ],
-      "building":"OPT",
-      "room":"420",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:34-05:00"
-    },
-    {
-      "class_number":6747,
-      "subject":"OPTOM",
-      "catalog_number":"106",
-      "title":"Geometrical, Physical and Visual Optics",
-      "section":"LAB 202",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        "Weber,Anne P"
-      ],
-      "building":"OPT",
-      "room":"420",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:34-05:00"
-    },
-    {
-      "class_number":6731,
-      "subject":"OPTOM",
-      "catalog_number":"109",
-      "title":"Visual Perception 1: Perception of Light",
+      "catalog_number":"126",
+      "title":"Fundamentals of Visual Optics",
       "section":"LAB 101",
       "weekdays":"M",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        "Weber,Anne P"
-      ],
-      "building":"OPT",
-      "room":"420",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
-    },
-    {
-      "class_number":6732,
-      "subject":"OPTOM",
-      "catalog_number":"109",
-      "title":"Visual Perception 1: Perception of Light",
-      "section":"LAB 102",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":44,
-      "instructors":[
-        "Weber,Anne P"
-      ],
-      "building":"OPT",
-      "room":"420",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
-    },
-    {
-      "class_number":6734,
-      "subject":"OPTOM",
-      "catalog_number":"216",
-      "title":"Ophthalmic Optics 1",
-      "section":"LAB 101",
-      "weekdays":"Th",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        "Weber,Anne P"
-      ],
-      "building":"OPT",
-      "room":"420",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
-    },
-    {
-      "class_number":6735,
-      "subject":"OPTOM",
-      "catalog_number":"216",
-      "title":"Ophthalmic Optics 1",
-      "section":"LAB 102",
-      "weekdays":"T",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        "Weber,Anne P"
-      ],
-      "building":"OPT",
-      "room":"420",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
-    },
-    {
-      "class_number":6938,
-      "subject":"OPTOM",
-      "catalog_number":"252L",
-      "title":"Clinical Techniques 2 Laboratory",
-      "section":"LAB 001",
-      "weekdays":"W",
       "start_time":"13:30",
       "end_time":"15:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":46,
+      "enrollment_total":45,
       "instructors":[
-        
+        "Weber,Anne P"
       ],
       "building":"OPT",
       "room":"420",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:39-05:00"
     },
     {
-      "class_number":6939,
+      "class_number":6633,
       "subject":"OPTOM",
-      "catalog_number":"252L",
-      "title":"Clinical Techniques 2 Laboratory",
-      "section":"LAB 002",
-      "weekdays":"W",
+      "catalog_number":"126",
+      "title":"Fundamentals of Visual Optics",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Weber,Anne P"
+      ],
+      "building":"OPT",
+      "room":"420",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:39-05:00"
+    },
+    {
+      "class_number":6854,
+      "subject":"OPTOM",
+      "catalog_number":"219",
+      "title":"Visual Perception 2: Monocular and Binocular Visual Processes",
+      "section":"LAB 101",
+      "weekdays":"F",
       "start_time":"09:30",
-      "end_time":"11:20",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":47,
+      "instructors":[
+        "Weber,Anne P"
+      ],
+      "building":"OPT",
+      "room":"420",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:40-05:00"
+    },
+    {
+      "class_number":6855,
+      "subject":"OPTOM",
+      "catalog_number":"219",
+      "title":"Visual Perception 2: Monocular and Binocular Visual Processes",
+      "section":"LAB 102",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":46,
       "instructors":[
-        "Hadley,Ken Douglas"
+        "Weber,Anne P"
       ],
       "building":"OPT",
       "room":"420",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:40-05:00"
+    },
+    {
+      "class_number":6921,
+      "subject":"OPTOM",
+      "catalog_number":"339",
+      "title":"Visual Perception 3:Colour Vision",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Weber,Anne P"
+      ],
+      "building":"OPT",
+      "room":"420",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:42-05:00"
+    },
+    {
+      "class_number":6922,
+      "subject":"OPTOM",
+      "catalog_number":"339",
+      "title":"Visual Perception 3:Colour Vision",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":45,
+      "instructors":[
+        "Weber,Anne P"
+      ],
+      "building":"OPT",
+      "room":"420",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:42-05:00"
     }
   ]
 }

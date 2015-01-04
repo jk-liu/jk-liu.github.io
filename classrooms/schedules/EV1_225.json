@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2560,
-    "timestamp":1415081587,
+    "requests":5423,
+    "timestamp":1420353839,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,384 +11,44 @@
   },
   "data":[
     {
-      "class_number":5270,
+      "class_number":5399,
       "subject":"ERS",
-      "catalog_number":"310",
-      "title":"Environmental Analysis and Solutions V: Environmental Thought",
-      "section":"SEM 102",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:16-05:00"
-    },
-    {
-      "class_number":5272,
-      "subject":"ERS",
-      "catalog_number":"310",
-      "title":"Environmental Analysis and Solutions V: Environmental Thought",
-      "section":"SEM 104",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:16-05:00"
-    },
-    {
-      "class_number":5273,
-      "subject":"ERS",
-      "catalog_number":"310",
-      "title":"Environmental Analysis and Solutions V: Environmental Thought",
-      "section":"SEM 105",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:16-05:00"
-    },
-    {
-      "class_number":5464,
-      "subject":"ERS",
-      "catalog_number":"311",
-      "title":"Environmental Research Project I: Systems Thinking for Interdisciplinary Research",
-      "section":"TUT 104",
-      "weekdays":"F",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:16-05:00"
-    },
-    {
-      "class_number":7776,
-      "subject":"HIST",
-      "catalog_number":"389",
-      "title":"Canada in World Affairs",
-      "section":"DIS 103",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":"09\/24",
-      "end_date":"09\/24",
-      "enrollment_total":12,
-      "instructors":[
-        "Muirhead,Bruce"
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:43-05:00"
-    },
-    {
-      "class_number":7776,
-      "subject":"HIST",
-      "catalog_number":"389",
-      "title":"Canada in World Affairs",
-      "section":"DIS 103",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":"10\/08",
-      "end_date":"10\/08",
-      "enrollment_total":12,
-      "instructors":[
-        "Muirhead,Bruce"
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:43-05:00"
-    },
-    {
-      "class_number":7776,
-      "subject":"HIST",
-      "catalog_number":"389",
-      "title":"Canada in World Affairs",
-      "section":"DIS 103",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":"10\/22",
-      "end_date":"10\/22",
-      "enrollment_total":12,
-      "instructors":[
-        "Muirhead,Bruce"
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:43-05:00"
-    },
-    {
-      "class_number":7776,
-      "subject":"HIST",
-      "catalog_number":"389",
-      "title":"Canada in World Affairs",
-      "section":"DIS 103",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":"11\/05",
-      "end_date":"11\/05",
-      "enrollment_total":12,
-      "instructors":[
-        "Muirhead,Bruce"
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:43-05:00"
-    },
-    {
-      "class_number":7776,
-      "subject":"HIST",
-      "catalog_number":"389",
-      "title":"Canada in World Affairs",
-      "section":"DIS 103",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":"11\/19",
-      "end_date":"11\/19",
-      "enrollment_total":12,
-      "instructors":[
-        "Muirhead,Bruce"
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:43-05:00"
-    },
-    {
-      "class_number":7777,
-      "subject":"HIST",
-      "catalog_number":"389",
-      "title":"Canada in World Affairs",
-      "section":"DIS 104",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":"10\/01",
-      "end_date":"10\/01",
-      "enrollment_total":1,
-      "instructors":[
-        "Muirhead,Bruce"
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:43-05:00"
-    },
-    {
-      "class_number":7777,
-      "subject":"HIST",
-      "catalog_number":"389",
-      "title":"Canada in World Affairs",
-      "section":"DIS 104",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":"10\/15",
-      "end_date":"10\/15",
-      "enrollment_total":1,
-      "instructors":[
-        "Muirhead,Bruce"
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:43-05:00"
-    },
-    {
-      "class_number":7777,
-      "subject":"HIST",
-      "catalog_number":"389",
-      "title":"Canada in World Affairs",
-      "section":"DIS 104",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":"10\/29",
-      "end_date":"10\/29",
-      "enrollment_total":1,
-      "instructors":[
-        "Muirhead,Bruce"
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:43-05:00"
-    },
-    {
-      "class_number":7777,
-      "subject":"HIST",
-      "catalog_number":"389",
-      "title":"Canada in World Affairs",
-      "section":"DIS 104",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":"11\/12",
-      "end_date":"11\/12",
-      "enrollment_total":1,
-      "instructors":[
-        "Muirhead,Bruce"
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:43-05:00"
-    },
-    {
-      "class_number":7777,
-      "subject":"HIST",
-      "catalog_number":"389",
-      "title":"Canada in World Affairs",
-      "section":"DIS 104",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":"11\/26",
-      "end_date":"11\/26",
-      "enrollment_total":1,
-      "instructors":[
-        "Muirhead,Bruce"
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:43-05:00"
-    },
-    {
-      "class_number":6924,
-      "subject":"PHYS",
       "catalog_number":"111",
-      "title":"Physics 1",
-      "section":"TUT 112",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:52-05:00"
-    },
-    {
-      "class_number":4190,
-      "subject":"SOC",
-      "catalog_number":"406",
-      "title":"Seminar in Contemporary Sociological Theory",
-      "section":"SEM 001",
-      "weekdays":"M",
+      "title":"Environmental Analysis and Solutions II: Experiential Approaches",
+      "section":"TUT 104",
+      "weekdays":"W",
       "start_time":"10:30",
       "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":16,
+      "enrollment_total":13,
       "instructors":[
-        "Muszynski,Alicja"
+        
       ],
       "building":"EV1",
       "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:34-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:58-05:00"
     },
     {
-      "class_number":7696,
+      "class_number":7670,
       "subject":"SOC",
-      "catalog_number":"407",
-      "title":"Canadian Social Thought",
+      "catalog_number":"783",
+      "title":"Security and Regulation",
       "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":10,
+      "enrollment_total":3,
       "instructors":[
-        "Helmes-Hayes,Richard C"
+        "O'Connor,Daniel"
       ],
       "building":"EV1",
       "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:35-05:00"
-    },
-    {
-      "class_number":4309,
-      "subject":"FR",
-      "catalog_number":"685",
-      "title":"Studies in Selected Topics",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Dusaillant-Fernandes,Valerie"
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:30-05:00"
-    },
-    {
-      "class_number":4237,
-      "subject":"SOC",
-      "catalog_number":"782",
-      "title":"Law, Globalization and Women's Empowerment",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"10:00",
-      "end_time":"11:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Singh,Rashmee"
-      ],
-      "building":"EV1",
-      "room":"225",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:12-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:16-05:00"
     }
   ]
 }

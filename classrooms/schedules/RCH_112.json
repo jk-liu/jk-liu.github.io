@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2706,
-    "timestamp":1415081631,
+    "requests":5564,
+    "timestamp":1420353892,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,684 +11,325 @@
   },
   "data":[
     {
-      "class_number":4666,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"LEC 009",
-      "weekdays":"M",
-      "start_time":"10:30",
-      "end_time":"11:20",
+      "class_number":4715,
+      "subject":"CIVE",
+      "catalog_number":"401",
+      "title":"Civil Engineering Project 2",
+      "section":"PRJ 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":102,
+      "enrollment_total":99,
       "instructors":[
-        "Chan,Wan-Ju Ariel"
+        "Polak,Maria A",
+        "Xu,Lei"
       ],
       "building":"RCH",
       "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:38-05:00"
     },
     {
-      "class_number":4666,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"LEC 009",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"09\/15",
-      "end_date":"09\/15",
-      "enrollment_total":102,
-      "instructors":[
-        "Chan,Wan-Ju Ariel"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4666,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"LEC 009",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"09\/29",
-      "end_date":"09\/29",
-      "enrollment_total":102,
-      "instructors":[
-        "Chan,Wan-Ju Ariel"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4666,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"LEC 009",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"10\/13",
-      "end_date":"10\/13",
-      "enrollment_total":102,
-      "instructors":[
-        "Chan,Wan-Ju Ariel"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4666,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"LEC 009",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"10\/27",
-      "end_date":"10\/27",
-      "enrollment_total":102,
-      "instructors":[
-        "Chan,Wan-Ju Ariel"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4666,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"LEC 009",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"11\/10",
-      "end_date":"11\/10",
-      "enrollment_total":102,
-      "instructors":[
-        "Chan,Wan-Ju Ariel"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4666,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"LEC 009",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"11\/24",
-      "end_date":"11\/24",
-      "enrollment_total":102,
-      "instructors":[
-        "Chan,Wan-Ju Ariel"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":3771,
+      "class_number":3320,
       "subject":"ECON",
-      "catalog_number":"304",
-      "title":"Monetary Economics",
+      "catalog_number":"301",
+      "title":"Microeconomic Theory 2",
       "section":"LEC 001",
-      "weekdays":"TTh",
+      "weekdays":"MW",
       "start_time":"10:00",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":94,
+      "enrollment_total":62,
       "instructors":[
-        "Doyle,Matthew"
+        "Nguyen,Trien T"
       ],
       "building":"RCH",
       "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:58-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:34-05:00"
     },
     {
-      "class_number":3438,
+      "class_number":3321,
       "subject":"ECON",
-      "catalog_number":"344",
-      "title":"Marketing: Principles of Marketing and Consumer Economics",
-      "section":"LEC 002",
-      "weekdays":"MW",
-      "start_time":"11:30",
-      "end_time":"12:50",
+      "catalog_number":"302",
+      "title":"Macroeconomic Theory 2",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":88,
+      "enrollment_total":97,
       "instructors":[
-        "Rodenburg,Kathleen"
+        "Fatima,Nafeez"
       ],
       "building":"RCH",
       "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:58-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:35-05:00"
     },
     {
-      "class_number":3635,
+      "class_number":3734,
       "subject":"ECON",
-      "catalog_number":"344",
-      "title":"Marketing: Principles of Marketing and Consumer Economics",
-      "section":"LEC 003",
-      "weekdays":"MW",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":48,
-      "instructors":[
-        "Rodenburg,Kathleen"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:58-05:00"
-    },
-    {
-      "class_number":3095,
-      "subject":"FR",
-      "catalog_number":"151",
-      "title":"Basic French 1",
+      "catalog_number":"302",
+      "title":"Macroeconomic Theory 2",
       "section":"LEC 002",
       "weekdays":"TTh",
-      "start_time":"16:30",
+      "start_time":"16:00",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":37,
+      "enrollment_total":30,
       "instructors":[
-        "Kliashchuk,Mikalai"
+        "Fatima,Nafeez"
       ],
       "building":"RCH",
       "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:24-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:35-05:00"
     },
     {
-      "class_number":5652,
-      "subject":"MATH",
-      "catalog_number":"115",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 006",
-      "weekdays":"F",
+      "class_number":4552,
+      "subject":"ENVE",
+      "catalog_number":"224",
+      "title":"Probability and Statistics",
+      "section":"TUT 101",
+      "weekdays":"T",
       "start_time":"12:30",
       "end_time":"13:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":102,
-      "instructors":[
-        "Roh,Patrick Young"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5652,
-      "subject":"MATH",
-      "catalog_number":"115",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 006",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"09\/22",
-      "end_date":"09\/22",
-      "enrollment_total":102,
-      "instructors":[
-        "Roh,Patrick Young"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5652,
-      "subject":"MATH",
-      "catalog_number":"115",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 006",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"10\/06",
-      "end_date":"10\/06",
-      "enrollment_total":102,
-      "instructors":[
-        "Roh,Patrick Young"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5652,
-      "subject":"MATH",
-      "catalog_number":"115",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 006",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"10\/20",
-      "end_date":"10\/20",
-      "enrollment_total":102,
-      "instructors":[
-        "Roh,Patrick Young"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5652,
-      "subject":"MATH",
-      "catalog_number":"115",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 006",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"11\/03",
-      "end_date":"11\/03",
-      "enrollment_total":102,
-      "instructors":[
-        "Roh,Patrick Young"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5652,
-      "subject":"MATH",
-      "catalog_number":"115",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 006",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"11\/17",
-      "end_date":"11\/17",
-      "enrollment_total":102,
-      "instructors":[
-        "Roh,Patrick Young"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5652,
-      "subject":"MATH",
-      "catalog_number":"115",
-      "title":"Linear Algebra for Engineering",
-      "section":"LEC 006",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"12\/01",
-      "end_date":"12\/01",
-      "enrollment_total":102,
-      "instructors":[
-        "Roh,Patrick Young"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5837,
-      "subject":"MATH",
-      "catalog_number":"116",
-      "title":"Calculus 1 for Engineering",
-      "section":"LEC 006",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"09\/25",
-      "end_date":"09\/25",
-      "enrollment_total":101,
-      "instructors":[
-        "Girelli,Florian"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5837,
-      "subject":"MATH",
-      "catalog_number":"116",
-      "title":"Calculus 1 for Engineering",
-      "section":"LEC 006",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"10\/09",
-      "end_date":"10\/09",
-      "enrollment_total":101,
-      "instructors":[
-        "Girelli,Florian"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5837,
-      "subject":"MATH",
-      "catalog_number":"116",
-      "title":"Calculus 1 for Engineering",
-      "section":"LEC 006",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"10\/23",
-      "end_date":"10\/23",
-      "enrollment_total":101,
-      "instructors":[
-        "Girelli,Florian"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5837,
-      "subject":"MATH",
-      "catalog_number":"116",
-      "title":"Calculus 1 for Engineering",
-      "section":"LEC 006",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"11\/06",
-      "end_date":"11\/06",
-      "enrollment_total":101,
-      "instructors":[
-        "Girelli,Florian"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5837,
-      "subject":"MATH",
-      "catalog_number":"116",
-      "title":"Calculus 1 for Engineering",
-      "section":"LEC 006",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":"11\/20",
-      "end_date":"11\/20",
-      "enrollment_total":101,
-      "instructors":[
-        "Girelli,Florian"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5978,
-      "subject":"MATH",
-      "catalog_number":"116",
-      "title":"Calculus 1 for Engineering",
-      "section":"LEC 007",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":93,
-      "instructors":[
-        "Dupont,Edward"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5134,
-      "subject":"ME",
-      "catalog_number":"597",
-      "title":"Special Topics in Mechanical Engineering",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":76,
-      "instructors":[
-        "Waslander,Steven"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:18-05:00"
-    },
-    {
-      "class_number":6711,
-      "subject":"PHYS",
-      "catalog_number":"121",
-      "title":"Mechanics",
-      "section":"TUT 101",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":96,
+      "enrollment_total":82,
       "instructors":[
         
       ],
       "building":"RCH",
       "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:55-05:00"
     },
     {
-      "class_number":7076,
-      "subject":"PHYS",
-      "catalog_number":"256",
-      "title":"Geometrical and Physical Optics",
+      "class_number":7468,
+      "subject":"MTE",
+      "catalog_number":"111",
+      "title":"Structure and Properties of Materials",
       "section":"LEC 001",
-      "weekdays":"WF",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":98,
+      "instructors":[
+        "Mayer,Michael"
+      ],
+      "building":"RCH",
+      "room":"112",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:24-05:00"
+    },
+    {
+      "class_number":7476,
+      "subject":"MTE",
+      "catalog_number":"140",
+      "title":"Algorithms and Data Structures",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"01\/16",
+      "end_date":"01\/16",
+      "enrollment_total":106,
+      "instructors":[
+        "Ivkovic,Igor"
+      ],
+      "building":"RCH",
+      "room":"112",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":7476,
+      "subject":"MTE",
+      "catalog_number":"140",
+      "title":"Algorithms and Data Structures",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"01\/30",
+      "end_date":"01\/30",
+      "enrollment_total":106,
+      "instructors":[
+        "Ivkovic,Igor"
+      ],
+      "building":"RCH",
+      "room":"112",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":7476,
+      "subject":"MTE",
+      "catalog_number":"140",
+      "title":"Algorithms and Data Structures",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"02\/13",
+      "end_date":"02\/13",
+      "enrollment_total":106,
+      "instructors":[
+        "Ivkovic,Igor"
+      ],
+      "building":"RCH",
+      "room":"112",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":7476,
+      "subject":"MTE",
+      "catalog_number":"140",
+      "title":"Algorithms and Data Structures",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"03\/13",
+      "end_date":"03\/13",
+      "enrollment_total":106,
+      "instructors":[
+        "Ivkovic,Igor"
+      ],
+      "building":"RCH",
+      "room":"112",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":7476,
+      "subject":"MTE",
+      "catalog_number":"140",
+      "title":"Algorithms and Data Structures",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"03\/27",
+      "end_date":"03\/27",
+      "enrollment_total":106,
+      "instructors":[
+        "Ivkovic,Igor"
+      ],
+      "building":"RCH",
+      "room":"112",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":6717,
+      "subject":"PHYS",
+      "catalog_number":"112",
+      "title":"Physics 2",
+      "section":"TUT 107",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":99,
+      "instructors":[
+        "Taylor,James"
+      ],
+      "building":"RCH",
+      "room":"112",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:03-05:00"
+    },
+    {
+      "class_number":6931,
+      "subject":"PHYS",
+      "catalog_number":"122",
+      "title":"Waves, Electricity and Magnetism",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":68,
+      "instructors":[
+        "Scholz,Guenter A"
+      ],
+      "building":"RCH",
+      "room":"112",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:04-05:00"
+    },
+    {
+      "class_number":3828,
+      "subject":"PSCI",
+      "catalog_number":"226",
+      "title":"Classics in Political Thought 2",
+      "section":"LEC 001",
+      "weekdays":"TF",
       "start_time":"10:00",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":122,
+      "enrollment_total":42,
       "instructors":[
-        "Bohlouli Zanjani,Parisa"
+        "Drake,Anna Marie"
       ],
       "building":"RCH",
       "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:54-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:20-05:00"
     },
     {
-      "class_number":7077,
-      "subject":"PHYS",
-      "catalog_number":"256",
-      "title":"Geometrical and Physical Optics",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":122,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:54-05:00"
-    },
-    {
-      "class_number":3911,
-      "subject":"SOC",
-      "catalog_number":"206",
-      "title":"Gender Relations",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":44,
-      "instructors":[
-        "Muszynski,Alicja"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:32-05:00"
-    },
-    {
-      "class_number":4182,
-      "subject":"SOC",
-      "catalog_number":"207",
-      "title":"Sociology of Education",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":71,
-      "instructors":[
-        "Milne,Emily Patricia"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:32-05:00"
-    },
-    {
-      "class_number":4183,
-      "subject":"SOC",
-      "catalog_number":"222",
-      "title":"Juvenile Delinquency",
+      "class_number":7907,
+      "subject":"PSCI",
+      "catalog_number":"331",
+      "title":"Public Administration",
       "section":"LEC 001",
       "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"16:20",
+      "start_time":"11:30",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":105,
+      "enrollment_total":35,
       "instructors":[
-        "Schulenberg,Jennifer Lina"
+        "Nabert-Chubb,Rebecca"
       ],
       "building":"RCH",
       "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:33-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:22-05:00"
     },
     {
-      "class_number":3912,
-      "subject":"WS",
-      "catalog_number":"209",
-      "title":"Gender Relations",
+      "class_number":7409,
+      "subject":"ME",
+      "catalog_number":"720",
+      "title":"Special Topics in Solid Mechanics",
       "section":"LEC 001",
       "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Muszynski,Alicja"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:55-05:00"
-    },
-    {
-      "class_number":5138,
-      "subject":"ME",
-      "catalog_number":"780",
-      "title":"Special Topics in Mechatronics",
-      "section":"LEC 002",
-      "weekdays":"T",
       "start_time":"12:30",
-      "end_time":"13:50",
+      "end_time":"15:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":10,
+      "enrollment_total":3,
       "instructors":[
-        "Waslander,Steven"
+        "Cronin,Duane"
       ],
       "building":"RCH",
       "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:49-05:00"
-    },
-    {
-      "class_number":4653,
-      "subject":"MSCI",
-      "catalog_number":"603",
-      "title":"Principles of Operations Research",
-      "section":"LEC 001",
-      "weekdays":"TF",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":49,
-      "instructors":[
-        "Bayley,Tiffany Amber"
-      ],
-      "building":"RCH",
-      "room":"112",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:49-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:47-05:00"
     }
   ]
 }

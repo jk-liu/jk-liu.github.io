@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2495,
-    "timestamp":1415081567,
+    "requests":5370,
+    "timestamp":1420353818,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,344 +11,904 @@
   },
   "data":[
     {
-      "class_number":4532,
-      "subject":"CIVE",
-      "catalog_number":"221",
-      "title":"Advanced Calculus",
-      "section":"TUT 101",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
+      "class_number":4736,
+      "subject":"CHE",
+      "catalog_number":"101",
+      "title":"Chemical Engineering Concepts 2",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":76,
+      "enrollment_total":84,
       "instructors":[
-        "Gracie,Robert R"
+        "Zhao,Boxin"
       ],
       "building":"DWE",
       "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:26-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
     },
     {
-      "class_number":4534,
-      "subject":"CIVE",
-      "catalog_number":"224",
-      "title":"Probability and Statistics",
-      "section":"TUT 101",
+      "class_number":4736,
+      "subject":"CHE",
+      "catalog_number":"101",
+      "title":"Chemical Engineering Concepts 2",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Zhao,Boxin"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4736,
+      "subject":"CHE",
+      "catalog_number":"101",
+      "title":"Chemical Engineering Concepts 2",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":84,
+      "instructors":[
+        "Zhao,Boxin"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4736,
+      "subject":"CHE",
+      "catalog_number":"101",
+      "title":"Chemical Engineering Concepts 2",
+      "section":"LEC 001",
       "weekdays":"Th",
       "start_time":"12:30",
       "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":77,
+      "start_date":"01\/15",
+      "end_date":"01\/15",
+      "enrollment_total":84,
       "instructors":[
-        "Shafii Hassanabadi,Mahyar"
+        "Zhao,Boxin"
       ],
       "building":"DWE",
       "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:27-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
     },
     {
-      "class_number":5187,
-      "subject":"CIVE",
-      "catalog_number":"224",
-      "title":"Probability and Statistics",
-      "section":"TUT 102",
+      "class_number":4736,
+      "subject":"CHE",
+      "catalog_number":"101",
+      "title":"Chemical Engineering Concepts 2",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":84,
+      "instructors":[
+        "Zhao,Boxin"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4736,
+      "subject":"CHE",
+      "catalog_number":"101",
+      "title":"Chemical Engineering Concepts 2",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":84,
+      "instructors":[
+        "Zhao,Boxin"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4736,
+      "subject":"CHE",
+      "catalog_number":"101",
+      "title":"Chemical Engineering Concepts 2",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":84,
+      "instructors":[
+        "Zhao,Boxin"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4736,
+      "subject":"CHE",
+      "catalog_number":"101",
+      "title":"Chemical Engineering Concepts 2",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":84,
+      "instructors":[
+        "Zhao,Boxin"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4738,
+      "subject":"CHE",
+      "catalog_number":"101",
+      "title":"Chemical Engineering Concepts 2",
+      "section":"TUT 201",
       "weekdays":"Th",
       "start_time":"13:30",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":73,
+      "enrollment_total":84,
       "instructors":[
-        "Shafii Hassanabadi,Mahyar"
+        "Zhao,Boxin"
       ],
       "building":"DWE",
       "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:27-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
     },
     {
-      "class_number":4914,
-      "subject":"ECE",
-      "catalog_number":"140",
-      "title":"Linear Circuits",
-      "section":"TUT 106",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":73,
-      "instructors":[
-        "Wei,Lan"
-      ],
-      "building":"DWE",
-      "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:50-05:00"
-    },
-    {
-      "class_number":3190,
-      "subject":"ECON",
-      "catalog_number":"201",
-      "title":"Microeconomic Theory 1",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":96,
-      "instructors":[
-        "He,Zhen"
-      ],
-      "building":"DWE",
-      "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:56-05:00"
-    },
-    {
-      "class_number":5309,
-      "subject":"ERS",
-      "catalog_number":"315",
-      "title":"Environmental and Sustainability Assessment II",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":98,
-      "instructors":[
-        "Kirchhoff,Denis"
-      ],
-      "building":"DWE",
-      "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:16-05:00"
-    },
-    {
-      "class_number":4660,
-      "subject":"GENE",
+      "class_number":4780,
+      "subject":"CHE",
       "catalog_number":"121",
-      "title":"Digital Computation",
+      "title":"Engineering Computation",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":103,
-      "instructors":[
-        "Hulls,Carol C"
-      ],
-      "building":"DWE",
-      "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:29-05:00"
-    },
-    {
-      "class_number":4660,
-      "subject":"GENE",
-      "catalog_number":"121",
-      "title":"Digital Computation",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":103,
-      "instructors":[
-        "Hulls,Carol C"
-      ],
-      "building":"DWE",
-      "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:29-05:00"
-    },
-    {
-      "class_number":3596,
-      "subject":"HIST",
-      "catalog_number":"250",
-      "title":"The Art and Craft of History",
-      "section":"LEC 001",
-      "weekdays":"TF",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":46,
-      "instructors":[
-        "Milligan,Ian"
-      ],
-      "building":"DWE",
-      "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:41-05:00"
-    },
-    {
-      "class_number":5663,
-      "subject":"MATH",
-      "catalog_number":"115",
-      "title":"Linear Algebra for Engineering",
-      "section":"TUT 109",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":56,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5837,
-      "subject":"MATH",
-      "catalog_number":"116",
-      "title":"Calculus 1 for Engineering",
-      "section":"LEC 006",
-      "weekdays":"M",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":101,
-      "instructors":[
-        "Girelli,Florian"
-      ],
-      "building":"DWE",
-      "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":4576,
-      "subject":"ME",
-      "catalog_number":"201",
-      "title":"Advanced Calculus",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":59,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
-    },
-    {
-      "class_number":4703,
-      "subject":"ME",
-      "catalog_number":"201",
-      "title":"Advanced Calculus",
-      "section":"TUT 102",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":62,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
-    },
-    {
-      "class_number":7797,
-      "subject":"PHIL",
-      "catalog_number":"202",
-      "title":"Gender Issues",
-      "section":"LEC 001",
-      "weekdays":"TTh",
+      "weekdays":"T",
       "start_time":"10:30",
-      "end_time":"11:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Dea,Shannon Jennifer"
-      ],
-      "building":"DWE",
-      "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:47-05:00"
-    },
-    {
-      "class_number":3963,
-      "subject":"PSCI",
-      "catalog_number":"389",
-      "title":"Global Governance",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"08:30",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":63,
+      "enrollment_total":81,
       "instructors":[
-        "Cooper,Andrew F."
+        "Tsui,Ting TY"
       ],
       "building":"DWE",
       "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:04-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
     },
     {
-      "class_number":7796,
-      "subject":"WS",
-      "catalog_number":"222",
-      "title":"Gender Issues",
+      "class_number":4780,
+      "subject":"CHE",
+      "catalog_number":"121",
+      "title":"Engineering Computation",
       "section":"LEC 001",
-      "weekdays":"TTh",
+      "weekdays":"Th",
       "start_time":"10:30",
-      "end_time":"11:50",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":13,
+      "enrollment_total":81,
       "instructors":[
-        "Dea,Shannon Jennifer"
+        "Tsui,Ting TY"
       ],
       "building":"DWE",
       "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:55-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
     },
     {
-      "class_number":4968,
-      "subject":"MSCI",
-      "catalog_number":"607",
-      "title":"Applied Economics for Management",
+      "class_number":4780,
+      "subject":"CHE",
+      "catalog_number":"121",
+      "title":"Engineering Computation",
       "section":"LEC 001",
-      "weekdays":"TTh",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Tsui,Ting TY"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4780,
+      "subject":"CHE",
+      "catalog_number":"121",
+      "title":"Engineering Computation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":81,
+      "instructors":[
+        "Tsui,Ting TY"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4780,
+      "subject":"CHE",
+      "catalog_number":"121",
+      "title":"Engineering Computation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":81,
+      "instructors":[
+        "Tsui,Ting TY"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4780,
+      "subject":"CHE",
+      "catalog_number":"121",
+      "title":"Engineering Computation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":81,
+      "instructors":[
+        "Tsui,Ting TY"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4780,
+      "subject":"CHE",
+      "catalog_number":"121",
+      "title":"Engineering Computation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":81,
+      "instructors":[
+        "Tsui,Ting TY"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4780,
+      "subject":"CHE",
+      "catalog_number":"121",
+      "title":"Engineering Computation",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":81,
+      "instructors":[
+        "Tsui,Ting TY"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:07-05:00"
+    },
+    {
+      "class_number":4782,
+      "subject":"CHE",
+      "catalog_number":"161",
+      "title":"Engineering Biology",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:08-05:00"
+    },
+    {
+      "class_number":4782,
+      "subject":"CHE",
+      "catalog_number":"161",
+      "title":"Engineering Biology",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:08-05:00"
+    },
+    {
+      "class_number":4782,
+      "subject":"CHE",
+      "catalog_number":"161",
+      "title":"Engineering Biology",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:08-05:00"
+    },
+    {
+      "class_number":4782,
+      "subject":"CHE",
+      "catalog_number":"161",
+      "title":"Engineering Biology",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"01\/19",
+      "end_date":"01\/19",
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:08-05:00"
+    },
+    {
+      "class_number":4782,
+      "subject":"CHE",
+      "catalog_number":"161",
+      "title":"Engineering Biology",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"02\/02",
+      "end_date":"02\/02",
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:08-05:00"
+    },
+    {
+      "class_number":4782,
+      "subject":"CHE",
+      "catalog_number":"161",
+      "title":"Engineering Biology",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/02",
+      "end_date":"03\/02",
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:08-05:00"
+    },
+    {
+      "class_number":4782,
+      "subject":"CHE",
+      "catalog_number":"161",
+      "title":"Engineering Biology",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/16",
+      "end_date":"03\/16",
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:08-05:00"
+    },
+    {
+      "class_number":4782,
+      "subject":"CHE",
+      "catalog_number":"161",
+      "title":"Engineering Biology",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/30",
+      "end_date":"03\/30",
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:08-05:00"
+    },
+    {
+      "class_number":4783,
+      "subject":"CHE",
+      "catalog_number":"161",
+      "title":"Engineering Biology",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Boghaert,Eline"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:08-05:00"
+    },
+    {
+      "class_number":4038,
+      "subject":"ECON",
+      "catalog_number":"254",
+      "title":"Economics of Sport",
+      "section":"LEC 001",
+      "weekdays":"MW",
       "start_time":"16:00",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":48,
+      "enrollment_total":100,
       "instructors":[
-        "Koo,Bonwoo B."
+        "Van de Waal,Cornelis Howard"
       ],
       "building":"DWE",
       "room":"3522",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:49-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:34-05:00"
+    },
+    {
+      "class_number":4554,
+      "subject":"ENVE",
+      "catalog_number":"275",
+      "title":"Environmental Chemistry",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        "Lee,Hyung-Sool"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:55-05:00"
+    },
+    {
+      "class_number":4681,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Nairn,David"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":4681,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Nairn,David"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":4681,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Nairn,David"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":4681,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"01\/12",
+      "end_date":"01\/12",
+      "enrollment_total":81,
+      "instructors":[
+        "Nairn,David"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":4681,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"01\/26",
+      "end_date":"01\/26",
+      "enrollment_total":81,
+      "instructors":[
+        "Nairn,David"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":4681,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"02\/09",
+      "end_date":"02\/09",
+      "enrollment_total":81,
+      "instructors":[
+        "Nairn,David"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":4681,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/09",
+      "end_date":"03\/09",
+      "enrollment_total":81,
+      "instructors":[
+        "Nairn,David"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":4681,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"03\/23",
+      "end_date":"03\/23",
+      "enrollment_total":81,
+      "instructors":[
+        "Nairn,David"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":4681,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":"04\/06",
+      "end_date":"04\/06",
+      "enrollment_total":81,
+      "instructors":[
+        "Nairn,David"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":4685,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"TUT 201",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Nairn,David"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5798,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":77,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5798,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":77,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5798,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":77,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5798,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":77,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5798,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":77,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5798,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":77,
+      "instructors":[
+        "Beltaos,Andrew"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":4232,
+      "subject":"PSCI",
+      "catalog_number":"244",
+      "title":"Irrational and Rational Choices in Politics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Huo,Jingjing"
+      ],
+      "building":"DWE",
+      "room":"3522",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:20-05:00"
     }
   ]
 }

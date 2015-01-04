@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2539,
-    "timestamp":1415081581,
+    "requests":5404,
+    "timestamp":1420353833,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,24 +11,24 @@
   },
   "data":[
     {
-      "class_number":3802,
+      "class_number":4410,
       "subject":"FINE",
-      "catalog_number":"272",
-      "title":"Clay Studies",
+      "catalog_number":"271",
+      "title":"Ceramics: Studies in Material Practice",
       "section":"STU 001",
       "weekdays":"TTh",
       "start_time":"13:00",
       "end_time":"15:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":19,
+      "enrollment_total":14,
       "instructors":[
-        "Montgomery,Lindsay Alison"
+        "Taylor,Bruce"
       ],
       "building":"ECH",
       "room":"1223",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:21-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:05-05:00"
     }
   ]
 }

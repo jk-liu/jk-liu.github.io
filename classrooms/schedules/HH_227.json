@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2593,
-    "timestamp":1415081597,
+    "requests":5454,
+    "timestamp":1420353849,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,192 +11,332 @@
   },
   "data":[
     {
-      "class_number":8357,
-      "subject":"ARTS",
-      "catalog_number":"290",
-      "title":"Second-Year Topics in Arts Disciplines",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"14:20",
+      "class_number":4355,
+      "subject":"DRAMA",
+      "catalog_number":"220",
+      "title":"Performance Studies",
+      "section":"WSP 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":9,
+      "enrollment_total":4,
       "instructors":[
-        "Lo,Adrienne"
+        "MacDonald,Shana"
       ],
       "building":"HH",
       "room":"227",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:47-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:06-05:00"
     },
     {
-      "class_number":8556,
-      "subject":"EFAS",
-      "catalog_number":"34",
-      "title":"Writing Skills",
-      "section":"LEC 004",
-      "weekdays":"F",
-      "start_time":"09:30",
-      "end_time":"11:20",
+      "class_number":3435,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":0,
+      "enrollment_total":25,
+      "instructors":[
+        "Deveau,Danielle"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:43-05:00"
+    },
+    {
+      "class_number":3436,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"TUT 102",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
       "instructors":[
         
       ],
       "building":"HH",
       "room":"227",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:00-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:43-05:00"
     },
     {
-      "class_number":3814,
+      "class_number":3437,
       "subject":"ENGL",
-      "catalog_number":"350A",
-      "title":"Seventeenth-Century Literature 1",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Tolmie,Sarah"
-      ],
-      "building":"HH",
-      "room":"227",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:10-05:00"
-    },
-    {
-      "class_number":8163,
-      "subject":"ERS",
-      "catalog_number":"316",
-      "title":"Integrated Urban Water Systems Planning and Management",
-      "section":"SEM 001",
-      "weekdays":"Th",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Wolfe,Sarah"
-      ],
-      "building":"HH",
-      "room":"227",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:16-05:00"
-    },
-    {
-      "class_number":5501,
-      "subject":"ERS",
-      "catalog_number":"370",
-      "title":"Corporate Sustainability: Issues and Prospects",
-      "section":"LEC 001",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"TUT 103",
       "weekdays":"T",
       "start_time":"12:30",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":30,
+      "enrollment_total":25,
       "instructors":[
-        "Rowlands,Ian H"
+        
       ],
       "building":"HH",
       "room":"227",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:16-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:43-05:00"
     },
     {
-      "class_number":3106,
-      "subject":"FR",
-      "catalog_number":"152",
-      "title":"Basic French 2",
-      "section":"LEC 002",
+      "class_number":3666,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"TUT 106",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:43-05:00"
+    },
+    {
+      "class_number":3535,
+      "subject":"ENGL",
+      "catalog_number":"470A",
+      "title":"Contemporary Critical Theory",
+      "section":"LEC 001",
       "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
+      "start_time":"16:00",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":21,
+      "enrollment_total":9,
       "instructors":[
-        "Brousseau,Anna Justine"
+        "Siemerling,Winfried"
       ],
       "building":"HH",
       "room":"227",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:24-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:53-05:00"
     },
     {
-      "class_number":3514,
-      "subject":"FR",
-      "catalog_number":"152",
-      "title":"Basic French 2",
-      "section":"LEC 004",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Jagielska,Agata"
-      ],
-      "building":"HH",
-      "room":"227",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:24-05:00"
-    },
-    {
-      "class_number":3255,
-      "subject":"FR",
-      "catalog_number":"192A",
-      "title":"French Language 1: Module 1",
-      "section":"LEC 001",
-      "weekdays":"MTF",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Tremblay,Cynthia Beth"
-      ],
-      "building":"HH",
-      "room":"227",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:24-05:00"
-    },
-    {
-      "class_number":5332,
-      "subject":"PLAN",
-      "catalog_number":"440",
-      "title":"Waste Planning",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"08:30",
+      "class_number":5405,
+      "subject":"ERS",
+      "catalog_number":"375",
+      "title":"Special Readings\/Seminar on Select Topics",
+      "section":"RDG 003",
+      "weekdays":"W",
+      "start_time":"09:00",
       "end_time":"10:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":13,
+      "enrollment_total":10,
       "instructors":[
-        "Mitchell,Carrie"
+        "Armitage,Derek"
       ],
       "building":"HH",
       "room":"227",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:59-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:00-05:00"
     },
     {
-      "class_number":8042,
-      "subject":"PSCI",
-      "catalog_number":"100",
-      "title":"Politics I: Canadian Politics and Policy in Comparative Perspective",
-      "section":"DIS 102",
+      "class_number":7956,
+      "subject":"GEOG",
+      "catalog_number":"408",
+      "title":"Modeling our Future Climate",
+      "section":"LEC 001",
       "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Fletcher,Christopher"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:25-05:00"
+    },
+    {
+      "class_number":8069,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 104",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"01\/30",
+      "end_date":"01\/30",
+      "enrollment_total":1,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8069,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 104",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"02\/13",
+      "end_date":"02\/13",
+      "enrollment_total":1,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8069,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 104",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"02\/27",
+      "end_date":"02\/27",
+      "enrollment_total":1,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8069,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 104",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"03\/13",
+      "end_date":"03\/13",
+      "enrollment_total":1,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":8069,
+      "subject":"HIST",
+      "catalog_number":"275",
+      "title":"The Modern World in Historical Perspective",
+      "section":"DIS 104",
+      "weekdays":"F",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":"03\/27",
+      "end_date":"03\/27",
+      "enrollment_total":1,
+      "instructors":[
+        "Travers,Dan"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":5549,
+      "subject":"PLAN",
+      "catalog_number":"103",
+      "title":"Planning, Administration, and Finance",
+      "section":"TUT 104",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":8003,
+      "subject":"PLAN",
+      "catalog_number":"416",
+      "title":"Modelling the City",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Parker,Dawn Cassandra"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:14-05:00"
+    },
+    {
+      "class_number":4197,
+      "subject":"PSCI",
+      "catalog_number":"150",
+      "title":"Politics II: The Global Politics of Who Gets What",
+      "section":"DIS 104",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:20-05:00"
+    },
+    {
+      "class_number":7916,
+      "subject":"PSCI",
+      "catalog_number":"283",
+      "title":"International Political Economy",
+      "section":"DIS 102",
+      "weekdays":"M",
       "start_time":"09:30",
       "end_time":"10:20",
       "start_date":null,
@@ -207,68 +347,268 @@
       ],
       "building":"HH",
       "room":"227",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:02-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:21-05:00"
     },
     {
-      "class_number":7317,
-      "subject":"UNIV",
-      "catalog_number":"101",
-      "title":"Strategies and Skills for Academic Success",
-      "section":"SEM 101",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":37,
-      "instructors":[
-        
-      ],
-      "building":"HH",
-      "room":"227",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:52-05:00"
-    },
-    {
-      "class_number":8479,
-      "subject":"PLAN",
-      "catalog_number":"674",
-      "title":"Special Topics in Planning",
-      "section":"SEM 003",
+      "class_number":8366,
+      "subject":"PSCI",
+      "catalog_number":"490",
+      "title":"Special Subjects",
+      "section":"LEC 002",
       "weekdays":"Th",
       "start_time":"08:30",
-      "end_time":"10:20",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":5,
+      "enrollment_total":1,
       "instructors":[
-        "Mitchell,Carrie"
+        "Kitchen,Veronica"
       ],
       "building":"HH",
       "room":"227",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:59-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:25-05:00"
     },
     {
-      "class_number":3313,
-      "subject":"PSCI",
-      "catalog_number":"600",
-      "title":"Theories and Methods of Political Analysis",
-      "section":"SEM 001",
+      "class_number":3182,
+      "subject":"REC",
+      "catalog_number":"306",
+      "title":"Contemporary Health Issues for Women",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Stettner,Shannon L"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:41-05:00"
+    },
+    {
+      "class_number":7443,
+      "subject":"SPAN",
+      "catalog_number":"430",
+      "title":"Literary Women in Early Modern Hispanic Culture",
+      "section":"LEC 001",
       "weekdays":"F",
-      "start_time":"11:30",
+      "start_time":"12:30",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":18,
+      "enrollment_total":13,
       "instructors":[
-        "Huo,Jingjing"
+        "Leoni,Monica"
       ],
       "building":"HH",
       "room":"227",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:02-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:11-05:00"
+    },
+    {
+      "class_number":3934,
+      "subject":"SPCOM",
+      "catalog_number":"111",
+      "title":"Leadership, Communication, and Collaboration",
+      "section":"LEC 006",
+      "weekdays":"MW",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Stacey,Jeffery Edward"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    },
+    {
+      "class_number":3935,
+      "subject":"SPCOM",
+      "catalog_number":"111",
+      "title":"Leadership, Communication, and Collaboration",
+      "section":"LEC 007",
+      "weekdays":"MW",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Tell,Ed"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    },
+    {
+      "class_number":4356,
+      "subject":"SPCOM",
+      "catalog_number":"220",
+      "title":"Performance Studies",
+      "section":"WSP 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "MacDonald,Shana"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    },
+    {
+      "class_number":3995,
+      "subject":"WS",
+      "catalog_number":"306",
+      "title":"Contemporary Health Issues for Women",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Stettner,Shannon L"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:34-05:00"
+    },
+    {
+      "class_number":7444,
+      "subject":"WS",
+      "catalog_number":"430",
+      "title":"Literary Women in Early Modern Hispanic Culture",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Leoni,Monica"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:34-05:00"
+    },
+    {
+      "class_number":5629,
+      "subject":"GEMCC",
+      "catalog_number":"610",
+      "title":"Climate Prediction, Modeling and Scenarios",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Fletcher,Christopher"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:24-05:00"
+    },
+    {
+      "class_number":5630,
+      "subject":"GEOG",
+      "catalog_number":"652",
+      "title":"Climate Prediction, Modeling and Scenarios",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Fletcher,Christopher"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:26-05:00"
+    },
+    {
+      "class_number":7926,
+      "subject":"GGOV",
+      "catalog_number":"634",
+      "title":"Gender and Global Politics",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Kitchen,Veronica"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:28-05:00"
+    },
+    {
+      "class_number":5643,
+      "subject":"PLAN",
+      "catalog_number":"674",
+      "title":"Special Topics in Planning",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Parker,Dawn Cassandra"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:03-05:00"
+    },
+    {
+      "class_number":7925,
+      "subject":"PSCI",
+      "catalog_number":"620",
+      "title":"Gender and Global Politics",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Kitchen,Veronica"
+      ],
+      "building":"HH",
+      "room":"227",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:06-05:00"
     }
   ]
 }

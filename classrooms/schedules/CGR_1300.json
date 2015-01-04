@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2455,
-    "timestamp":1415081555,
+    "requests":5330,
+    "timestamp":1420353804,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,205 +11,144 @@
   },
   "data":[
     {
-      "class_number":4116,
-      "subject":"ARTS",
-      "catalog_number":"125",
-      "title":"Who are the Mennonites?",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        "Osborne,Troy"
-      ],
-      "building":"CGR",
-      "room":"1300",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:46-05:00"
-    },
-    {
-      "class_number":7625,
-      "subject":"HIST",
-      "catalog_number":"351",
-      "title":"Canada: The Immigrant Experience",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        "Epp,Marlene G"
-      ],
-      "building":"CGR",
-      "room":"1300",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:43-05:00"
-    },
-    {
-      "class_number":4096,
-      "subject":"HIST",
-      "catalog_number":"379",
-      "title":"Reformation History",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Osborne,Troy"
-      ],
-      "building":"CGR",
-      "room":"1300",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:43-05:00"
-    },
-    {
-      "class_number":4418,
-      "subject":"PACS",
-      "catalog_number":"301",
-      "title":"Special Topics in Peace and Conflict Studies 1",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":22,
-      "instructors":[
-        "Neufeldt,Reina"
-      ],
-      "building":"CGR",
-      "room":"1300",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:38-05:00"
-    },
-    {
-      "class_number":7632,
+      "class_number":8263,
       "subject":"PACS",
       "catalog_number":"301",
       "title":"Special Topics in Peace and Conflict Studies 1",
       "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"19:00",
-      "end_time":"21:50",
+      "weekdays":"MW",
+      "start_time":"13:30",
+      "end_time":"14:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":26,
+      "enrollment_total":24,
       "instructors":[
-        "Ewert,Lowell",
-        "Truchan-Tataryn,Maria"
+        "Heidebrecht,Paul C"
       ],
       "building":"CGR",
       "room":"1300",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:38-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:44-05:00"
     },
     {
-      "class_number":4415,
+      "class_number":4502,
       "subject":"PACS",
-      "catalog_number":"311",
-      "title":"Doing Development: Issues of Justice and Peace",
+      "catalog_number":"302",
+      "title":"Special Topics in Peace and Conflict Studies 2",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"19:00",
-      "end_time":"21:50",
+      "weekdays":"T",
+      "start_time":"18:00",
+      "end_time":"20:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":31,
+      "enrollment_total":24,
       "instructors":[
-        "Snider,Ryan Todd"
+        
       ],
       "building":"CGR",
       "room":"1300",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:38-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:44-05:00"
     },
     {
-      "class_number":4392,
+      "class_number":7777,
       "subject":"PACS",
-      "catalog_number":"323",
-      "title":"Negotiation: Theories and Strategies",
+      "catalog_number":"313",
+      "title":"Community Conflict Resolution",
       "section":"LEC 001",
       "weekdays":"TTh",
       "start_time":"12:30",
       "end_time":"13:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":32,
+      "enrollment_total":31,
       "instructors":[
         "Regehr,Keith Allen"
       ],
       "building":"CGR",
       "room":"1300",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:38-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:44-05:00"
     },
     {
-      "class_number":4417,
+      "class_number":7778,
       "subject":"PACS",
-      "catalog_number":"331",
-      "title":"Trauma, Healing and Conflict Resolution",
+      "catalog_number":"324",
+      "title":"Human Rights, Peace, and Business",
       "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":35,
+      "enrollment_total":33,
       "instructors":[
-        "Gallagher,Susan"
+        "Ranney,Kevin D"
       ],
       "building":"CGR",
       "room":"1300",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:38-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:44-05:00"
     },
     {
-      "class_number":4100,
+      "class_number":7779,
+      "subject":"PACS",
+      "catalog_number":"329",
+      "title":"Restorative Justice",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Van Rassel,Michelle Anne"
+      ],
+      "building":"CGR",
+      "room":"1300",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:45-05:00"
+    },
+    {
+      "class_number":7783,
       "subject":"RS",
-      "catalog_number":"343",
-      "title":"Reformation History",
+      "catalog_number":"338",
+      "title":"Seeking Wisdom in the Bible",
       "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
+      "weekdays":"TTh",
+      "start_time":"14:00",
+      "end_time":"15:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":5,
+      "enrollment_total":7,
       "instructors":[
-        "Osborne,Troy"
+        "Suderman,Derek"
       ],
       "building":"CGR",
       "room":"1300",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:21-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:47-05:00"
     },
     {
-      "class_number":7638,
-      "subject":"TS",
-      "catalog_number":"645",
-      "title":"Reformation History",
+      "class_number":8202,
+      "subject":"RS",
+      "catalog_number":"391",
+      "title":"Special Topics",
       "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
+      "weekdays":"Th",
+      "start_time":"18:30",
+      "end_time":"21:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":0,
+      "enrollment_total":10,
       "instructors":[
-        "Osborne,Troy"
+        "Bechtel,Trevor George"
       ],
       "building":"CGR",
       "room":"1300",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:19-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:47-05:00"
     }
   ]
 }

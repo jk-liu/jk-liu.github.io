@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2564,
-    "timestamp":1415081589,
+    "requests":5426,
+    "timestamp":1420353840,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,124 +11,104 @@
   },
   "data":[
     {
-      "class_number":8089,
-      "subject":"TOUR",
-      "catalog_number":"604",
-      "title":"Social Planning for Tourism",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
+      "class_number":5432,
+      "subject":"PLAN",
+      "catalog_number":"409",
+      "title":"Urban Design Studio",
+      "section":"STU 001",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":0,
+      "enrollment_total":32,
       "instructors":[
-        "Cukier,Judith"
+        "Hammond,Karen"
       ],
       "building":"EV2",
       "room":"1001",
-      "term":1149,
-      "last_updated":"2014-07-16T16:09:47-04:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:14-05:00"
     },
     {
-      "class_number":5356,
+      "class_number":5603,
       "subject":"ERS",
-      "catalog_number":"210",
-      "title":"Environmental Analysis and Solutions III: Greening Communities",
-      "section":"TUT 103",
-      "weekdays":"Th",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
+      "catalog_number":"670",
+      "title":"MES Research Development",
+      "section":"RDG 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":"01\/05",
+      "end_date":"01\/05",
+      "enrollment_total":14,
+      "instructors":[
+        "Quilley,Stephen"
+      ],
+      "building":"EV2",
+      "room":"1001",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:22-05:00"
+    },
+    {
+      "class_number":5603,
+      "subject":"ERS",
+      "catalog_number":"670",
+      "title":"MES Research Development",
+      "section":"RDG 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:50",
+      "start_date":"03\/16",
+      "end_date":"03\/16",
+      "enrollment_total":14,
+      "instructors":[
+        "Quilley,Stephen"
+      ],
+      "building":"EV2",
+      "room":"1001",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:22-05:00"
+    },
+    {
+      "class_number":5603,
+      "subject":"ERS",
+      "catalog_number":"670",
+      "title":"MES Research Development",
+      "section":"RDG 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:50",
+      "start_date":"03\/23",
+      "end_date":"03\/23",
+      "enrollment_total":14,
       "instructors":[
         
       ],
       "building":"EV2",
       "room":"1001",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:15-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:22-05:00"
     },
     {
-      "class_number":7828,
-      "subject":"PLAN",
-      "catalog_number":"333",
-      "title":"Neighbourhood and Community Planning",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
+      "class_number":5603,
+      "subject":"ERS",
+      "catalog_number":"670",
+      "title":"MES Research Development",
+      "section":"RDG 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:50",
+      "start_date":"03\/30",
+      "end_date":"03\/30",
+      "enrollment_total":14,
       "instructors":[
-        "Johnson,Laura C"
+        
       ],
       "building":"EV2",
       "room":"1001",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:58-05:00"
-    },
-    {
-      "class_number":7902,
-      "subject":"GEOG",
-      "catalog_number":"609",
-      "title":"GIS and Spatial Decision Support for Planning  and Resource Management",
-      "section":"SEM 001",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Feick,Robert"
-      ],
-      "building":"EV2",
-      "room":"1001",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:31-05:00"
-    },
-    {
-      "class_number":7901,
-      "subject":"PLAN",
-      "catalog_number":"657",
-      "title":"GIS and Spatial Decision Support for Planning  and Resource Management",
-      "section":"SEM 001",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Feick,Robert"
-      ],
-      "building":"EV2",
-      "room":"1001",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:59-05:00"
-    },
-    {
-      "class_number":8454,
-      "subject":"TOUR",
-      "catalog_number":"602",
-      "title":"Seminar on Tourism Research",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Cukier,Judith"
-      ],
-      "building":"EV2",
-      "room":"1001",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:18-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:22-05:00"
     }
   ]
 }

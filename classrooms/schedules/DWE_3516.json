@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2491,
-    "timestamp":1415081566,
+    "requests":5366,
+    "timestamp":1420353816,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,331 +11,171 @@
   },
   "data":[
     {
-      "class_number":6912,
+      "class_number":6721,
       "subject":"BIOL",
-      "catalog_number":"130",
-      "title":"Introductory Cell Biology",
-      "section":"TUT 117",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":51,
-      "instructors":[
-        "Miskovic,Dragana"
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:55-05:00"
-    },
-    {
-      "class_number":6913,
-      "subject":"BIOL",
-      "catalog_number":"130",
-      "title":"Introductory Cell Biology",
-      "section":"TUT 118",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":54,
-      "instructors":[
-        "Miskovic,Dragana"
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:55-05:00"
-    },
-    {
-      "class_number":6914,
-      "subject":"BIOL",
-      "catalog_number":"130",
-      "title":"Introductory Cell Biology",
-      "section":"TUT 119",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":51,
-      "instructors":[
-        "Miskovic,Dragana"
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:55-05:00"
-    },
-    {
-      "class_number":6915,
-      "subject":"BIOL",
-      "catalog_number":"130",
-      "title":"Introductory Cell Biology",
-      "section":"TUT 120",
-      "weekdays":"Th",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":34,
-      "instructors":[
-        "Miskovic,Dragana"
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:55-05:00"
-    },
-    {
-      "class_number":4556,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"TUT 129",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":51,
-      "instructors":[
-        "Scott,Alison Jean"
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4558,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"TUT 131",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":49,
-      "instructors":[
-        "Scott,Alison Jean"
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4467,
-      "subject":"CHE",
-      "catalog_number":"211",
-      "title":"Fluid Mechanics",
+      "catalog_number":"442",
+      "title":"Virology",
       "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":64,
-      "instructors":[
-        "Mohsenipour,Ali Asghar"
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4648,
-      "subject":"CHE",
-      "catalog_number":"211",
-      "title":"Fluid Mechanics",
-      "section":"TUT 101",
-      "weekdays":"W",
+      "weekdays":"TTh",
       "start_time":"11:30",
       "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":64,
-      "instructors":[
-        "Mohsenipour,Ali Asghar"
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4790,
-      "subject":"CHE",
-      "catalog_number":"241",
-      "title":"Materials Science and Engineering",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":67,
-      "instructors":[
-        "Li,Yuning"
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:15-05:00"
-    },
-    {
-      "class_number":4791,
-      "subject":"CHE",
-      "catalog_number":"241",
-      "title":"Materials Science and Engineering",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":67,
-      "instructors":[
-        "Li,Yuning"
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:15-05:00"
-    },
-    {
-      "class_number":4899,
-      "subject":"ECE",
-      "catalog_number":"105",
-      "title":"Physics of Electrical Engineering 1",
-      "section":"TUT 102",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":51,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:50-05:00"
-    },
-    {
-      "class_number":4910,
-      "subject":"ECE",
-      "catalog_number":"140",
-      "title":"Linear Circuits",
-      "section":"TUT 102",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":62,
-      "instructors":[
-        "Opal,Ajoy"
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:50-05:00"
-    },
-    {
-      "class_number":5661,
-      "subject":"MATH",
-      "catalog_number":"115",
-      "title":"Linear Algebra for Engineering",
-      "section":"TUT 107",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5667,
-      "subject":"MATH",
-      "catalog_number":"115",
-      "title":"Linear Algebra for Engineering",
-      "section":"TUT 113",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":51,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":6102,
-      "subject":"MATH",
-      "catalog_number":"116",
-      "title":"Calculus 1 for Engineering",
-      "section":"TUT 115",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":46,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":4587,
-      "subject":"ME",
-      "catalog_number":"219",
-      "title":"Mechanics of Deformable Solids 1",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":60,
       "instructors":[
-        
+        "Dupont,Christine"
       ],
       "building":"DWE",
       "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:16-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:47-05:00"
     },
     {
-      "class_number":4645,
+      "class_number":7078,
+      "subject":"BIOL",
+      "catalog_number":"484",
+      "title":"Advanced Eukaryotic Genetics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Reed,Bruce"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:48-05:00"
+    },
+    {
+      "class_number":4885,
+      "subject":"CIVE",
+      "catalog_number":"440",
+      "title":"Transit Planning and Operations",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:30",
+      "end_time":"17:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Casello,Jeffrey"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:38-05:00"
+    },
+    {
+      "class_number":4359,
+      "subject":"ECON",
+      "catalog_number":"101",
+      "title":"Introduction to Microeconomics",
+      "section":"LEC 006",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":65,
+      "instructors":[
+        "Mesta,Olivia"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":8044,
+      "subject":"ENGL",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 011",
+      "weekdays":"TThF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Northcote,Graeme"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:43-05:00"
+    },
+    {
+      "class_number":4625,
       "subject":"ME",
       "catalog_number":"219",
       "title":"Mechanics of Deformable Solids 1",
       "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
+    },
+    {
+      "class_number":7474,
+      "subject":"MTE",
+      "catalog_number":"119",
+      "title":"Statics",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Inal,Kaan"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:24-05:00"
+    },
+    {
+      "class_number":4823,
+      "subject":"MTE",
+      "catalog_number":"322",
+      "title":"Electromechanical Machine Design",
+      "section":"TUT 201",
+      "weekdays":"M",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":57,
+      "instructors":[
+        
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
+    },
+    {
+      "class_number":4824,
+      "subject":"MTE",
+      "catalog_number":"322",
+      "title":"Electromechanical Machine Design",
+      "section":"TUT 202",
       "weekdays":"W",
       "start_time":"12:30",
       "end_time":"13:20",
@@ -347,129 +187,88 @@
       ],
       "building":"DWE",
       "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:16-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:26-05:00"
     },
     {
-      "class_number":4445,
-      "subject":"ME",
-      "catalog_number":"269",
-      "title":"Electromechanical Devices and Power Processing",
-      "section":"TUT 201",
-      "weekdays":"T",
-      "start_time":"08:30",
+      "class_number":6765,
+      "subject":"PHYS",
+      "catalog_number":"335",
+      "title":"Condensed Matter Physics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        "Burkov,Anton A"
+      ],
+      "building":"DWE",
+      "room":"3516",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:08-05:00"
+    },
+    {
+      "class_number":6519,
+      "subject":"PHYS",
+      "catalog_number":"365",
+      "title":"Mathematical Physics 2",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
       "end_time":"10:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":58,
+      "enrollment_total":31,
       "instructors":[
-        
+        "Ha,Bae-Yeun"
       ],
       "building":"DWE",
       "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:16-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:09-05:00"
     },
     {
-      "class_number":6702,
+      "class_number":6974,
       "subject":"PHYS",
-      "catalog_number":"115",
-      "title":"Mechanics",
-      "section":"TUT 107",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"14:20",
+      "catalog_number":"435",
+      "title":"Current Topics in Condensed Matter Physics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":50,
+      "enrollment_total":10,
       "instructors":[
-        
+        "Burkov,Anton A"
       ],
       "building":"DWE",
       "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:11-05:00"
     },
     {
-      "class_number":8367,
-      "subject":"UNIV",
-      "catalog_number":"101",
-      "title":"Strategies and Skills for Academic Success",
-      "section":"LEC 003",
+      "class_number":5465,
+      "subject":"PLAN",
+      "catalog_number":"478",
+      "title":"Transit Planning and Operations",
+      "section":"LEC 001",
       "weekdays":"MW",
-      "start_time":"13:30",
-      "end_time":"14:20",
+      "start_time":"16:30",
+      "end_time":"17:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":64,
+      "enrollment_total":34,
       "instructors":[
-        "Carson,Linda Christine",
-        "Forristal,Stephanie Joan"
+        "Casello,Jeffrey"
       ],
       "building":"DWE",
       "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:52-05:00"
-    },
-    {
-      "class_number":5133,
-      "subject":"ME",
-      "catalog_number":"738",
-      "title":"Special Topics in Materials",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"10:30",
-      "end_time":"11:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        "Irannejad,Mehrdad"
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:48-05:00"
-    },
-    {
-      "class_number":8362,
-      "subject":"NANO",
-      "catalog_number":"701",
-      "title":"Fundamentals of Nanotechnology",
-      "section":"LEC 003",
-      "weekdays":"TTh",
-      "start_time":"10:30",
-      "end_time":"11:50",
-      "start_date":"09\/09",
-      "end_date":"10\/16",
-      "enrollment_total":17,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:50-05:00"
-    },
-    {
-      "class_number":8363,
-      "subject":"NANO",
-      "catalog_number":"702",
-      "title":"Nanotechology Tools",
-      "section":"LEC 003",
-      "weekdays":"TTh",
-      "start_time":"10:30",
-      "end_time":"11:50",
-      "start_date":"10\/21",
-      "end_date":"12\/01",
-      "enrollment_total":16,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3516",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:50-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:16-05:00"
     }
   ]
 }

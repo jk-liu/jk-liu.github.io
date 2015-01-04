@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2435,
-    "timestamp":1415081548,
+    "requests":5314,
+    "timestamp":1420353799,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,10 +11,10 @@
   },
   "data":[
     {
-      "class_number":6891,
+      "class_number":6544,
       "subject":"BIOL",
-      "catalog_number":"302",
-      "title":"Functional Histology",
+      "catalog_number":"120",
+      "title":"Introduction to Plant Structure and Function",
       "section":"LAB 101",
       "weekdays":"M",
       "start_time":"14:30",
@@ -23,38 +23,38 @@
       "end_date":null,
       "enrollment_total":32,
       "instructors":[
-        "Wolff,Bruce Richard"
+        "Miskovic,Dragana"
       ],
       "building":"B2",
       "room":"355",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:40-05:00"
     },
     {
-      "class_number":6892,
+      "class_number":6545,
       "subject":"BIOL",
-      "catalog_number":"302",
-      "title":"Functional Histology",
+      "catalog_number":"120",
+      "title":"Introduction to Plant Structure and Function",
       "section":"LAB 102",
       "weekdays":"M",
       "start_time":"19:00",
       "end_time":"21:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":32,
+      "enrollment_total":27,
       "instructors":[
-        "Wolff,Bruce Richard"
+        "Miskovic,Dragana"
       ],
       "building":"B2",
       "room":"355",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:40-05:00"
     },
     {
-      "class_number":6893,
+      "class_number":6546,
       "subject":"BIOL",
-      "catalog_number":"302",
-      "title":"Functional Histology",
+      "catalog_number":"120",
+      "title":"Introduction to Plant Structure and Function",
       "section":"LAB 103",
       "weekdays":"T",
       "start_time":"14:30",
@@ -63,79 +63,59 @@
       "end_date":null,
       "enrollment_total":32,
       "instructors":[
-        "Wolff,Bruce Richard"
+        "Miskovic,Dragana"
       ],
       "building":"B2",
       "room":"355",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:40-05:00"
     },
     {
-      "class_number":6894,
+      "class_number":6547,
       "subject":"BIOL",
-      "catalog_number":"302",
-      "title":"Functional Histology",
+      "catalog_number":"120",
+      "title":"Introduction to Plant Structure and Function",
       "section":"LAB 104",
       "weekdays":"T",
       "start_time":"19:00",
       "end_time":"21:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Wolff,Bruce Richard"
-      ],
-      "building":"B2",
-      "room":"355",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
-    },
-    {
-      "class_number":6895,
-      "subject":"BIOL",
-      "catalog_number":"302",
-      "title":"Functional Histology",
-      "section":"LAB 105",
-      "weekdays":"W",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Wolff,Bruce Richard"
-      ],
-      "building":"B2",
-      "room":"355",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
-    },
-    {
-      "class_number":6896,
-      "subject":"BIOL",
-      "catalog_number":"302",
-      "title":"Functional Histology",
-      "section":"LAB 106",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
       "enrollment_total":30,
       "instructors":[
-        "Wolff,Bruce Richard"
+        "Miskovic,Dragana"
       ],
       "building":"B2",
       "room":"355",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:40-05:00"
     },
     {
-      "class_number":6906,
+      "class_number":6548,
       "subject":"BIOL",
-      "catalog_number":"302",
-      "title":"Functional Histology",
-      "section":"LAB 107",
+      "catalog_number":"120",
+      "title":"Introduction to Plant Structure and Function",
+      "section":"LAB 105",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Miskovic,Dragana"
+      ],
+      "building":"B2",
+      "room":"355",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:40-05:00"
+    },
+    {
+      "class_number":6709,
+      "subject":"BIOL",
+      "catalog_number":"120",
+      "title":"Introduction to Plant Structure and Function",
+      "section":"LAB 106",
       "weekdays":"W",
       "start_time":"19:00",
       "end_time":"21:50",
@@ -143,39 +123,19 @@
       "end_date":null,
       "enrollment_total":31,
       "instructors":[
-        "Wolff,Bruce Richard"
+        "Miskovic,Dragana"
       ],
       "building":"B2",
       "room":"355",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:40-05:00"
     },
     {
-      "class_number":6907,
+      "class_number":7066,
       "subject":"BIOL",
-      "catalog_number":"302",
-      "title":"Functional Histology",
-      "section":"LAB 108",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Wolff,Bruce Richard"
-      ],
-      "building":"B2",
-      "room":"355",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
-    },
-    {
-      "class_number":6991,
-      "subject":"BIOL",
-      "catalog_number":"302",
-      "title":"Functional Histology",
-      "section":"LAB 109",
+      "catalog_number":"120",
+      "title":"Introduction to Plant Structure and Function",
+      "section":"LAB 107",
       "weekdays":"Th",
       "start_time":"14:30",
       "end_time":"17:20",
@@ -183,39 +143,39 @@
       "end_date":null,
       "enrollment_total":32,
       "instructors":[
-        "Wolff,Bruce Richard"
+        "Miskovic,Dragana"
       ],
       "building":"B2",
       "room":"355",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:40-05:00"
     },
     {
-      "class_number":7054,
+      "class_number":7067,
       "subject":"BIOL",
-      "catalog_number":"302",
-      "title":"Functional Histology",
-      "section":"LAB 110",
+      "catalog_number":"120",
+      "title":"Introduction to Plant Structure and Function",
+      "section":"LAB 108",
       "weekdays":"Th",
       "start_time":"19:00",
       "end_time":"21:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":31,
+      "enrollment_total":18,
       "instructors":[
-        "Wolff,Bruce Richard"
+        "Miskovic,Dragana"
       ],
       "building":"B2",
       "room":"355",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:40-05:00"
     },
     {
-      "class_number":7141,
+      "class_number":7068,
       "subject":"BIOL",
-      "catalog_number":"302",
-      "title":"Functional Histology",
-      "section":"LAB 111",
+      "catalog_number":"120",
+      "title":"Introduction to Plant Structure and Function",
+      "section":"LAB 109",
       "weekdays":"F",
       "start_time":"14:30",
       "end_time":"17:20",
@@ -223,12 +183,12 @@
       "end_date":null,
       "enrollment_total":31,
       "instructors":[
-        "Wolff,Bruce Richard"
+        "Miskovic,Dragana"
       ],
       "building":"B2",
       "room":"355",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:40-05:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2741,
-    "timestamp":1415081642,
+    "requests":5597,
+    "timestamp":1420353903,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,244 +11,164 @@
   },
   "data":[
     {
-      "class_number":4235,
+      "class_number":8277,
       "subject":"ARBUS",
       "catalog_number":"400",
       "title":"Strategy and Program Integration",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"18:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":60,
+      "enrollment_total":54,
       "instructors":[
         "Malleck,Geoff"
       ],
       "building":"STJ",
       "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:40-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:32-05:00"
     },
     {
-      "class_number":3787,
+      "class_number":3820,
       "subject":"ENGL",
-      "catalog_number":"108A",
-      "title":"The Superhero",
+      "catalog_number":"208B",
+      "title":"Science Fiction",
       "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"11:30",
-      "end_time":"12:50",
+      "weekdays":"TTh",
+      "start_time":"18:30",
+      "end_time":"19:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":72,
-      "instructors":[
-        "Terzian,Sylvia"
-      ],
-      "building":"STJ",
-      "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:05-05:00"
-    },
-    {
-      "class_number":3638,
-      "subject":"ENGL",
-      "catalog_number":"208A",
-      "title":"Forms of Fantasy",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":33,
+      "enrollment_total":38,
       "instructors":[
         "Hancock,Michael"
       ],
       "building":"STJ",
       "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:07-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:46-05:00"
     },
     {
-      "class_number":7733,
+      "class_number":4008,
       "subject":"ENGL",
-      "catalog_number":"463",
-      "title":"Postcolonial Literatures",
+      "catalog_number":"208C",
+      "title":"Studies in Children's Literature",
       "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Austen,Veronica Jane"
-      ],
-      "building":"STJ",
-      "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:12-05:00"
-    },
-    {
-      "class_number":7726,
-      "subject":"HIST",
-      "catalog_number":"226",
-      "title":"Canada in World War II",
-      "section":"LEC 001",
-      "weekdays":"W",
+      "weekdays":"M",
       "start_time":"18:30",
       "end_time":"21:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":40,
+      "enrollment_total":39,
       "instructors":[
-        "Goette,Richard Evan"
+        "Spielmacher,Mark S"
       ],
       "building":"STJ",
       "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:40-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:46-05:00"
     },
     {
-      "class_number":3454,
+      "class_number":3823,
       "subject":"HIST",
-      "catalog_number":"236",
-      "title":"Law and Society in the Middle Ages",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":73,
-      "instructors":[
-        "Hutter,Daniel E"
-      ],
-      "building":"STJ",
-      "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:41-05:00"
-    },
-    {
-      "class_number":3359,
-      "subject":"HIST",
-      "catalog_number":"277",
-      "title":"Canadian Legal History",
+      "catalog_number":"113",
+      "title":"Canadian Business History: Innovators and Entrepreneurs",
       "section":"LEC 001",
       "weekdays":"TTh",
       "start_time":"10:00",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":54,
+      "enrollment_total":68,
       "instructors":[
         "Briggs,Catherine"
       ],
       "building":"STJ",
       "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:42-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:32-05:00"
     },
     {
-      "class_number":7227,
+      "class_number":7152,
       "subject":"ITALST",
-      "catalog_number":"291",
-      "title":"Italian Culture and Civilization 1",
+      "catalog_number":"111",
+      "title":"Women, Family, Sex and Tradition",
       "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"08:30",
-      "end_time":"09:50",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":72,
+      "enrollment_total":78,
+      "instructors":[
+        
+      ],
+      "building":"STJ",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:53-05:00"
+    },
+    {
+      "class_number":7137,
+      "subject":"ITALST",
+      "catalog_number":"292",
+      "title":"Italian Culture and Civilization 2",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
       "instructors":[
         "Niccoli,Gabriel A"
       ],
       "building":"STJ",
       "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:57-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:53-05:00"
     },
     {
-      "class_number":8239,
-      "subject":"PSYCH",
-      "catalog_number":"101",
-      "title":"Introductory Psychology",
-      "section":"LEC 005",
-      "weekdays":"TTh",
-      "start_time":"12:30",
-      "end_time":"13:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":71,
-      "instructors":[
-        "Meaney,Glenn J."
-      ],
-      "building":"STJ",
-      "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:06-05:00"
-    },
-    {
-      "class_number":3671,
-      "subject":"PSYCH",
-      "catalog_number":"315",
-      "title":"Psychology of Adolescence",
+      "class_number":4427,
+      "subject":"RS",
+      "catalog_number":"121",
+      "title":"Evil",
       "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"18:00",
-      "end_time":"20:50",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":53,
+      "enrollment_total":21,
       "instructors":[
-        "Drysdale,Maureen"
+        "Shrubsole,Nicholas"
       ],
       "building":"STJ",
       "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:09-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:45-05:00"
     },
     {
-      "class_number":7246,
+      "class_number":7893,
       "subject":"SMF",
-      "catalog_number":"301",
-      "title":"Communication and Counselling Skills",
+      "catalog_number":"207",
+      "title":"Parents, Children, and Family Relations",
       "section":"LEC 001",
-      "weekdays":"M",
+      "weekdays":"MTh",
       "start_time":"11:30",
-      "end_time":"14:20",
+      "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":26,
+      "enrollment_total":69,
       "instructors":[
         "Serafini,Toni"
       ],
       "building":"STJ",
       "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:31-05:00"
-    },
-    {
-      "class_number":3624,
-      "subject":"SOC",
-      "catalog_number":"229",
-      "title":"Selected Topics in Criminology",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":77,
-      "instructors":[
-        "Desroches,Frederick J"
-      ],
-      "building":"STJ",
-      "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:33-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:57-05:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2746,
-    "timestamp":1415081644,
+    "requests":5602,
+    "timestamp":1420353905,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,344 +11,204 @@
   },
   "data":[
     {
-      "class_number":3786,
+      "class_number":7795,
       "subject":"ENGL",
-      "catalog_number":"100B",
-      "title":"Poetry",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        "Williams,David-Antoine"
-      ],
-      "building":"STJ",
-      "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:05-05:00"
-    },
-    {
-      "class_number":3788,
-      "subject":"ENGL",
-      "catalog_number":"108F",
-      "title":"The Rebel",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":37,
-      "instructors":[
-        "Lobb,Diana Frances"
-      ],
-      "building":"STJ",
-      "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
-    },
-    {
-      "class_number":8302,
-      "subject":"ENGL",
-      "catalog_number":"109",
-      "title":"Introduction to Academic Writing",
-      "section":"LEC 018",
-      "weekdays":"Th",
+      "catalog_number":"119",
+      "title":"Communications in Mathematics & Computer Science",
+      "section":"LEC 003",
+      "weekdays":"W",
       "start_time":"18:30",
       "end_time":"21:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":26,
+      "enrollment_total":14,
       "instructors":[
-        "Terzian,Sylvia"
+        "Spielmacher,Mark S"
       ],
       "building":"STJ",
       "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:44-05:00"
     },
     {
-      "class_number":4340,
+      "class_number":7797,
       "subject":"ENGL",
-      "catalog_number":"208M",
-      "title":"Travel Literature",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Austen,Veronica Jane"
-      ],
-      "building":"STJ",
-      "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:08-05:00"
-    },
-    {
-      "class_number":3358,
-      "subject":"ENGL",
-      "catalog_number":"210H",
-      "title":"Arts Writing",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Challen,Paul"
-      ],
-      "building":"STJ",
-      "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:08-05:00"
-    },
-    {
-      "class_number":3199,
-      "subject":"ENGL",
-      "catalog_number":"305A",
-      "title":"Old English 1",
-      "section":"LEC 001",
+      "catalog_number":"119",
+      "title":"Communications in Mathematics & Computer Science",
+      "section":"LEC 005",
       "weekdays":"MW",
       "start_time":"11:30",
       "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":12,
+      "enrollment_total":18,
       "instructors":[
-        "Zettel,Pat"
+        "Humphreys,Sara Megan"
       ],
       "building":"STJ",
       "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:09-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:44-05:00"
     },
     {
-      "class_number":7728,
-      "subject":"HIST",
-      "catalog_number":"260",
-      "title":"Europe: 410-1303",
+      "class_number":3574,
+      "subject":"ENGL",
+      "catalog_number":"201",
+      "title":"The Short Story",
       "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Bednarski,Steven"
-      ],
-      "building":"STJ",
-      "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:41-05:00"
-    },
-    {
-      "class_number":7728,
-      "subject":"HIST",
-      "catalog_number":"260",
-      "title":"Europe: 410-1303",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Loose,Sarah"
-      ],
-      "building":"STJ",
-      "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:41-05:00"
-    },
-    {
-      "class_number":4342,
-      "subject":"HIST",
-      "catalog_number":"317",
-      "title":"History of Sexuality: The Pre-Modern Period",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Loose,Sarah"
-      ],
-      "building":"STJ",
-      "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:42-05:00"
-    },
-    {
-      "class_number":4342,
-      "subject":"HIST",
-      "catalog_number":"317",
-      "title":"History of Sexuality: The Pre-Modern Period",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Loose,Sarah"
-      ],
-      "building":"STJ",
-      "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:42-05:00"
-    },
-    {
-      "class_number":7223,
-      "subject":"ITAL",
-      "catalog_number":"101",
-      "title":"Introduction to Italian Language 1",
-      "section":"LEC 002",
       "weekdays":"MTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Ugolini,Matteo"
-      ],
-      "building":"STJ",
-      "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:56-05:00"
-    },
-    {
-      "class_number":7734,
-      "subject":"MEDVL",
-      "catalog_number":"260",
-      "title":"Europe: 410-1303",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Bednarski,Steven"
-      ],
-      "building":"STJ",
-      "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:19-05:00"
-    },
-    {
-      "class_number":7734,
-      "subject":"MEDVL",
-      "catalog_number":"260",
-      "title":"Europe: 410-1303",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Loose,Sarah"
-      ],
-      "building":"STJ",
-      "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:19-05:00"
-    },
-    {
-      "class_number":3422,
-      "subject":"RS",
-      "catalog_number":"283",
-      "title":"Current Ethical Issues",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"19:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Tataryn,Myroslaw"
-      ],
-      "building":"STJ",
-      "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:21-05:00"
-    },
-    {
-      "class_number":7236,
-      "subject":"SMF",
-      "catalog_number":"220",
-      "title":"Research Methods",
-      "section":"LEC 001",
-      "weekdays":"WF",
       "start_time":"13:00",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":18,
+      "enrollment_total":23,
       "instructors":[
-        "Broll,Ryan"
+        "Spielmacher,Mark S"
       ],
       "building":"STJ",
       "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:31-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:45-05:00"
     },
     {
-      "class_number":7243,
-      "subject":"SMF",
-      "catalog_number":"317",
-      "title":"History of Sexuality: The Pre-Modern Period",
+      "class_number":7799,
+      "subject":"ENGL",
+      "catalog_number":"213",
+      "title":"Litigious Literature",
       "section":"LEC 001",
-      "weekdays":"W",
+      "weekdays":"MW",
       "start_time":"14:30",
-      "end_time":"16:20",
+      "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":11,
+      "enrollment_total":26,
       "instructors":[
-        "Loose,Sarah"
+        "Austen,Veronica Jane"
       ],
       "building":"STJ",
       "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:31-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:47-05:00"
     },
     {
-      "class_number":7243,
-      "subject":"SMF",
-      "catalog_number":"317",
-      "title":"History of Sexuality: The Pre-Modern Period",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
+      "class_number":3428,
+      "subject":"ENGL",
+      "catalog_number":"251B",
+      "title":"Criticism 2",
+      "section":"LEC 002",
+      "weekdays":"MTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":11,
+      "enrollment_total":25,
       "instructors":[
-        "Loose,Sarah"
+        "Lobb,Diana Frances"
       ],
       "building":"STJ",
       "room":"3016",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:31-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:48-05:00"
+    },
+    {
+      "class_number":3977,
+      "subject":"FR",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"LEC 005",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Lappin-Fortin,Kerry"
+      ],
+      "building":"STJ",
+      "room":"3016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":4347,
+      "subject":"HIST",
+      "catalog_number":"318",
+      "title":"History of Sexuality: The Modern Period",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Wood,Whitney"
+      ],
+      "building":"STJ",
+      "room":"3016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":4006,
+      "subject":"PHIL",
+      "catalog_number":"209",
+      "title":"Philosophy in Literature",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Tremblay,Bruno"
+      ],
+      "building":"STJ",
+      "room":"3016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:57-05:00"
+    },
+    {
+      "class_number":7147,
+      "subject":"SMF",
+      "catalog_number":"304",
+      "title":"Human Sexuality in Relationships",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Serafini,Toni"
+      ],
+      "building":"STJ",
+      "room":"3016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:57-05:00"
+    },
+    {
+      "class_number":7149,
+      "subject":"SMF",
+      "catalog_number":"318",
+      "title":"History of Sexuality: The Modern Period",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Wood,Whitney"
+      ],
+      "building":"STJ",
+      "room":"3016",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:58-05:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2668,
-    "timestamp":1415081620,
+    "requests":5529,
+    "timestamp":1420353876,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,64 +11,44 @@
   },
   "data":[
     {
-      "class_number":7878,
+      "class_number":7463,
       "subject":"PSYCH",
-      "catalog_number":"680",
-      "title":"Special Topics in Child Behaviour and Development",
-      "section":"LEC 002",
-      "weekdays":"M",
-      "start_time":"14:00",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "O'Neill,Daniela K"
-      ],
-      "building":"PAS",
-      "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:05-05:00"
-    },
-    {
-      "class_number":7886,
-      "subject":"PSYCH",
-      "catalog_number":"704A",
-      "title":"Social Psychology",
-      "section":"LEC 001",
-      "weekdays":"M",
+      "catalog_number":"705",
+      "title":"Cognitive Development",
+      "section":"SEM 001",
+      "weekdays":"W",
       "start_time":"09:00",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":12,
+      "enrollment_total":13,
       "instructors":[
-        "Grossmann,Igor"
+        "White,Katherine S"
       ],
       "building":"PAS",
       "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:05-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
     },
     {
-      "class_number":7896,
+      "class_number":4419,
       "subject":"PSYCH",
-      "catalog_number":"870",
-      "title":"Research Design & Methods",
+      "catalog_number":"887",
+      "title":"Research Methods in Industrial\/Organizational",
       "section":"SEM 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"13:50",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":6,
+      "enrollment_total":7,
       "instructors":[
-        "Wood,Joanne"
+        "Michela,John"
       ],
       "building":"PAS",
       "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:08-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:12-05:00"
     }
   ]
 }

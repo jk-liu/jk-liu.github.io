@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2589,
-    "timestamp":1415081596,
+    "requests":5450,
+    "timestamp":1420353848,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,109 +11,47 @@
   },
   "data":[
     {
-      "class_number":3774,
-      "subject":"ARBUS",
-      "catalog_number":"100",
-      "title":"Introduction to Arts and Business",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":420,
-      "instructors":[
-        "Breugst,Eric Andrew"
-      ],
-      "building":"HH",
-      "room":"159",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:38-05:00"
-    },
-    {
-      "class_number":6836,
+      "class_number":6533,
       "subject":"BIOL",
-      "catalog_number":"130",
-      "title":"Introductory Cell Biology",
+      "catalog_number":"373",
+      "title":"Principles of Human Physiology 2",
       "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"08:30",
-      "end_time":"09:50",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":537,
+      "enrollment_total":532,
       "instructors":[
-        "Holyoak,Todd",
         "Engelhardt,Heidi"
       ],
       "building":"HH",
       "room":"159",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:55-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:45-05:00"
     },
     {
-      "class_number":6837,
-      "subject":"BIOL",
-      "catalog_number":"130",
-      "title":"Introductory Cell Biology",
-      "section":"LEC 002",
+      "class_number":4104,
+      "subject":"CLAS",
+      "catalog_number":"104",
+      "title":"Classical Mythology",
+      "section":"LEC 001",
       "weekdays":"MW",
       "start_time":"11:30",
       "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":467,
+      "enrollment_total":675,
       "instructors":[
-        "Holyoak,Todd",
-        "Engelhardt,Heidi"
+        "Kroeker,Ronald"
       ],
       "building":"HH",
       "room":"159",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:55-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:40-05:00"
     },
     {
-      "class_number":6583,
-      "subject":"CHEM",
-      "catalog_number":"120",
-      "title":"Physical and Chemical Properties of Matter",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":366,
-      "instructors":[
-        "Bissonnette,Carey"
-      ],
-      "building":"HH",
-      "room":"159",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:20-05:00"
-    },
-    {
-      "class_number":6583,
-      "subject":"CHEM",
-      "catalog_number":"120",
-      "title":"Physical and Chemical Properties of Matter",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":366,
-      "instructors":[
-        "Bissonnette,Carey"
-      ],
-      "building":"HH",
-      "room":"159",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:20-05:00"
-    },
-    {
-      "class_number":3138,
+      "class_number":3352,
       "subject":"PSYCH",
       "catalog_number":"101",
       "title":"Introductory Psychology",
@@ -123,54 +61,34 @@
       "end_time":"21:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":378,
-      "instructors":[
-        "Spencer,Stephen J"
-      ],
-      "building":"HH",
-      "room":"159",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:06-05:00"
-    },
-    {
-      "class_number":3139,
-      "subject":"PSYCH",
-      "catalog_number":"101",
-      "title":"Introductory Psychology",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":493,
+      "enrollment_total":541,
       "instructors":[
         "Denison,Stephanie"
       ],
       "building":"HH",
       "room":"159",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:06-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:27-05:00"
     },
     {
-      "class_number":3214,
+      "class_number":3390,
       "subject":"SOC",
       "catalog_number":"101",
       "title":"Introduction to Sociology",
       "section":"LEC 001",
-      "weekdays":"M",
+      "weekdays":"W",
       "start_time":"18:30",
       "end_time":"20:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":438,
+      "enrollment_total":303,
       "instructors":[
         "McClinchey,C.Barry"
       ],
       "building":"HH",
       "room":"159",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:32-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:59-05:00"
     }
   ]
 }

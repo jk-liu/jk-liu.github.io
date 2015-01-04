@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2471,
-    "timestamp":1415081559,
+    "requests":5350,
+    "timestamp":1420353811,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,67 +11,24 @@
   },
   "data":[
     {
-      "class_number":4866,
+      "class_number":4930,
       "subject":"NE",
-      "catalog_number":"340L",
-      "title":"Microfabrication and Thin-film Technology Laboratory",
+      "catalog_number":"455L",
+      "title":"Nanotechnology Engineering Advanced Laboratory 2",
       "section":"LAB 001",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"20:20",
+      "weekdays":"TWTh",
+      "start_time":"08:30",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":27,
+      "enrollment_total":97,
       "instructors":[
-        "Barby,James A",
-        "Ivanova,Rossitza"
+        "Siu,Howard Chun-Kui"
       ],
       "building":"DC",
       "room":"3701",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:32-05:00"
-    },
-    {
-      "class_number":4867,
-      "subject":"NE",
-      "catalog_number":"340L",
-      "title":"Microfabrication and Thin-film Technology Laboratory",
-      "section":"LAB 002",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"20:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":27,
-      "instructors":[
-        "Barby,James A",
-        "Ivanova,Rossitza"
-      ],
-      "building":"DC",
-      "room":"3701",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:32-05:00"
-    },
-    {
-      "class_number":4868,
-      "subject":"NE",
-      "catalog_number":"340L",
-      "title":"Microfabrication and Thin-film Technology Laboratory",
-      "section":"LAB 003",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"20:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        "Barby,James A",
-        "Ivanova,Rossitza"
-      ],
-      "building":"DC",
-      "room":"3701",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:32-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:36-05:00"
     }
   ]
 }

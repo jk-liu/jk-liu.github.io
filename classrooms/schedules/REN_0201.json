@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2724,
-    "timestamp":1415081637,
+    "requests":5582,
+    "timestamp":1420353897,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,344 +11,324 @@
   },
   "data":[
     {
-      "class_number":8250,
+      "class_number":7793,
       "subject":"BASE",
-      "catalog_number":"32",
+      "catalog_number":"42",
       "title":"Academic Skills",
       "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"16:20",
+      "weekdays":"M",
+      "start_time":"09:00",
+      "end_time":"10:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":12,
+      "enrollment_total":21,
       "instructors":[
-        
+        "Eby,Tanya"
       ],
       "building":"REN",
       "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:49-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
     },
     {
-      "class_number":7945,
-      "subject":"EASIA",
-      "catalog_number":"205R",
-      "title":"Religion in East Asia",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Wilson,Jeff"
-      ],
-      "building":"REN",
-      "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:46-05:00"
-    },
-    {
-      "class_number":8245,
-      "subject":"EFAS",
-      "catalog_number":"32",
+      "class_number":7793,
+      "subject":"BASE",
+      "catalog_number":"42",
       "title":"Academic Skills",
-      "section":"LEC 003",
-      "weekdays":"Th",
+      "section":"LEC 001",
+      "weekdays":"TWTh",
       "start_time":"09:30",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":0,
+      "enrollment_total":21,
       "instructors":[
-        
+        "Eby,Tanya"
       ],
       "building":"REN",
       "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:00-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
     },
     {
-      "class_number":8247,
+      "class_number":6429,
+      "subject":"CHINA",
+      "catalog_number":"200R",
+      "title":"Preliminary Second-Year Chinese",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Wang,Renee Rui"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:33-05:00"
+    },
+    {
+      "class_number":6373,
+      "subject":"CHINA",
+      "catalog_number":"202R",
+      "title":"Second-Year Chinese 2",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Ha,Yue"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:34-05:00"
+    },
+    {
+      "class_number":7819,
       "subject":"EFAS",
-      "catalog_number":"36",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"13:00",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Slot,Corinne"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":6444,
+      "subject":"EFAS",
+      "catalog_number":"46",
       "title":"Oral Skills",
-      "section":"LEC 003",
-      "weekdays":"T",
-      "start_time":"09:00",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"10:00",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":0,
       "instructors":[
-        
+        "Hood-Morris,Gregory J"
       ],
       "building":"REN",
       "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:00-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:40-05:00"
     },
     {
-      "class_number":7947,
+      "class_number":4416,
       "subject":"ENGL",
       "catalog_number":"306A",
       "title":"Introduction to Linguistics",
       "section":"LEC 002",
-      "weekdays":"MW",
+      "weekdays":"MTh",
       "start_time":"19:00",
       "end_time":"20:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":28,
+      "enrollment_total":26,
       "instructors":[
         "Afros,Elena"
       ],
       "building":"REN",
       "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:09-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:49-05:00"
     },
     {
-      "class_number":7949,
-      "subject":"ESL",
-      "catalog_number":"101R",
-      "title":"Oral Communications for Academic Purposes",
-      "section":"LEC 003",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:50",
+      "class_number":6354,
+      "subject":"JAPAN",
+      "catalog_number":"102R",
+      "title":"First-Year Japanese 2",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":15,
+      "enrollment_total":22,
       "instructors":[
-        "Schuller,Christa"
+        "Shimoda,Fumie"
       ],
       "building":"REN",
       "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:18-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:53-05:00"
     },
     {
-      "class_number":7950,
-      "subject":"ESL",
-      "catalog_number":"101R",
-      "title":"Oral Communications for Academic Purposes",
-      "section":"LEC 004",
-      "weekdays":"MWF",
-      "start_time":"10:00",
-      "end_time":"11:20",
+      "class_number":6375,
+      "subject":"JAPAN",
+      "catalog_number":"202R",
+      "title":"Second-Year Japanese 2",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":16,
+      "enrollment_total":22,
       "instructors":[
-        "Schuller,Christa"
+        "Kunizane,Kumiko"
       ],
       "building":"REN",
       "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:18-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:54-05:00"
     },
     {
-      "class_number":8373,
-      "subject":"ESL",
+      "class_number":6446,
+      "subject":"KOREA",
       "catalog_number":"101R",
-      "title":"Oral Communications for Academic Purposes",
-      "section":"LEC 005",
-      "weekdays":"TF",
+      "title":"First-Year Korean 1",
+      "section":"TUT 102",
+      "weekdays":"W",
       "start_time":"14:30",
       "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":10,
+      "enrollment_total":24,
       "instructors":[
-        "Astley,Joanne"
+        "Cho,Youngjoo"
       ],
       "building":"REN",
       "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:18-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:03-05:00"
     },
     {
-      "class_number":8374,
-      "subject":"ESL",
+      "class_number":7862,
+      "subject":"KOREA",
       "catalog_number":"101R",
-      "title":"Oral Communications for Academic Purposes",
-      "section":"LEC 006",
-      "weekdays":"TWF",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Astley,Joanne"
-      ],
-      "building":"REN",
-      "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:18-05:00"
-    },
-    {
-      "class_number":6449,
-      "subject":"ESL",
-      "catalog_number":"102R",
-      "title":"Error Correction in Academic Writing",
-      "section":"LEC 001",
-      "weekdays":"M",
+      "title":"First-Year Korean 1",
+      "section":"TUT 104",
+      "weekdays":"Th",
       "start_time":"11:30",
       "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":17,
+      "enrollment_total":24,
       "instructors":[
-        "Heeney,Margaret Christine"
+        "Kim,Wonhee"
       ],
       "building":"REN",
       "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:18-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:03-05:00"
     },
     {
-      "class_number":6526,
-      "subject":"ESL",
-      "catalog_number":"102R",
-      "title":"Error Correction in Academic Writing",
-      "section":"LEC 006",
-      "weekdays":"M",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":26,
-      "instructors":[
-        "Smithwick,Neal Andrew"
-      ],
-      "building":"REN",
-      "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:18-05:00"
-    },
-    {
-      "class_number":7946,
-      "subject":"RS",
-      "catalog_number":"201",
-      "title":"Religion in East Asia",
-      "section":"LEC 001",
-      "weekdays":"TTh",
+      "class_number":7874,
+      "subject":"SDS",
+      "catalog_number":"425R",
+      "title":"Educational Equity in Canada",
+      "section":"SEM 001",
+      "weekdays":"W",
       "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":27,
-      "instructors":[
-        "Wilson,Jeff"
-      ],
-      "building":"REN",
-      "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:19-05:00"
-    },
-    {
-      "class_number":8229,
-      "subject":"RS",
-      "catalog_number":"219",
-      "title":"Religion in America",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":13,
+      "enrollment_total":19,
       "instructors":[
-        "Wilson,Jeff"
+        "Llewellyn,Kristina"
       ],
       "building":"REN",
       "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:19-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:53-05:00"
     },
     {
-      "class_number":7980,
+      "class_number":6387,
       "subject":"SI",
-      "catalog_number":"101R",
-      "title":"Introduction to Arabic 1",
-      "section":"TUT 102",
+      "catalog_number":"102R",
+      "title":"Introduction to Arabic 2",
+      "section":"LEC 001",
       "weekdays":"Th",
-      "start_time":"16:30",
+      "start_time":"16:00",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":19,
+      "enrollment_total":24,
       "instructors":[
         "Al-Azraki,Amir"
       ],
       "building":"REN",
       "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:29-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:56-05:00"
     },
     {
-      "class_number":6484,
+      "class_number":7902,
       "subject":"SI",
-      "catalog_number":"121R",
-      "title":"Islam in the World",
+      "catalog_number":"102R",
+      "title":"Introduction to Arabic 2",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"17:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Al-Azraki,Amir"
+      ],
+      "building":"REN",
+      "room":"0201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:56-05:00"
+    },
+    {
+      "class_number":7877,
+      "subject":"SI",
+      "catalog_number":"302R",
+      "title":"Advanced Arabic 2",
       "section":"LEC 001",
-      "weekdays":"MW",
+      "weekdays":"TF",
       "start_time":"14:30",
       "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Pandit,Idrisa"
-      ],
-      "building":"REN",
-      "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:29-05:00"
-    },
-    {
-      "class_number":6548,
-      "subject":"SI",
-      "catalog_number":"301R",
-      "title":"Advanced Arabic 1",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
+      "enrollment_total":1,
       "instructors":[
         "Mohamed,Eid"
       ],
       "building":"REN",
       "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:30-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:56-05:00"
     },
     {
-      "class_number":6452,
-      "subject":"ESL",
-      "catalog_number":"602R",
-      "title":"Scholarly Writing in English",
-      "section":"LEC 001",
+      "class_number":7879,
+      "subject":"SI",
+      "catalog_number":"302R",
+      "title":"Advanced Arabic 2",
+      "section":"LAB 201",
       "weekdays":"F",
-      "start_time":"13:00",
-      "end_time":"14:20",
+      "start_time":"08:30",
+      "end_time":"09:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":23,
+      "enrollment_total":1,
       "instructors":[
-        "Rehm,Stefan"
+        "Mohamed,Eid"
       ],
       "building":"REN",
       "room":"0201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:28-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:56-05:00"
     }
   ]
 }

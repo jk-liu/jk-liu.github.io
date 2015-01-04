@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2642,
-    "timestamp":1415081613,
+    "requests":5501,
+    "timestamp":1420353866,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,84 +11,44 @@
   },
   "data":[
     {
-      "class_number":8096,
+      "class_number":5408,
+      "subject":"ERS",
+      "catalog_number":"410",
+      "title":"Environmental Analysis and Solutions VI: Ecosocial Systems",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        
+      ],
+      "building":"ML",
+      "room":"216",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:00-05:00"
+    },
+    {
+      "class_number":4304,
       "subject":"GER",
-      "catalog_number":"331",
-      "title":"Exploring the German Language",
-      "section":"SEM 001",
-      "weekdays":"TTh",
+      "catalog_number":"334",
+      "title":"Exploring German Literature",
+      "section":"LEC 001",
+      "weekdays":"MW",
       "start_time":"11:30",
       "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Schulze,Mathias"
-      ],
-      "building":"ML",
-      "room":"216",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:36-05:00"
-    },
-    {
-      "class_number":3486,
-      "subject":"GER",
-      "catalog_number":"431",
-      "title":"Senior Seminar",
-      "section":"SEM 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
       "enrollment_total":5,
       "instructors":[
-        "Schulze,Mathias"
+        "Kuzniar,Alice"
       ],
       "building":"ML",
       "room":"216",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:37-05:00"
-    },
-    {
-      "class_number":7861,
-      "subject":"GER",
-      "catalog_number":"610",
-      "title":"Topics in German Linguistics",
-      "section":"SEM 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Schulze,Mathias"
-      ],
-      "building":"ML",
-      "room":"216",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:33-05:00"
-    },
-    {
-      "class_number":7863,
-      "subject":"GER",
-      "catalog_number":"710",
-      "title":"Topics in German Linguistics",
-      "section":"SEM 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Schulze,Mathias"
-      ],
-      "building":"ML",
-      "room":"216",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:34-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:29-05:00"
     }
   ]
 }

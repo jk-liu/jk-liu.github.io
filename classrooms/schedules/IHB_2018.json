@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2605,
-    "timestamp":1415081601,
+    "requests":5463,
+    "timestamp":1420353852,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,84 +11,44 @@
   },
   "data":[
     {
-      "class_number":7013,
+      "class_number":6800,
       "subject":"PHARM",
-      "catalog_number":"222",
-      "title":"Integrated Patient Focused Care 3",
+      "catalog_number":"120",
+      "title":"Intro to the Prof of Pharmacy",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"09\/08",
-      "end_date":"10\/17",
-      "enrollment_total":117,
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
       "instructors":[
-        "Schneider,Eric"
+        "Edwards,David"
       ],
       "building":"IHB",
       "room":"2018",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:43-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:51-05:00"
     },
     {
-      "class_number":7015,
+      "class_number":7572,
       "subject":"PHARM",
-      "catalog_number":"223",
-      "title":"Integrated Patient Focused Care 4",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"10\/20",
-      "end_date":"12\/01",
-      "enrollment_total":118,
-      "instructors":[
-        "Nagge,Jeffrey Judson"
-      ],
-      "building":"IHB",
-      "room":"2018",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:43-05:00"
-    },
-    {
-      "class_number":7051,
-      "subject":"PHARM",
-      "catalog_number":"233L",
-      "title":"Medical Microbiology Laboratory 2",
+      "catalog_number":"350",
+      "title":"Fundamentals of Business Administration and Management",
       "section":"TUT 101",
       "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"16:20",
+      "start_time":"12:30",
+      "end_time":"15:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":116,
+      "enrollment_total":118,
       "instructors":[
-        "Wasfi,Olla"
+        "Slavcev,Roderick Adrian Ernest"
       ],
       "building":"IHB",
       "room":"2018",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:44-05:00"
-    },
-    {
-      "class_number":7025,
-      "subject":"PHARM",
-      "catalog_number":"252",
-      "title":"Institutional Pharmacy Practice",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":116,
-      "instructors":[
-        "Patel,Tejal"
-      ],
-      "building":"IHB",
-      "room":"2018",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:44-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
     }
   ]
 }

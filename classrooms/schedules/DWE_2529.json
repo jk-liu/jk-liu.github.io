@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2490,
-    "timestamp":1415081566,
+    "requests":5365,
+    "timestamp":1420353816,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,444 +11,424 @@
   },
   "data":[
     {
-      "class_number":4463,
+      "class_number":5245,
       "subject":"CHE",
       "catalog_number":"200",
       "title":"Equilibrium Stage Operations",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":81,
-      "instructors":[
-        "Chan,Wan-Ju Ariel"
-      ],
-      "building":"DWE",
-      "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4463,
-      "subject":"CHE",
-      "catalog_number":"200",
-      "title":"Equilibrium Stage Operations",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":81,
-      "instructors":[
-        "Chan,Wan-Ju Ariel"
-      ],
-      "building":"DWE",
-      "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4464,
-      "subject":"CHE",
-      "catalog_number":"200",
-      "title":"Equilibrium Stage Operations",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":81,
-      "instructors":[
-        "Chan,Wan-Ju Ariel"
-      ],
-      "building":"DWE",
-      "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4467,
-      "subject":"CHE",
-      "catalog_number":"211",
-      "title":"Fluid Mechanics",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":64,
-      "instructors":[
-        "Mohsenipour,Ali Asghar"
-      ],
-      "building":"DWE",
-      "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4657,
-      "subject":"CHE",
-      "catalog_number":"220",
-      "title":"Process Data Analysis",
       "section":"LEC 001",
       "weekdays":"T",
-      "start_time":"15:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":76,
-      "instructors":[
-        "Madhuranthakam,Chandra Mouli R"
-      ],
-      "building":"DWE",
-      "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:15-05:00"
-    },
-    {
-      "class_number":4657,
-      "subject":"CHE",
-      "catalog_number":"220",
-      "title":"Process Data Analysis",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":76,
-      "instructors":[
-        "Madhuranthakam,Chandra Mouli R"
-      ],
-      "building":"DWE",
-      "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:15-05:00"
-    },
-    {
-      "class_number":4658,
-      "subject":"CHE",
-      "catalog_number":"220",
-      "title":"Process Data Analysis",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":76,
-      "instructors":[
-        "Madhuranthakam,Chandra Mouli R"
-      ],
-      "building":"DWE",
-      "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:15-05:00"
-    },
-    {
-      "class_number":4465,
-      "subject":"CHE",
-      "catalog_number":"230",
-      "title":"Physical Chemistry 1",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":77,
-      "instructors":[
-        "Feng,Xianshe"
-      ],
-      "building":"DWE",
-      "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:15-05:00"
-    },
-    {
-      "class_number":4466,
-      "subject":"CHE",
-      "catalog_number":"230",
-      "title":"Physical Chemistry 1",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":77,
-      "instructors":[
-        "Feng,Xianshe"
-      ],
-      "building":"DWE",
-      "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:15-05:00"
-    },
-    {
-      "class_number":4468,
-      "subject":"CHE",
-      "catalog_number":"231",
-      "title":"Physical Chemistry 2",
-      "section":"LEC 001",
-      "weekdays":"M",
       "start_time":"08:30",
       "end_time":"10:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":65,
+      "enrollment_total":69,
       "instructors":[
-        "Pritzker,Mark D"
+        "Chan,Wan-Ju Ariel"
       ],
       "building":"DWE",
       "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:15-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:08-05:00"
     },
     {
-      "class_number":4468,
+      "class_number":5245,
       "subject":"CHE",
-      "catalog_number":"231",
-      "title":"Physical Chemistry 2",
+      "catalog_number":"200",
+      "title":"Equilibrium Stage Operations",
       "section":"LEC 001",
-      "weekdays":"W",
+      "weekdays":"Th",
       "start_time":"08:30",
       "end_time":"09:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":65,
+      "enrollment_total":69,
       "instructors":[
-        "Pritzker,Mark D"
+        "Chan,Wan-Ju Ariel"
       ],
       "building":"DWE",
       "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:15-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:08-05:00"
     },
     {
-      "class_number":4469,
+      "class_number":5246,
       "subject":"CHE",
-      "catalog_number":"231",
-      "title":"Physical Chemistry 2",
+      "catalog_number":"200",
+      "title":"Equilibrium Stage Operations",
       "section":"TUT 101",
-      "weekdays":"W",
+      "weekdays":"Th",
       "start_time":"09:30",
       "end_time":"10:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":65,
+      "enrollment_total":69,
       "instructors":[
-        "Pritzker,Mark D"
+        "Chan,Wan-Ju Ariel"
       ],
       "building":"DWE",
       "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:15-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:08-05:00"
     },
     {
-      "class_number":4790,
+      "class_number":4589,
       "subject":"CHE",
-      "catalog_number":"241",
-      "title":"Materials Science and Engineering",
+      "catalog_number":"220",
+      "title":"Process Data Analysis",
       "section":"LEC 001",
       "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"10:20",
+      "start_time":"12:30",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":67,
+      "enrollment_total":70,
       "instructors":[
-        "Li,Yuning"
+        "Madhuranthakam,Chandra Mouli R"
       ],
       "building":"DWE",
       "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:15-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:10-05:00"
     },
     {
-      "class_number":4944,
+      "class_number":4589,
       "subject":"CHE",
-      "catalog_number":"313",
-      "title":"Applications of Heat and Mass Transfer",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":87,
-      "instructors":[
-        "Pal,Rajinder"
-      ],
-      "building":"DWE",
-      "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
-    },
-    {
-      "class_number":4944,
-      "subject":"CHE",
-      "catalog_number":"313",
-      "title":"Applications of Heat and Mass Transfer",
+      "catalog_number":"220",
+      "title":"Process Data Analysis",
       "section":"LEC 001",
       "weekdays":"Th",
       "start_time":"10:30",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":87,
+      "enrollment_total":70,
       "instructors":[
-        "Pal,Rajinder"
+        "Madhuranthakam,Chandra Mouli R"
       ],
       "building":"DWE",
       "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:10-05:00"
     },
     {
-      "class_number":4945,
+      "class_number":4590,
       "subject":"CHE",
-      "catalog_number":"313",
-      "title":"Applications of Heat and Mass Transfer",
+      "catalog_number":"220",
+      "title":"Process Data Analysis",
       "section":"TUT 101",
       "weekdays":"Th",
       "start_time":"11:30",
       "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":87,
+      "enrollment_total":70,
       "instructors":[
-        "Pal,Rajinder"
+        "Madhuranthakam,Chandra Mouli R"
       ],
       "building":"DWE",
       "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:10-05:00"
     },
     {
-      "class_number":4698,
+      "class_number":4591,
       "subject":"CHE",
-      "catalog_number":"331",
-      "title":"Electrochemical Engineering",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":92,
-      "instructors":[
-        "Pritzker,Mark D"
-      ],
-      "building":"DWE",
-      "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
-    },
-    {
-      "class_number":4698,
-      "subject":"CHE",
-      "catalog_number":"331",
-      "title":"Electrochemical Engineering",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":92,
-      "instructors":[
-        "Pritzker,Mark D"
-      ],
-      "building":"DWE",
-      "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
-    },
-    {
-      "class_number":4699,
-      "subject":"CHE",
-      "catalog_number":"331",
-      "title":"Electrochemical Engineering",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":92,
-      "instructors":[
-        "Pritzker,Mark D"
-      ],
-      "building":"DWE",
-      "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
-    },
-    {
-      "class_number":4470,
-      "subject":"CHE",
-      "catalog_number":"420",
-      "title":"Introduction to Process Control",
+      "catalog_number":"230",
+      "title":"Physical Chemistry 1",
       "section":"LEC 001",
       "weekdays":"M",
       "start_time":"14:30",
       "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":70,
+      "enrollment_total":71,
       "instructors":[
-        "Madhuranthakam,Chandra Mouli R"
+        "Pal,Rajinder"
       ],
       "building":"DWE",
       "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:11-05:00"
     },
     {
-      "class_number":4470,
+      "class_number":4591,
       "subject":"CHE",
-      "catalog_number":"420",
-      "title":"Introduction to Process Control",
+      "catalog_number":"230",
+      "title":"Physical Chemistry 1",
       "section":"LEC 001",
-      "weekdays":"F",
+      "weekdays":"Th",
       "start_time":"14:30",
       "end_time":"15:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":70,
+      "enrollment_total":71,
       "instructors":[
-        "Madhuranthakam,Chandra Mouli R"
+        "Pal,Rajinder"
       ],
       "building":"DWE",
       "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:11-05:00"
     },
     {
-      "class_number":4471,
+      "class_number":4726,
       "subject":"CHE",
-      "catalog_number":"420",
-      "title":"Introduction to Process Control",
+      "catalog_number":"230",
+      "title":"Physical Chemistry 1",
       "section":"TUT 101",
-      "weekdays":"F",
+      "weekdays":"Th",
       "start_time":"15:30",
       "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":70,
+      "enrollment_total":71,
+      "instructors":[
+        "Pal,Rajinder"
+      ],
+      "building":"DWE",
+      "room":"2529",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:11-05:00"
+    },
+    {
+      "class_number":5022,
+      "subject":"CHE",
+      "catalog_number":"313",
+      "title":"Applications of Heat and Mass Transfer",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
       "instructors":[
         "Madhuranthakam,Chandra Mouli R"
       ],
       "building":"DWE",
       "room":"2529",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:15-05:00"
+    },
+    {
+      "class_number":5022,
+      "subject":"CHE",
+      "catalog_number":"313",
+      "title":"Applications of Heat and Mass Transfer",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Madhuranthakam,Chandra Mouli R"
+      ],
+      "building":"DWE",
+      "room":"2529",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:15-05:00"
+    },
+    {
+      "class_number":5023,
+      "subject":"CHE",
+      "catalog_number":"313",
+      "title":"Applications of Heat and Mass Transfer",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":53,
+      "instructors":[
+        "Madhuranthakam,Chandra Mouli R"
+      ],
+      "building":"DWE",
+      "room":"2529",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:15-05:00"
+    },
+    {
+      "class_number":4606,
+      "subject":"CHE",
+      "catalog_number":"514",
+      "title":"Fundamentals of Petroleum Production",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Leonenko,Iouri (Yuri)"
+      ],
+      "building":"DWE",
+      "room":"2529",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:21-05:00"
+    },
+    {
+      "class_number":4614,
+      "subject":"CHE",
+      "catalog_number":"574",
+      "title":"Industrial Wastewater Pollution Control",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Pritzker,Mark D"
+      ],
+      "building":"DWE",
+      "room":"2529",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:24-05:00"
+    },
+    {
+      "class_number":4614,
+      "subject":"CHE",
+      "catalog_number":"574",
+      "title":"Industrial Wastewater Pollution Control",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Pritzker,Mark D"
+      ],
+      "building":"DWE",
+      "room":"2529",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:24-05:00"
+    },
+    {
+      "class_number":5839,
+      "subject":"MATH",
+      "catalog_number":"217",
+      "title":"Calculus 3 for Chemical Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "Speziale,Sean"
+      ],
+      "building":"DWE",
+      "room":"2529",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:11-05:00"
+    },
+    {
+      "class_number":5839,
+      "subject":"MATH",
+      "catalog_number":"217",
+      "title":"Calculus 3 for Chemical Engineering",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "Speziale,Sean"
+      ],
+      "building":"DWE",
+      "room":"2529",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:11-05:00"
+    },
+    {
+      "class_number":5840,
+      "subject":"MATH",
+      "catalog_number":"217",
+      "title":"Calculus 3 for Chemical Engineering",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        "Speziale,Sean"
+      ],
+      "building":"DWE",
+      "room":"2529",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:11-05:00"
+    },
+    {
+      "class_number":5275,
+      "subject":"CHE",
+      "catalog_number":"614",
+      "title":"Capillary and Transport Phenomena in Porous Media",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Leonenko,Iouri (Yuri)"
+      ],
+      "building":"DWE",
+      "room":"2529",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:48-05:00"
+    },
+    {
+      "class_number":5277,
+      "subject":"CHE",
+      "catalog_number":"674",
+      "title":"Industrial Waste Treatment",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Pritzker,Mark D"
+      ],
+      "building":"DWE",
+      "room":"2529",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:49-05:00"
+    },
+    {
+      "class_number":5277,
+      "subject":"CHE",
+      "catalog_number":"674",
+      "title":"Industrial Waste Treatment",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
+      "instructors":[
+        "Pritzker,Mark D"
+      ],
+      "building":"DWE",
+      "room":"2529",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:49-05:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2709,
-    "timestamp":1415081632,
+    "requests":5567,
+    "timestamp":1420353893,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,324 +11,245 @@
   },
   "data":[
     {
-      "class_number":8150,
-      "subject":"BIOL",
-      "catalog_number":"455",
-      "title":"Ecological Risk Assessment and Management",
+      "class_number":5269,
+      "subject":"ECE",
+      "catalog_number":"433",
+      "title":"Semiconductor Device Technology",
       "section":"LEC 001",
       "weekdays":"MWF",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "McConkey,Brendan J"
-      ],
-      "building":"RCH",
-      "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:00-05:00"
-    },
-    {
-      "class_number":4486,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"TUT 107",
-      "weekdays":"W",
-      "start_time":"13:30",
+      "start_time":"14:30",
       "end_time":"15:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":31,
+      "enrollment_total":15,
       "instructors":[
-        "Scott,Alison Jean"
+        "Sivoththaman,Siva"
       ],
       "building":"RCH",
       "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:28-05:00"
     },
     {
-      "class_number":4511,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"TUT 127",
-      "weekdays":"Th",
-      "start_time":"14:30",
+      "class_number":4994,
+      "subject":"ECE",
+      "catalog_number":"474",
+      "title":"Radio and Wireless Systems",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"15:30",
       "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":35,
+      "enrollment_total":27,
       "instructors":[
-        "Scott,Alison Jean"
+        
       ],
       "building":"RCH",
       "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
     },
     {
-      "class_number":5014,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"TUT 138",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Scott,Alison Jean"
-      ],
-      "building":"RCH",
-      "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":6638,
-      "subject":"CHEM",
-      "catalog_number":"356",
-      "title":"Introductory Quantum Mechanics",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":38,
-      "instructors":[
-        "Nooijen,Marcel"
-      ],
-      "building":"RCH",
-      "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:23-05:00"
-    },
-    {
-      "class_number":7132,
-      "subject":"EARTH",
-      "catalog_number":"123L",
-      "title":"Field Methods in Hydrology",
-      "section":"LAB 004",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Conant Jr,Brewster"
-      ],
-      "building":"RCH",
-      "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:44-05:00"
-    },
-    {
-      "class_number":3200,
+      "class_number":3419,
       "subject":"ENGL",
-      "catalog_number":"306A",
-      "title":"Introduction to Linguistics",
+      "catalog_number":"190",
+      "title":"Shakespeare",
       "section":"LEC 001",
-      "weekdays":"TF",
+      "weekdays":"MW",
       "start_time":"13:00",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":23,
+      "enrollment_total":17,
       "instructors":[
-        "Afros,Elena"
+        "Graham,Kenneth"
       ],
       "building":"RCH",
       "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:09-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:44-05:00"
     },
     {
-      "class_number":4774,
-      "subject":"ENVE",
-      "catalog_number":"276",
-      "title":"Environmental Biology and Biotechnology",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":33,
-      "instructors":[
-        "Elbeshbishy,Elsayed"
-      ],
-      "building":"RCH",
-      "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:13-05:00"
-    },
-    {
-      "class_number":4775,
-      "subject":"ENVE",
-      "catalog_number":"276",
-      "title":"Environmental Biology and Biotechnology",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":33,
-      "instructors":[
-        "Elbeshbishy,Elsayed"
-      ],
-      "building":"RCH",
-      "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:13-05:00"
-    },
-    {
-      "class_number":4676,
-      "subject":"ENVE",
-      "catalog_number":"292",
-      "title":"Economics for Environmental Engineering",
-      "section":"LEC 001",
-      "weekdays":"MWF",
+      "class_number":8055,
+      "subject":"ENGL",
+      "catalog_number":"200B",
+      "title":"Survey of British Literature 2",
+      "section":"LEC 003",
+      "weekdays":"MTTh",
       "start_time":"10:30",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":33,
+      "enrollment_total":14,
       "instructors":[
-        "Saad,Dina"
+        "Love,Donald Craig"
       ],
       "building":"RCH",
       "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:13-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:45-05:00"
     },
     {
-      "class_number":4677,
+      "class_number":4562,
       "subject":"ENVE",
-      "catalog_number":"292",
-      "title":"Economics for Environmental Engineering",
-      "section":"TUT 101",
+      "catalog_number":"375",
+      "title":"Water Quality Engineering",
+      "section":"TUT 201",
       "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"09:20",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Huck,Peter M"
+      ],
+      "building":"RCH",
+      "room":"206",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:55-05:00"
+    },
+    {
+      "class_number":5588,
+      "subject":"ERS",
+      "catalog_number":"365",
+      "title":"Water Governance",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"09:00",
+      "end_time":"10:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":33,
       "instructors":[
-        "Saad,Dina"
+        "De Loe,Robert Christiaan"
       ],
       "building":"RCH",
       "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:13-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:00-05:00"
     },
     {
-      "class_number":5372,
-      "subject":"ERS",
-      "catalog_number":"484",
-      "title":"Soil in the Environment",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"11:30",
+      "class_number":7841,
+      "subject":"ESL",
+      "catalog_number":"102R",
+      "title":"Error Correction in Academic Writing",
+      "section":"LEC 009",
+      "weekdays":"TThF",
+      "start_time":"13:00",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":20,
+      "enrollment_total":10,
       "instructors":[
-        "Oelbermann,Maren"
+        "So,Margaret Ming Ching"
       ],
       "building":"RCH",
       "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:17-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
     },
     {
-      "class_number":8451,
-      "subject":"GEOG",
-      "catalog_number":"404",
-      "title":"Soil in the Environment",
+      "class_number":4077,
+      "subject":"PHIL",
+      "catalog_number":"371",
+      "title":"Special Topics",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":5,
+      "enrollment_total":26,
       "instructors":[
-        "Oelbermann,Maren"
+        "Thagard,Paul"
       ],
       "building":"RCH",
       "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:34-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:00-05:00"
     },
     {
-      "class_number":7078,
+      "class_number":6812,
       "subject":"PHYS",
-      "catalog_number":"380",
-      "title":"Molecular and Cellular Biophysics",
+      "catalog_number":"280",
+      "title":"Introduction to Biophysics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Drolle,Elizabeth",
+        "Lee,Brenda Yasie"
+      ],
+      "building":"RCH",
+      "room":"206",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:08-05:00"
+    },
+    {
+      "class_number":3586,
+      "subject":"SPCOM",
+      "catalog_number":"325",
+      "title":"Organizational Communication",
       "section":"LEC 001",
       "weekdays":"WF",
-      "start_time":"11:30",
-      "end_time":"12:50",
+      "start_time":"10:30",
+      "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":16,
+      "enrollment_total":24,
       "instructors":[
-        "Ha,Bae-Yeun"
+        "Paci,Timothy P"
       ],
       "building":"RCH",
       "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:55-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:13-05:00"
     },
     {
-      "class_number":3715,
-      "subject":"PSYCH",
-      "catalog_number":"340",
-      "title":"Training and Development",
-      "section":"DIS 101",
-      "weekdays":"W",
-      "start_time":"19:00",
+      "class_number":5305,
+      "subject":"BE",
+      "catalog_number":"600",
+      "title":"Management and Leadership",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"18:30",
       "end_time":"21:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":25,
+      "enrollment_total":26,
       "instructors":[
-        "Michela,John"
+        "Love,James"
       ],
       "building":"RCH",
       "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:09-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:44-05:00"
     },
     {
-      "class_number":7917,
-      "subject":"ERS",
-      "catalog_number":"684",
-      "title":"Soil in the Enviornment",
+      "class_number":4841,
+      "subject":"ECE",
+      "catalog_number":"730",
+      "title":"Special Topics in Solid State Devices",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":8,
+      "enrollment_total":12,
       "instructors":[
-        "Oelbermann,Maren"
+        "Sivoththaman,Siva"
       ],
       "building":"RCH",
       "room":"206",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:28-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:14-05:00"
     }
   ]
 }

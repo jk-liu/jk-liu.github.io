@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2647,
-    "timestamp":1415081614,
+    "requests":5507,
+    "timestamp":1420353868,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,274 +11,334 @@
   },
   "data":[
     {
-      "class_number":2975,
-      "subject":"HLTH",
-      "catalog_number":"407",
-      "title":"Coronary Artery Disease - Prevention and Rehabilitation",
+      "class_number":3136,
+      "subject":"KIN",
+      "catalog_number":"446",
+      "title":"Physiological and Biochemical Aspects of Nutrition and Health",
       "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"10:00",
-      "end_time":"11:20",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":24,
+      "enrollment_total":51,
       "instructors":[
-        "Russell,Caryl A"
+        "Stark,Ken"
       ],
       "building":"OPT",
       "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:46-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:02-05:00"
     },
     {
-      "class_number":2976,
-      "subject":"KIN",
-      "catalog_number":"407",
-      "title":"Coronary Artery Disease - Prevention and Rehabilitation",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":108,
-      "instructors":[
-        "Russell,Caryl A"
-      ],
-      "building":"OPT",
-      "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:03-05:00"
-    },
-    {
-      "class_number":3017,
-      "subject":"KIN",
-      "catalog_number":"470",
-      "title":"Seminar in Kinesiology",
-      "section":"SEM 003",
-      "weekdays":"M",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        "Callaghan,Jack P"
-      ],
-      "building":"OPT",
-      "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:05-05:00"
-    },
-    {
-      "class_number":3022,
-      "subject":"KIN",
-      "catalog_number":"470E",
-      "title":"Seminar in Integrative Ergonomics",
-      "section":"SEM 001",
-      "weekdays":"M",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        "Callaghan,Jack P"
-      ],
-      "building":"OPT",
-      "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:05-05:00"
-    },
-    {
-      "class_number":6978,
+      "class_number":6820,
       "subject":"OPTOM",
-      "catalog_number":"108",
-      "title":"Histology of Tissues and Organs",
+      "catalog_number":"103",
+      "title":"Pathophysiology",
       "section":"LEC 001",
       "weekdays":"T",
       "start_time":"11:30",
       "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":65,
+      "enrollment_total":90,
       "instructors":[
-        "Hileeto,Denise"
+        "Varikooty,Jalaiah Prasad"
       ],
       "building":"OPT",
       "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:34-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:38-05:00"
     },
     {
-      "class_number":6975,
+      "class_number":6820,
       "subject":"OPTOM",
-      "catalog_number":"124",
-      "title":"Human Gross Anatomy",
+      "catalog_number":"103",
+      "title":"Pathophysiology",
       "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":85,
-      "instructors":[
-        "Barnes,James Derek"
-      ],
-      "building":"OPT",
-      "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
-    },
-    {
-      "class_number":6996,
-      "subject":"OPTOM",
-      "catalog_number":"215",
-      "title":"Systemic Disease",
-      "section":"LEC 001",
-      "weekdays":"M",
+      "weekdays":"Th",
       "start_time":"08:30",
       "end_time":"10:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":90,
       "instructors":[
-        "Hileeto,Denise"
+        "Varikooty,Jalaiah Prasad"
       ],
       "building":"OPT",
       "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:38-05:00"
     },
     {
-      "class_number":6996,
+      "class_number":6848,
       "subject":"OPTOM",
-      "catalog_number":"215",
-      "title":"Systemic Disease",
+      "catalog_number":"134",
+      "title":"Immunology",
       "section":"LEC 001",
       "weekdays":"T",
-      "start_time":"15:30",
-      "end_time":"17:20",
+      "start_time":"09:30",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":90,
+      "enrollment_total":73,
       "instructors":[
         "Hileeto,Denise"
       ],
       "building":"OPT",
       "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:39-05:00"
     },
     {
-      "class_number":6733,
+      "class_number":6848,
       "subject":"OPTOM",
-      "catalog_number":"216",
-      "title":"Ophthalmic Optics 1",
+      "catalog_number":"134",
+      "title":"Immunology",
       "section":"LEC 001",
-      "weekdays":"MT",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":73,
+      "instructors":{
+        "0":"McCanna,David Joseph",
+        "2":"Hileeto,Denise"
+      },
+      "building":"OPT",
+      "room":"1129",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:39-05:00"
+    },
+    {
+      "class_number":6646,
+      "subject":"OPTOM",
+      "catalog_number":"152",
+      "title":"Clinical Techniques 1",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":90,
+      "instructors":[
+        "Simpson,Trefford"
+      ],
+      "building":"OPT",
+      "room":"1129",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:40-05:00"
+    },
+    {
+      "class_number":6853,
+      "subject":"OPTOM",
+      "catalog_number":"219",
+      "title":"Visual Perception 2: Monocular and Binocular Visual Processes",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":93,
+      "instructors":[
+        "Thompson,Benjamin"
+      ],
+      "building":"OPT",
+      "room":"1129",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:40-05:00"
+    },
+    {
+      "class_number":6853,
+      "subject":"OPTOM",
+      "catalog_number":"219",
+      "title":"Visual Perception 2: Monocular and Binocular Visual Processes",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":93,
+      "instructors":[
+        "Lakshminarayanan,Vasudevan",
+        "Thompson,Benjamin"
+      ],
+      "building":"OPT",
+      "room":"1129",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:40-05:00"
+    },
+    {
+      "class_number":6647,
+      "subject":"OPTOM",
+      "catalog_number":"246",
+      "title":"Ophthalmic Optics 2",
+      "section":"LEC 001",
+      "weekdays":"W",
       "start_time":"13:30",
       "end_time":"15:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":90,
+      "enrollment_total":91,
+      "instructors":[
+        "Hutchings,Natalie"
+      ],
+      "building":"OPT",
+      "room":"1129",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:40-05:00"
+    },
+    {
+      "class_number":6647,
+      "subject":"OPTOM",
+      "catalog_number":"246",
+      "title":"Ophthalmic Optics 2",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":91,
       "instructors":[
         "Smith,Marilyn Anne",
         "Hutchings,Natalie"
       ],
       "building":"OPT",
       "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:40-05:00"
     },
     {
-      "class_number":6736,
+      "class_number":6856,
       "subject":"OPTOM",
-      "catalog_number":"231",
-      "title":"Introductory Clinical Pharmacology",
+      "catalog_number":"250",
+      "title":"Optometric Jurisprudence",
       "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"09:30",
-      "end_time":"10:20",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":89,
+      "enrollment_total":93,
       "instructors":[
-        "Hanna,Brad"
+        "Turnour,Murray John"
       ],
       "building":"OPT",
       "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:40-05:00"
     },
     {
-      "class_number":6736,
+      "class_number":6857,
       "subject":"OPTOM",
-      "catalog_number":"231",
-      "title":"Introductory Clinical Pharmacology",
+      "catalog_number":"255",
+      "title":"Diseases of the Eye 2",
       "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"13:30",
+      "weekdays":"M",
+      "start_time":"15:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":92,
+      "instructors":[
+        "Hudson,Christopher"
+      ],
+      "building":"OPT",
+      "room":"1129",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:41-05:00"
+    },
+    {
+      "class_number":6857,
+      "subject":"OPTOM",
+      "catalog_number":"255",
+      "title":"Diseases of the Eye 2",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":92,
+      "instructors":[
+        "Hudson,Christopher"
+      ],
+      "building":"OPT",
+      "room":"1129",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:41-05:00"
+    },
+    {
+      "class_number":6860,
+      "subject":"OPTOM",
+      "catalog_number":"255L",
+      "title":"Diseases of the Eye 2 Laboratory",
+      "section":"TUT 101",
+      "weekdays":"M",
+      "start_time":"14:30",
       "end_time":"15:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":89,
+      "enrollment_total":92,
       "instructors":[
-        "Hanna,Brad"
+        "Labreche,Tammy"
       ],
       "building":"OPT",
       "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:41-05:00"
     },
     {
-      "class_number":6927,
+      "class_number":6650,
       "subject":"OPTOM",
-      "catalog_number":"243",
-      "title":"Neurophysiology of Vision",
+      "catalog_number":"261",
+      "title":"Clinical Ocular Pharmacology",
       "section":"LEC 001",
-      "weekdays":"Th",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":92,
+      "instructors":[
+        "Prokopich,C. Lisa"
+      ],
+      "building":"OPT",
+      "room":"1129",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:41-05:00"
+    },
+    {
+      "class_number":6650,
+      "subject":"OPTOM",
+      "catalog_number":"261",
+      "title":"Clinical Ocular Pharmacology",
+      "section":"LEC 001",
+      "weekdays":"M",
       "start_time":"08:30",
       "end_time":"10:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":90,
+      "enrollment_total":92,
       "instructors":[
-        "Simpson,Trefford",
-        "Choh,Vivian",
-        "Thompson,Benjamin"
+        "Prokopich,C. Lisa"
       ],
       "building":"OPT",
       "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:41-05:00"
     },
     {
-      "class_number":6997,
+      "class_number":6704,
       "subject":"OPTOM",
-      "catalog_number":"245",
-      "title":"Diseases of the Eye 1",
+      "catalog_number":"262",
+      "title":"Clinical Techniques 3",
       "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":91,
-      "instructors":[
-        "Dalton,Kristine Nicole"
-      ],
-      "building":"OPT",
-      "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
-    },
-    {
-      "class_number":7000,
-      "subject":"OPTOM",
-      "catalog_number":"245L",
-      "title":"Diseases of the Eye 1 Laboratory",
-      "section":"TUT 101",
       "weekdays":"Th",
       "start_time":"15:30",
       "end_time":"16:20",
@@ -286,95 +346,115 @@
       "end_date":null,
       "enrollment_total":92,
       "instructors":[
-        "Steenbakkers,Michelle Jennifer"
+        "Hrynchak,Patricia K"
       ],
       "building":"OPT",
       "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:41-05:00"
     },
     {
-      "class_number":6737,
+      "class_number":6651,
       "subject":"OPTOM",
-      "catalog_number":"252",
-      "title":"Clinical Techniques 2",
+      "catalog_number":"270",
+      "title":"Public Health Optometry",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"15:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":91,
-      "instructors":[
-        "Bobier,William R"
-      ],
-      "building":"OPT",
-      "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
-    },
-    {
-      "class_number":6737,
-      "subject":"OPTOM",
-      "catalog_number":"252",
-      "title":"Clinical Techniques 2",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":91,
-      "instructors":[
-        "Bobier,William R"
-      ],
-      "building":"OPT",
-      "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
-    },
-    {
-      "class_number":6974,
-      "subject":"OPTOM",
-      "catalog_number":"252L",
-      "title":"Clinical Techniques 2 Laboratory",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"09:20",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":92,
       "instructors":[
-        "Hadley,Ken Douglas"
+        "Robinson,Barbara E"
       ],
       "building":"OPT",
       "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:41-05:00"
     },
     {
-      "class_number":6928,
+      "class_number":6651,
       "subject":"OPTOM",
-      "catalog_number":"375",
-      "title":"Diseases of the Eye 3",
+      "catalog_number":"270",
+      "title":"Public Health Optometry",
       "section":"LEC 001",
       "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"14:20",
+      "start_time":"15:30",
+      "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":86,
+      "enrollment_total":92,
       "instructors":[
-        "Prokopich,C. Lisa"
+        "Robinson,Barbara E"
       ],
       "building":"OPT",
       "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:36-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:41-05:00"
     },
     {
-      "class_number":6756,
+      "class_number":6652,
+      "subject":"OPTOM",
+      "catalog_number":"272",
+      "title":"Strabismus and Aniseikonia",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":92,
+      "instructors":[
+        "Bobier,William R"
+      ],
+      "building":"OPT",
+      "room":"1129",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:42-05:00"
+    },
+    {
+      "class_number":6652,
+      "subject":"OPTOM",
+      "catalog_number":"272",
+      "title":"Strabismus and Aniseikonia",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":92,
+      "instructors":[
+        "Bobier,William R"
+      ],
+      "building":"OPT",
+      "room":"1129",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:42-05:00"
+    },
+    {
+      "class_number":6920,
+      "subject":"OPTOM",
+      "catalog_number":"339",
+      "title":"Visual Perception 3:Colour Vision",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":90,
+      "instructors":[
+        "Hovis,Jeffery K"
+      ],
+      "building":"OPT",
+      "room":"1129",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:42-05:00"
+    },
+    {
+      "class_number":6663,
       "subject":"OPTOM",
       "catalog_number":"460",
       "title":"Advanced Study Topics",
@@ -390,28 +470,48 @@
       ],
       "building":"OPT",
       "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:37-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:43-05:00"
     },
     {
-      "class_number":2885,
-      "subject":"REC",
-      "catalog_number":"270",
-      "title":"Research Design Applicable to Leisure Studies",
+      "class_number":6664,
+      "subject":"OPTOM",
+      "catalog_number":"460",
+      "title":"Advanced Study Topics",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"OPT",
+      "room":"1129",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:43-05:00"
+    },
+    {
+      "class_number":3152,
+      "subject":"KIN",
+      "catalog_number":"646",
+      "title":"Physiological and Biochemical Aspects of Nutrition and Health",
       "section":"LEC 001",
       "weekdays":"MWF",
       "start_time":"12:30",
       "end_time":"13:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":132,
+      "enrollment_total":0,
       "instructors":[
-        "Mair,Heather Lynn"
+        "Stark,Ken"
       ],
       "building":"OPT",
       "room":"1129",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:14-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:40-05:00"
     }
   ]
 }

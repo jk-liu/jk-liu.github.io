@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2675,
-    "timestamp":1415081622,
+    "requests":5535,
+    "timestamp":1420353879,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,124 +11,84 @@
   },
   "data":[
     {
-      "class_number":7991,
+      "class_number":6802,
       "subject":"PHARM",
-      "catalog_number":"232",
-      "title":"Medical Microbiology",
-      "section":"LAB 001",
-      "weekdays":"T",
+      "catalog_number":"124",
+      "title":"Pharmaceutics 1",
+      "section":"LAB 101",
+      "weekdays":"M",
       "start_time":"09:00",
-      "end_time":"09:50",
+      "end_time":"11:50",
       "start_date":null,
       "end_date":null,
       "enrollment_total":40,
       "instructors":[
-        "Wasfi,Olla"
+        "Simon,Josephine"
       ],
       "building":"PHR",
       "room":"2019",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:44-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:51-05:00"
     },
     {
-      "class_number":8297,
+      "class_number":6809,
       "subject":"PHARM",
-      "catalog_number":"232",
-      "title":"Medical Microbiology",
-      "section":"LAB 002",
-      "weekdays":"T",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":40,
-      "instructors":[
-        "Wasfi,Olla"
-      ],
-      "building":"PHR",
-      "room":"2019",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:44-05:00"
-    },
-    {
-      "class_number":8298,
-      "subject":"PHARM",
-      "catalog_number":"232",
-      "title":"Medical Microbiology",
-      "section":"LAB 003",
-      "weekdays":"T",
-      "start_time":"12:00",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Wasfi,Olla"
-      ],
-      "building":"PHR",
-      "room":"2019",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:44-05:00"
-    },
-    {
-      "class_number":7017,
-      "subject":"PHARM",
-      "catalog_number":"233L",
-      "title":"Medical Microbiology Laboratory 2",
-      "section":"LAB 001",
-      "weekdays":"W",
-      "start_time":"09:00",
-      "end_time":"10:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":37,
-      "instructors":[
-        "Wasfi,Olla"
-      ],
-      "building":"PHR",
-      "room":"2019",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:44-05:00"
-    },
-    {
-      "class_number":7018,
-      "subject":"PHARM",
-      "catalog_number":"233L",
-      "title":"Medical Microbiology Laboratory 2",
-      "section":"LAB 002",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Wasfi,Olla"
-      ],
-      "building":"PHR",
-      "room":"2019",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:44-05:00"
-    },
-    {
-      "class_number":7019,
-      "subject":"PHARM",
-      "catalog_number":"233L",
-      "title":"Medical Microbiology Laboratory 2",
-      "section":"LAB 003",
-      "weekdays":"W",
-      "start_time":"14:00",
+      "catalog_number":"124",
+      "title":"Pharmaceutics 1",
+      "section":"LAB 102",
+      "weekdays":"M",
+      "start_time":"13:00",
       "end_time":"15:50",
       "start_date":null,
       "end_date":null,
       "enrollment_total":40,
       "instructors":[
-        "Wasfi,Olla"
+        "Simon,Josephine"
       ],
       "building":"PHR",
       "room":"2019",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:44-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:51-05:00"
+    },
+    {
+      "class_number":6810,
+      "subject":"PHARM",
+      "catalog_number":"124",
+      "title":"Pharmaceutics 1",
+      "section":"LAB 103",
+      "weekdays":"T",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Simon,Josephine"
+      ],
+      "building":"PHR",
+      "room":"2019",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:51-05:00"
+    },
+    {
+      "class_number":8305,
+      "subject":"PHARM",
+      "catalog_number":"361",
+      "title":"Advanced Compounding",
+      "section":"LAB 001",
+      "weekdays":"Th",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Simon,Josephine"
+      ],
+      "building":"PHR",
+      "room":"2019",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:52-05:00"
     }
   ]
 }

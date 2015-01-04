@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2686,
-    "timestamp":1415081625,
+    "requests":5545,
+    "timestamp":1420353884,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,284 +11,304 @@
   },
   "data":[
     {
-      "class_number":5707,
-      "subject":"CS",
-      "catalog_number":"240",
-      "title":"Data Structures and Data Management",
+      "class_number":6588,
+      "subject":"BIOL",
+      "catalog_number":"457",
+      "title":"Analysis of Communities",
       "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"10:00",
+      "weekdays":"MW",
+      "start_time":"10:30",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":73,
+      "enrollment_total":76,
       "instructors":[
-        "Storjohann,Arne"
+        "Cuddington,Kim"
       ],
       "building":"PHY",
       "room":"313",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:36-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:47-05:00"
     },
     {
-      "class_number":6202,
+      "class_number":6776,
+      "subject":"CHEM",
+      "catalog_number":"350",
+      "title":"Chemical Kinetics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Nooijen,Marcel"
+      ],
+      "building":"PHY",
+      "room":"313",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:31-05:00"
+    },
+    {
+      "class_number":5960,
       "subject":"CS",
       "catalog_number":"241",
       "title":"Foundations of Sequential Programs",
-      "section":"LEC 003",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":80,
-      "instructors":[
-        "Vasiga,Troy Michael John"
-      ],
-      "building":"PHY",
-      "room":"313",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:36-05:00"
-    },
-    {
-      "class_number":6323,
-      "subject":"CS",
-      "catalog_number":"341",
-      "title":"Algorithms",
-      "section":"LEC 003",
+      "section":"LEC 002",
       "weekdays":"TTh",
       "start_time":"14:30",
       "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":80,
+      "enrollment_total":71,
       "instructors":[
-        "Shallit,Jeffrey O"
+        "Lushman,Bradley Michael"
       ],
       "building":"PHY",
       "room":"313",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:38-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:53-05:00"
     },
     {
-      "class_number":7588,
+      "class_number":5788,
       "subject":"CS",
-      "catalog_number":"348",
-      "title":"Introduction to Database Management",
-      "section":"LEC 004",
-      "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":81,
-      "instructors":[
-        "Ataullah,Ahmed Ayaz"
-      ],
-      "building":"PHY",
-      "room":"313",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:38-05:00"
-    },
-    {
-      "class_number":6626,
-      "subject":"EARTH",
-      "catalog_number":"359",
-      "title":"Flow Through Porous Media",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":79,
-      "instructors":[
-        "Jones,Jon Paul"
-      ],
-      "building":"PHY",
-      "room":"313",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:44-05:00"
-    },
-    {
-      "class_number":7073,
-      "subject":"MNS",
-      "catalog_number":"101",
-      "title":"Materials and Nanosciences in the Modern World",
+      "catalog_number":"486",
+      "title":"Introduction to Artificial Intelligence",
       "section":"LEC 001",
-      "weekdays":"TThF",
+      "weekdays":"TTh",
       "start_time":"11:30",
-      "end_time":"12:20",
+      "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":52,
+      "enrollment_total":64,
       "instructors":[
-        "Kycia,Jan"
+        "Larson,Kate"
       ],
       "building":"PHY",
       "room":"313",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:19-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:03-05:00"
     },
     {
-      "class_number":3776,
+      "class_number":7741,
+      "subject":"CS",
+      "catalog_number":"486",
+      "title":"Introduction to Artificial Intelligence",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":63,
+      "instructors":[
+        "Doucette,John Anthony Erskine"
+      ],
+      "building":"PHY",
+      "room":"313",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:03-05:00"
+    },
+    {
+      "class_number":3290,
       "subject":"PHIL",
       "catalog_number":"110A",
       "title":"Introduction to Philosophy: Knowledge and Reality",
       "section":"LEC 002",
       "weekdays":"MW",
-      "start_time":"11:30",
-      "end_time":"12:50",
+      "start_time":"14:30",
+      "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":32,
+      "enrollment_total":29,
       "instructors":[
-        "Fehr,Carla"
+        "Van Bruwaene,David Andrew"
       ],
       "building":"PHY",
       "room":"313",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:46-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:56-05:00"
     },
     {
-      "class_number":6671,
+      "class_number":6666,
       "subject":"PHYS",
-      "catalog_number":"111",
-      "title":"Physics 1",
-      "section":"TUT 109",
+      "catalog_number":"112",
+      "title":"Physics 2",
+      "section":"TUT 106",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":72,
+      "instructors":[
+        "Taylor,James"
+      ],
+      "building":"PHY",
+      "room":"313",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:03-05:00"
+    },
+    {
+      "class_number":7124,
+      "subject":"PHYS",
+      "catalog_number":"124",
+      "title":"Modern Physics",
+      "section":"TUT 103",
       "weekdays":"Th",
-      "start_time":"16:30",
-      "end_time":"17:20",
+      "start_time":"13:30",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":63,
       "instructors":[
-        
+        "Epp,Richard J"
       ],
       "building":"PHY",
       "room":"313",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:52-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:04-05:00"
     },
     {
-      "class_number":7156,
+      "class_number":6970,
       "subject":"PHYS",
-      "catalog_number":"225",
-      "title":"Modeling Life Physics",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Ha,Bae-Yeun"
-      ],
-      "building":"PHY",
-      "room":"313",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:54-05:00"
-    },
-    {
-      "class_number":6719,
-      "subject":"PHYS",
-      "catalog_number":"363",
-      "title":"Intermediate Classical Mechanics",
-      "section":"LEC 001",
+      "catalog_number":"234",
+      "title":"Quantum Physics 1",
+      "section":"TUT 102",
       "weekdays":"W",
-      "start_time":"15:30",
-      "end_time":"17:20",
+      "start_time":"11:30",
+      "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":41,
+      "enrollment_total":29,
       "instructors":[
-        "Chen,Zheng-Yu"
+        "Lutkenhaus,Norbert N"
       ],
       "building":"PHY",
       "room":"313",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:55-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:06-05:00"
     },
     {
-      "class_number":6723,
+      "class_number":6972,
       "subject":"PHYS",
-      "catalog_number":"441A",
-      "title":"Electromagnetic Theory",
+      "catalog_number":"239",
+      "title":"Computational Physics 2",
       "section":"LEC 001",
       "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
+      "start_time":"10:00",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":21,
+      "enrollment_total":8,
       "instructors":[
-        "O'Donovan,Chris"
+        "Yevick,David O."
       ],
       "building":"PHY",
       "room":"313",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:06-05:00"
     },
     {
-      "class_number":7690,
+      "class_number":6973,
       "subject":"PHYS",
-      "catalog_number":"442",
-      "title":"Electricity and Magnetism 3",
+      "catalog_number":"242",
+      "title":"Electricity and Magnetism 1",
       "section":"LEC 001",
-      "weekdays":"TF",
-      "start_time":"16:00",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Mariantoni,Matteo"
+      ],
+      "building":"PHY",
+      "room":"313",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
+    },
+    {
+      "class_number":8196,
+      "subject":"PHYS",
+      "catalog_number":"242",
+      "title":"Electricity and Magnetism 1",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Mariantoni,Matteo"
+      ],
+      "building":"PHY",
+      "room":"313",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
+    },
+    {
+      "class_number":6515,
+      "subject":"PHYS",
+      "catalog_number":"359",
+      "title":"Statistical Mechanics",
+      "section":"LEC 001",
+      "weekdays":"TWF",
+      "start_time":"16:30",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":34,
+      "enrollment_total":56,
       "instructors":[
-        "O'Donovan,Chris"
+        "Lu,Qing-Bin"
       ],
       "building":"PHY",
       "room":"313",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:09-05:00"
     },
     {
-      "class_number":6343,
-      "subject":"PMATH",
-      "catalog_number":"465",
-      "title":"Differential Geometry",
+      "class_number":5711,
+      "subject":"CS",
+      "catalog_number":"686",
+      "title":"Introduction to Artificial Intelligence",
       "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":13,
+      "enrollment_total":6,
       "instructors":[
-        "Charbonneau,Benoit"
+        "Larson,Kate"
       ],
       "building":"PHY",
       "room":"313",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:01-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:05-05:00"
     },
     {
-      "class_number":6354,
-      "subject":"PMATH",
-      "catalog_number":"665",
-      "title":"Differential Geometry",
-      "section":"LEC 001",
-      "weekdays":"MWF",
+      "class_number":7742,
+      "subject":"CS",
+      "catalog_number":"686",
+      "title":"Introduction to Artificial Intelligence",
+      "section":"LEC 002",
+      "weekdays":"TTh",
       "start_time":"08:30",
-      "end_time":"09:20",
+      "end_time":"09:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":7,
+      "enrollment_total":1,
       "instructors":[
-        "Charbonneau,Benoit"
+        "Doucette,John Anthony Erskine"
       ],
       "building":"PHY",
       "room":"313",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:01-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:05-05:00"
     }
   ]
 }

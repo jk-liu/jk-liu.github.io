@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2424,
-    "timestamp":1415081545,
+    "requests":5303,
+    "timestamp":1420353795,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,7 +11,7 @@
   },
   "data":[
     {
-      "class_number":6979,
+      "class_number":6819,
       "subject":"BIOL",
       "catalog_number":"690",
       "title":"Scientific Communication",
@@ -21,14 +21,14 @@
       "end_time":"20:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":14,
+      "enrollment_total":0,
       "instructors":[
         "Moffatt,Barbara A"
       ],
       "building":"B1",
       "room":"266",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:04-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:47-05:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2475,
-    "timestamp":1415081560,
+    "requests":5352,
+    "timestamp":1420353812,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,84 +11,84 @@
   },
   "data":[
     {
-      "class_number":4350,
+      "class_number":4136,
       "subject":"GBDA",
-      "catalog_number":"101",
-      "title":"Digital Media Design and Production",
-      "section":"LEC 001",
-      "weekdays":"F",
+      "catalog_number":"228",
+      "title":"Digital Imaging",
+      "section":"STU 001",
+      "weekdays":"T",
       "start_time":"09:00",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Tingley,Jane"
-      ],
-      "building":"DMS",
-      "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:27-05:00"
-    },
-    {
-      "class_number":4351,
-      "subject":"GBDA",
-      "catalog_number":"101",
-      "title":"Digital Media Design and Production",
-      "section":"LEC 002",
-      "weekdays":"F",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":43,
-      "instructors":[
-        "Tingley,Jane"
-      ],
-      "building":"DMS",
-      "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:27-05:00"
-    },
-    {
-      "class_number":4352,
-      "subject":"GBDA",
-      "catalog_number":"101",
-      "title":"Digital Media Design and Production",
-      "section":"LAB 101",
-      "weekdays":"F",
-      "start_time":"10:30",
       "end_time":"11:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":50,
+      "enrollment_total":37,
       "instructors":[
-        "Tingley,Jane"
+        
       ],
       "building":"DMS",
       "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:27-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:15-05:00"
     },
     {
-      "class_number":4353,
+      "class_number":4137,
       "subject":"GBDA",
-      "catalog_number":"101",
-      "title":"Digital Media Design and Production",
-      "section":"LAB 102",
-      "weekdays":"F",
-      "start_time":"14:30",
+      "catalog_number":"228",
+      "title":"Digital Imaging",
+      "section":"STU 002",
+      "weekdays":"T",
+      "start_time":"13:00",
       "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":43,
+      "enrollment_total":45,
       "instructors":[
-        "Tingley,Jane"
+        "Cullen,Brian"
       ],
       "building":"DMS",
       "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:27-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:15-05:00"
+    },
+    {
+      "class_number":8028,
+      "subject":"GBDA",
+      "catalog_number":"306",
+      "title":"Comparative Ethics in a Globalized World",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"09:00",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Doherty,Paul"
+      ],
+      "building":"DMS",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:15-05:00"
+    },
+    {
+      "class_number":8030,
+      "subject":"GBDA",
+      "catalog_number":"306",
+      "title":"Comparative Ethics in a Globalized World",
+      "section":"LAB 101",
+      "weekdays":"Th",
+      "start_time":"11:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Doherty,Paul"
+      ],
+      "building":"DMS",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:15-05:00"
     }
   ]
 }

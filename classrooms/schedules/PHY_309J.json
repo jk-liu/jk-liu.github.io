@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2685,
-    "timestamp":1415081625,
+    "requests":5544,
+    "timestamp":1420353883,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,7 +11,7 @@
   },
   "data":[
     {
-      "class_number":6930,
+      "class_number":6516,
       "subject":"PHYS",
       "catalog_number":"360A",
       "title":"Modern Physics Laboratory 1",
@@ -21,17 +21,17 @@
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":19,
+      "enrollment_total":5,
       "instructors":[
-        "Martin,James D D"
+        "Gardiner,Jeff"
       ],
       "building":"PHY",
       "room":"309J",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:55-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:09-05:00"
     },
     {
-      "class_number":6931,
+      "class_number":6517,
       "subject":"PHYS",
       "catalog_number":"360B",
       "title":"Modern Physics Laboratory 2",
@@ -41,17 +41,17 @@
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":4,
+      "enrollment_total":8,
       "instructors":[
-        "Martin,James D D"
+        "Gardiner,Jeff"
       ],
       "building":"PHY",
       "room":"309J",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:55-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:09-05:00"
     },
     {
-      "class_number":6932,
+      "class_number":6665,
       "subject":"PHYS",
       "catalog_number":"460A",
       "title":"Advanced Laboratory 1",
@@ -61,17 +61,17 @@
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":9,
+      "enrollment_total":6,
       "instructors":[
-        "Martin,James D D"
+        "Gardiner,Jeff"
       ],
       "building":"PHY",
       "room":"309J",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:12-05:00"
     },
     {
-      "class_number":6933,
+      "class_number":6518,
       "subject":"PHYS",
       "catalog_number":"460B",
       "title":"Advanced Laboratory 2",
@@ -81,14 +81,14 @@
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":0,
+      "enrollment_total":5,
       "instructors":[
-        "Martin,James D D"
+        "Gardiner,Jeff"
       ],
       "building":"PHY",
       "room":"309J",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:12-05:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2419,
-    "timestamp":1415081543,
+    "requests":5299,
+    "timestamp":1420353794,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,124 +11,164 @@
   },
   "data":[
     {
-      "class_number":8409,
+      "class_number":7673,
       "subject":"ARCH",
       "catalog_number":"385",
       "title":"Architectural Research",
-      "section":"RDG 005",
+      "section":"RDG 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "van Pelt,Robert J"
+      ],
+      "building":"ARC",
+      "room":"2026",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:35-05:00"
+    },
+    {
+      "class_number":7674,
+      "subject":"ARCH",
+      "catalog_number":"385",
+      "title":"Architectural Research",
+      "section":"RDG 002",
       "weekdays":"W",
       "start_time":"13:30",
       "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Przybylski,Maya M"
-      ],
-      "building":"ARC",
-      "room":"2026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:44-05:00"
-    },
-    {
-      "class_number":7238,
-      "subject":"ITAL",
-      "catalog_number":"155",
-      "title":"Intensive Introductory Italian Language",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"18:30",
-      "end_time":"19:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Bottoni,Patrizia"
-      ],
-      "building":"ARC",
-      "room":"2026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:56-05:00"
-    },
-    {
-      "class_number":8410,
-      "subject":"ARCH",
-      "catalog_number":"610",
-      "title":"Architectural Analysis",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
+      "enrollment_total":6,
       "instructors":[
         "El Khafif,Mona"
       ],
       "building":"ARC",
       "room":"2026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:01-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:35-05:00"
     },
     {
-      "class_number":8411,
+      "class_number":7675,
       "subject":"ARCH",
-      "catalog_number":"673",
-      "title":"The Science of the Building Envelope",
+      "catalog_number":"385",
+      "title":"Architectural Research",
+      "section":"RDG 003",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Rynnimeri,Valerio"
+      ],
+      "building":"ARC",
+      "room":"2026",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:35-05:00"
+    },
+    {
+      "class_number":5213,
+      "subject":"ARCH",
+      "catalog_number":"623",
+      "title":"Ecosystem Design for Urban Landscapes",
       "section":"LEC 001",
       "weekdays":"F",
       "start_time":"13:30",
       "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":21,
+      "enrollment_total":4,
       "instructors":[
-        "Straube,John F"
+        "Rynnimeri,Valerio"
       ],
       "building":"ARC",
       "room":"2026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:01-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:43-05:00"
     },
     {
-      "class_number":8419,
+      "class_number":5214,
+      "subject":"ARCH",
+      "catalog_number":"641",
+      "title":"The Inner Studio",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"17:20",
+      "start_date":"03\/05",
+      "end_date":"04\/02",
+      "enrollment_total":12,
+      "instructors":[
+        "Levitt,Andrew"
+      ],
+      "building":"ARC",
+      "room":"2026",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:43-05:00"
+    },
+    {
+      "class_number":8229,
       "subject":"ARCH",
       "catalog_number":"684",
       "title":"Special Topics in Architecture",
-      "section":"LEC 005",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "van Pelt,Robert J"
+      ],
+      "building":"ARC",
+      "room":"2026",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:44-05:00"
+    },
+    {
+      "class_number":8230,
+      "subject":"ARCH",
+      "catalog_number":"684",
+      "title":"Special Topics in Architecture",
+      "section":"LEC 002",
       "weekdays":"W",
       "start_time":"13:30",
       "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":9,
+      "enrollment_total":7,
       "instructors":[
-        "Przybylski,Maya M"
+        "El Khafif,Mona"
       ],
       "building":"ARC",
       "room":"2026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:01-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:44-05:00"
     },
     {
-      "class_number":8420,
+      "class_number":8231,
       "subject":"ARCH",
       "catalog_number":"684",
       "title":"Special Topics in Architecture",
-      "section":"LEC 006",
-      "weekdays":"F",
+      "section":"LEC 003",
+      "weekdays":"W",
       "start_time":"09:30",
       "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":9,
+      "enrollment_total":10,
       "instructors":[
-        "Sliwka,Ryszard"
+        "Revington,Dereck"
       ],
       "building":"ARC",
       "room":"2026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:01-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:44-05:00"
     }
   ]
 }

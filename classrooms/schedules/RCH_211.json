@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2713,
-    "timestamp":1415081633,
+    "requests":5571,
+    "timestamp":1420353894,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,1347 +11,227 @@
   },
   "data":[
     {
-      "class_number":8187,
-      "subject":"ECE",
-      "catalog_number":"200B",
-      "title":"Electrical and Computer Engineering Practice",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
+      "class_number":6587,
+      "subject":"BIOL",
+      "catalog_number":"351",
+      "title":"Aquatic Ecology",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"08:30",
+      "end_time":"09:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":86,
+      "enrollment_total":107,
       "instructors":[
-        "Leung,Bosco"
+        "Harrison,Joel"
       ],
       "building":"RCH",
       "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:50-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
     },
     {
-      "class_number":8188,
-      "subject":"ECE",
-      "catalog_number":"200B",
-      "title":"Electrical and Computer Engineering Practice",
-      "section":"SEM 002",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":88,
-      "instructors":[
-        "Leung,Bosco"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:50-05:00"
-    },
-    {
-      "class_number":5178,
-      "subject":"ECE",
-      "catalog_number":"206",
-      "title":"Advanced Calculus 2 for Electrical Engineers",
+      "class_number":6607,
+      "subject":"CHEM",
+      "catalog_number":"254",
+      "title":"Introductory Chemical Thermodynamics",
       "section":"LEC 001",
-      "weekdays":"MF",
-      "start_time":"15:00",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":81,
-      "instructors":[
-        "Michailovich,Oleg"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5178,
-      "subject":"ECE",
-      "catalog_number":"206",
-      "title":"Advanced Calculus 2 for Electrical Engineers",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"09\/15",
-      "end_date":"09\/15",
-      "enrollment_total":81,
-      "instructors":[
-        "Michailovich,Oleg"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5178,
-      "subject":"ECE",
-      "catalog_number":"206",
-      "title":"Advanced Calculus 2 for Electrical Engineers",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"09\/29",
-      "end_date":"09\/29",
-      "enrollment_total":81,
-      "instructors":[
-        "Michailovich,Oleg"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5178,
-      "subject":"ECE",
-      "catalog_number":"206",
-      "title":"Advanced Calculus 2 for Electrical Engineers",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"10\/20",
-      "end_date":"10\/20",
-      "enrollment_total":81,
-      "instructors":[
-        "Michailovich,Oleg"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5178,
-      "subject":"ECE",
-      "catalog_number":"206",
-      "title":"Advanced Calculus 2 for Electrical Engineers",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"11\/03",
-      "end_date":"11\/03",
-      "enrollment_total":81,
-      "instructors":[
-        "Michailovich,Oleg"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5178,
-      "subject":"ECE",
-      "catalog_number":"206",
-      "title":"Advanced Calculus 2 for Electrical Engineers",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"11\/17",
-      "end_date":"11\/17",
-      "enrollment_total":81,
-      "instructors":[
-        "Michailovich,Oleg"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5178,
-      "subject":"ECE",
-      "catalog_number":"206",
-      "title":"Advanced Calculus 2 for Electrical Engineers",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"12\/01",
-      "end_date":"12\/01",
-      "enrollment_total":81,
-      "instructors":[
-        "Michailovich,Oleg"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5179,
-      "subject":"ECE",
-      "catalog_number":"206",
-      "title":"Advanced Calculus 2 for Electrical Engineers",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":81,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5022,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
-      "section":"LEC 001",
-      "weekdays":"TWTh",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":92,
-      "instructors":[
-        "Heunis,Andrew J"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5022,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"09\/11",
-      "end_date":"09\/11",
-      "enrollment_total":92,
-      "instructors":[
-        "Heunis,Andrew J"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5022,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"09\/25",
-      "end_date":"09\/25",
-      "enrollment_total":92,
-      "instructors":[
-        "Heunis,Andrew J"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5022,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"10\/09",
-      "end_date":"10\/09",
-      "enrollment_total":92,
-      "instructors":[
-        "Heunis,Andrew J"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5022,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"10\/23",
-      "end_date":"10\/23",
-      "enrollment_total":92,
-      "instructors":[
-        "Heunis,Andrew J"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5022,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"11\/06",
-      "end_date":"11\/06",
-      "enrollment_total":92,
-      "instructors":[
-        "Heunis,Andrew J"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5022,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"11\/20",
-      "end_date":"11\/20",
-      "enrollment_total":92,
-      "instructors":[
-        "Heunis,Andrew J"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5023,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
-      "section":"LEC 002",
-      "weekdays":"TWTh",
+      "weekdays":"MWF",
       "start_time":"10:30",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":89,
+      "enrollment_total":106,
       "instructors":[
-        "Heunis,Andrew J"
+        "Power,William Patrick"
       ],
       "building":"RCH",
       "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:28-05:00"
     },
     {
-      "class_number":5023,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"09\/11",
-      "end_date":"09\/11",
-      "enrollment_total":89,
-      "instructors":[
-        "Heunis,Andrew J"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5023,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"09\/25",
-      "end_date":"09\/25",
-      "enrollment_total":89,
-      "instructors":[
-        "Heunis,Andrew J"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5023,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"10\/09",
-      "end_date":"10\/09",
-      "enrollment_total":89,
-      "instructors":[
-        "Heunis,Andrew J"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5023,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"10\/23",
-      "end_date":"10\/23",
-      "enrollment_total":89,
-      "instructors":[
-        "Heunis,Andrew J"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5023,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"11\/06",
-      "end_date":"11\/06",
-      "enrollment_total":89,
-      "instructors":[
-        "Heunis,Andrew J"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5023,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"11\/20",
-      "end_date":"11\/20",
-      "enrollment_total":89,
-      "instructors":[
-        "Heunis,Andrew J"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5024,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
+      "class_number":6678,
+      "subject":"CHEM",
+      "catalog_number":"254",
+      "title":"Introductory Chemical Thermodynamics",
       "section":"TUT 101",
-      "weekdays":"W",
+      "weekdays":"F",
       "start_time":"15:30",
       "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":92,
+      "enrollment_total":106,
       "instructors":[
-        
+        "Power,William Patrick"
       ],
       "building":"RCH",
       "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:28-05:00"
     },
     {
-      "class_number":5025,
-      "subject":"ECE",
-      "catalog_number":"207",
-      "title":"Signals and Systems",
-      "section":"TUT 102",
+      "class_number":6560,
+      "subject":"CHEM",
+      "catalog_number":"262",
+      "title":"Organic Chemistry for Engineering and Bioinformatics Students",
+      "section":"LEC 001",
       "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"09:20",
+      "start_time":"14:30",
+      "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":89,
+      "enrollment_total":68,
       "instructors":[
-        
+        "Forsey,Steven Philip"
       ],
       "building":"RCH",
       "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:29-05:00"
     },
     {
-      "class_number":5026,
-      "subject":"ECE",
-      "catalog_number":"209",
-      "title":"Electronic and Electrical Properties of Materials",
+      "class_number":6475,
+      "subject":"EARTH",
+      "catalog_number":"333",
+      "title":"Introductory Sedimentology",
       "section":"LEC 001",
-      "weekdays":"MF",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":58,
+      "instructors":[
+        "Ross,Martin"
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:11-05:00"
+    },
+    {
+      "class_number":5291,
+      "subject":"ECE",
+      "catalog_number":"423",
+      "title":"Embedded Computer Systems",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Pellizzoni,Rodolfo"
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:28-05:00"
+    },
+    {
+      "class_number":4987,
+      "subject":"ECE",
+      "catalog_number":"457B",
+      "title":"Fundamentals of Computational Intelligence",
+      "section":"LEC 001",
+      "weekdays":"TTh",
       "start_time":"10:00",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":91,
+      "enrollment_total":73,
       "instructors":[
-        "Wong,William S."
+        "Karray,Fakhreddine"
       ],
       "building":"RCH",
       "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:29-05:00"
     },
     {
-      "class_number":5026,
-      "subject":"ECE",
-      "catalog_number":"209",
-      "title":"Electronic and Electrical Properties of Materials",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"09\/08",
-      "end_date":"09\/08",
-      "enrollment_total":91,
-      "instructors":[
-        "Wong,William S."
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5026,
-      "subject":"ECE",
-      "catalog_number":"209",
-      "title":"Electronic and Electrical Properties of Materials",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"09\/22",
-      "end_date":"09\/22",
-      "enrollment_total":91,
-      "instructors":[
-        "Wong,William S."
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5026,
-      "subject":"ECE",
-      "catalog_number":"209",
-      "title":"Electronic and Electrical Properties of Materials",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"10\/06",
-      "end_date":"10\/06",
-      "enrollment_total":91,
-      "instructors":[
-        "Wong,William S."
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5026,
-      "subject":"ECE",
-      "catalog_number":"209",
-      "title":"Electronic and Electrical Properties of Materials",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"10\/27",
-      "end_date":"10\/27",
-      "enrollment_total":91,
-      "instructors":[
-        "Wong,William S."
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5026,
-      "subject":"ECE",
-      "catalog_number":"209",
-      "title":"Electronic and Electrical Properties of Materials",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"11\/10",
-      "end_date":"11\/10",
-      "enrollment_total":91,
-      "instructors":[
-        "Wong,William S."
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5026,
-      "subject":"ECE",
-      "catalog_number":"209",
-      "title":"Electronic and Electrical Properties of Materials",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"11\/24",
-      "end_date":"11\/24",
-      "enrollment_total":91,
-      "instructors":[
-        "Wong,William S."
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
-    },
-    {
-      "class_number":5027,
-      "subject":"ECE",
-      "catalog_number":"209",
-      "title":"Electronic and Electrical Properties of Materials",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"16:30",
-      "end_time":"17:20",
+      "class_number":3876,
+      "subject":"ECON",
+      "catalog_number":"201",
+      "title":"Microeconomic Theory 1",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":91,
+      "enrollment_total":100,
       "instructors":[
-        
+        "Van de Waal,Cornelis Howard"
       ],
       "building":"RCH",
       "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:51-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
     },
     {
-      "class_number":5034,
-      "subject":"ECE",
-      "catalog_number":"224",
-      "title":"Embedded Microprocessor Systems",
+      "class_number":4549,
+      "subject":"ENVE",
+      "catalog_number":"221",
+      "title":"Advanced Calculus",
       "section":"LEC 001",
-      "weekdays":"MF",
+      "weekdays":"TTh",
       "start_time":"08:30",
       "end_time":"09:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":98,
+      "enrollment_total":82,
       "instructors":[
-        "Bishop,William David"
+        "Potapenko,Stan"
       ],
       "building":"RCH",
       "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:54-05:00"
     },
     {
-      "class_number":5034,
-      "subject":"ECE",
+      "class_number":4551,
+      "subject":"ENVE",
       "catalog_number":"224",
-      "title":"Embedded Microprocessor Systems",
+      "title":"Probability and Statistics",
       "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"09\/12",
-      "end_date":"09\/12",
-      "enrollment_total":98,
-      "instructors":[
-        "Bishop,William David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5034,
-      "subject":"ECE",
-      "catalog_number":"224",
-      "title":"Embedded Microprocessor Systems",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"09\/26",
-      "end_date":"09\/26",
-      "enrollment_total":98,
-      "instructors":[
-        "Bishop,William David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5034,
-      "subject":"ECE",
-      "catalog_number":"224",
-      "title":"Embedded Microprocessor Systems",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"10\/10",
-      "end_date":"10\/10",
-      "enrollment_total":98,
-      "instructors":[
-        "Bishop,William David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5034,
-      "subject":"ECE",
-      "catalog_number":"224",
-      "title":"Embedded Microprocessor Systems",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"10\/24",
-      "end_date":"10\/24",
-      "enrollment_total":98,
-      "instructors":[
-        "Bishop,William David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5034,
-      "subject":"ECE",
-      "catalog_number":"224",
-      "title":"Embedded Microprocessor Systems",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"11\/07",
-      "end_date":"11\/07",
-      "enrollment_total":98,
-      "instructors":[
-        "Bishop,William David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5034,
-      "subject":"ECE",
-      "catalog_number":"224",
-      "title":"Embedded Microprocessor Systems",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"11\/21",
-      "end_date":"11\/21",
-      "enrollment_total":98,
-      "instructors":[
-        "Bishop,William David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5035,
-      "subject":"ECE",
-      "catalog_number":"224",
-      "title":"Embedded Microprocessor Systems",
-      "section":"TUT 101",
-      "weekdays":"T",
-      "start_time":"16:30",
+      "weekdays":"TTh",
+      "start_time":"16:00",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":98,
+      "enrollment_total":82,
       "instructors":[
         
       ],
       "building":"RCH",
       "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:55-05:00"
     },
     {
-      "class_number":5043,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"LEC 001",
-      "weekdays":"TWTh",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":87,
-      "instructors":[
-        "Nairn,David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5043,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"09\/18",
-      "end_date":"09\/18",
-      "enrollment_total":87,
-      "instructors":[
-        "Nairn,David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5043,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"10\/02",
-      "end_date":"10\/02",
-      "enrollment_total":87,
-      "instructors":[
-        "Nairn,David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5043,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"10\/16",
-      "end_date":"10\/16",
-      "enrollment_total":87,
-      "instructors":[
-        "Nairn,David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5043,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"10\/30",
-      "end_date":"10\/30",
-      "enrollment_total":87,
-      "instructors":[
-        "Nairn,David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5043,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"11\/13",
-      "end_date":"11\/13",
-      "enrollment_total":87,
-      "instructors":[
-        "Nairn,David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5043,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"11\/27",
-      "end_date":"11\/27",
-      "enrollment_total":87,
-      "instructors":[
-        "Nairn,David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5044,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"LEC 002",
-      "weekdays":"TW",
+      "class_number":7428,
+      "subject":"MATH",
+      "catalog_number":"118",
+      "title":"Calculus 2 for Engineering",
+      "section":"LEC 005",
+      "weekdays":"M",
       "start_time":"09:30",
       "end_time":"10:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":88,
+      "enrollment_total":104,
       "instructors":[
-        "Nairn,David"
+        "Andre,Robert"
       ],
       "building":"RCH",
       "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
     },
     {
-      "class_number":5044,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":88,
-      "instructors":[
-        "Nairn,David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5044,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"09\/18",
-      "end_date":"09\/18",
-      "enrollment_total":88,
-      "instructors":[
-        "Nairn,David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5044,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"10\/02",
-      "end_date":"10\/02",
-      "enrollment_total":88,
-      "instructors":[
-        "Nairn,David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5044,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"10\/16",
-      "end_date":"10\/16",
-      "enrollment_total":88,
-      "instructors":[
-        "Nairn,David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5044,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"10\/30",
-      "end_date":"10\/30",
-      "enrollment_total":88,
-      "instructors":[
-        "Nairn,David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5044,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"11\/13",
-      "end_date":"11\/13",
-      "enrollment_total":88,
-      "instructors":[
-        "Nairn,David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5044,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":"11\/27",
-      "end_date":"11\/27",
-      "enrollment_total":88,
-      "instructors":[
-        "Nairn,David"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5045,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":87,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5046,
-      "subject":"ECE",
-      "catalog_number":"242",
-      "title":"Electronic Circuits 2",
-      "section":"TUT 102",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":88,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5053,
-      "subject":"ECE",
-      "catalog_number":"254",
-      "title":"Operating Systems and Systems Programming",
-      "section":"LEC 001",
-      "weekdays":"MF",
-      "start_time":"13:30",
-      "end_time":"14:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":106,
-      "instructors":[
-        "Moreno,Carlos"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5053,
-      "subject":"ECE",
-      "catalog_number":"254",
-      "title":"Operating Systems and Systems Programming",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"09\/19",
-      "end_date":"09\/19",
-      "enrollment_total":106,
-      "instructors":[
-        "Moreno,Carlos"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5053,
-      "subject":"ECE",
-      "catalog_number":"254",
-      "title":"Operating Systems and Systems Programming",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"10\/03",
-      "end_date":"10\/03",
-      "enrollment_total":106,
-      "instructors":[
-        "Moreno,Carlos"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5053,
-      "subject":"ECE",
-      "catalog_number":"254",
-      "title":"Operating Systems and Systems Programming",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"10\/17",
-      "end_date":"10\/17",
-      "enrollment_total":106,
-      "instructors":[
-        "Moreno,Carlos"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5053,
-      "subject":"ECE",
-      "catalog_number":"254",
-      "title":"Operating Systems and Systems Programming",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"10\/31",
-      "end_date":"10\/31",
-      "enrollment_total":106,
-      "instructors":[
-        "Moreno,Carlos"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5053,
-      "subject":"ECE",
-      "catalog_number":"254",
-      "title":"Operating Systems and Systems Programming",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"11\/14",
-      "end_date":"11\/14",
-      "enrollment_total":106,
-      "instructors":[
-        "Moreno,Carlos"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5053,
-      "subject":"ECE",
-      "catalog_number":"254",
-      "title":"Operating Systems and Systems Programming",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":"11\/28",
-      "end_date":"11\/28",
-      "enrollment_total":106,
-      "instructors":[
-        "Moreno,Carlos"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5054,
-      "subject":"ECE",
-      "catalog_number":"254",
-      "title":"Operating Systems and Systems Programming",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":106,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5755,
+      "class_number":5810,
       "subject":"MATH",
       "catalog_number":"127",
       "title":"Calculus 1 for the Sciences",
@@ -1361,54 +241,94 @@
       "end_time":"18:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":99,
+      "enrollment_total":35,
       "instructors":[
         
       ],
       "building":"RCH",
       "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
     },
     {
-      "class_number":4629,
-      "subject":"MSCI",
-      "catalog_number":"432",
-      "title":"Production and Service Operations Management",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Bayley,Tiffany Amber"
-      ],
-      "building":"RCH",
-      "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:21-05:00"
-    },
-    {
-      "class_number":7966,
-      "subject":"SE",
-      "catalog_number":"212",
-      "title":"Logic and Computation",
-      "section":"TUT 102",
+      "class_number":4762,
+      "subject":"MTE",
+      "catalog_number":"201",
+      "title":"Experimental Measurement & Statistical Analysis",
+      "section":"TUT 201",
       "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"12:20",
+      "start_time":"13:30",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":71,
+      "enrollment_total":67,
       "instructors":[
         
       ],
       "building":"RCH",
       "room":"211",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:28-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":4763,
+      "subject":"MTE",
+      "catalog_number":"201",
+      "title":"Experimental Measurement & Statistical Analysis",
+      "section":"TUT 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":69,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":4766,
+      "subject":"MTE",
+      "catalog_number":"202",
+      "title":"Ordinary Differential Equations",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":67,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":4767,
+      "subject":"MTE",
+      "catalog_number":"202",
+      "title":"Ordinary Differential Equations",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":68,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"211",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
     }
   ]
 }

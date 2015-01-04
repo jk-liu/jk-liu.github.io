@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2732,
-    "timestamp":1415081640,
+    "requests":5588,
+    "timestamp":1420353900,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,7 +11,7 @@
   },
   "data":[
     {
-      "class_number":6535,
+      "class_number":6413,
       "subject":"EASIA",
       "catalog_number":"277R",
       "title":"International Relations of East Asia",
@@ -21,34 +21,134 @@
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":20,
+      "enrollment_total":17,
       "instructors":[
-        "Lee,Seung Hyok"
+        "Hara,Kimie"
       ],
       "building":"REN",
       "room":"2101",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:46-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:16-05:00"
     },
     {
-      "class_number":6477,
-      "subject":"KOREA",
-      "catalog_number":"202R",
-      "title":"Second-Year Korean 2",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"13:00",
-      "end_time":"15:50",
+      "class_number":7828,
+      "subject":"ESL",
+      "catalog_number":"101R",
+      "title":"Oral Communications for Academic Purposes",
+      "section":"LEC 002",
+      "weekdays":"MTTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":7,
+      "enrollment_total":13,
       "instructors":[
-        "Kim,Young Gon G"
+        "Schuller,Christa"
       ],
       "building":"REN",
       "room":"2101",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:05-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
+    },
+    {
+      "class_number":7829,
+      "subject":"ESL",
+      "catalog_number":"101R",
+      "title":"Oral Communications for Academic Purposes",
+      "section":"LEC 003",
+      "weekdays":"MTTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Schuller,Christa"
+      ],
+      "building":"REN",
+      "room":"2101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
+    },
+    {
+      "class_number":6461,
+      "subject":"JAPAN",
+      "catalog_number":"302R",
+      "title":"Third-Year Japanese 2",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Deng,Qingzhen"
+      ],
+      "building":"REN",
+      "room":"2101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:54-05:00"
+    },
+    {
+      "class_number":7966,
+      "subject":"RS",
+      "catalog_number":"499",
+      "title":"Honours Seminar",
+      "section":"SEM 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Wilson,Jeff"
+      ],
+      "building":"REN",
+      "room":"2101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:48-05:00"
+    },
+    {
+      "class_number":6411,
+      "subject":"SDS",
+      "catalog_number":"496R",
+      "title":"Applied Apprenticeship in Social Development Studies",
+      "section":"SEM 001",
+      "weekdays":"F",
+      "start_time":"10:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Mahrer,Rachel"
+      ],
+      "building":"REN",
+      "room":"2101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:54-05:00"
+    },
+    {
+      "class_number":7853,
+      "subject":"ESL",
+      "catalog_number":"601R",
+      "title":"Speaking English for Professional Purposes",
+      "section":"LEC 001",
+      "weekdays":"MTTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Rehm,Stefan"
+      ],
+      "building":"REN",
+      "room":"2101",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:23-05:00"
     }
   ]
 }

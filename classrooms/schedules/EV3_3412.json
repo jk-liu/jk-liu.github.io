@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2576,
-    "timestamp":1415081592,
+    "requests":5437,
+    "timestamp":1420353844,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,325 +11,404 @@
   },
   "data":[
     {
-      "class_number":3631,
-      "subject":"ECON",
-      "catalog_number":"351",
-      "title":"Labour Economics",
+      "class_number":6880,
+      "subject":"BIOL",
+      "catalog_number":"383",
+      "title":"Tropical Ecosystems",
       "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":57,
+      "enrollment_total":15,
       "instructors":[
-        "Lluis,Stephanie"
+        "Oelbermann,Maren"
       ],
       "building":"EV3",
       "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:58-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:45-05:00"
     },
     {
-      "class_number":3695,
-      "subject":"ECON",
-      "catalog_number":"355",
-      "title":"Economics of Energy and Natural Resources",
+      "class_number":5411,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 103",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"3412",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5454,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 106",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"3412",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5456,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 108",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"3412",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5485,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 110",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"3412",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5525,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 112",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"3412",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5589,
+      "subject":"ERS",
+      "catalog_number":"317",
+      "title":"Waste Management",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Jackson,John"
+      ],
+      "building":"EV3",
+      "room":"3412",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:00-05:00"
+    },
+    {
+      "class_number":5500,
+      "subject":"ERS",
+      "catalog_number":"383",
+      "title":"Tropical Ecosystems",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Oelbermann,Maren"
+      ],
+      "building":"EV3",
+      "room":"3412",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:00-05:00"
+    },
+    {
+      "class_number":5606,
+      "subject":"ERS",
+      "catalog_number":"413",
+      "title":"Senior Honours Research Seminar",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Larson,Brendon"
+      ],
+      "building":"EV3",
+      "room":"3412",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:01-05:00"
+    },
+    {
+      "class_number":3902,
+      "subject":"FR",
+      "catalog_number":"263",
+      "title":"Major Works 1 - France and la francophonie",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Dusaillant-Fernandes,Valerie"
+      ],
+      "building":"EV3",
+      "room":"3412",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:11-05:00"
+    },
+    {
+      "class_number":3502,
+      "subject":"FR",
+      "catalog_number":"297",
+      "title":"French Culture & Literature: 1715 to the Present",
       "section":"LEC 001",
       "weekdays":"TTh",
       "start_time":"08:30",
       "end_time":"09:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":54,
+      "enrollment_total":25,
       "instructors":[
-        "Insley,Margaret Caren"
+        "Gauthier,Nicolas"
       ],
       "building":"EV3",
       "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:58-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:12-05:00"
     },
     {
-      "class_number":8315,
-      "subject":"ENBUS",
-      "catalog_number":"306",
-      "title":"Research Design",
-      "section":"TUT 103",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":34,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:02-05:00"
-    },
-    {
-      "class_number":5276,
-      "subject":"ENVS",
-      "catalog_number":"201",
-      "title":"Introduction to Canadian Environmental Law",
-      "section":"SEM 101",
-      "weekdays":"Th",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Craik,Alastair Neil"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:14-05:00"
-    },
-    {
-      "class_number":5279,
-      "subject":"ENVS",
-      "catalog_number":"201",
-      "title":"Introduction to Canadian Environmental Law",
-      "section":"SEM 104",
-      "weekdays":"Th",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":49,
-      "instructors":[
-        "Craik,Alastair Neil"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:14-05:00"
-    },
-    {
-      "class_number":5367,
+      "class_number":5385,
       "subject":"GEOG",
-      "catalog_number":"293",
-      "title":"Professional and Scholarly Practice in Geography",
-      "section":"TUT 101",
-      "weekdays":"F",
+      "catalog_number":"387",
+      "title":"Spatial Databases",
+      "section":"LEC 001",
+      "weekdays":"Th",
       "start_time":"11:30",
-      "end_time":"12:20",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":15,
+      "enrollment_total":37,
       "instructors":[
-        
+        "Glenday,Peter John"
       ],
       "building":"EV3",
       "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:32-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:25-05:00"
     },
     {
-      "class_number":5348,
+      "class_number":5414,
       "subject":"GEOG",
-      "catalog_number":"303",
-      "title":"Physical Hydrology",
-      "section":"TUT 101",
+      "catalog_number":"471",
+      "title":"Remote Sensing Project",
+      "section":"SEM 001",
       "weekdays":"T",
       "start_time":"12:30",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":16,
+      "enrollment_total":42,
       "instructors":[
-        "Price,Jonathan"
+        "Kelly,Richard E.J."
       ],
       "building":"EV3",
       "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:33-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:26-05:00"
     },
     {
-      "class_number":5447,
-      "subject":"GEOG",
-      "catalog_number":"311",
-      "title":"Local Development in a Global Context",
+      "class_number":5442,
+      "subject":"PLAN",
+      "catalog_number":"387",
+      "title":"Spatial Databases",
       "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"3412",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":8007,
+      "subject":"PLAN",
+      "catalog_number":"477",
+      "title":"Freight Planning and Policy",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":43,
+      "instructors":[
+        "Woudsma,Clarence"
+      ],
+      "building":"EV3",
+      "room":"3412",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:15-05:00"
+    },
+    {
+      "class_number":8147,
+      "subject":"SOC",
+      "catalog_number":"302",
+      "title":"Introduction to Contemporary Theory",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Muszynski,Alicja"
+      ],
+      "building":"EV3",
+      "room":"3412",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:02-05:00"
+    },
+    {
+      "class_number":3598,
+      "subject":"SPAN",
+      "catalog_number":"101",
+      "title":"Introduction to Spanish 1",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":37,
+      "instructors":[
+        "Atoche,Cristina"
+      ],
+      "building":"EV3",
+      "room":"3412",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
+    },
+    {
+      "class_number":4156,
+      "subject":"SPCOM",
+      "catalog_number":"100",
+      "title":"Interpersonal Communication",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Harvie,Jo"
+      ],
+      "building":"EV3",
+      "room":"3412",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    },
+    {
+      "class_number":5501,
+      "subject":"LED",
+      "catalog_number":"688",
+      "title":"Entrepreneurship and Small Business Development",
+      "section":"SEM 001",
       "weekdays":"W",
       "start_time":"08:30",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":36,
+      "enrollment_total":7,
       "instructors":[
-        "Vinodrai,Tara"
+        "Malleck,Geoff"
       ],
       "building":"EV3",
       "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:33-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:44-05:00"
     },
     {
-      "class_number":5301,
-      "subject":"GEOG",
-      "catalog_number":"405",
-      "title":"Wetlands",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":52,
-      "instructors":[
-        "Price,Jonathan"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:34-05:00"
-    },
-    {
-      "class_number":3132,
-      "subject":"LAT",
-      "catalog_number":"101",
-      "title":"Introductory Latin 1",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":"09\/08",
-      "end_date":"12\/01",
-      "enrollment_total":20,
-      "instructors":[
-        "Faber,Riemer"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:06-05:00"
-    },
-    {
-      "class_number":3408,
-      "subject":"LAT",
-      "catalog_number":"101",
-      "title":"Introductory Latin 1",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:06-05:00"
-    },
-    {
-      "class_number":8198,
-      "subject":"GEOG",
-      "catalog_number":"621",
-      "title":"Metropolitan Form and Structure in Canada",
-      "section":"SEM 001",
-      "weekdays":"Th",
-      "start_time":"18:00",
-      "end_time":"20:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Filion,Pierre"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:32-05:00"
-    },
-    {
-      "class_number":8232,
-      "subject":"HSG",
-      "catalog_number":"601",
-      "title":"Lifespan Approaches to Disease Prevention and Health Promotion",
-      "section":"LEC 002",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":9,
-      "instructors":[
-        "Leatherdale,Scott Thomas",
-        "Mielke,John G."
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:41-05:00"
-    },
-    {
-      "class_number":8178,
-      "subject":"INDEV",
-      "catalog_number":"602",
-      "title":"International Development: Theories and Practice",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":22,
-      "instructors":[
-        "Nayak,Prateep"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:42-05:00"
-    },
-    {
-      "class_number":3989,
-      "subject":"INDEV",
-      "catalog_number":"609",
-      "title":"Sustainability Concepts, Applications and Key Debates",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":22,
-      "instructors":[
-        "Singh,Simron"
-      ],
-      "building":"EV3",
-      "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:43-05:00"
-    },
-    {
-      "class_number":5552,
+      "class_number":8016,
       "subject":"PLAN",
-      "catalog_number":"621",
-      "title":"Metropolitan Form and Structure in Canada",
-      "section":"SEM 001",
-      "weekdays":"Th",
-      "start_time":"18:00",
-      "end_time":"20:50",
+      "catalog_number":"677",
+      "title":"Freight Planning and Policy",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:30",
+      "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":6,
+      "enrollment_total":3,
       "instructors":[
-        "Filion,Pierre"
+        "Woudsma,Clarence"
       ],
       "building":"EV3",
       "room":"3412",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:59-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:03-05:00"
     }
   ]
 }

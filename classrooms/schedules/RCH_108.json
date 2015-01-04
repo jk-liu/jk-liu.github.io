@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2703,
-    "timestamp":1415081630,
+    "requests":5561,
+    "timestamp":1420353890,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,7 +11,7 @@
   },
   "data":[
     {
-      "class_number":4753,
+      "class_number":4748,
       "subject":"ECE",
       "catalog_number":"250",
       "title":"Algorithms and Data Structures",
@@ -19,619 +19,959 @@
       "weekdays":"W",
       "start_time":"13:30",
       "end_time":"16:20",
-      "start_date":"09\/17",
-      "end_date":"09\/17",
-      "enrollment_total":50,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4753,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 201",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"10\/01",
-      "end_date":"10\/01",
-      "enrollment_total":50,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4753,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 201",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"10\/15",
-      "end_date":"10\/15",
-      "enrollment_total":50,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4753,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 201",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"10\/29",
-      "end_date":"10\/29",
-      "enrollment_total":50,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4753,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 201",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"11\/12",
-      "end_date":"11\/12",
-      "enrollment_total":50,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4753,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 201",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"11\/26",
-      "end_date":"11\/26",
-      "enrollment_total":50,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4805,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 202",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"09\/18",
-      "end_date":"09\/18",
-      "enrollment_total":48,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4805,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 202",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"10\/02",
-      "end_date":"10\/02",
-      "enrollment_total":48,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4805,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 202",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"10\/16",
-      "end_date":"10\/16",
-      "enrollment_total":48,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4805,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 202",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"10\/30",
-      "end_date":"10\/30",
-      "enrollment_total":48,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4805,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 202",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"11\/13",
-      "end_date":"11\/13",
-      "enrollment_total":48,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4805,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 202",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"11\/27",
-      "end_date":"11\/27",
-      "enrollment_total":48,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4806,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 203",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"09\/16",
-      "end_date":"09\/16",
-      "enrollment_total":47,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4806,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 203",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"09\/30",
-      "end_date":"09\/30",
-      "enrollment_total":47,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4806,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 203",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"10\/14",
-      "end_date":"10\/14",
-      "enrollment_total":47,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4806,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 203",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"10\/28",
-      "end_date":"10\/28",
-      "enrollment_total":47,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4806,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 203",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"11\/11",
-      "end_date":"11\/11",
-      "enrollment_total":47,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":4806,
-      "subject":"ECE",
-      "catalog_number":"250",
-      "title":"Algorithms and Data Structures",
-      "section":"LAB 203",
-      "weekdays":"T",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":"11\/25",
-      "end_date":"11\/25",
-      "enrollment_total":47,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:52-05:00"
-    },
-    {
-      "class_number":5111,
-      "subject":"ECE",
-      "catalog_number":"390",
-      "title":"Engineering Design, Economics, and Impact on Society",
-      "section":"LAB 201",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"09\/10",
-      "end_date":"09\/10",
-      "enrollment_total":30,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
-    },
-    {
-      "class_number":5111,
-      "subject":"ECE",
-      "catalog_number":"390",
-      "title":"Engineering Design, Economics, and Impact on Society",
-      "section":"LAB 201",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"09\/24",
-      "end_date":"09\/24",
-      "enrollment_total":30,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
-    },
-    {
-      "class_number":5111,
-      "subject":"ECE",
-      "catalog_number":"390",
-      "title":"Engineering Design, Economics, and Impact on Society",
-      "section":"LAB 201",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"10\/08",
-      "end_date":"10\/08",
-      "enrollment_total":30,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
-    },
-    {
-      "class_number":5111,
-      "subject":"ECE",
-      "catalog_number":"390",
-      "title":"Engineering Design, Economics, and Impact on Society",
-      "section":"LAB 201",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"10\/22",
-      "end_date":"10\/22",
-      "enrollment_total":30,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
-    },
-    {
-      "class_number":5111,
-      "subject":"ECE",
-      "catalog_number":"390",
-      "title":"Engineering Design, Economics, and Impact on Society",
-      "section":"LAB 201",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"11\/05",
-      "end_date":"11\/05",
-      "enrollment_total":30,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
-    },
-    {
-      "class_number":5111,
-      "subject":"ECE",
-      "catalog_number":"390",
-      "title":"Engineering Design, Economics, and Impact on Society",
-      "section":"LAB 201",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"11\/19",
-      "end_date":"11\/19",
-      "enrollment_total":30,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
-    },
-    {
-      "class_number":5112,
-      "subject":"ECE",
-      "catalog_number":"390",
-      "title":"Engineering Design, Economics, and Impact on Society",
-      "section":"LAB 202",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"09\/11",
-      "end_date":"09\/11",
-      "enrollment_total":32,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
-    },
-    {
-      "class_number":5112,
-      "subject":"ECE",
-      "catalog_number":"390",
-      "title":"Engineering Design, Economics, and Impact on Society",
-      "section":"LAB 202",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"09\/25",
-      "end_date":"09\/25",
-      "enrollment_total":32,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
-    },
-    {
-      "class_number":5112,
-      "subject":"ECE",
-      "catalog_number":"390",
-      "title":"Engineering Design, Economics, and Impact on Society",
-      "section":"LAB 202",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"10\/09",
-      "end_date":"10\/09",
-      "enrollment_total":32,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
-    },
-    {
-      "class_number":5112,
-      "subject":"ECE",
-      "catalog_number":"390",
-      "title":"Engineering Design, Economics, and Impact on Society",
-      "section":"LAB 202",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"10\/23",
-      "end_date":"10\/23",
-      "enrollment_total":32,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
-    },
-    {
-      "class_number":5112,
-      "subject":"ECE",
-      "catalog_number":"390",
-      "title":"Engineering Design, Economics, and Impact on Society",
-      "section":"LAB 202",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"11\/06",
-      "end_date":"11\/06",
-      "enrollment_total":32,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
-    },
-    {
-      "class_number":5112,
-      "subject":"ECE",
-      "catalog_number":"390",
-      "title":"Engineering Design, Economics, and Impact on Society",
-      "section":"LAB 202",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"11\/20",
-      "end_date":"11\/20",
-      "enrollment_total":32,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
-    },
-    {
-      "class_number":5113,
-      "subject":"ECE",
-      "catalog_number":"390",
-      "title":"Engineering Design, Economics, and Impact on Society",
-      "section":"LAB 203",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"09\/09",
-      "end_date":"09\/09",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
       "enrollment_total":33,
       "instructors":[
         
       ],
       "building":"RCH",
       "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
     },
     {
-      "class_number":5113,
+      "class_number":4748,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4748,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4748,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4748,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4748,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4848,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/15",
+      "end_date":"01\/15",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4848,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4848,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4848,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4848,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4848,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"04\/02",
+      "end_date":"04\/02",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4849,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4849,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4849,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4849,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4849,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4849,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4850,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4850,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4850,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4850,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4850,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4850,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4851,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/15",
+      "end_date":"01\/15",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4851,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4851,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4851,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4851,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4851,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"04\/02",
+      "end_date":"04\/02",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4852,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":35,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4852,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":35,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4852,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":35,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4852,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":35,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4852,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":35,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":4852,
+      "subject":"ECE",
+      "catalog_number":"250",
+      "title":"Algorithms and Data Structures",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":35,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:23-05:00"
+    },
+    {
+      "class_number":5197,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/07",
+      "end_date":"01\/07",
+      "enrollment_total":30,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5197,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":30,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5197,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":30,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5197,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
+      "enrollment_total":30,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5197,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
+      "enrollment_total":30,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5197,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 201",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
+      "enrollment_total":30,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5198,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/08",
+      "end_date":"01\/08",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5198,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/22",
+      "end_date":"01\/22",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5198,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5198,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/26",
+      "end_date":"02\/26",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5198,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5198,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5199,
       "subject":"ECE",
       "catalog_number":"390",
       "title":"Engineering Design, Economics, and Impact on Society",
@@ -639,19 +979,19 @@
       "weekdays":"T",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"09\/23",
-      "end_date":"09\/23",
-      "enrollment_total":33,
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":0,
       "instructors":[
         
       ],
       "building":"RCH",
       "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
     },
     {
-      "class_number":5113,
+      "class_number":5199,
       "subject":"ECE",
       "catalog_number":"390",
       "title":"Engineering Design, Economics, and Impact on Society",
@@ -659,19 +999,19 @@
       "weekdays":"T",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"10\/07",
-      "end_date":"10\/07",
-      "enrollment_total":33,
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":0,
       "instructors":[
         
       ],
       "building":"RCH",
       "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
     },
     {
-      "class_number":5113,
+      "class_number":5199,
       "subject":"ECE",
       "catalog_number":"390",
       "title":"Engineering Design, Economics, and Impact on Society",
@@ -679,19 +1019,19 @@
       "weekdays":"T",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"10\/21",
-      "end_date":"10\/21",
-      "enrollment_total":33,
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":0,
       "instructors":[
         
       ],
       "building":"RCH",
       "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
     },
     {
-      "class_number":5113,
+      "class_number":5199,
       "subject":"ECE",
       "catalog_number":"390",
       "title":"Engineering Design, Economics, and Impact on Society",
@@ -699,19 +1039,19 @@
       "weekdays":"T",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"11\/04",
-      "end_date":"11\/04",
-      "enrollment_total":33,
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":0,
       "instructors":[
         
       ],
       "building":"RCH",
       "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
     },
     {
-      "class_number":5113,
+      "class_number":5199,
       "subject":"ECE",
       "catalog_number":"390",
       "title":"Engineering Design, Economics, and Impact on Society",
@@ -719,16 +1059,416 @@
       "weekdays":"T",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"11\/18",
-      "end_date":"11\/18",
-      "enrollment_total":33,
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":0,
       "instructors":[
         
       ],
       "building":"RCH",
       "room":"108",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5199,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 203",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5200,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/07",
+      "end_date":"01\/07",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5200,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5200,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5200,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5200,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5200,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 204",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5201,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/08",
+      "end_date":"01\/08",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5201,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/22",
+      "end_date":"01\/22",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5201,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5201,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/26",
+      "end_date":"02\/26",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5201,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5201,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 205",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":34,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5202,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":1,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5202,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":1,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5202,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":1,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5202,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":1,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5202,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":1,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":5202,
+      "subject":"ECE",
+      "catalog_number":"390",
+      "title":"Engineering Design, Economics, and Impact on Society",
+      "section":"LAB 206",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":1,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":4674,
+      "subject":"ME",
+      "catalog_number":"555",
+      "title":"Computer-Aided Design",
+      "section":"LAB 101",
+      "weekdays":"F",
+      "start_time":"10:00",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"108",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:16-05:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2652,
-    "timestamp":1415081616,
+    "requests":5512,
+    "timestamp":1420353870,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,284 +11,264 @@
   },
   "data":[
     {
-      "class_number":6075,
-      "subject":"CS",
-      "catalog_number":"116",
-      "title":"Introduction to Computer Science 2",
+      "class_number":2982,
+      "subject":"GERON",
+      "catalog_number":"210",
+      "title":"Development, Aging and Health",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Williams,Diane"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:30-05:00"
+    },
+    {
+      "class_number":2983,
+      "subject":"HLTH",
+      "catalog_number":"210",
+      "title":"Development, Aging and Health",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Williams,Diane"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":3169,
+      "subject":"HLTH",
+      "catalog_number":"330",
+      "title":"Health Informatics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":129,
+      "instructors":[
+        "Lee,JoonWu"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":2989,
+      "subject":"HLTH",
+      "catalog_number":"340",
+      "title":"Environmental Toxicology and Public Health",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":139,
+      "instructors":[
+        "Laird,Brian"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:37-05:00"
+    },
+    {
+      "class_number":3170,
+      "subject":"HLTH",
+      "catalog_number":"360",
+      "title":"Psychological Determinants of Health",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":134,
+      "instructors":[
+        "Jessup,Linda Louise"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:38-05:00"
+    },
+    {
+      "class_number":2984,
+      "subject":"KIN",
+      "catalog_number":"210",
+      "title":"Development, Aging and Health",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":40,
+      "instructors":[
+        "Williams,Diane"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":2995,
+      "subject":"KIN",
+      "catalog_number":"221",
+      "title":"Advanced Biomechanics of Human Movement",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":110,
+      "instructors":[
+        "Acker,Stacey"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3000,
+      "subject":"KIN",
+      "catalog_number":"222",
+      "title":"Statistical Techniques Applied to Kinesiology",
+      "section":"LEC 001",
+      "weekdays":"MTTh",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":146,
+      "instructors":[
+        "Prentice,Sandra"
+      ],
+      "building":"OPT",
+      "room":"347",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
+    },
+    {
+      "class_number":3140,
+      "subject":"KIN",
+      "catalog_number":"250",
+      "title":"Sociology of Physical Activity",
       "section":"LEC 001",
       "weekdays":"TTh",
       "start_time":"13:00",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":146,
+      "enrollment_total":222,
       "instructors":[
-        "Graham,Sandra Lynn"
+        "Wilson,Austin Wade"
       ],
       "building":"OPT",
       "room":"347",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:35-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:58-05:00"
     },
     {
-      "class_number":6020,
-      "subject":"CS",
-      "catalog_number":"135",
-      "title":"Designing Functional Programs",
-      "section":"LEC 005",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":108,
-      "instructors":[
-        "Kharal,Rosina"
-      ],
-      "building":"OPT",
-      "room":"347",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:35-05:00"
-    },
-    {
-      "class_number":6062,
-      "subject":"CS",
-      "catalog_number":"135",
-      "title":"Designing Functional Programs",
-      "section":"LEC 006",
+      "class_number":3173,
+      "subject":"KIN",
+      "catalog_number":"404",
+      "title":"Physiological Basis of Obesity and Type 2 Diabetes",
+      "section":"LEC 001",
       "weekdays":"TTh",
       "start_time":"16:00",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":103,
+      "enrollment_total":170,
       "instructors":[
-        "Orchard,Jeffery John"
+        "Tupling,Allan R"
       ],
       "building":"OPT",
       "room":"347",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:35-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:00-05:00"
     },
     {
-      "class_number":2790,
-      "subject":"GERON",
-      "catalog_number":"220",
-      "title":"Psychosocial Perspectives on Lifespan Development and Health",
+      "class_number":3221,
+      "subject":"KIN",
+      "catalog_number":"422",
+      "title":"Human Gait, Posture, and Balance: Pathological and Aging Considerations",
       "section":"LEC 001",
       "weekdays":"TTh",
       "start_time":"11:30",
       "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":19,
+      "enrollment_total":124,
       "instructors":[
-        "Jessup,Linda Louise"
+        "Prentice,Stephen D"
       ],
       "building":"OPT",
       "room":"347",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:37-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:01-05:00"
     },
     {
-      "class_number":2795,
-      "subject":"HLTH",
-      "catalog_number":"220",
-      "title":"Psychosocial Perspectives on Lifespan Development and Health",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":198,
-      "instructors":[
-        "Jessup,Linda Louise"
-      ],
-      "building":"OPT",
-      "room":"347",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:45-05:00"
-    },
-    {
-      "class_number":3003,
-      "subject":"HLTH",
-      "catalog_number":"333",
-      "title":"Experimental Methods and Observational Methods in Epidemiology",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":128,
-      "instructors":[
-        "Satvat,Elham"
-      ],
-      "building":"OPT",
-      "room":"347",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:45-05:00"
-    },
-    {
-      "class_number":3004,
-      "subject":"HLTH",
-      "catalog_number":"344",
-      "title":"Evaluation, Qualitative, and Survey Methods",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":123,
-      "instructors":[
-        "MacEachen (Stothers),Ellen"
-      ],
-      "building":"OPT",
-      "room":"347",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:45-05:00"
-    },
-    {
-      "class_number":2920,
+      "class_number":3156,
       "subject":"KIN",
-      "catalog_number":"105",
-      "title":"Cardiovascular and Respiratory Responses to Exercise",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":232,
-      "instructors":[
-        "Rush,James"
-      ],
-      "building":"OPT",
-      "room":"347",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":2949,
-      "subject":"KIN",
-      "catalog_number":"121",
-      "title":"Biomechanics of Human Activity",
+      "catalog_number":"427",
+      "title":"Low Back Disorders",
       "section":"LEC 001",
       "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":220,
-      "instructors":[
-        "Laing,Andrew Charles Thomas"
-      ],
-      "building":"OPT",
-      "room":"347",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:01-05:00"
-    },
-    {
-      "class_number":5957,
-      "subject":"MATH",
-      "catalog_number":"104",
-      "title":"Introductory Calculus for Arts and Social Science",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":97,
-      "instructors":[
-        "Ali Akbari,Shahla"
-      ],
-      "building":"OPT",
-      "room":"347",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:10-05:00"
-    },
-    {
-      "class_number":5958,
-      "subject":"MATH",
-      "catalog_number":"104",
-      "title":"Introductory Calculus for Arts and Social Science",
-      "section":"TUT 101",
-      "weekdays":"F",
       "start_time":"14:30",
       "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":97,
+      "enrollment_total":201,
       "instructors":[
-        
+        "McGill,Stuart M"
       ],
       "building":"OPT",
       "room":"347",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:10-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:01-05:00"
     },
     {
-      "class_number":6997,
-      "subject":"OPTOM",
-      "catalog_number":"245",
-      "title":"Diseases of the Eye 1",
+      "class_number":3155,
+      "subject":"KIN",
+      "catalog_number":"727",
+      "title":"Low Back Disorders: Optimizing Prevention, Rehabilitation and Performance",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":91,
-      "instructors":[
-        "Dalton,Kristine Nicole"
-      ],
-      "building":"OPT",
-      "room":"347",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:35-05:00"
-    },
-    {
-      "class_number":3037,
-      "subject":"REC",
-      "catalog_number":"220",
-      "title":"Program Management",
-      "section":"LEC 001",
-      "weekdays":"MW",
+      "weekdays":"TTh",
       "start_time":"14:30",
       "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":128,
+      "enrollment_total":0,
       "instructors":[
-        "Rafferty,Zara Elise"
+        "McGill,Stuart M"
       ],
       "building":"OPT",
       "room":"347",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:14-05:00"
-    },
-    {
-      "class_number":6934,
-      "subject":"SCBUS",
-      "catalog_number":"123",
-      "title":"Science & Business Workshop 1",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":90,
-      "instructors":[
-        "Memon,Muhammad Kashif"
-      ],
-      "building":"OPT",
-      "room":"347",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:23-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:42-05:00"
     }
   ]
 }

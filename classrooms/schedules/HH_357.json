@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2603,
-    "timestamp":1415081600,
+    "requests":5461,
+    "timestamp":1420353851,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,24 +11,24 @@
   },
   "data":[
     {
-      "class_number":3636,
+      "class_number":8398,
       "subject":"PHIL",
       "catalog_number":"674",
       "title":"Graduate Courses",
-      "section":"SEM 001",
+      "section":"SEM 002",
       "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"12:20",
+      "start_time":"10:00",
+      "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":11,
+      "enrollment_total":0,
       "instructors":[
-        "DeVidi,David M"
+        "Fraser,Doreen"
       ],
       "building":"HH",
       "room":"357",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:56-05:00"
     }
   ]
 }

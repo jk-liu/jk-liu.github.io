@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2508,
-    "timestamp":1415081572,
+    "requests":5378,
+    "timestamp":1420353820,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,7 +11,7 @@
   },
   "data":[
     {
-      "class_number":4754,
+      "class_number":4749,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
@@ -19,19 +19,19 @@
       "weekdays":"Th",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"09\/11",
-      "end_date":"09\/11",
-      "enrollment_total":29,
+      "start_date":"01\/08",
+      "end_date":"01\/08",
+      "enrollment_total":28,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4754,
+      "class_number":4749,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
@@ -39,19 +39,19 @@
       "weekdays":"Th",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"09\/25",
-      "end_date":"09\/25",
-      "enrollment_total":29,
+      "start_date":"01\/22",
+      "end_date":"01\/22",
+      "enrollment_total":28,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4754,
+      "class_number":4749,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
@@ -59,19 +59,19 @@
       "weekdays":"Th",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"10\/09",
-      "end_date":"10\/09",
-      "enrollment_total":29,
+      "start_date":"02\/05",
+      "end_date":"02\/05",
+      "enrollment_total":28,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4754,
+      "class_number":4749,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
@@ -79,19 +79,19 @@
       "weekdays":"Th",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"10\/23",
-      "end_date":"10\/23",
-      "enrollment_total":29,
+      "start_date":"02\/26",
+      "end_date":"02\/26",
+      "enrollment_total":28,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4754,
+      "class_number":4749,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
@@ -99,19 +99,19 @@
       "weekdays":"Th",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"11\/06",
-      "end_date":"11\/06",
-      "enrollment_total":29,
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":28,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4754,
+      "class_number":4749,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
@@ -119,19 +119,19 @@
       "weekdays":"Th",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"11\/20",
-      "end_date":"11\/20",
-      "enrollment_total":29,
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":28,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4807,
+      "class_number":4858,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
@@ -139,19 +139,19 @@
       "weekdays":"T",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"09\/09",
-      "end_date":"09\/09",
-      "enrollment_total":30,
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":32,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4807,
+      "class_number":4858,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
@@ -159,19 +159,19 @@
       "weekdays":"T",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"09\/23",
-      "end_date":"09\/23",
-      "enrollment_total":30,
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":32,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4807,
+      "class_number":4858,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
@@ -179,19 +179,19 @@
       "weekdays":"T",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"10\/07",
-      "end_date":"10\/07",
-      "enrollment_total":30,
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":32,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4807,
+      "class_number":4858,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
@@ -199,19 +199,19 @@
       "weekdays":"T",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"10\/21",
-      "end_date":"10\/21",
-      "enrollment_total":30,
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":32,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4807,
+      "class_number":4858,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
@@ -219,19 +219,19 @@
       "weekdays":"T",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"11\/04",
-      "end_date":"11\/04",
-      "enrollment_total":30,
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":32,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4807,
+      "class_number":4858,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
@@ -239,136 +239,856 @@
       "weekdays":"T",
       "start_time":"08:30",
       "end_time":"11:20",
-      "start_date":"11\/18",
-      "end_date":"11\/18",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":32,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4859,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/07",
+      "end_date":"01\/07",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4859,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4859,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4859,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4859,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4859,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4860,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/08",
+      "end_date":"01\/08",
       "enrollment_total":30,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4808,
+      "class_number":4860,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
-      "section":"LAB 203",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"09\/10",
-      "end_date":"09\/10",
-      "enrollment_total":34,
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/22",
+      "end_date":"01\/22",
+      "enrollment_total":30,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4808,
+      "class_number":4860,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
-      "section":"LAB 203",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"09\/24",
-      "end_date":"09\/24",
-      "enrollment_total":34,
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
+      "enrollment_total":30,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4808,
+      "class_number":4860,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
-      "section":"LAB 203",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"10\/08",
-      "end_date":"10\/08",
-      "enrollment_total":34,
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/26",
+      "end_date":"02\/26",
+      "enrollment_total":30,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4808,
+      "class_number":4860,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
-      "section":"LAB 203",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"10\/22",
-      "end_date":"10\/22",
-      "enrollment_total":34,
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":30,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4808,
+      "class_number":4860,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
-      "section":"LAB 203",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"11\/05",
-      "end_date":"11\/05",
-      "enrollment_total":34,
+      "section":"LAB 204",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":30,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
     },
     {
-      "class_number":4808,
+      "class_number":4861,
       "subject":"ECE",
       "catalog_number":"318",
       "title":"Analog and Digital Communications",
-      "section":"LAB 203",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":"11\/19",
-      "end_date":"11\/19",
-      "enrollment_total":34,
+      "section":"LAB 205",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":33,
       "instructors":[
         
       ],
       "building":"E2",
       "room":"3341",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4861,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 205",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4861,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 205",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4861,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 205",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4861,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 205",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4861,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 205",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":33,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4862,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/07",
+      "end_date":"01\/07",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4862,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4862,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4862,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4862,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4862,
+      "subject":"ECE",
+      "catalog_number":"318",
+      "title":"Analog and Digital Communications",
+      "section":"LAB 206",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:25-05:00"
+    },
+    {
+      "class_number":4750,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/15",
+      "end_date":"01\/15",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4750,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4750,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4750,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4750,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4750,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"04\/02",
+      "end_date":"04\/02",
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4865,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":39,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4865,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":39,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4865,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":39,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4865,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":39,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4865,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":39,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4865,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 202",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":39,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4866,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":39,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4866,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":39,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4866,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":39,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4866,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":39,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4866,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":39,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
+    },
+    {
+      "class_number":4866,
+      "subject":"ECE",
+      "catalog_number":"380",
+      "title":"Analog Control Systems",
+      "section":"LAB 203",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":"04\/01",
+      "end_date":"04\/01",
+      "enrollment_total":39,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"3341",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:26-05:00"
     }
   ]
 }

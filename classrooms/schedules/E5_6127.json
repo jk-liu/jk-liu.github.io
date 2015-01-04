@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2527,
-    "timestamp":1415081577,
+    "requests":5396,
+    "timestamp":1420353831,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,84 +11,84 @@
   },
   "data":[
     {
-      "class_number":4828,
+      "class_number":8368,
       "subject":"SYDE",
-      "catalog_number":"631",
-      "title":"Time Series Modelling",
+      "catalog_number":"632",
+      "title":"Optimization Methods",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"13:00",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Hipel,Keith W"
-      ],
-      "building":"E5",
-      "room":"6127",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:15-05:00"
-    },
-    {
-      "class_number":5145,
-      "subject":"SYDE",
-      "catalog_number":"730",
-      "title":"Selected Topics in Societal-Environmental Systems",
-      "section":"RDG 001",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Hipel,Keith W"
-      ],
-      "building":"E5",
-      "room":"6127",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:16-05:00"
-    },
-    {
-      "class_number":5145,
-      "subject":"SYDE",
-      "catalog_number":"730",
-      "title":"Selected Topics in Societal-Environmental Systems",
-      "section":"RDG 001",
-      "weekdays":"W",
-      "start_time":"13:00",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Hipel,Keith W"
-      ],
-      "building":"E5",
-      "room":"6127",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:16-05:00"
-    },
-    {
-      "class_number":5224,
-      "subject":"SYDE",
-      "catalog_number":"770",
-      "title":"Selected Topics in Communication and Information Systems",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"10:30",
+      "weekdays":"MW",
+      "start_time":"10:00",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":7,
+      "enrollment_total":5,
       "instructors":[
-        "Clausi,David A"
+        "Calamai,Paul H"
       ],
       "building":"E5",
       "room":"6127",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:16-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:21-05:00"
+    },
+    {
+      "class_number":5044,
+      "subject":"SYDE",
+      "catalog_number":"652",
+      "title":"Dynamics of Multibody  Systems",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"15:00",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "McPhee,John"
+      ],
+      "building":"E5",
+      "room":"6127",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:22-05:00"
+    },
+    {
+      "class_number":8281,
+      "subject":"SYDE",
+      "catalog_number":"655",
+      "title":"Optimal Control",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:30",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Lashgarian Azad,Nasser"
+      ],
+      "building":"E5",
+      "room":"6127",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:22-05:00"
+    },
+    {
+      "class_number":5204,
+      "subject":"SYDE",
+      "catalog_number":"675",
+      "title":"Pattern Recognition",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:00",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Stashuk,Daniel W"
+      ],
+      "building":"E5",
+      "room":"6127",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:23-05:00"
     }
   ]
 }

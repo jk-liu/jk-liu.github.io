@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2531,
-    "timestamp":1415081578,
+    "requests":5397,
+    "timestamp":1420353831,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,244 +11,404 @@
   },
   "data":[
     {
-      "class_number":4696,
+      "class_number":4916,
       "subject":"CHE",
-      "catalog_number":"311",
-      "title":"Chemical Reaction Engineering",
+      "catalog_number":"312",
+      "title":"Mathematics of Heat and Mass Transfer",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Ioannidis,Marios"
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:14-05:00"
+    },
+    {
+      "class_number":4916,
+      "subject":"CHE",
+      "catalog_number":"312",
+      "title":"Mathematics of Heat and Mass Transfer",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Ioannidis,Marios"
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:14-05:00"
+    },
+    {
+      "class_number":4917,
+      "subject":"CHE",
+      "catalog_number":"312",
+      "title":"Mathematics of Heat and Mass Transfer",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Ioannidis,Marios"
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:14-05:00"
+    },
+    {
+      "class_number":4899,
+      "subject":"CHE",
+      "catalog_number":"322",
+      "title":"Numerical Methods for Process Analysis and Design",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":79,
+      "instructors":[
+        "Elkamel,Ali"
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:15-05:00"
+    },
+    {
+      "class_number":4899,
+      "subject":"CHE",
+      "catalog_number":"322",
+      "title":"Numerical Methods for Process Analysis and Design",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":79,
+      "instructors":[
+        "Elkamel,Ali"
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:15-05:00"
+    },
+    {
+      "class_number":4900,
+      "subject":"CHE",
+      "catalog_number":"322",
+      "title":"Numerical Methods for Process Analysis and Design",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":79,
+      "instructors":[
+        "Elkamel,Ali"
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:15-05:00"
+    },
+    {
+      "class_number":4593,
+      "subject":"CHE",
+      "catalog_number":"330",
+      "title":"Chemical Engineering Thermodynamics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Feng,Xianshe"
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:16-05:00"
+    },
+    {
+      "class_number":4593,
+      "subject":"CHE",
+      "catalog_number":"330",
+      "title":"Chemical Engineering Thermodynamics",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Feng,Xianshe"
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:16-05:00"
+    },
+    {
+      "class_number":4594,
+      "subject":"CHE",
+      "catalog_number":"330",
+      "title":"Chemical Engineering Thermodynamics",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":82,
+      "instructors":[
+        "Feng,Xianshe"
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:16-05:00"
+    },
+    {
+      "class_number":4596,
+      "subject":"CHE",
+      "catalog_number":"331",
+      "title":"Electrochemical Engineering",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        "Pope,Michael"
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:16-05:00"
+    },
+    {
+      "class_number":4734,
+      "subject":"CHE",
+      "catalog_number":"331",
+      "title":"Electrochemical Engineering",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        "Pope,Michael"
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:16-05:00"
+    },
+    {
+      "class_number":4592,
+      "subject":"CHE",
+      "catalog_number":"360",
+      "title":"Bioprocess Engineering",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":91,
+      "instructors":[
+        "Aucoin,Marc Gordon"
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:17-05:00"
+    },
+    {
+      "class_number":4592,
+      "subject":"CHE",
+      "catalog_number":"360",
+      "title":"Bioprocess Engineering",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":91,
+      "instructors":[
+        "Aucoin,Marc Gordon"
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:17-05:00"
+    },
+    {
+      "class_number":4880,
+      "subject":"CHE",
+      "catalog_number":"360",
+      "title":"Bioprocess Engineering",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":91,
+      "instructors":[
+        "Aucoin,Marc Gordon"
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:17-05:00"
+    },
+    {
+      "class_number":4606,
+      "subject":"CHE",
+      "catalog_number":"514",
+      "title":"Fundamentals of Petroleum Production",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":60,
+      "instructors":[
+        "Leonenko,Iouri (Yuri)"
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:21-05:00"
+    },
+    {
+      "class_number":4613,
+      "subject":"CHE",
+      "catalog_number":"572",
+      "title":"Air Pollution Control",
       "section":"LEC 001",
       "weekdays":"M",
       "start_time":"14:30",
       "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":87,
-      "instructors":[
-        "Croiset,Eric"
-      ],
-      "building":"E6",
-      "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
-    },
-    {
-      "class_number":4696,
-      "subject":"CHE",
-      "catalog_number":"311",
-      "title":"Chemical Reaction Engineering",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":87,
-      "instructors":[
-        "Croiset,Eric"
-      ],
-      "building":"E6",
-      "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
-    },
-    {
-      "class_number":4697,
-      "subject":"CHE",
-      "catalog_number":"311",
-      "title":"Chemical Reaction Engineering",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":87,
-      "instructors":[
-        "Croiset,Eric"
-      ],
-      "building":"E6",
-      "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
-    },
-    {
-      "class_number":4886,
-      "subject":"CHE",
-      "catalog_number":"325",
-      "title":"Strategies for Process Improvement and Product Development",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":85,
-      "instructors":[
-        "Penlidis,Alexander"
-      ],
-      "building":"E6",
-      "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
-    },
-    {
-      "class_number":4886,
-      "subject":"CHE",
-      "catalog_number":"325",
-      "title":"Strategies for Process Improvement and Product Development",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":85,
-      "instructors":[
-        "Penlidis,Alexander"
-      ],
-      "building":"E6",
-      "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
-    },
-    {
-      "class_number":4887,
-      "subject":"CHE",
-      "catalog_number":"325",
-      "title":"Strategies for Process Improvement and Product Development",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":85,
-      "instructors":[
-        "Penlidis,Alexander"
-      ],
-      "building":"E6",
-      "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
-    },
-    {
-      "class_number":4888,
-      "subject":"CHE",
-      "catalog_number":"480",
-      "title":"Process Analysis and Design",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":71,
+      "enrollment_total":50,
       "instructors":[
         "Anderson,William A."
       ],
       "building":"E6",
       "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:16-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:24-05:00"
     },
     {
-      "class_number":4472,
+      "class_number":4613,
       "subject":"CHE",
-      "catalog_number":"482",
-      "title":"Chemical Engineering Design Workshop",
+      "catalog_number":"572",
+      "title":"Air Pollution Control",
       "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":62,
-      "instructors":[
-        "Elkamel,Ali"
-      ],
-      "building":"E6",
-      "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:17-05:00"
-    },
-    {
-      "class_number":4638,
-      "subject":"CHE",
-      "catalog_number":"482",
-      "title":"Chemical Engineering Design Workshop",
-      "section":"PRJ 101",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":62,
-      "instructors":[
-        "Elkamel,Ali"
-      ],
-      "building":"E6",
-      "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:17-05:00"
-    },
-    {
-      "class_number":5611,
-      "subject":"MATH",
-      "catalog_number":"218",
-      "title":"Differential Equations for Engineers",
-      "section":"LEC 001",
-      "weekdays":"T",
+      "weekdays":"W",
       "start_time":"12:30",
-      "end_time":"14:20",
+      "end_time":"13:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":67,
+      "enrollment_total":50,
       "instructors":[
-        "Speziale,Sean"
+        "Anderson,William A."
       ],
       "building":"E6",
       "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:13-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:24-05:00"
     },
     {
-      "class_number":5611,
-      "subject":"MATH",
-      "catalog_number":"218",
-      "title":"Differential Equations for Engineers",
+      "class_number":5275,
+      "subject":"CHE",
+      "catalog_number":"614",
+      "title":"Capillary and Transport Phenomena in Porous Media",
       "section":"LEC 001",
       "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"10:20",
+      "start_time":"13:30",
+      "end_time":"15:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":67,
+      "enrollment_total":20,
       "instructors":[
-        "Vass,Jozsef"
+        "Leonenko,Iouri (Yuri)"
       ],
       "building":"E6",
       "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:13-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:48-05:00"
     },
     {
-      "class_number":5614,
-      "subject":"MATH",
-      "catalog_number":"218",
-      "title":"Differential Equations for Engineers",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"10:30",
-      "end_time":"11:20",
+      "class_number":5276,
+      "subject":"CHE",
+      "catalog_number":"672",
+      "title":"Air Pollution Control",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":67,
+      "enrollment_total":20,
       "instructors":[
-        
+        "Anderson,William A."
       ],
       "building":"E6",
       "room":"2024",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:13-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:49-05:00"
+    },
+    {
+      "class_number":5276,
+      "subject":"CHE",
+      "catalog_number":"672",
+      "title":"Air Pollution Control",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Anderson,William A."
+      ],
+      "building":"E6",
+      "room":"2024",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:49-05:00"
     }
   ]
 }

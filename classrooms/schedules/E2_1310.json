@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2501,
-    "timestamp":1415081569,
+    "requests":5374,
+    "timestamp":1420353819,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,227 +11,7 @@
   },
   "data":[
     {
-      "class_number":7785,
-      "subject":"BME",
-      "catalog_number":"101L",
-      "title":"Comupter-Aided Design",
-      "section":"LAB 001",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":42,
-      "instructors":[
-        "Kazemzadeh,Farnoud"
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:02-05:00"
-    },
-    {
-      "class_number":7786,
-      "subject":"BME",
-      "catalog_number":"101L",
-      "title":"Comupter-Aided Design",
-      "section":"LEC 101",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":42,
-      "instructors":[
-        "Kazemzadeh,Farnoud"
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:02-05:00"
-    },
-    {
-      "class_number":4528,
-      "subject":"CIVE",
-      "catalog_number":"125",
-      "title":"Civil Engineering Concepts 1",
-      "section":"LAB 101",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":111,
-      "instructors":[
-        "McKillop,Robert"
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:26-05:00"
-    },
-    {
-      "class_number":4528,
-      "subject":"CIVE",
-      "catalog_number":"125",
-      "title":"Civil Engineering Concepts 1",
-      "section":"LAB 101",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"17:20",
-      "start_date":"10\/23",
-      "end_date":"12\/01",
-      "enrollment_total":111,
-      "instructors":[
-        "McKillop,Robert"
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:26-05:00"
-    },
-    {
-      "class_number":4813,
-      "subject":"CIVE",
-      "catalog_number":"125",
-      "title":"Civil Engineering Concepts 1",
-      "section":"TUT 201",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":111,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:26-05:00"
-    },
-    {
-      "class_number":4917,
-      "subject":"ECE",
-      "catalog_number":"140",
-      "title":"Linear Circuits",
-      "section":"LAB 201",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":115,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:50-05:00"
-    },
-    {
-      "class_number":4918,
-      "subject":"ECE",
-      "catalog_number":"140",
-      "title":"Linear Circuits",
-      "section":"LAB 202",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":79,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:50-05:00"
-    },
-    {
-      "class_number":4919,
-      "subject":"ECE",
-      "catalog_number":"140",
-      "title":"Linear Circuits",
-      "section":"LAB 203",
-      "weekdays":"F",
-      "start_time":"15:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":75,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:50-05:00"
-    },
-    {
-      "class_number":4920,
-      "subject":"ECE",
-      "catalog_number":"140",
-      "title":"Linear Circuits",
-      "section":"LAB 204",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":73,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:50-05:00"
-    },
-    {
-      "class_number":4987,
-      "subject":"ECE",
-      "catalog_number":"140",
-      "title":"Linear Circuits",
-      "section":"LAB 205",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":79,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:50-05:00"
-    },
-    {
-      "class_number":5163,
-      "subject":"ECE",
-      "catalog_number":"140",
-      "title":"Linear Circuits",
-      "section":"LAB 206",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":102,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:50-05:00"
-    },
-    {
-      "class_number":4739,
+      "class_number":5047,
       "subject":"GENE",
       "catalog_number":"119",
       "title":"Problems Seminar",
@@ -247,11 +27,11 @@
       ],
       "building":"E2",
       "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:29-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
     },
     {
-      "class_number":4740,
+      "class_number":5048,
       "subject":"GENE",
       "catalog_number":"119",
       "title":"Problems Seminar",
@@ -267,11 +47,11 @@
       ],
       "building":"E2",
       "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:29-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
     },
     {
-      "class_number":4741,
+      "class_number":5049,
       "subject":"GENE",
       "catalog_number":"119",
       "title":"Problems Seminar",
@@ -287,11 +67,11 @@
       ],
       "building":"E2",
       "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:29-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
     },
     {
-      "class_number":4742,
+      "class_number":5050,
       "subject":"GENE",
       "catalog_number":"119",
       "title":"Problems Seminar",
@@ -307,18 +87,18 @@
       ],
       "building":"E2",
       "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:29-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
     },
     {
-      "class_number":4743,
+      "class_number":5051,
       "subject":"GENE",
       "catalog_number":"119",
       "title":"Problems Seminar",
       "section":"SEM 005",
       "weekdays":"W",
-      "start_time":"19:30",
-      "end_time":"21:20",
+      "start_time":"18:30",
+      "end_time":"20:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":0,
@@ -327,18 +107,18 @@
       ],
       "building":"E2",
       "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:29-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
     },
     {
-      "class_number":4744,
+      "class_number":5052,
       "subject":"GENE",
       "catalog_number":"119",
       "title":"Problems Seminar",
       "section":"SEM 006",
       "weekdays":"W",
-      "start_time":"19:30",
-      "end_time":"21:20",
+      "start_time":"18:30",
+      "end_time":"20:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":0,
@@ -347,11 +127,11 @@
       ],
       "building":"E2",
       "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:29-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
     },
     {
-      "class_number":4745,
+      "class_number":5053,
       "subject":"GENE",
       "catalog_number":"119",
       "title":"Problems Seminar",
@@ -367,11 +147,11 @@
       ],
       "building":"E2",
       "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:29-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
     },
     {
-      "class_number":4746,
+      "class_number":5054,
       "subject":"GENE",
       "catalog_number":"119",
       "title":"Problems Seminar",
@@ -387,568 +167,168 @@
       ],
       "building":"E2",
       "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:29-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
     },
     {
-      "class_number":4661,
+      "class_number":4683,
       "subject":"GENE",
-      "catalog_number":"121",
-      "title":"Digital Computation",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":67,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:29-05:00"
-    },
-    {
-      "class_number":4891,
-      "subject":"GENE",
-      "catalog_number":"121",
-      "title":"Digital Computation",
-      "section":"TUT 102",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":67,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:29-05:00"
-    },
-    {
-      "class_number":5436,
-      "subject":"GEOG",
-      "catalog_number":"319",
-      "title":"Economic Analyses for Regional Planning",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:33-05:00"
-    },
-    {
-      "class_number":4567,
-      "subject":"ME",
-      "catalog_number":"100",
-      "title":"Introduction to Mechanical Engineering Practice 1",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
       "section":"LAB 101",
       "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":81,
+      "instructors":[
+        "Dabbagh,Mohamed-Yahia"
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":4684,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LAB 102",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":127,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":4846,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LAB 103",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":89,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":5144,
+      "subject":"GENE",
+      "catalog_number":"123",
+      "title":"Electrical Engineering",
+      "section":"LAB 104",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":116,
+      "instructors":[
+        
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:16-05:00"
+    },
+    {
+      "class_number":7434,
+      "subject":"ME",
+      "catalog_number":"101",
+      "title":"Introduction to Mechanical Engineering Practice 2",
+      "section":"LAB 201",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        "Trivett,Andrew"
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:12-05:00"
+    },
+    {
+      "class_number":7435,
+      "subject":"ME",
+      "catalog_number":"101",
+      "title":"Introduction to Mechanical Engineering Practice 2",
+      "section":"LAB 202",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        "Trivett,Andrew"
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:12-05:00"
+    },
+    {
+      "class_number":7531,
+      "subject":"MTE",
+      "catalog_number":"120",
+      "title":"Circuits",
+      "section":"LAB 101",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":104,
+      "instructors":[
+        "El Shatshat,Ramadan A"
+      ],
+      "building":"E2",
+      "room":"1310",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
+    },
+    {
+      "class_number":7532,
+      "subject":"MTE",
+      "catalog_number":"120",
+      "title":"Circuits",
+      "section":"TUT 201",
+      "weekdays":"W",
       "start_time":"13:30",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":109,
+      "enrollment_total":104,
       "instructors":[
-        
+        "El Shatshat,Ramadan A"
       ],
       "building":"E2",
       "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
-    },
-    {
-      "class_number":4568,
-      "subject":"ME",
-      "catalog_number":"100",
-      "title":"Introduction to Mechanical Engineering Practice 1",
-      "section":"LAB 102",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":102,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
-    },
-    {
-      "class_number":4569,
-      "subject":"ME",
-      "catalog_number":"100",
-      "title":"Introduction to Mechanical Engineering Practice 1",
-      "section":"TUT 201",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
-    },
-    {
-      "class_number":4570,
-      "subject":"ME",
-      "catalog_number":"100",
-      "title":"Introduction to Mechanical Engineering Practice 1",
-      "section":"TUT 202",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":26,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
-    },
-    {
-      "class_number":4571,
-      "subject":"ME",
-      "catalog_number":"100",
-      "title":"Introduction to Mechanical Engineering Practice 1",
-      "section":"TUT 203",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":27,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
-    },
-    {
-      "class_number":4572,
-      "subject":"ME",
-      "catalog_number":"100",
-      "title":"Introduction to Mechanical Engineering Practice 1",
-      "section":"TUT 204",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":27,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
-    },
-    {
-      "class_number":4704,
-      "subject":"ME",
-      "catalog_number":"100",
-      "title":"Introduction to Mechanical Engineering Practice 1",
-      "section":"TUT 205",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
-    },
-    {
-      "class_number":4705,
-      "subject":"ME",
-      "catalog_number":"100",
-      "title":"Introduction to Mechanical Engineering Practice 1",
-      "section":"TUT 206",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":26,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
-    },
-    {
-      "class_number":4706,
-      "subject":"ME",
-      "catalog_number":"100",
-      "title":"Introduction to Mechanical Engineering Practice 1",
-      "section":"TUT 207",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":27,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
-    },
-    {
-      "class_number":4707,
-      "subject":"ME",
-      "catalog_number":"100",
-      "title":"Introduction to Mechanical Engineering Practice 1",
-      "section":"TUT 208",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
-    },
-    {
-      "class_number":4662,
-      "subject":"MTE",
-      "catalog_number":"100",
-      "title":"Mechatronics Engineering",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":102,
-      "instructors":[
-        "Melek,William"
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:22-05:00"
-    },
-    {
-      "class_number":8156,
-      "subject":"MTE",
-      "catalog_number":"100",
-      "title":"Mechatronics Engineering",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"17:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":92,
-      "instructors":[
-        "Melek,William"
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:22-05:00"
-    },
-    {
-      "class_number":4663,
-      "subject":"MTE",
-      "catalog_number":"100",
-      "title":"Mechatronics Engineering",
-      "section":"LAB 101",
-      "weekdays":"T",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":102,
-      "instructors":[
-        "Baleshta,James Robert"
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:22-05:00"
-    },
-    {
-      "class_number":8158,
-      "subject":"MTE",
-      "catalog_number":"100",
-      "title":"Mechatronics Engineering",
-      "section":"LAB 102",
-      "weekdays":"W",
-      "start_time":"18:30",
-      "end_time":"19:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":92,
-      "instructors":[
-        "Baleshta,James Robert"
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:22-05:00"
-    },
-    {
-      "class_number":4664,
-      "subject":"MTE",
-      "catalog_number":"100",
-      "title":"Mechatronics Engineering",
-      "section":"TUT 201",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":34,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:22-05:00"
-    },
-    {
-      "class_number":4665,
-      "subject":"MTE",
-      "catalog_number":"100",
-      "title":"Mechatronics Engineering",
-      "section":"TUT 202",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":35,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:22-05:00"
-    },
-    {
-      "class_number":4708,
-      "subject":"MTE",
-      "catalog_number":"100",
-      "title":"Mechatronics Engineering",
-      "section":"TUT 203",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":33,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:22-05:00"
-    },
-    {
-      "class_number":4709,
-      "subject":"MTE",
-      "catalog_number":"100",
-      "title":"Mechatronics Engineering",
-      "section":"TUT 204",
-      "weekdays":"W",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":31,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:22-05:00"
-    },
-    {
-      "class_number":8161,
-      "subject":"MTE",
-      "catalog_number":"100",
-      "title":"Mechatronics Engineering",
-      "section":"TUT 205",
-      "weekdays":"W",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:22-05:00"
-    },
-    {
-      "class_number":8162,
-      "subject":"MTE",
-      "catalog_number":"100",
-      "title":"Mechatronics Engineering",
-      "section":"TUT 206",
-      "weekdays":"W",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":31,
-      "instructors":[
-        
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:22-05:00"
-    },
-    {
-      "class_number":5435,
-      "subject":"PLAN",
-      "catalog_number":"320",
-      "title":"Economic Analyses for Regional Planning",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":34,
-      "instructors":[
-        "Parker,Dawn Cassandra"
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:58-05:00"
-    },
-    {
-      "class_number":7254,
-      "subject":"SE",
-      "catalog_number":"101",
-      "title":"Introduction to Methods of Software Engineering",
-      "section":"LAB 201",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":137,
-      "instructors":[
-        "Morton,Andrew"
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:27-05:00"
-    },
-    {
-      "class_number":4835,
-      "subject":"SYDE",
-      "catalog_number":"101L",
-      "title":"Graphics Laboratory",
-      "section":"LAB 001",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":88,
-      "instructors":[
-        "Kazemzadeh,Farnoud"
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:49-05:00"
-    },
-    {
-      "class_number":8171,
-      "subject":"SYDE",
-      "catalog_number":"101L",
-      "title":"Graphics Laboratory",
-      "section":"LEC 101",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":88,
-      "instructors":[
-        "Kazemzadeh,Farnoud"
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:49-05:00"
-    },
-    {
-      "class_number":4423,
-      "subject":"SYDE",
-      "catalog_number":"121",
-      "title":"Digital Computation",
-      "section":"LAB 201",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":85,
-      "instructors":[
-        "Scott,Stacey"
-      ],
-      "building":"E2",
-      "room":"1310",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:49-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:25-05:00"
     }
   ]
 }

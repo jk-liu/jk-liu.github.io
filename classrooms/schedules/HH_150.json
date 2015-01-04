@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2588,
-    "timestamp":1415081596,
+    "requests":5449,
+    "timestamp":1420353848,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,364 +11,324 @@
   },
   "data":[
     {
-      "class_number":3919,
-      "subject":"ECON",
-      "catalog_number":"421",
-      "title":"Econometrics",
-      "section":"LEC 002",
-      "weekdays":"MW",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":22,
-      "instructors":[
-        "Xu,Dinghai"
-      ],
-      "building":"HH",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:00-05:00"
-    },
-    {
-      "class_number":6562,
-      "subject":"EFAS",
-      "catalog_number":"32",
-      "title":"Academic Skills",
+      "class_number":7544,
+      "subject":"CLAS",
+      "catalog_number":"261",
+      "title":"Great Works: Ancient and Medieval",
       "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"09:00",
-      "end_time":"10:50",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":0,
+      "enrollment_total":8,
       "instructors":[
         
       ],
       "building":"HH",
       "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:00-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:42-05:00"
     },
     {
-      "class_number":3693,
-      "subject":"ENGL",
-      "catalog_number":"108D",
-      "title":"Digital Lives",
-      "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
+      "class_number":3330,
+      "subject":"ECON",
+      "catalog_number":"472",
+      "title":"Senior Honours Essay",
+      "section":"ESS 001",
+      "weekdays":"F",
+      "start_time":"09:00",
+      "end_time":"11:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":37,
+      "enrollment_total":38,
       "instructors":[
-        "Morrison,Aimee"
+        "Nguyen,Trien T"
       ],
       "building":"HH",
       "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:38-05:00"
     },
     {
-      "class_number":3490,
+      "class_number":3721,
       "subject":"ENGL",
-      "catalog_number":"108M",
-      "title":"Youth and Adolescence",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Stock,Danielle"
-      ],
-      "building":"HH",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
-    },
-    {
-      "class_number":7932,
-      "subject":"ENGL",
-      "catalog_number":"109",
-      "title":"Introduction to Academic Writing",
-      "section":"LEC 014",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Garwood,Kimberley Christine"
-      ],
-      "building":"HH",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
-    },
-    {
-      "class_number":3174,
-      "subject":"ENGL",
-      "catalog_number":"109",
-      "title":"Introduction to Academic Writing",
-      "section":"TUT 104",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Lajoie,Jason"
-      ],
-      "building":"HH",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
-    },
-    {
-      "class_number":3538,
-      "subject":"ENGL",
-      "catalog_number":"109",
-      "title":"Introduction to Academic Writing",
-      "section":"TUT 107",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":26,
-      "instructors":[
-        "Cronin,Keely Marie Lynn"
-      ],
-      "building":"HH",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
-    },
-    {
-      "class_number":8282,
-      "subject":"ENGL",
-      "catalog_number":"109",
-      "title":"Introduction to Academic Writing",
-      "section":"TUT 113",
-      "weekdays":"Th",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":22,
-      "instructors":[
-        "Deveau,Danielle"
-      ],
-      "building":"HH",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
-    },
-    {
-      "class_number":3267,
-      "subject":"ENGL",
-      "catalog_number":"292",
-      "title":"Contemporary Issues in Language, Writing, and Rhetoric",
+      "catalog_number":"101B",
+      "title":"Introduction to Rhetorical Studies",
       "section":"LEC 001",
       "weekdays":"MW",
       "start_time":"10:00",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":36,
+      "enrollment_total":30,
       "instructors":[
-        "McMurry,Andrew C."
+        "Dadey,Bruce Alexander"
       ],
       "building":"HH",
       "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:09-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:42-05:00"
     },
     {
-      "class_number":5295,
-      "subject":"ERS",
-      "catalog_number":"375",
-      "title":"Special Readings\/Seminar on Select Topics",
-      "section":"RDG 002",
-      "weekdays":"W",
+      "class_number":3748,
+      "subject":"ENGL",
+      "catalog_number":"104",
+      "title":"Rhetoric in Popular Culture",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Bourget-Fogarty,Galen"
+      ],
+      "building":"HH",
+      "room":"150",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:42-05:00"
+    },
+    {
+      "class_number":4047,
+      "subject":"ENGL",
+      "catalog_number":"108A",
+      "title":"The Superhero",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Deman,Jonathon Andrew"
+      ],
+      "building":"HH",
+      "room":"150",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:42-05:00"
+    },
+    {
+      "class_number":4048,
+      "subject":"ENGL",
+      "catalog_number":"108D",
+      "title":"Digital Lives",
+      "section":"LEC 001",
+      "weekdays":"TTh",
       "start_time":"13:00",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        
-      ],
-      "building":"HH",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:16-05:00"
-    },
-    {
-      "class_number":5785,
-      "subject":"MATH",
-      "catalog_number":"117",
-      "title":"Calculus 1 for Engineering",
-      "section":"TUT 102",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
       "enrollment_total":36,
       "instructors":[
+        "Coleman,Beth"
+      ],
+      "building":"HH",
+      "room":"150",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:43-05:00"
+    },
+    {
+      "class_number":3905,
+      "subject":"ENGL",
+      "catalog_number":"392B",
+      "title":"Visual Rhetoric",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Coleman,Beth"
+      ],
+      "building":"HH",
+      "room":"150",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:52-05:00"
+    },
+    {
+      "class_number":5488,
+      "subject":"ENVS",
+      "catalog_number":"469",
+      "title":"Landscape Ecology, Restoration and Rehabilitation",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Drescher,Michael"
+      ],
+      "building":"HH",
+      "room":"150",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:58-05:00"
+    },
+    {
+      "class_number":7420,
+      "subject":"PHIL",
+      "catalog_number":"250A",
+      "title":"Great Works: Ancient and Medieval",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
         
       ],
       "building":"HH",
       "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:59-05:00"
     },
     {
-      "class_number":7999,
-      "subject":"PHIL",
-      "catalog_number":"265",
-      "title":"The Existentialist Experience",
-      "section":"LEC 001",
-      "weekdays":"M",
+      "class_number":4201,
+      "subject":"PSCI",
+      "catalog_number":"150",
+      "title":"Politics II: The Global Politics of Who Gets What",
+      "section":"DIS 108",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        
+      ],
+      "building":"HH",
+      "room":"150",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:20-05:00"
+    },
+    {
+      "class_number":7644,
+      "subject":"SPCOM",
+      "catalog_number":"100",
+      "title":"Interpersonal Communication",
+      "section":"LEC 003",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":27,
+      "instructors":[
+        "Moll,Sorouja"
+      ],
+      "building":"HH",
+      "room":"150",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    },
+    {
+      "class_number":8094,
+      "subject":"ENGL",
+      "catalog_number":"789",
+      "title":"Writing Studies",
+      "section":"SEM 001",
+      "weekdays":"W",
       "start_time":"18:30",
       "end_time":"21:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":25,
+      "enrollment_total":15,
       "instructors":[
-        "Haydon,Nathan Joseph"
+        "Condon,Frances"
       ],
       "building":"HH",
       "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:48-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:20-05:00"
     },
     {
-      "class_number":8003,
-      "subject":"PHIL",
-      "catalog_number":"386",
-      "title":"19th-Century Philosophy",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"17:00",
-      "end_time":"19:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        "Callaghan,Gerry"
-      ],
-      "building":"HH",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:49-05:00"
-    },
-    {
-      "class_number":8170,
-      "subject":"ENGL",
-      "catalog_number":"793",
-      "title":"History of Rhetoric",
-      "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        "Dolmage,Jay Timothy"
-      ],
-      "building":"HH",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:27-05:00"
-    },
-    {
-      "class_number":5470,
+      "class_number":5508,
       "subject":"GEOG",
-      "catalog_number":"619",
-      "title":"Regional Planning Economic and Investment Analysis",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Knafelc,Paul"
-      ],
-      "building":"HH",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:31-05:00"
-    },
-    {
-      "class_number":5469,
-      "subject":"LED",
-      "catalog_number":"619",
-      "title":"Regional Planning Economic and Investment Analysis",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Knafelc,Paul"
-      ],
-      "building":"HH",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:46-05:00"
-    },
-    {
-      "class_number":5468,
-      "subject":"PLAN",
-      "catalog_number":"619",
-      "title":"Regional Planning Economic and Investment Analysis",
-      "section":"LEC 001",
-      "weekdays":"F",
+      "catalog_number":"613",
+      "title":"Regional Development Principles and Practice",
+      "section":"SEM 001",
+      "weekdays":"W",
       "start_time":"11:30",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":3,
       "instructors":[
-        "Knafelc,Paul"
+        "Vinodrai,Tara"
       ],
       "building":"HH",
       "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:59-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:26-05:00"
     },
     {
-      "class_number":8465,
-      "subject":"TOUR",
-      "catalog_number":"603",
-      "title":"Sustainable Tourism",
+      "class_number":5421,
+      "subject":"LED",
+      "catalog_number":"613",
+      "title":"Regional Development Principles and Practice",
       "section":"SEM 001",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"17:20",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":6,
+      "enrollment_total":10,
       "instructors":[
-        "Nepal,Sanjay"
+        "Vinodrai,Tara"
       ],
       "building":"HH",
       "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:18-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:43-05:00"
+    },
+    {
+      "class_number":5381,
+      "subject":"PLAN",
+      "catalog_number":"613",
+      "title":"Regional Development Principles and Practice",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Vinodrai,Tara"
+      ],
+      "building":"HH",
+      "room":"150",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:02-05:00"
+    },
+    {
+      "class_number":5489,
+      "subject":"PLAN",
+      "catalog_number":"669",
+      "title":"Landscape Restoration",
+      "section":"WSP 001",
+      "weekdays":"M",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Drescher,Michael"
+      ],
+      "building":"HH",
+      "room":"150",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:03-05:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2541,
-    "timestamp":1415081581,
+    "requests":5407,
+    "timestamp":1420353834,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,24 +11,24 @@
   },
   "data":[
     {
-      "class_number":3362,
+      "class_number":3915,
       "subject":"FINE",
-      "catalog_number":"230",
-      "title":"Printmaking",
+      "catalog_number":"231",
+      "title":"Mixed Multiples",
       "section":"STU 001",
-      "weekdays":"TTh",
-      "start_time":"09:30",
-      "end_time":"11:50",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"15:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":17,
+      "enrollment_total":13,
       "instructors":[
-        "Haas,Kevin"
+        "Cooper,Tara"
       ],
       "building":"ECH",
       "room":"1231",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:20-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:04-05:00"
     }
   ]
 }

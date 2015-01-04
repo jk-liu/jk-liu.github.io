@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2449,
-    "timestamp":1415081552,
+    "requests":5325,
+    "timestamp":1420353802,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,34 +11,14 @@
   },
   "data":[
     {
-      "class_number":6885,
+      "class_number":7055,
       "subject":"CHEM",
       "catalog_number":"220L",
       "title":"Analytical Chemistry Lab 1",
       "section":"LAB 001",
-      "weekdays":"M",
+      "weekdays":"W",
       "start_time":"14:30",
       "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Flatt,Heide"
-      ],
-      "building":"C2",
-      "room":"273",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:21-05:00"
-    },
-    {
-      "class_number":6886,
-      "subject":"CHEM",
-      "catalog_number":"220L",
-      "title":"Analytical Chemistry Lab 1",
-      "section":"LAB 002",
-      "weekdays":"T",
-      "start_time":"09:30",
-      "end_time":"12:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":23,
@@ -47,128 +27,28 @@
       ],
       "building":"C2",
       "room":"273",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:21-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:27-05:00"
     },
     {
-      "class_number":6887,
+      "class_number":6599,
       "subject":"CHEM",
-      "catalog_number":"220L",
-      "title":"Analytical Chemistry Lab 1",
-      "section":"LAB 003",
-      "weekdays":"T",
+      "catalog_number":"224L",
+      "title":"Analytical Chemistry Laboratory 2",
+      "section":"LAB 001",
+      "weekdays":"M",
       "start_time":"14:30",
-      "end_time":"17:20",
+      "end_time":"20:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":22,
+      "enrollment_total":24,
       "instructors":[
         "Flatt,Heide"
       ],
       "building":"C2",
       "room":"273",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:21-05:00"
-    },
-    {
-      "class_number":6888,
-      "subject":"CHEM",
-      "catalog_number":"220L",
-      "title":"Analytical Chemistry Lab 1",
-      "section":"LAB 004",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Flatt,Heide"
-      ],
-      "building":"C2",
-      "room":"273",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:21-05:00"
-    },
-    {
-      "class_number":6889,
-      "subject":"CHEM",
-      "catalog_number":"220L",
-      "title":"Analytical Chemistry Lab 1",
-      "section":"LAB 005",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Flatt,Heide"
-      ],
-      "building":"C2",
-      "room":"273",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:21-05:00"
-    },
-    {
-      "class_number":8007,
-      "subject":"CHEM",
-      "catalog_number":"220L",
-      "title":"Analytical Chemistry Lab 1",
-      "section":"LAB 006",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Flatt,Heide"
-      ],
-      "building":"C2",
-      "room":"273",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:21-05:00"
-    },
-    {
-      "class_number":8008,
-      "subject":"CHEM",
-      "catalog_number":"220L",
-      "title":"Analytical Chemistry Lab 1",
-      "section":"LAB 007",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Flatt,Heide"
-      ],
-      "building":"C2",
-      "room":"273",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:21-05:00"
-    },
-    {
-      "class_number":8009,
-      "subject":"CHEM",
-      "catalog_number":"220L",
-      "title":"Analytical Chemistry Lab 1",
-      "section":"LAB 008",
-      "weekdays":"W",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Flatt,Heide"
-      ],
-      "building":"C2",
-      "room":"273",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:21-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:27-05:00"
     }
   ]
 }

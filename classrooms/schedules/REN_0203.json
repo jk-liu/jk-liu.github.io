@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2725,
-    "timestamp":1415081637,
+    "requests":5583,
+    "timestamp":1420353898,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,264 +11,244 @@
   },
   "data":[
     {
-      "class_number":8249,
-      "subject":"BASE",
-      "catalog_number":"32",
-      "title":"Academic Skills",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        
-      ],
-      "building":"REN",
-      "room":"0203",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:49-05:00"
-    },
-    {
-      "class_number":8252,
-      "subject":"BASE",
-      "catalog_number":"34",
-      "title":"Writing Skills",
-      "section":"LEC 002",
-      "weekdays":"F",
-      "start_time":"14:00",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        
-      ],
-      "building":"REN",
-      "room":"0203",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:49-05:00"
-    },
-    {
-      "class_number":8257,
-      "subject":"BASE",
-      "catalog_number":"42",
-      "title":"Academic Skills",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"09:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Morgan,Christine Elizabeth"
-      ],
-      "building":"REN",
-      "room":"0203",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:49-05:00"
-    },
-    {
-      "class_number":8258,
+      "class_number":7802,
       "subject":"BASE",
       "catalog_number":"44",
       "title":"Writing Skills",
       "section":"LEC 001",
       "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"15:50",
+      "start_time":"12:30",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":18,
+      "enrollment_total":21,
       "instructors":[
         
       ],
       "building":"REN",
       "room":"0203",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:49-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
     },
     {
-      "class_number":3177,
-      "subject":"ENGL",
-      "catalog_number":"140R",
-      "title":"The Use of English 1",
+      "class_number":7802,
+      "subject":"BASE",
+      "catalog_number":"44",
+      "title":"Writing Skills",
       "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"11:30",
-      "end_time":"12:50",
+      "weekdays":"Th",
+      "start_time":"13:00",
+      "end_time":"14:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":24,
+      "enrollment_total":21,
       "instructors":[
-        "Vardon,John F"
+        
       ],
       "building":"REN",
       "room":"0203",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:07-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
     },
     {
-      "class_number":6527,
+      "class_number":7804,
+      "subject":"BASE",
+      "catalog_number":"44",
+      "title":"Writing Skills",
+      "section":"LEC 003",
+      "weekdays":"T",
+      "start_time":"10:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Redmond,Denise"
+      ],
+      "building":"REN",
+      "room":"0203",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
+    },
+    {
+      "class_number":7807,
+      "subject":"BASE",
+      "catalog_number":"46",
+      "title":"Oral Skills",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Gillies,Christine"
+      ],
+      "building":"REN",
+      "room":"0203",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
+    },
+    {
+      "class_number":6439,
+      "subject":"EFAS",
+      "catalog_number":"42",
+      "title":"Academic Skills",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"13:00",
+      "end_time":"14:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        
+      ],
+      "building":"REN",
+      "room":"0203",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":6440,
+      "subject":"EFAS",
+      "catalog_number":"42",
+      "title":"Academic Skills",
+      "section":"LEC 002",
+      "weekdays":"M",
+      "start_time":"10:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Wardell,Margaret"
+      ],
+      "building":"REN",
+      "room":"0203",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":6440,
+      "subject":"EFAS",
+      "catalog_number":"42",
+      "title":"Academic Skills",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Wardell,Margaret"
+      ],
+      "building":"REN",
+      "room":"0203",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":6441,
+      "subject":"EFAS",
+      "catalog_number":"44",
+      "title":"Writing Skills",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Redmond,Denise"
+      ],
+      "building":"REN",
+      "room":"0203",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":6442,
+      "subject":"EFAS",
+      "catalog_number":"44",
+      "title":"Writing Skills",
+      "section":"LEC 002",
+      "weekdays":"Th",
+      "start_time":"10:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Morgan,Christine Elizabeth"
+      ],
+      "building":"REN",
+      "room":"0203",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":6442,
+      "subject":"EFAS",
+      "catalog_number":"44",
+      "title":"Writing Skills",
+      "section":"LEC 002",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Morgan,Christine Elizabeth"
+      ],
+      "building":"REN",
+      "room":"0203",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":6444,
+      "subject":"EFAS",
+      "catalog_number":"46",
+      "title":"Oral Skills",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Hood-Morris,Gregory J"
+      ],
+      "building":"REN",
+      "room":"0203",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:40-05:00"
+    },
+    {
+      "class_number":7838,
       "subject":"ESL",
       "catalog_number":"102R",
       "title":"Error Correction in Academic Writing",
       "section":"LEC 007",
       "weekdays":"MTTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":22,
-      "instructors":[
-        "Wolczuk,Agnieszka"
-      ],
-      "building":"REN",
-      "room":"0203",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:18-05:00"
-    },
-    {
-      "class_number":6428,
-      "subject":"JAPAN",
-      "catalog_number":"102R",
-      "title":"First-Year Japanese 2",
-      "section":"TUT 201",
-      "weekdays":"F",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Shimoda,Fumie"
-      ],
-      "building":"REN",
-      "room":"0203",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:57-05:00"
-    },
-    {
-      "class_number":6544,
-      "subject":"KOREA",
-      "catalog_number":"101R",
-      "title":"First-Year Korean 1",
-      "section":"TUT 205",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":22,
-      "instructors":[
-        "Langdon,Sarah"
-      ],
-      "building":"REN",
-      "room":"0203",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:05-05:00"
-    },
-    {
-      "class_number":7977,
-      "subject":"SDS",
-      "catalog_number":"405R",
-      "title":"Cosmopolitanism and Social Development",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        "Blokhuis,Jason C."
-      ],
-      "building":"REN",
-      "room":"0203",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:26-05:00"
-    },
-    {
-      "class_number":8228,
-      "subject":"SI",
-      "catalog_number":"102R",
-      "title":"Introduction to Arabic 2",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        "Al Ali,Kanan"
-      ],
-      "building":"REN",
-      "room":"0203",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:29-05:00"
-    },
-    {
-      "class_number":6452,
-      "subject":"ESL",
-      "catalog_number":"602R",
-      "title":"Scholarly Writing in English",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Rehm,Stefan"
-      ],
-      "building":"REN",
-      "room":"0203",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:28-05:00"
-    },
-    {
-      "class_number":6479,
-      "subject":"ESL",
-      "catalog_number":"602R",
-      "title":"Scholarly Writing in English",
-      "section":"LEC 002",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Oczkowski,Nancy"
-      ],
-      "building":"REN",
-      "room":"0203",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:28-05:00"
-    },
-    {
-      "class_number":6479,
-      "subject":"ESL",
-      "catalog_number":"602R",
-      "title":"Scholarly Writing in English",
-      "section":"LEC 002",
-      "weekdays":"M",
       "start_time":"08:30",
-      "end_time":"11:20",
+      "end_time":"09:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":21,
+      "enrollment_total":10,
       "instructors":[
-        "Oczkowski,Nancy"
+        "Pop,Maria Victoria"
       ],
       "building":"REN",
       "room":"0203",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:28-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
     }
   ]
 }

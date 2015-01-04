@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2632,
-    "timestamp":1415081609,
+    "requests":5490,
+    "timestamp":1420353862,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,404 +11,324 @@
   },
   "data":[
     {
-      "class_number":6243,
+      "class_number":5730,
       "subject":"ACTSC",
-      "catalog_number":"445",
-      "title":"Asset-Liability Management",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"09:30",
-      "end_time":"10:20",
+      "catalog_number":"433",
+      "title":"Analysis of Survival Data",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":87,
+      "enrollment_total":54,
       "instructors":[
-        "Hardy,Mary R"
+        "Cai,Jun"
       ],
       "building":"MC",
       "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:12-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:15-05:00"
     },
     {
-      "class_number":6196,
-      "subject":"CS",
-      "catalog_number":"230",
-      "title":"Introduction to Computers and Computer Systems",
+      "class_number":6130,
+      "subject":"AMATH",
+      "catalog_number":"350",
+      "title":"Differential Equations for Business and Economics",
       "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
+      "weekdays":"MWF",
+      "start_time":"13:30",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":113,
       "instructors":[
-        "Lanctot,Kevin"
+        "Harmsworth,David L"
       ],
       "building":"MC",
       "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:36-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:24-05:00"
     },
     {
-      "class_number":6208,
-      "subject":"MATBUS",
-      "catalog_number":"471",
-      "title":"Fixed Income Securities",
+      "class_number":5917,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
       "section":"LEC 001",
       "weekdays":"TTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
+      "start_time":"14:30",
+      "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":57,
+      "enrollment_total":106,
       "instructors":[
-        "Wood,Peter J"
+        "Ahmed,Reaz"
       ],
       "building":"MC",
       "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:08-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
     },
     {
-      "class_number":6299,
-      "subject":"MATH",
-      "catalog_number":"127",
-      "title":"Calculus 1 for the Sciences",
-      "section":"TUT 110",
-      "weekdays":"M",
-      "start_time":"17:30",
-      "end_time":"18:50",
+      "class_number":5928,
+      "subject":"CS",
+      "catalog_number":"136",
+      "title":"Elementary Algorithm Design and Data Abstraction",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":117,
+      "enrollment_total":106,
       "instructors":[
-        
+        "Ahmed,Reaz"
       ],
       "building":"MC",
       "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
     },
     {
-      "class_number":7741,
+      "class_number":6055,
+      "subject":"CS",
+      "catalog_number":"240",
+      "title":"Data Structures and Data Management",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":98,
+      "instructors":[
+        "Biedl,Therese"
+      ],
+      "building":"MC",
+      "room":"4061",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:53-05:00"
+    },
+    {
+      "class_number":5772,
+      "subject":"CS",
+      "catalog_number":"338",
+      "title":"Computer Applications in Business: Databases",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"18:30",
+      "end_time":"19:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":102,
+      "instructors":[
+        "Al-Masri,Eyhab"
+      ],
+      "building":"MC",
+      "room":"4061",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:55-05:00"
+    },
+    {
+      "class_number":5811,
       "subject":"MATH",
-      "catalog_number":"135",
-      "title":"Algebra for Honours Mathematics",
-      "section":"LEC 009",
+      "catalog_number":"128",
+      "title":"Calculus 2 for the Sciences",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Loo,Clinton"
+      ],
+      "building":"MC",
+      "room":"4061",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5814,
+      "subject":"MATH",
+      "catalog_number":"128",
+      "title":"Calculus 2 for the Sciences",
+      "section":"LEC 004",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":120,
+      "instructors":[
+        "Mazowita,Matthew"
+      ],
+      "building":"MC",
+      "room":"4061",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
+    },
+    {
+      "class_number":5984,
+      "subject":"MATH",
+      "catalog_number":"128",
+      "title":"Calculus 2 for the Sciences",
+      "section":"LEC 005",
       "weekdays":"MWF",
       "start_time":"08:30",
       "end_time":"09:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":118,
+      "enrollment_total":77,
       "instructors":[
-        "Akash,Mukto"
+        "Smith,Paula T."
       ],
       "building":"MC",
       "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:12-05:00"
-    },
-    {
-      "class_number":5691,
-      "subject":"MATH",
-      "catalog_number":"136",
-      "title":"Linear Algebra 1 for Honours Mathematics",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":121,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:12-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
     },
     {
       "class_number":6127,
       "subject":"MATH",
-      "catalog_number":"136",
-      "title":"Linear Algebra 1 for Honours Mathematics",
-      "section":"TUT 103",
+      "catalog_number":"128",
+      "title":"Calculus 2 for the Sciences",
+      "section":"TUT 106",
       "weekdays":"M",
-      "start_time":"16:30",
-      "end_time":"17:20",
+      "start_time":"17:30",
+      "end_time":"18:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":100,
+      "enrollment_total":120,
       "instructors":[
         
       ],
       "building":"MC",
       "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:12-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
     },
     {
-      "class_number":5894,
+      "class_number":5985,
       "subject":"MATH",
-      "catalog_number":"237",
-      "title":"Calculus 3 for Honours Mathematics",
-      "section":"LEC 004",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":115,
-      "instructors":[
-        "Vinette,Francine"
-      ],
-      "building":"MC",
-      "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:13-05:00"
-    },
-    {
-      "class_number":5762,
-      "subject":"MATH",
-      "catalog_number":"239",
-      "title":"Introduction to Combinatorics",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
       "section":"LEC 003",
       "weekdays":"MWF",
       "start_time":"11:30",
       "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":120,
+      "enrollment_total":89,
       "instructors":[
-        "Postle,Luke"
+        "Akash,Mukto"
       ],
       "building":"MC",
       "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:13-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
     },
     {
-      "class_number":5761,
+      "class_number":5820,
       "subject":"MATH",
-      "catalog_number":"239",
-      "title":"Introduction to Combinatorics",
-      "section":"TUT 102",
-      "weekdays":"F",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
+      "section":"TUT 101",
+      "weekdays":"T",
       "start_time":"16:30",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":102,
+      "enrollment_total":66,
       "instructors":[
         
       ],
       "building":"MC",
       "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:13-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
     },
     {
-      "class_number":5763,
+      "class_number":5947,
       "subject":"MATH",
-      "catalog_number":"239",
-      "title":"Introduction to Combinatorics",
-      "section":"TUT 103",
-      "weekdays":"F",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":120,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:13-05:00"
-    },
-    {
-      "class_number":6287,
-      "subject":"MATH",
-      "catalog_number":"239",
-      "title":"Introduction to Combinatorics",
-      "section":"TUT 104",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":119,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:13-05:00"
-    },
-    {
-      "class_number":4802,
-      "subject":"MTE",
-      "catalog_number":"400A",
-      "title":"Seminar",
-      "section":"SEM 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":112,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:23-05:00"
-    },
-    {
-      "class_number":6289,
-      "subject":"STAT",
-      "catalog_number":"202",
-      "title":"Introductory Statistics for Scientists",
+      "catalog_number":"135",
+      "title":"Algebra for Honours Mathematics",
       "section":"TUT 102",
-      "weekdays":"Th",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":111,
-      "instructors":[
-        "Stevens,Nathaniel Tyler"
-      ],
-      "building":"MC",
-      "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:42-05:00"
-    },
-    {
-      "class_number":5735,
-      "subject":"STAT",
-      "catalog_number":"331",
-      "title":"Applied Linear Models",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":78,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:43-05:00"
-    },
-    {
-      "class_number":5860,
-      "subject":"STAT",
-      "catalog_number":"332",
-      "title":"Sampling and Experimental Design",
-      "section":"TUT 101",
       "weekdays":"T",
       "start_time":"10:30",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":124,
+      "enrollment_total":68,
       "instructors":[
-        "Liang,Kun"
+        
       ],
       "building":"MC",
       "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:43-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
     },
     {
-      "class_number":5737,
-      "subject":"STAT",
-      "catalog_number":"333",
-      "title":"Applied Probability",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
+      "class_number":5916,
+      "subject":"MATH",
+      "catalog_number":"138",
+      "title":"Calculus 2 For Honours Mathematics",
+      "section":"LEC 007",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":119,
+      "enrollment_total":63,
       "instructors":[
-        "Li,Pengfei"
+        "Scott,Matthew"
       ],
       "building":"MC",
       "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:43-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
     },
     {
-      "class_number":5741,
-      "subject":"STAT",
-      "catalog_number":"433",
-      "title":"Stochastic Processes",
-      "section":"LEC 001",
-      "weekdays":"MW",
+      "class_number":5843,
+      "subject":"MATH",
+      "catalog_number":"235",
+      "title":"Linear Algebra 2 for Honours Mathematics",
+      "section":"LEC 002",
+      "weekdays":"MWF",
       "start_time":"14:30",
-      "end_time":"15:50",
+      "end_time":"15:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":72,
+      "enrollment_total":120,
       "instructors":[
-        "Shen,Yi"
+        "Wolkowicz,Henry"
       ],
       "building":"MC",
       "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:44-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:11-05:00"
     },
     {
-      "class_number":6244,
+      "class_number":5724,
       "subject":"ACTSC",
-      "catalog_number":"845",
-      "title":"Asset-Liability Management",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":8,
-      "instructors":[
-        "Hardy,Mary R"
-      ],
-      "building":"MC",
-      "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:59-05:00"
-    },
-    {
-      "class_number":5803,
-      "subject":"STAT",
       "catalog_number":"833",
-      "title":"Stochastic Processes",
+      "title":"Analysis of Mortality Data",
       "section":"LEC 001",
       "weekdays":"MW",
-      "start_time":"14:30",
-      "end_time":"15:50",
+      "start_time":"16:00",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":15,
+      "enrollment_total":3,
       "instructors":[
-        "Shen,Yi"
+        "Cai,Jun"
       ],
       "building":"MC",
       "room":"4061",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:13-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:39-05:00"
     }
   ]
 }

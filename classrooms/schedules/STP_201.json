@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2750,
-    "timestamp":1415081645,
+    "requests":5606,
+    "timestamp":1420353906,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,27 +11,27 @@
   },
   "data":[
     {
-      "class_number":7581,
-      "subject":"ENVS",
-      "catalog_number":"105",
-      "title":"Environmental Stewardship and Ethics",
+      "class_number":8258,
+      "subject":"ANTH",
+      "catalog_number":"370",
+      "title":"Issues in Contemporary Native Communities in Canada",
       "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"11:30",
-      "end_time":"12:50",
+      "weekdays":"W",
+      "start_time":"14:00",
+      "end_time":"16:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":100,
+      "enrollment_total":9,
       "instructors":[
-        
+        "Freeman,Bonnie"
       ],
       "building":"STP",
       "room":"201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:13-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:29-05:00"
     },
     {
-      "class_number":5414,
+      "class_number":5522,
       "subject":"INDEV",
       "catalog_number":"10",
       "title":"International Development Seminar",
@@ -41,214 +41,174 @@
       "end_time":"11:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":54,
+      "enrollment_total":73,
       "instructors":[
         "Ryder,Grainne"
       ],
       "building":"STP",
       "room":"201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:48-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:41-05:00"
     },
     {
-      "class_number":5382,
+      "class_number":5628,
       "subject":"INDEV",
-      "catalog_number":"100",
-      "title":"Introduction to International Development",
+      "catalog_number":"101",
+      "title":"Issues in International Development",
       "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":105,
-      "instructors":[
-        "Nayak,Prateep"
-      ],
-      "building":"STP",
-      "room":"201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:48-05:00"
-    },
-    {
-      "class_number":5443,
-      "subject":"INDEV",
-      "catalog_number":"100",
-      "title":"Introduction to International Development",
-      "section":"TUT 101",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        "Nayak,Prateep"
-      ],
-      "building":"STP",
-      "room":"201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:48-05:00"
-    },
-    {
-      "class_number":5444,
-      "subject":"INDEV",
-      "catalog_number":"100",
-      "title":"Introduction to International Development",
-      "section":"TUT 102",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        "Nayak,Prateep"
-      ],
-      "building":"STP",
-      "room":"201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:48-05:00"
-    },
-    {
-      "class_number":5445,
-      "subject":"INDEV",
-      "catalog_number":"100",
-      "title":"Introduction to International Development",
-      "section":"TUT 103",
       "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":26,
-      "instructors":[
-        "Nayak,Prateep"
-      ],
-      "building":"STP",
-      "room":"201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:48-05:00"
-    },
-    {
-      "class_number":5446,
-      "subject":"INDEV",
-      "catalog_number":"100",
-      "title":"Introduction to International Development",
-      "section":"TUT 104",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Nayak,Prateep"
-      ],
-      "building":"STP",
-      "room":"201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:48-05:00"
-    },
-    {
-      "class_number":5523,
-      "subject":"INDEV",
-      "catalog_number":"200",
-      "title":"The Political Economy of Development",
-      "section":"LEC 001",
-      "weekdays":"MW",
       "start_time":"13:00",
-      "end_time":"14:20",
+      "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":39,
+      "enrollment_total":64,
       "instructors":[
-        "Swatuk,Larry L.A."
+        "Nayak,Prateep"
       ],
       "building":"STP",
       "room":"201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:48-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:42-05:00"
     },
     {
-      "class_number":5415,
+      "class_number":5497,
       "subject":"INDEV",
-      "catalog_number":"300",
-      "title":"Culture and Ethics",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"09:30",
-      "end_time":"10:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Seirlis,Julia"
-      ],
-      "building":"STP",
-      "room":"201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:48-05:00"
-    },
-    {
-      "class_number":5416,
-      "subject":"INDEV",
-      "catalog_number":"302",
-      "title":"Development Agents",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"15:00",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Frayne,Bruce"
-      ],
-      "building":"STP",
-      "room":"201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:48-05:00"
-    },
-    {
-      "class_number":5452,
-      "subject":"INDEV",
-      "catalog_number":"387",
-      "title":"Global Cities in Global Development",
+      "catalog_number":"202",
+      "title":"Accounting for Development Organizations",
       "section":"LEC 001",
       "weekdays":"T",
-      "start_time":"14:00",
-      "end_time":"16:50",
+      "start_time":"14:30",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":24,
       "instructors":[
-        "Frayne,Bruce"
+        "Stirbet,Hari"
       ],
       "building":"STP",
       "room":"201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:48-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:42-05:00"
     },
     {
-      "class_number":8388,
-      "subject":"WATER",
-      "catalog_number":"602",
-      "title":"Integrated Water Management Project",
-      "section":"SEM 001",
-      "weekdays":"Th",
-      "start_time":"18:00",
-      "end_time":"20:50",
+      "class_number":5498,
+      "subject":"INDEV",
+      "catalog_number":"212",
+      "title":"Problem-solving for Development",
+      "section":"WSP 001",
+      "weekdays":"W",
+      "start_time":"09:00",
+      "end_time":"11:50",
       "start_date":null,
       "end_date":null,
       "enrollment_total":26,
       "instructors":[
-        "Servos,Mark"
+        "Singh,Simron"
       ],
       "building":"STP",
       "room":"201",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:20-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:42-05:00"
+    },
+    {
+      "class_number":5523,
+      "subject":"INDEV",
+      "catalog_number":"303",
+      "title":"Marketing and Communication for Development Agents",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:00",
+      "end_time":"11:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Ford,Victoria"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:42-05:00"
+    },
+    {
+      "class_number":5567,
+      "subject":"INDEV",
+      "catalog_number":"308",
+      "title":"Introduction to Social Entrepreneurship",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Stirbet,Hari"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:42-05:00"
+    },
+    {
+      "class_number":8257,
+      "subject":"NATST",
+      "catalog_number":"370",
+      "title":"Issues in Contemporary Native Communities in Canada",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"14:00",
+      "end_time":"16:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Freeman,Bonnie"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:33-05:00"
+    },
+    {
+      "class_number":7954,
+      "subject":"PHIL",
+      "catalog_number":"237",
+      "title":"Introduction to the Philosophy of Religion",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Brown,Graham"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:58-05:00"
+    },
+    {
+      "class_number":8269,
+      "subject":"RS",
+      "catalog_number":"261",
+      "title":"Introduction to the Philosophy of Religion",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"09:00",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Brown,Graham"
+      ],
+      "building":"STP",
+      "room":"201",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:46-05:00"
     }
   ]
 }

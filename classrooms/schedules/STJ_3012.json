@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2742,
-    "timestamp":1415081643,
+    "requests":5598,
+    "timestamp":1420353903,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,304 +11,164 @@
   },
   "data":[
     {
-      "class_number":8248,
-      "subject":"BASE",
-      "catalog_number":"32",
-      "title":"Academic Skills",
-      "section":"LEC 003",
-      "weekdays":"MW",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        
-      ],
-      "building":"STJ",
-      "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:49-05:00"
-    },
-    {
-      "class_number":8248,
-      "subject":"BASE",
-      "catalog_number":"32",
-      "title":"Academic Skills",
-      "section":"LEC 003",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        
-      ],
-      "building":"STJ",
-      "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:49-05:00"
-    },
-    {
-      "class_number":8259,
-      "subject":"BASE",
-      "catalog_number":"46",
-      "title":"Oral Skills",
+      "class_number":7801,
+      "subject":"ENGL",
+      "catalog_number":"486",
+      "title":"Topics in Literatures Modern to Contemporary",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        
-      ],
-      "building":"STJ",
-      "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:49-05:00"
-    },
-    {
-      "class_number":3269,
-      "subject":"ENGL",
-      "catalog_number":"119",
-      "title":"Communications in Mathematics & Computer Science",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Humphreys,Sara Megan"
-      ],
-      "building":"STJ",
-      "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
-    },
-    {
-      "class_number":3270,
-      "subject":"ENGL",
-      "catalog_number":"119",
-      "title":"Communications in Mathematics & Computer Science",
-      "section":"LEC 002",
-      "weekdays":"W",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Spielmacher,Mark S"
-      ],
-      "building":"STJ",
-      "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
-    },
-    {
-      "class_number":7717,
-      "subject":"ENGL",
-      "catalog_number":"119",
-      "title":"Communications in Mathematics & Computer Science",
-      "section":"LEC 005",
-      "weekdays":"TF",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        "Humphreys,Sara Megan"
-      ],
-      "building":"STJ",
-      "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
-    },
-    {
-      "class_number":7718,
-      "subject":"ENGL",
-      "catalog_number":"119",
-      "title":"Communications in Mathematics & Computer Science",
-      "section":"LEC 006",
-      "weekdays":"MTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Spielmacher,Mark S"
-      ],
-      "building":"STJ",
-      "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
-    },
-    {
-      "class_number":7719,
-      "subject":"ENGL",
-      "catalog_number":"119",
-      "title":"Communications in Mathematics & Computer Science",
-      "section":"LEC 007",
-      "weekdays":"TF",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Humphreys,Sara Megan"
-      ],
-      "building":"STJ",
-      "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
-    },
-    {
-      "class_number":3420,
-      "subject":"ENGL",
-      "catalog_number":"347",
-      "title":"American Literature Since 1945",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":33,
-      "instructors":[
-        "Wriglesworth,Chad"
-      ],
-      "building":"STJ",
-      "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:10-05:00"
-    },
-    {
-      "class_number":7232,
-      "subject":"HUMSC",
-      "catalog_number":"101",
-      "title":"Great Dialogues: Reflection and Action",
-      "section":"LEC 001",
-      "weekdays":"MTh",
+      "weekdays":"TTh",
       "start_time":"16:00",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":6,
+      "enrollment_total":17,
       "instructors":[
-        "Perrin,David B"
+        "Acton,Carol"
       ],
       "building":"STJ",
       "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:47-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:53-05:00"
     },
     {
-      "class_number":7234,
-      "subject":"HUMSC",
-      "catalog_number":"201",
-      "title":"Great Dialogues: Reason and Faith",
+      "class_number":7511,
+      "subject":"ITAL",
+      "catalog_number":"370",
+      "title":"Women Writers of the Italian Renaissance",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Niccoli,Gabriel A"
+      ],
+      "building":"STJ",
+      "room":"3012",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:53-05:00"
+    },
+    {
+      "class_number":7512,
+      "subject":"ITALST",
+      "catalog_number":"370",
+      "title":"Women Writers of the Italian Renaissance",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Niccoli,Gabriel A"
+      ],
+      "building":"STJ",
+      "room":"3012",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:53-05:00"
+    },
+    {
+      "class_number":4005,
+      "subject":"PHIL",
+      "catalog_number":"118J",
+      "title":"The Moral Life",
       "section":"LEC 001",
       "weekdays":"TTh",
       "start_time":"10:00",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":8,
+      "enrollment_total":20,
       "instructors":[
-        "Greenwood,John Philip Peter"
+        "Tremblay,Bruno"
       ],
       "building":"STJ",
       "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:47-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:56-05:00"
     },
     {
-      "class_number":7226,
-      "subject":"ITAL",
-      "catalog_number":"201",
-      "title":"Intermediate Italian 1",
+      "class_number":7889,
+      "subject":"RS",
+      "catalog_number":"291",
+      "title":"Special Topics",
+      "section":"LEC 002",
+      "weekdays":"M",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Shrubsole,Nicholas"
+      ],
+      "building":"STJ",
+      "room":"3012",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:47-05:00"
+    },
+    {
+      "class_number":7890,
+      "subject":"RS",
+      "catalog_number":"319",
+      "title":"Religion in Canada",
       "section":"LEC 001",
-      "weekdays":"TF",
+      "weekdays":"MTh",
       "start_time":"13:00",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":6,
+      "enrollment_total":9,
+      "instructors":[
+        "Seljak,David A"
+      ],
+      "building":"STJ",
+      "room":"3012",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:47-05:00"
+    },
+    {
+      "class_number":8119,
+      "subject":"SMF",
+      "catalog_number":"308",
+      "title":"Couple and Family Therapy",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "De Santis,Carmela"
+      ],
+      "building":"STJ",
+      "room":"3012",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:57-05:00"
+    },
+    {
+      "class_number":7510,
+      "subject":"WS",
+      "catalog_number":"370",
+      "title":"Women Writers of the Italian Renaissance",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
       "instructors":[
         "Niccoli,Gabriel A"
       ],
       "building":"STJ",
       "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:57-05:00"
-    },
-    {
-      "class_number":4344,
-      "subject":"LS",
-      "catalog_number":"496",
-      "title":"Special Topics in Legal Studies",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":17,
-      "instructors":[
-        "Lackenbauer,Paul Whitney"
-      ],
-      "building":"STJ",
-      "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:07-05:00"
-    },
-    {
-      "class_number":8306,
-      "subject":"HIST",
-      "catalog_number":"622",
-      "title":"Microhistory and the Lost Peoples of Europe",
-      "section":"SEM 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Bednarski,Steven"
-      ],
-      "building":"STJ",
-      "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:37-05:00"
-    },
-    {
-      "class_number":3545,
-      "subject":"HIST",
-      "catalog_number":"761",
-      "title":"British History Minor Area Seminar",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Lackenbauer,Paul Whitney"
-      ],
-      "building":"STJ",
-      "room":"3012",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:39-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:34-05:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2496,
-    "timestamp":1415081568,
+    "requests":5371,
+    "timestamp":1420353818,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,131 +11,31 @@
   },
   "data":[
     {
-      "class_number":3672,
-      "subject":"ANTH",
-      "catalog_number":"202",
-      "title":"Principles of Cultural Anthropology",
+      "class_number":4883,
+      "subject":"CIVE",
+      "catalog_number":"422",
+      "title":"Finite Element Analysis",
       "section":"LEC 001",
-      "weekdays":"TTh",
+      "weekdays":"MW",
       "start_time":"11:30",
       "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":15,
+      "enrollment_total":44,
       "instructors":[
-        "Lo,Adrienne"
+        "Gracie,Robert R"
       ],
       "building":"DWE",
       "room":"3522A",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:34-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:38-05:00"
     },
     {
-      "class_number":4490,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"TUT 110",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Scott,Alison Jean"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4494,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"TUT 113",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Scott,Alison Jean"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4508,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"TUT 124",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Scott,Alison Jean"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":8154,
-      "subject":"ECON",
-      "catalog_number":"405",
-      "title":"Topics in Financial Econometrics",
+      "class_number":6203,
+      "subject":"CS",
+      "catalog_number":"452",
+      "title":"Real-time Programming",
       "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Xu,Dinghai"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:59-05:00"
-    },
-    {
-      "class_number":3646,
-      "subject":"ENGL",
-      "catalog_number":"101B",
-      "title":"Introduction to Rhetorical Studies",
-      "section":"LEC 002",
-      "weekdays":"MWTh",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Dadey,Bruce Alexander"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:05-05:00"
-    },
-    {
-      "class_number":7923,
-      "subject":"ENGL",
-      "catalog_number":"109",
-      "title":"Introduction to Academic Writing",
-      "section":"LEC 005",
       "weekdays":"MTTh",
       "start_time":"16:30",
       "end_time":"17:20",
@@ -143,172 +43,172 @@
       "end_date":null,
       "enrollment_total":25,
       "instructors":[
-        "Savarese,John"
+        "Cowan,William B"
       ],
       "building":"DWE",
       "room":"3522A",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:01-05:00"
     },
     {
-      "class_number":3811,
+      "class_number":8058,
       "subject":"ENGL",
-      "catalog_number":"208K",
-      "title":"Detective Fiction",
+      "catalog_number":"309A",
+      "title":"Classical Rhetoric",
       "section":"LEC 001",
-      "weekdays":"MTTh",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Burr,Lauren"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:07-05:00"
-    },
-    {
-      "class_number":4570,
-      "subject":"ME",
-      "catalog_number":"100",
-      "title":"Introduction to Mechanical Engineering Practice 1",
-      "section":"TUT 202",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":26,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
-    },
-    {
-      "class_number":4618,
-      "subject":"MSCI",
-      "catalog_number":"211",
-      "title":"Organizational Behaviour",
-      "section":"TUT 107",
-      "weekdays":"T",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Alzayat,Ayman"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:20-05:00"
-    },
-    {
-      "class_number":4890,
-      "subject":"MSCI",
-      "catalog_number":"211",
-      "title":"Organizational Behaviour",
-      "section":"TUT 108",
-      "weekdays":"T",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Alzayat,Ayman"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:20-05:00"
-    },
-    {
-      "class_number":4664,
-      "subject":"MTE",
-      "catalog_number":"100",
-      "title":"Mechatronics Engineering",
-      "section":"TUT 201",
-      "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":34,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:22-05:00"
-    },
-    {
-      "class_number":4709,
-      "subject":"MTE",
-      "catalog_number":"100",
-      "title":"Mechatronics Engineering",
-      "section":"TUT 204",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":31,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:22-05:00"
-    },
-    {
-      "class_number":6724,
-      "subject":"PHYS",
-      "catalog_number":"475",
-      "title":"Astrophysics 3 - Galaxies and Cosmology",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Hudson,Michael"
-      ],
-      "building":"DWE",
-      "room":"3522A",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:57-05:00"
-    },
-    {
-      "class_number":3300,
-      "subject":"ECON",
-      "catalog_number":"601",
-      "title":"Microeconomic Theory I",
-      "section":"LEC 001",
-      "weekdays":"MW",
+      "weekdays":"TTh",
       "start_time":"11:30",
       "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":25,
+      "enrollment_total":35,
       "instructors":[
-        "Busch,Lutz-Alexander"
+        "Shakespeare,Robert David"
       ],
       "building":"DWE",
       "room":"3522A",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:24-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:49-05:00"
+    },
+    {
+      "class_number":5043,
+      "subject":"MSCI",
+      "catalog_number":"131",
+      "title":"Work Design and Facilities Planning",
+      "section":"TUT 202",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        "Alumur Alev,Sibel"
+      ],
+      "building":"DWE",
+      "room":"3522A",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:21-05:00"
+    },
+    {
+      "class_number":6528,
+      "subject":"PHYS",
+      "catalog_number":"125",
+      "title":"Physics for Engineers",
+      "section":"TUT 102",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":44,
+      "instructors":[
+        "Jayasundera,Rohan"
+      ],
+      "building":"DWE",
+      "room":"3522A",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:04-05:00"
+    },
+    {
+      "class_number":7450,
+      "subject":"PSYCH",
+      "catalog_number":"391",
+      "title":"Advanced Data Analysis",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Beck,James W"
+      ],
+      "building":"DWE",
+      "room":"3522A",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:34-05:00"
+    },
+    {
+      "class_number":4149,
+      "subject":"SPAN",
+      "catalog_number":"490",
+      "title":"Advanced Translation",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Rozotto,David"
+      ],
+      "building":"DWE",
+      "room":"3522A",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:11-05:00"
+    },
+    {
+      "class_number":6204,
+      "subject":"CS",
+      "catalog_number":"652",
+      "title":"Real-Time Programming",
+      "section":"LEC 001",
+      "weekdays":"MTTh",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Cowan,William B"
+      ],
+      "building":"DWE",
+      "room":"3522A",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:03-05:00"
+    },
+    {
+      "class_number":8204,
+      "subject":"ESL",
+      "catalog_number":"602R",
+      "title":"Scholarly Writing in English",
+      "section":"LEC 002",
+      "weekdays":"MTTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Oczkowski,Nancy"
+      ],
+      "building":"DWE",
+      "room":"3522A",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:23-05:00"
+    },
+    {
+      "class_number":8273,
+      "subject":"ME",
+      "catalog_number":"780",
+      "title":"Special Topics in Mechatronics",
+      "section":"LEC 002",
+      "weekdays":"TTh",
+      "start_time":"09:30",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Tung,James"
+      ],
+      "building":"DWE",
+      "room":"3522A",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:49-05:00"
     }
   ]
 }

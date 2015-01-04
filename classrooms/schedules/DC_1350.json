@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2467,
-    "timestamp":1415081558,
+    "requests":5346,
+    "timestamp":1420353810,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,444 +11,864 @@
   },
   "data":[
     {
-      "class_number":5850,
+      "class_number":5919,
       "subject":"ACTSC",
       "catalog_number":"371",
       "title":"Corporate Finance 1",
-      "section":"TUT 101",
-      "weekdays":"Th",
-      "start_time":"17:30",
-      "end_time":"18:20",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":214,
+      "enrollment_total":201,
       "instructors":[
-        "Tan,Ken S"
+        "Matheson,Brenton James"
       ],
       "building":"DC",
       "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:10-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:15-05:00"
     },
     {
-      "class_number":6049,
+      "class_number":5913,
       "subject":"ACTSC",
       "catalog_number":"372",
       "title":"Corporate Finance 2",
       "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":206,
-      "instructors":[
-        
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:11-05:00"
-    },
-    {
-      "class_number":5636,
-      "subject":"AMATH",
-      "catalog_number":"250",
-      "title":"Introduction to Differential Equations",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":219,
-      "instructors":[
-        "Ingalls,Brian"
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:27-05:00"
-    },
-    {
-      "class_number":6994,
-      "subject":"CHEM",
-      "catalog_number":"209",
-      "title":"Introductory Spectroscopy and Structure",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"18:30",
-      "end_time":"19:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":240,
-      "instructors":[
-        "Hopkins,Scott"
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:20-05:00"
-    },
-    {
-      "class_number":6639,
-      "subject":"CHEM",
-      "catalog_number":"264",
-      "title":"Organic Chemistry 1",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":245,
-      "instructors":[
-        "Chong,Michael J."
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:22-05:00"
-    },
-    {
-      "class_number":6209,
-      "subject":"COMM",
-      "catalog_number":"231",
-      "title":"Commercial and Business Law for Mathematics Students",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"19:00",
-      "end_time":"20:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":217,
-      "instructors":[
-        "Radocchia,Joseph Anthony"
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:31-05:00"
-    },
-    {
-      "class_number":6024,
-      "subject":"CS",
-      "catalog_number":"115",
-      "title":"Introduction to Computer Science 1",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":202,
-      "instructors":[
-        "Sakhnini,Victoria"
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:35-05:00"
-    },
-    {
-      "class_number":6025,
-      "subject":"CS",
-      "catalog_number":"115",
-      "title":"Introduction to Computer Science 1",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":202,
-      "instructors":[
-        "Sakhnini,Victoria"
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:35-05:00"
-    },
-    {
-      "class_number":6028,
-      "subject":"CS",
-      "catalog_number":"115",
-      "title":"Introduction to Computer Science 1",
-      "section":"LEC 004",
-      "weekdays":"WF",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":125,
-      "instructors":[
-        "Case,Lori"
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:35-05:00"
-    },
-    {
-      "class_number":7746,
-      "subject":"CS",
-      "catalog_number":"115",
-      "title":"Introduction to Computer Science 1",
-      "section":"LEC 005",
-      "weekdays":"WF",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":180,
-      "instructors":[
-        "Case,Lori"
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:35-05:00"
-    },
-    {
-      "class_number":3185,
-      "subject":"ECON",
-      "catalog_number":"101",
-      "title":"Introduction to Microeconomics",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":236,
-      "instructors":[
-        "Packalen,Mikko"
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:55-05:00"
-    },
-    {
-      "class_number":3769,
-      "subject":"ECON",
-      "catalog_number":"102",
-      "title":"Introduction to Macroeconomics",
-      "section":"LEC 003",
-      "weekdays":"TTh",
+      "weekdays":"MW",
       "start_time":"11:30",
       "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":208,
+      "enrollment_total":152,
       "instructors":[
-        "Viola,Maria"
+        "Yang,Fan"
       ],
       "building":"DC",
       "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:15-05:00"
     },
     {
-      "class_number":5318,
-      "subject":"GEOG",
-      "catalog_number":"281",
-      "title":"Introduction to Geographic Information Systems (GIS)",
+      "class_number":5731,
+      "subject":"ACTSC",
+      "catalog_number":"446",
+      "title":"Mathematical Models in Finance",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"16:20",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":87,
+      "enrollment_total":150,
       "instructors":[
-        "Tan,Su-Yin"
+        "Li,Bin"
       ],
       "building":"DC",
       "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:32-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:15-05:00"
     },
     {
-      "class_number":4611,
-      "subject":"MSCI",
-      "catalog_number":"211",
-      "title":"Organizational Behaviour",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
+      "class_number":5867,
+      "subject":"ACTSC",
+      "catalog_number":"446",
+      "title":"Mathematical Models in Finance",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":249,
+      "enrollment_total":150,
       "instructors":[
-        "Blake,Clifford G"
+        "Li,Bin"
       ],
       "building":"DC",
       "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:20-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:15-05:00"
     },
     {
-      "class_number":5313,
-      "subject":"PLAN",
-      "catalog_number":"281",
-      "title":"Introduction to Geographic Information Systems (GIS)",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Tan,Su-Yin"
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:58-05:00"
-    },
-    {
-      "class_number":3140,
-      "subject":"PSYCH",
+      "class_number":7604,
+      "subject":"AFM",
       "catalog_number":"101",
-      "title":"Introductory Psychology",
-      "section":"LEC 003",
-      "weekdays":"T",
+      "title":"Introduction to Financial Accounting",
+      "section":"LEC 002",
+      "weekdays":"Th",
       "start_time":"18:30",
       "end_time":"21:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":245,
       "instructors":[
-        "Wehr,Paul"
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:06-05:00"
-    },
-    {
-      "class_number":6288,
-      "subject":"STAT",
-      "catalog_number":"202",
-      "title":"Introductory Statistics for Scientists",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":193,
-      "instructors":[
-        "Stevens,Nathaniel Tyler"
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:42-05:00"
-    },
-    {
-      "class_number":5730,
-      "subject":"STAT",
-      "catalog_number":"230",
-      "title":"Probability",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":245,
-      "instructors":[
-        "Drekic,Steve"
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:43-05:00"
-    },
-    {
-      "class_number":5731,
-      "subject":"STAT",
-      "catalog_number":"230",
-      "title":"Probability",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":247,
-      "instructors":[
-        "Drekic,Steve"
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:43-05:00"
-    },
-    {
-      "class_number":6293,
-      "subject":"STAT",
-      "catalog_number":"231",
-      "title":"Statistics",
-      "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":245,
-      "instructors":[
-        "Ali,Javid"
-      ],
-      "building":"DC",
-      "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:43-05:00"
-    },
-    {
-      "class_number":8231,
-      "subject":"STAT",
-      "catalog_number":"231",
-      "title":"Statistics",
-      "section":"TUT 102",
-      "weekdays":"W",
-      "start_time":"17:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":228,
-      "instructors":[
         
       ],
       "building":"DC",
       "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:43-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:16-05:00"
     },
     {
-      "class_number":5906,
-      "subject":"STAT",
-      "catalog_number":"331",
-      "title":"Applied Linear Models",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"17:30",
-      "end_time":"18:20",
+      "class_number":3505,
+      "subject":"AFM",
+      "catalog_number":"123",
+      "title":"Accounting Information for Managers",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":168,
+      "enrollment_total":0,
       "instructors":[
-        "Zhu,Yeying"
+        "Blake,William Peter Thomas"
       ],
       "building":"DC",
       "room":"1350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:43-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:17-05:00"
+    },
+    {
+      "class_number":3511,
+      "subject":"AFM",
+      "catalog_number":"123",
+      "title":"Accounting Information for Managers",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Blake,William Peter Thomas"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:17-05:00"
+    },
+    {
+      "class_number":3677,
+      "subject":"ARBUS",
+      "catalog_number":"102",
+      "title":"Accounting Information for Managers",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":226,
+      "instructors":[
+        "Blake,William Peter Thomas"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:32-05:00"
+    },
+    {
+      "class_number":3678,
+      "subject":"ARBUS",
+      "catalog_number":"102",
+      "title":"Accounting Information for Managers",
+      "section":"LEC 002",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":159,
+      "instructors":[
+        "Blake,William Peter Thomas"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:32-05:00"
+    },
+    {
+      "class_number":6536,
+      "subject":"BIOL",
+      "catalog_number":"211",
+      "title":"Introductory Vertebrate Zoology",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":152,
+      "instructors":[
+        "Dayeh,Vivian Rashida"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:40-05:00"
+    },
+    {
+      "class_number":6671,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"01\/06",
+      "end_date":"01\/06",
+      "enrollment_total":180,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6671,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
+      "enrollment_total":180,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6671,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":180,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6671,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":180,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6671,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":180,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6671,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":180,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6672,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":173,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6672,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":173,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6672,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":173,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6672,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":173,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6672,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":173,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6672,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"03\/31",
+      "end_date":"03\/31",
+      "enrollment_total":173,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6675,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 107",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"01\/08",
+      "end_date":"01\/08",
+      "enrollment_total":179,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6675,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 107",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"01\/22",
+      "end_date":"01\/22",
+      "enrollment_total":179,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6675,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 107",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
+      "enrollment_total":179,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6675,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 107",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"02\/26",
+      "end_date":"02\/26",
+      "enrollment_total":179,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6675,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 107",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"03\/12",
+      "end_date":"03\/12",
+      "enrollment_total":179,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6675,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 107",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"03\/26",
+      "end_date":"03\/26",
+      "enrollment_total":179,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6676,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 108",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"01\/15",
+      "end_date":"01\/15",
+      "enrollment_total":130,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6676,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 108",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"01\/29",
+      "end_date":"01\/29",
+      "enrollment_total":130,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6676,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 108",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"02\/12",
+      "end_date":"02\/12",
+      "enrollment_total":130,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6676,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 108",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"03\/05",
+      "end_date":"03\/05",
+      "enrollment_total":130,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6676,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 108",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"03\/19",
+      "end_date":"03\/19",
+      "enrollment_total":130,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6676,
+      "subject":"CHEM",
+      "catalog_number":"123",
+      "title":"Chemical Reactions, Equilibria and Kinetics",
+      "section":"TUT 108",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"18:20",
+      "start_date":"04\/02",
+      "end_date":"04\/02",
+      "enrollment_total":130,
+      "instructors":[
+        "Bissonnette,Carey"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
+    },
+    {
+      "class_number":6002,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":213,
+      "instructors":[
+        "Case,Lori"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6004,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":212,
+      "instructors":[
+        "Case,Lori"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":6005,
+      "subject":"CS",
+      "catalog_number":"116",
+      "title":"Introduction to Computer Science 2",
+      "section":"LEC 004",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":173,
+      "instructors":[
+        "Kou,Tian"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:52-05:00"
+    },
+    {
+      "class_number":3309,
+      "subject":"ECON",
+      "catalog_number":"101",
+      "title":"Introduction to Microeconomics",
+      "section":"LEC 003",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":153,
+      "instructors":[
+        "Rajsic,Predrag"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":3698,
+      "subject":"ECON",
+      "catalog_number":"101",
+      "title":"Introduction to Microeconomics",
+      "section":"LEC 004",
+      "weekdays":"TTh",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":167,
+      "instructors":[
+        "Chakraborty,Liton"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":3311,
+      "subject":"ECON",
+      "catalog_number":"102",
+      "title":"Introduction to Macroeconomics",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":239,
+      "instructors":[
+        "Kumase,Wokia-azi"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
+    },
+    {
+      "class_number":6510,
+      "subject":"SCI",
+      "catalog_number":"238",
+      "title":"Introductory Astronomy",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":250,
+      "instructors":[
+        "Afshordi,Niayesh"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:50-05:00"
+    },
+    {
+      "class_number":6214,
+      "subject":"ACTSC",
+      "catalog_number":"846",
+      "title":"Mathematical Models in Finance",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Li,Bin"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:39-05:00"
+    },
+    {
+      "class_number":6215,
+      "subject":"ACTSC",
+      "catalog_number":"846",
+      "title":"Mathematical Models in Finance",
+      "section":"TUT 101",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Li,Bin"
+      ],
+      "building":"DC",
+      "room":"1350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:39-05:00"
     }
   ]
 }

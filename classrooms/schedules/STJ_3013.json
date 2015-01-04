@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2743,
-    "timestamp":1415081643,
+    "requests":5599,
+    "timestamp":1420353904,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,54 +11,74 @@
   },
   "data":[
     {
-      "class_number":7707,
-      "subject":"CLAS",
-      "catalog_number":"461",
-      "title":"Studies in Ancient Philosophy",
-      "section":"SEM 001",
-      "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"14:20",
+      "class_number":3512,
+      "subject":"ENGL",
+      "catalog_number":"336",
+      "title":"Creative Writing 2",
+      "section":"WSP 001",
+      "weekdays":"W",
+      "start_time":"18:00",
+      "end_time":"20:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":2,
+      "enrollment_total":15,
       "instructors":[
-        "Gregoire,Stephanie"
+        "Tacon,Claire"
       ],
       "building":"STJ",
       "room":"3013",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:29-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:50-05:00"
     },
     {
-      "class_number":7708,
+      "class_number":7872,
       "subject":"PHIL",
-      "catalog_number":"403",
-      "title":"Studies in Ancient Philosophy",
+      "catalog_number":"405",
+      "title":"Studies in Modern Philosophy",
       "section":"SEM 001",
-      "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"14:20",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:50",
       "start_date":null,
       "end_date":null,
       "enrollment_total":6,
       "instructors":[
-        "Gregoire,Stephanie"
+        "Zunic,Nikolaj"
       ],
       "building":"STJ",
       "room":"3013",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:49-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:00-05:00"
     },
     {
-      "class_number":7229,
+      "class_number":7888,
+      "subject":"RS",
+      "catalog_number":"291",
+      "title":"Special Topics",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Perrin,David B"
+      ],
+      "building":"STJ",
+      "room":"3013",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:47-05:00"
+    },
+    {
+      "class_number":7140,
       "subject":"SMF",
-      "catalog_number":"460",
-      "title":"Practicum and Professional Ethics",
+      "catalog_number":"461",
+      "title":"Practicum and Applied Theory",
       "section":"SEM 001",
-      "weekdays":"T",
-      "start_time":"17:30",
-      "end_time":"20:20",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":11,
@@ -67,48 +87,68 @@
       ],
       "building":"STJ",
       "room":"3013",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:31-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:58-05:00"
     },
     {
-      "class_number":4143,
-      "subject":"ENGL",
-      "catalog_number":"735",
-      "title":"Studies in Modern British Literature",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Williams,David-Antoine"
-      ],
-      "building":"STJ",
-      "room":"3013",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:26-05:00"
-    },
-    {
-      "class_number":7825,
-      "subject":"ENGL",
-      "catalog_number":"780",
-      "title":"Studies in Genre",
+      "class_number":7150,
+      "subject":"SMF",
+      "catalog_number":"496",
+      "title":"Seminar in Family Studies",
       "section":"SEM 001",
       "weekdays":"M",
       "start_time":"14:30",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":13,
+      "enrollment_total":9,
       "instructors":[
-        "Acton,Carol"
+        "Serafini,Toni"
       ],
       "building":"STJ",
       "room":"3013",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:27-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:58-05:00"
+    },
+    {
+      "class_number":8207,
+      "subject":"HIST",
+      "catalog_number":"611",
+      "title":"War and Society in the Twentieth Century II",
+      "section":"SEM 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Lackenbauer,Paul Whitney"
+      ],
+      "building":"STJ",
+      "room":"3013",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:30-05:00"
+    },
+    {
+      "class_number":8222,
+      "subject":"HIST",
+      "catalog_number":"691B",
+      "title":"Directed Studies",
+      "section":"RDG 001",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Bednarski,Steven"
+      ],
+      "building":"STJ",
+      "room":"3013",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:31-05:00"
     }
   ]
 }

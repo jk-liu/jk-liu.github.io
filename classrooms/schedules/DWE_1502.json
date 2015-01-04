@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2481,
-    "timestamp":1415081563,
+    "requests":5358,
+    "timestamp":1420353814,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,364 +11,384 @@
   },
   "data":[
     {
-      "class_number":8211,
-      "subject":"BET",
-      "catalog_number":"320",
-      "title":"Intro to Commercialization Mgt",
-      "section":"LEC 001",
+      "class_number":7808,
+      "subject":"BASE",
+      "catalog_number":"46",
+      "title":"Oral Skills",
+      "section":"LEC 003",
       "weekdays":"M",
-      "start_time":"08:30",
+      "start_time":"09:30",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":6,
+      "enrollment_total":17,
       "instructors":[
-        "Rose,David George"
+        "Gillies,Christine"
       ],
       "building":"DWE",
       "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:50-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
     },
     {
-      "class_number":4491,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"TUT 111",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Scott,Alison Jean"
-      ],
-      "building":"DWE",
-      "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4495,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"TUT 114",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Scott,Alison Jean"
-      ],
-      "building":"DWE",
-      "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4498,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"TUT 116",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":38,
-      "instructors":[
-        "Scott,Alison Jean"
-      ],
-      "building":"DWE",
-      "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4509,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"TUT 125",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":35,
-      "instructors":[
-        "Scott,Alison Jean"
-      ],
-      "building":"DWE",
-      "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4230,
-      "subject":"ECON",
-      "catalog_number":"487",
-      "title":"Special Studies",
-      "section":"SEM 001",
+      "class_number":6624,
+      "subject":"CHEM",
+      "catalog_number":"433",
+      "title":"Advanced Biochemistry",
+      "section":"LEC 001",
       "weekdays":"MW",
       "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Ferrer,Ana"
-      ],
-      "building":"DWE",
-      "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:00-05:00"
-    },
-    {
-      "class_number":3166,
-      "subject":"ENGL",
-      "catalog_number":"108H",
-      "title":"Isolation and Alienation",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        "Henry,George"
-      ],
-      "building":"DWE",
-      "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
-    },
-    {
-      "class_number":8286,
-      "subject":"ENGL",
-      "catalog_number":"109",
-      "title":"Introduction to Academic Writing",
-      "section":"TUT 117",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":22,
-      "instructors":[
-        "Torbica,Masa"
-      ],
-      "building":"DWE",
-      "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
-    },
-    {
-      "class_number":3341,
-      "subject":"FR",
-      "catalog_number":"192A",
-      "title":"French Language 1: Module 1",
-      "section":"LEC 005",
-      "weekdays":"MWF",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        "Even,Coleen"
-      ],
-      "building":"DWE",
-      "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:24-05:00"
-    },
-    {
-      "class_number":3123,
-      "subject":"GER",
-      "catalog_number":"102",
-      "title":"Elementary German II",
-      "section":"LEC 001",
-      "weekdays":"MTF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        "Roth,Daniela Hildegard"
-      ],
-      "building":"DWE",
-      "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:35-05:00"
-    },
-    {
-      "class_number":4571,
-      "subject":"ME",
-      "catalog_number":"100",
-      "title":"Introduction to Mechanical Engineering Practice 1",
-      "section":"TUT 203",
-      "weekdays":"W",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":27,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
-    },
-    {
-      "class_number":5063,
-      "subject":"ME",
-      "catalog_number":"235",
-      "title":"Materials Science and Engineering",
-      "section":"TUT 102",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:16-05:00"
-    },
-    {
-      "class_number":4614,
-      "subject":"MSCI",
-      "catalog_number":"211",
-      "title":"Organizational Behaviour",
-      "section":"TUT 103",
-      "weekdays":"T",
-      "start_time":"09:30",
-      "end_time":"10:20",
+      "end_time":"12:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":32,
       "instructors":[
-        "Lawal,Ogooluwa"
+        "Daub,Elisabeth"
       ],
       "building":"DWE",
       "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:20-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:32-05:00"
     },
     {
-      "class_number":4615,
-      "subject":"MSCI",
-      "catalog_number":"211",
-      "title":"Organizational Behaviour",
-      "section":"TUT 104",
+      "class_number":5126,
+      "subject":"CIVE",
+      "catalog_number":"497",
+      "title":"Special Topics in Civil Engineering",
+      "section":"LEC 001",
       "weekdays":"T",
-      "start_time":"10:30",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Dusseault,Maurice B"
+      ],
+      "building":"DWE",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:39-05:00"
+    },
+    {
+      "class_number":7740,
+      "subject":"CS",
+      "catalog_number":"473",
+      "title":"Medical Image Processing",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Orchard,Jeffery John"
+      ],
+      "building":"DWE",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:02-05:00"
+    },
+    {
+      "class_number":5789,
+      "subject":"CS",
+      "catalog_number":"487",
+      "title":"Introduction to Symbolic Computation",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Storjohann,Arne"
+      ],
+      "building":"DWE",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:03-05:00"
+    },
+    {
+      "class_number":7097,
+      "subject":"EARTH",
+      "catalog_number":"491",
+      "title":"Special Topics in Earth and Environmental Sciences",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":36,
+      "instructors":[
+        "Wu,Lingling"
+      ],
+      "building":"DWE",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:14-05:00"
+    },
+    {
+      "class_number":3445,
+      "subject":"ECON",
+      "catalog_number":"422",
+      "title":"Topics in Econometrics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":19,
+      "instructors":[
+        "Parker,Thomas"
+      ],
+      "building":"DWE",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:37-05:00"
+    },
+    {
+      "class_number":4308,
+      "subject":"ENGL",
+      "catalog_number":"100A",
+      "title":"Fiction",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":33,
+      "instructors":[
+        "Hulan,Shelley Margaret"
+      ],
+      "building":"DWE",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:41-05:00"
+    },
+    {
+      "class_number":3650,
+      "subject":"ENGL",
+      "catalog_number":"101A",
+      "title":"Introduction to Literary Studies",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":34,
+      "enrollment_total":15,
       "instructors":[
-        "Lawal,Ogooluwa"
+        "Shakespeare,Robert David"
       ],
       "building":"DWE",
       "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:20-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:42-05:00"
     },
     {
-      "class_number":8048,
-      "subject":"PSCI",
-      "catalog_number":"100",
-      "title":"Politics I: Canadian Politics and Policy in Comparative Perspective",
-      "section":"DIS 108",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"15:20",
+      "class_number":8051,
+      "subject":"ENGL",
+      "catalog_number":"119",
+      "title":"Communications in Mathematics & Computer Science",
+      "section":"LEC 008",
+      "weekdays":"TF",
+      "start_time":"11:30",
+      "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":25,
+      "enrollment_total":2,
       "instructors":[
-        
+        "Gladkova,Olga"
       ],
       "building":"DWE",
       "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:02-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:44-05:00"
     },
     {
-      "class_number":8049,
-      "subject":"PSCI",
-      "catalog_number":"100",
-      "title":"Politics I: Canadian Politics and Policy in Comparative Perspective",
-      "section":"DIS 109",
-      "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":26,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:02-05:00"
-    },
-    {
-      "class_number":5199,
-      "subject":"BE",
-      "catalog_number":"604",
-      "title":"Marketing Management",
+      "class_number":3420,
+      "subject":"ENGL",
+      "catalog_number":"200B",
+      "title":"Survey of British Literature 2",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"18:30",
-      "end_time":"21:20",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
+      "enrollment_total":23,
+      "instructors":[
+        "Hulan,Shelley Margaret"
+      ],
+      "building":"DWE",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:45-05:00"
+    },
+    {
+      "class_number":3707,
+      "subject":"FR",
+      "catalog_number":"452",
+      "title":"Advanced French Language",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":13,
+      "instructors":[
+        "Gauthier,Nicolas"
+      ],
+      "building":"DWE",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:13-05:00"
+    },
+    {
+      "class_number":7527,
+      "subject":"FR",
+      "catalog_number":"471",
+      "title":"French-Canadian Literature",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Lepage,Elise"
+      ],
+      "building":"DWE",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:13-05:00"
+    },
+    {
+      "class_number":8193,
+      "subject":"PHYS",
+      "catalog_number":"260L",
+      "title":"Intermediate Physics Laboratory",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
       "enrollment_total":28,
       "instructors":[
-        "Bansal,Havir S"
+        "Duley,Walter W"
       ],
       "building":"DWE",
       "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:02-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
     },
     {
-      "class_number":5208,
-      "subject":"BE",
-      "catalog_number":"606",
-      "title":"Entrepreneurship and Innovation",
+      "class_number":6113,
+      "subject":"CM",
+      "catalog_number":"730",
+      "title":"Introduction to Symbolic Computation",
       "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"18:30",
-      "end_time":"21:20",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":11,
+      "enrollment_total":4,
       "instructors":[
-        "Dalziel,Margaret"
+        "Storjohann,Arne"
       ],
       "building":"DWE",
       "room":"1502",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:02-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:56-05:00"
+    },
+    {
+      "class_number":7739,
+      "subject":"CS",
+      "catalog_number":"673",
+      "title":"Medical Image Processing",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Orchard,Jeffery John"
+      ],
+      "building":"DWE",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:04-05:00"
+    },
+    {
+      "class_number":5712,
+      "subject":"CS",
+      "catalog_number":"687",
+      "title":"Introduction to Symbolic Computation",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Storjohann,Arne"
+      ],
+      "building":"DWE",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:05-05:00"
+    },
+    {
+      "class_number":8295,
+      "subject":"EARTH",
+      "catalog_number":"691",
+      "title":"Special Studies for MSc Students",
+      "section":"RDG 001",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Dusseault,Maurice B"
+      ],
+      "building":"DWE",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:10-05:00"
+    },
+    {
+      "class_number":8296,
+      "subject":"EARTH",
+      "catalog_number":"692",
+      "title":"Special Studies for PhD Students",
+      "section":"RDG 001",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Dusseault,Maurice B"
+      ],
+      "building":"DWE",
+      "room":"1502",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:10-05:00"
     }
   ]
 }

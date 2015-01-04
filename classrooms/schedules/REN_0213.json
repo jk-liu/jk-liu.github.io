@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2726,
-    "timestamp":1415081637,
+    "requests":5584,
+    "timestamp":1420353898,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,114 +11,114 @@
   },
   "data":[
     {
-      "class_number":8252,
+      "class_number":7791,
       "subject":"BASE",
-      "catalog_number":"34",
-      "title":"Writing Skills",
-      "section":"LEC 002",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        
-      ],
-      "building":"REN",
-      "room":"0213",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:49-05:00"
-    },
-    {
-      "class_number":8253,
-      "subject":"BASE",
-      "catalog_number":"34",
-      "title":"Writing Skills",
+      "catalog_number":"42",
+      "title":"Academic Skills",
       "section":"LEC 003",
-      "weekdays":"Th",
-      "start_time":"10:30",
-      "end_time":"11:20",
+      "weekdays":"MWTh",
+      "start_time":"14:00",
+      "end_time":"15:50",
       "start_date":null,
       "end_date":null,
       "enrollment_total":17,
       "instructors":[
-        
+        "Karanassiou,Jane"
       ],
       "building":"REN",
       "room":"0213",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:49-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
     },
     {
-      "class_number":8339,
+      "class_number":7791,
       "subject":"BASE",
-      "catalog_number":"34",
-      "title":"Writing Skills",
-      "section":"LEC 004",
-      "weekdays":"T",
-      "start_time":"09:00",
-      "end_time":"10:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        
-      ],
-      "building":"REN",
-      "room":"0213",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:49-05:00"
-    },
-    {
-      "class_number":8340,
-      "subject":"BASE",
-      "catalog_number":"36",
-      "title":"Oral Skills",
-      "section":"LEC 004",
-      "weekdays":"TTh",
-      "start_time":"13:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        
-      ],
-      "building":"REN",
-      "room":"0213",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:49-05:00"
-    },
-    {
-      "class_number":8258,
-      "subject":"BASE",
-      "catalog_number":"44",
-      "title":"Writing Skills",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"13:00",
-      "end_time":"14:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        
-      ],
-      "building":"REN",
-      "room":"0213",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:49-05:00"
-    },
-    {
-      "class_number":8245,
-      "subject":"EFAS",
-      "catalog_number":"32",
+      "catalog_number":"42",
       "title":"Academic Skills",
       "section":"LEC 003",
-      "weekdays":"MWF",
+      "weekdays":"T",
+      "start_time":"13:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Karanassiou,Jane"
+      ],
+      "building":"REN",
+      "room":"0213",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
+    },
+    {
+      "class_number":6367,
+      "subject":"CHINA",
+      "catalog_number":"201R",
+      "title":"Second-Year Chinese 1",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Wang,Renee Rui"
+      ],
+      "building":"REN",
+      "room":"0213",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:33-05:00"
+    },
+    {
+      "class_number":7821,
+      "subject":"EFAS",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 003",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Redmond,Denise"
+      ],
+      "building":"REN",
+      "room":"0213",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":7821,
+      "subject":"EFAS",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 003",
+      "weekdays":"F",
       "start_time":"09:30",
       "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Redmond,Denise"
+      ],
+      "building":"REN",
+      "room":"0213",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
+    },
+    {
+      "class_number":6439,
+      "subject":"EFAS",
+      "catalog_number":"42",
+      "title":"Academic Skills",
+      "section":"LEC 001",
+      "weekdays":"MWTh",
+      "start_time":"09:30",
+      "end_time":"10:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":0,
@@ -127,128 +127,108 @@
       ],
       "building":"REN",
       "room":"0213",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:00-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
     },
     {
-      "class_number":6450,
-      "subject":"ESL",
-      "catalog_number":"101R",
-      "title":"Oral Communications for Academic Purposes",
+      "class_number":6441,
+      "subject":"EFAS",
+      "catalog_number":"44",
+      "title":"Writing Skills",
       "section":"LEC 001",
-      "weekdays":"MWTh",
-      "start_time":"17:00",
-      "end_time":"18:20",
+      "weekdays":"F",
+      "start_time":"11:30",
+      "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":14,
+      "enrollment_total":0,
       "instructors":[
-        "Pop,Maria Victoria"
+        "Redmond,Denise"
       ],
       "building":"REN",
       "room":"0213",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:18-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
     },
     {
-      "class_number":8240,
+      "class_number":6443,
+      "subject":"EFAS",
+      "catalog_number":"46",
+      "title":"Oral Skills",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"09:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Karanassiou,Jane"
+      ],
+      "building":"REN",
+      "room":"0213",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:40-05:00"
+    },
+    {
+      "class_number":7832,
       "subject":"ESL",
       "catalog_number":"102R",
       "title":"Error Correction in Academic Writing",
-      "section":"LEC 005",
-      "weekdays":"MTTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Smithwick,Neal Andrew"
-      ],
-      "building":"REN",
-      "room":"0213",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:18-05:00"
-    },
-    {
-      "class_number":6445,
-      "subject":"JAPAN",
-      "catalog_number":"202R",
-      "title":"Second-Year Japanese 2",
       "section":"LEC 001",
-      "weekdays":"T",
+      "weekdays":"MWTh",
       "start_time":"16:00",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":21,
+      "enrollment_total":12,
       "instructors":[
-        "Kunizane,Kumiko"
+        "Heeney,Margaret Christine"
       ],
       "building":"REN",
       "room":"0213",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:57-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:02-05:00"
     },
     {
-      "class_number":7981,
-      "subject":"SI",
-      "catalog_number":"102R",
-      "title":"Introduction to Arabic 2",
-      "section":"LEC 001",
-      "weekdays":"WF",
+      "class_number":6350,
+      "subject":"JAPAN",
+      "catalog_number":"101R",
+      "title":"First-Year Japanese 1",
+      "section":"TUT 101",
+      "weekdays":"M",
       "start_time":"11:30",
       "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":16,
+      "enrollment_total":24,
       "instructors":[
-        "Al Ali,Kanan"
+        "Burns,Eri"
       ],
       "building":"REN",
       "room":"0213",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:29-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:53-05:00"
     },
     {
-      "class_number":6523,
-      "subject":"SI",
-      "catalog_number":"201R",
-      "title":"Intermediate Arabic 1",
-      "section":"TUT 101",
-      "weekdays":"M",
-      "start_time":"15:30",
-      "end_time":"16:20",
+      "class_number":6351,
+      "subject":"JAPAN",
+      "catalog_number":"101R",
+      "title":"First-Year Japanese 1",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":18,
+      "enrollment_total":22,
       "instructors":[
-        "Al Ali,Kanan"
+        "Burns,Eri"
       ],
       "building":"REN",
       "room":"0213",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:30-05:00"
-    },
-    {
-      "class_number":6549,
-      "subject":"SI",
-      "catalog_number":"301R",
-      "title":"Advanced Arabic 1",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Mohamed,Eid"
-      ],
-      "building":"REN",
-      "room":"0213",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:30-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:53-05:00"
     }
   ]
 }

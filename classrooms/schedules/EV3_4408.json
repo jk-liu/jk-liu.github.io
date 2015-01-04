@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2577,
-    "timestamp":1415081593,
+    "requests":5438,
+    "timestamp":1420353844,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,406 +11,324 @@
   },
   "data":[
     {
-      "class_number":5474,
-      "subject":"ENBUS",
-      "catalog_number":"411",
-      "title":"International Corporate Responsibility",
-      "section":"LEC 001",
+      "class_number":8176,
+      "subject":"AVIA",
+      "catalog_number":"101",
+      "title":"Professional Pilot Program Course I",
+      "section":"FLT 001",
+      "weekdays":"MW",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "Tan,Su-Yin"
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:36-05:00"
+    },
+    {
+      "class_number":8177,
+      "subject":"AVIA",
+      "catalog_number":"204",
+      "title":"Professional Pilot Program Course IV",
+      "section":"FLT 001",
+      "weekdays":"TTh",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Tan,Su-Yin"
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:36-05:00"
+    },
+    {
+      "class_number":8177,
+      "subject":"AVIA",
+      "catalog_number":"204",
+      "title":"Professional Pilot Program Course IV",
+      "section":"FLT 001",
       "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"17:20",
+      "start_time":"16:30",
+      "end_time":"18:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":51,
+      "enrollment_total":26,
       "instructors":[
-        "Lin,Haiying"
+        "Tan,Su-Yin"
       ],
       "building":"EV3",
       "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:03-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:36-05:00"
     },
     {
-      "class_number":3900,
-      "subject":"ENGL",
-      "catalog_number":"292",
-      "title":"Contemporary Issues in Language, Writing, and Rhetoric",
-      "section":"LEC 002",
-      "weekdays":"MWTh",
+      "class_number":5568,
+      "subject":"ENBUS",
+      "catalog_number":"410",
+      "title":"Engaging Stakeholders",
+      "section":"LEC 001",
+      "weekdays":"T",
       "start_time":"08:30",
-      "end_time":"09:20",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":24,
+      "enrollment_total":52,
       "instructors":[
-        "Deman,Jonathon Andrew"
+        "Thistlethwaite,Jason"
       ],
       "building":"EV3",
       "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:09-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:40-05:00"
     },
     {
-      "class_number":5280,
+      "class_number":5393,
       "subject":"ENVS",
-      "catalog_number":"201",
-      "title":"Introduction to Canadian Environmental Law",
-      "section":"SEM 105",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Craik,Alastair Neil"
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:14-05:00"
-    },
-    {
-      "class_number":5345,
-      "subject":"ENVS",
-      "catalog_number":"278",
-      "title":"Advanced Environmental Research Methods",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
       "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":36,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:14-05:00"
-    },
-    {
-      "class_number":5402,
-      "subject":"ENVS",
-      "catalog_number":"278",
-      "title":"Advanced Environmental Research Methods",
-      "section":"TUT 105",
       "weekdays":"W",
       "start_time":"16:30",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":41,
+      "enrollment_total":51,
       "instructors":[
         
       ],
       "building":"EV3",
       "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:14-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
     },
     {
-      "class_number":5467,
-      "subject":"ERS",
-      "catalog_number":"234",
-      "title":"Forest Ecosystems",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
+      "class_number":5394,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 102",
+      "weekdays":"Th",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5423,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 104",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5424,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 105",
+      "weekdays":"Th",
+      "start_time":"16:30",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":39,
       "instructors":[
-        "Oelbermann,Maren"
+        
       ],
       "building":"EV3",
       "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:15-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
     },
     {
-      "class_number":3097,
-      "subject":"FR",
-      "catalog_number":"151",
-      "title":"Basic French 1",
-      "section":"LEC 004",
-      "weekdays":"MW",
-      "start_time":"10:30",
-      "end_time":"11:20",
+      "class_number":5455,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 107",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":35,
+      "enrollment_total":52,
       "instructors":[
-        "Sabaryn,Therese"
+        
       ],
       "building":"EV3",
       "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:24-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
     },
     {
-      "class_number":5368,
+      "class_number":5457,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 109",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":5524,
+      "subject":"ENVS",
+      "catalog_number":"178",
+      "title":"Introduction to Environmental Research Methods",
+      "section":"TUT 111",
+      "weekdays":"W",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
+    },
+    {
+      "class_number":8134,
       "subject":"GEOG",
       "catalog_number":"293",
       "title":"Professional and Scholarly Practice in Geography",
       "section":"TUT 102",
       "weekdays":"F",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:32-05:00"
-    },
-    {
-      "class_number":8114,
-      "subject":"GEOG",
-      "catalog_number":"454",
-      "title":"Retail Landscapes",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
+      "start_time":"11:30",
+      "end_time":"12:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":24,
       "instructors":[
-        "Mitchell,Clare J A"
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:34-05:00"
-    },
-    {
-      "class_number":5335,
-      "subject":"GEOG",
-      "catalog_number":"481",
-      "title":"Geographic Information Systems Project",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        "Tan,Su-Yin"
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:34-05:00"
-    },
-    {
-      "class_number":5373,
-      "subject":"INTEG",
-      "catalog_number":"120",
-      "title":"Introduction to the Academy: Disciplines and Integrative Practices",
-      "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":46,
-      "instructors":[
-        "McLevey,John"
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:49-05:00"
-    },
-    {
-      "class_number":5340,
-      "subject":"PLAN",
-      "catalog_number":"309",
-      "title":"Site Planning and Design Studio",
-      "section":"STU 001",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":49,
-      "instructors":[
-        "Lewis,John L."
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:58-05:00"
-    },
-    {
-      "class_number":5342,
-      "subject":"PLAN",
-      "catalog_number":"481",
-      "title":"Geographic Information Systems Project",
-      "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Tan,Su-Yin"
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:59-05:00"
-    },
-    {
-      "class_number":8107,
-      "subject":"SPCOM",
-      "catalog_number":"100",
-      "title":"Interpersonal Communication",
-      "section":"LEC 004",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        "Moll,Sorouja"
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:40-05:00"
-    },
-    {
-      "class_number":7320,
-      "subject":"UNIV",
-      "catalog_number":"101",
-      "title":"Strategies and Skills for Academic Success",
-      "section":"SEM 104",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
         
       ],
       "building":"EV3",
       "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:52-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:23-05:00"
     },
     {
-      "class_number":5304,
-      "subject":"GEOG",
-      "catalog_number":"685",
-      "title":"Theory of Local Economic Development",
+      "class_number":7989,
+      "subject":"REC",
+      "catalog_number":"420",
+      "title":"Program Evaluation in Leisure Services",
       "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":0,
-      "instructors":[
-        "Vinodrai,Tara",
-        "Parker,Paul"
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:33-05:00"
-    },
-    {
-      "class_number":5507,
-      "subject":"INDEV",
-      "catalog_number":"601",
-      "title":"Integrated Approaches to Sustainable Development",
-      "section":"SEM 001",
-      "weekdays":"TTh",
+      "weekdays":"MTh",
       "start_time":"11:30",
       "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":20,
+      "enrollment_total":39,
       "instructors":[
-        "Seirlis,Julia"
+        "Glover,Troy D"
       ],
       "building":"EV3",
       "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:42-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:42-05:00"
     },
     {
-      "class_number":5305,
-      "subject":"LED",
-      "catalog_number":"685",
-      "title":"Theory of Local Economic Development",
-      "section":"LEC 001",
-      "weekdays":"T",
+      "class_number":3940,
+      "subject":"SPCOM",
+      "catalog_number":"111",
+      "title":"Leadership, Communication, and Collaboration",
+      "section":"LEC 012",
+      "weekdays":"TF",
       "start_time":"14:30",
-      "end_time":"17:20",
+      "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":13,
+      "enrollment_total":25,
       "instructors":[
-        "Vinodrai,Tara",
-        "Parker,Paul"
+        "Ross,George"
       ],
       "building":"EV3",
       "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:46-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
     },
     {
-      "class_number":5341,
-      "subject":"PLAN",
-      "catalog_number":"646",
-      "title":"Site Planning and Design Studio",
-      "section":"STU 001",
-      "weekdays":"T",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Lewis,John L."
-      ],
-      "building":"EV3",
-      "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:59-05:00"
-    },
-    {
-      "class_number":5528,
-      "subject":"PLAN",
-      "catalog_number":"701",
-      "title":"Land Use Planning Fundamentals",
+      "class_number":4291,
+      "subject":"SPCOM",
+      "catalog_number":"228",
+      "title":"Public Communication",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"18:30",
-      "end_time":"21:20",
+      "weekdays":"WF",
+      "start_time":"08:30",
+      "end_time":"09:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":24,
+      "enrollment_total":30,
       "instructors":[
-        "Seasons,Mark"
+        "Voorhees,Gerald"
       ],
       "building":"EV3",
       "room":"4408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:00-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:13-05:00"
+    },
+    {
+      "class_number":7437,
+      "subject":"TOUR",
+      "catalog_number":"604",
+      "title":"Social Planning for Tourism",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Cukier,Judith"
+      ],
+      "building":"EV3",
+      "room":"4408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:25-05:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2744,
-    "timestamp":1415081643,
+    "requests":5600,
+    "timestamp":1420353904,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,264 +11,104 @@
   },
   "data":[
     {
-      "class_number":3257,
-      "subject":"FR",
-      "catalog_number":"192A",
-      "title":"French Language 1: Module 1",
-      "section":"LEC 003",
-      "weekdays":"MWF",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Lappin-Fortin,Kerry"
-      ],
-      "building":"STJ",
-      "room":"3014",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:24-05:00"
-    },
-    {
-      "class_number":3536,
+      "class_number":3901,
       "subject":"FR",
       "catalog_number":"203",
       "title":"Introduction to Phonetics of French",
       "section":"LEC 002",
       "weekdays":"MWF",
-      "start_time":"12:30",
-      "end_time":"13:20",
+      "start_time":"13:30",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":19,
+      "enrollment_total":16,
       "instructors":[
         "Lappin-Fortin,Kerry"
       ],
       "building":"STJ",
       "room":"3014",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:24-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
     },
     {
-      "class_number":7240,
+      "class_number":7141,
       "subject":"HUMSC",
-      "catalog_number":"101",
-      "title":"Great Dialogues: Reflection and Action",
-      "section":"LEC 002",
+      "catalog_number":"301",
+      "title":"Great Dialogues: The Sacred and the Profane",
+      "section":"LEC 001",
       "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
+      "start_time":"10:00",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":17,
+      "enrollment_total":5,
       "instructors":[
         "Greenwood,John Philip Peter"
       ],
       "building":"STJ",
       "room":"3014",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:47-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:41-05:00"
     },
     {
-      "class_number":5683,
+      "class_number":5989,
       "subject":"MATH",
-      "catalog_number":"135",
-      "title":"Algebra for Honours Mathematics",
-      "section":"LEC 001",
+      "catalog_number":"136",
+      "title":"Linear Algebra 1 for Honours Mathematics",
+      "section":"LEC 007",
       "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":60,
-      "instructors":[
-        "Akash,Mukto"
-      ],
-      "building":"STJ",
-      "room":"3014",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:12-05:00"
-    },
-    {
-      "class_number":5692,
-      "subject":"MATH",
-      "catalog_number":"137",
-      "title":"Calculus 1 for Honours Mathematics",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":60,
-      "instructors":[
-        "Eden,Michael Charles"
-      ],
-      "building":"STJ",
-      "room":"3014",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:12-05:00"
-    },
-    {
-      "class_number":5616,
-      "subject":"MATH",
-      "catalog_number":"235",
-      "title":"Linear Algebra 2 for Honours Mathematics",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":59,
-      "instructors":[
-        "Resch,Janelle"
-      ],
-      "building":"STJ",
-      "room":"3014",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:13-05:00"
-    },
-    {
-      "class_number":5620,
-      "subject":"MATH",
-      "catalog_number":"237",
-      "title":"Calculus 3 for Honours Mathematics",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Vinette,Francine"
-      ],
-      "building":"STJ",
-      "room":"3014",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:13-05:00"
-    },
-    {
-      "class_number":5623,
-      "subject":"MATH",
-      "catalog_number":"239",
-      "title":"Introduction to Combinatorics",
-      "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":60,
-      "instructors":[
-        "Charbonneau,Benoit"
-      ],
-      "building":"STJ",
-      "room":"3014",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:13-05:00"
-    },
-    {
-      "class_number":5760,
-      "subject":"MATH",
-      "catalog_number":"239",
-      "title":"Introduction to Combinatorics",
-      "section":"TUT 101",
-      "weekdays":"F",
       "start_time":"08:30",
       "end_time":"09:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":60,
+      "enrollment_total":49,
       "instructors":[
-        
+        "Knoll,Carolyn Alexis"
       ],
       "building":"STJ",
       "room":"3014",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:13-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
     },
     {
-      "class_number":7722,
-      "subject":"PSYCH",
-      "catalog_number":"354",
-      "title":"Interpersonal Relations",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
+      "class_number":5992,
+      "subject":"MATH",
+      "catalog_number":"138",
+      "title":"Calculus 2 For Honours Mathematics",
+      "section":"LEC 008",
+      "weekdays":"MWF",
+      "start_time":"09:30",
+      "end_time":"10:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":70,
+      "enrollment_total":50,
       "instructors":[
-        "Rempel,John"
+        "Szestopalow,Michael"
       ],
       "building":"STJ",
       "room":"3014",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:09-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:10-05:00"
     },
     {
-      "class_number":7727,
+      "class_number":7888,
       "subject":"RS",
-      "catalog_number":"220",
-      "title":"World Religions and Politics",
+      "catalog_number":"291",
+      "title":"Special Topics",
       "section":"LEC 001",
-      "weekdays":"TTh",
+      "weekdays":"M",
       "start_time":"16:00",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":15,
+      "enrollment_total":1,
       "instructors":[
-        "Shrubsole,Nicholas"
+        "Perrin,David B"
       ],
       "building":"STJ",
       "room":"3014",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:20-05:00"
-    },
-    {
-      "class_number":8206,
-      "subject":"STAT",
-      "catalog_number":"230",
-      "title":"Probability",
-      "section":"LEC 005",
-      "weekdays":"MW",
-      "start_time":"16:30",
-      "end_time":"17:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Struthers,Cyntha"
-      ],
-      "building":"STJ",
-      "room":"3014",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:43-05:00"
-    },
-    {
-      "class_number":8207,
-      "subject":"STAT",
-      "catalog_number":"230",
-      "title":"Probability",
-      "section":"TUT 104",
-      "weekdays":"F",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":39,
-      "instructors":[
-        "Struthers,Cyntha"
-      ],
-      "building":"STJ",
-      "room":"3014",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:43-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:47-05:00"
     }
   ]
 }

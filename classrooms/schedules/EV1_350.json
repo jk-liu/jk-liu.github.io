@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2562,
-    "timestamp":1415081588,
+    "requests":5425,
+    "timestamp":1420353840,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,304 +11,244 @@
   },
   "data":[
     {
-      "class_number":7879,
-      "subject":"AFM",
-      "catalog_number":"411",
-      "title":"Connections Across Competencies for Accounting Professionals",
-      "section":"SEM 101",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Vert,David"
-      ],
-      "building":"EV1",
-      "room":"350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:21-05:00"
-    },
-    {
-      "class_number":7880,
-      "subject":"AFM",
-      "catalog_number":"411",
-      "title":"Connections Across Competencies for Accounting Professionals",
-      "section":"SEM 102",
-      "weekdays":"T",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Vert,David"
-      ],
-      "building":"EV1",
-      "room":"350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:21-05:00"
-    },
-    {
-      "class_number":7883,
-      "subject":"AFM",
-      "catalog_number":"411",
-      "title":"Connections Across Competencies for Accounting Professionals",
-      "section":"SEM 105",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Vert,David"
-      ],
-      "building":"EV1",
-      "room":"350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:21-05:00"
-    },
-    {
-      "class_number":7884,
-      "subject":"AFM",
-      "catalog_number":"411",
-      "title":"Connections Across Competencies for Accounting Professionals",
-      "section":"SEM 106",
-      "weekdays":"Th",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Vert,David"
-      ],
-      "building":"EV1",
-      "room":"350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:21-05:00"
-    },
-    {
-      "class_number":8110,
-      "subject":"AVIA",
-      "catalog_number":"203",
-      "title":"Professional Pilot Program Course III",
-      "section":"FLT 001",
-      "weekdays":"F",
-      "start_time":"16:30",
-      "end_time":"18:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "McKenzie,Ian"
-      ],
-      "building":"EV1",
-      "room":"350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:48-05:00"
-    },
-    {
-      "class_number":8314,
-      "subject":"ENBUS",
-      "catalog_number":"306",
-      "title":"Research Design",
-      "section":"TUT 102",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":33,
-      "instructors":[
-        
-      ],
-      "building":"EV1",
-      "room":"350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:02-05:00"
-    },
-    {
-      "class_number":5278,
-      "subject":"ENVS",
-      "catalog_number":"201",
-      "title":"Introduction to Canadian Environmental Law",
-      "section":"SEM 103",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":48,
-      "instructors":[
-        "Craik,Alastair Neil"
-      ],
-      "building":"EV1",
-      "room":"350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:14-05:00"
-    },
-    {
-      "class_number":5281,
-      "subject":"ENVS",
-      "catalog_number":"201",
-      "title":"Introduction to Canadian Environmental Law",
-      "section":"SEM 106",
-      "weekdays":"T",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":50,
-      "instructors":[
-        "Craik,Alastair Neil"
-      ],
-      "building":"EV1",
-      "room":"350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:14-05:00"
-    },
-    {
-      "class_number":3112,
+      "class_number":3357,
       "subject":"FR",
-      "catalog_number":"251",
-      "title":"French Language 2: Module 1",
-      "section":"LEC 002",
-      "weekdays":"TThF",
-      "start_time":"14:30",
-      "end_time":"15:20",
+      "catalog_number":"192B",
+      "title":"French Language 1: Module 2",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
       "start_date":null,
       "end_date":null,
       "enrollment_total":26,
+      "instructors":[
+        "Miraglia,Anne Marie"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:10-05:00"
+    },
+    {
+      "class_number":4118,
+      "subject":"FR",
+      "catalog_number":"473",
+      "title":"Aspects of French Canada",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":25,
       "instructors":[
         "Lepage,Elise"
       ],
       "building":"EV1",
       "room":"350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:25-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:13-05:00"
     },
     {
-      "class_number":5347,
-      "subject":"GEOG",
-      "catalog_number":"303",
-      "title":"Physical Hydrology",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":16,
-      "instructors":[
-        "Price,Jonathan"
-      ],
-      "building":"EV1",
-      "room":"350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:33-05:00"
-    },
-    {
-      "class_number":3124,
-      "subject":"GER",
-      "catalog_number":"201",
-      "title":"Intermediate German I",
+      "class_number":7528,
+      "subject":"FR",
+      "catalog_number":"487",
+      "title":"African and Caribbean French Literature",
       "section":"LEC 001",
       "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        "Scholz,Kyle William"
-      ],
-      "building":"EV1",
-      "room":"350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:35-05:00"
-    },
-    {
-      "class_number":4280,
-      "subject":"LS",
-      "catalog_number":"322",
-      "title":"Introduction to Field Research Methods",
-      "section":"LEC 001",
-      "weekdays":"W",
       "start_time":"14:30",
-      "end_time":"16:20",
+      "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":14,
+      "enrollment_total":9,
       "instructors":[
-        "Mainwaring,Cetta"
+        "Miraglia,Anne Marie"
       ],
       "building":"EV1",
       "room":"350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:07-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:13-05:00"
     },
     {
-      "class_number":5724,
-      "subject":"MATH",
-      "catalog_number":"245",
-      "title":"Linear Algebra 2 (Advanced Level)",
+      "class_number":5432,
+      "subject":"PLAN",
+      "catalog_number":"409",
+      "title":"Urban Design Studio",
+      "section":"STU 001",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Hammond,Karen"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:14-05:00"
+    },
+    {
+      "class_number":3953,
+      "subject":"PSCI",
+      "catalog_number":"421",
+      "title":"Justice and Gender",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Drake,Anna Marie"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:23-05:00"
+    },
+    {
+      "class_number":4036,
+      "subject":"REES",
+      "catalog_number":"272",
+      "title":"Russian Thought and Culture",
       "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"10:30",
-      "end_time":"11:20",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":24,
       "instructors":[
-        "Godsil,Christopher D"
+        "Reichert,Tetyana"
       ],
       "building":"EV1",
       "room":"350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:14-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:44-05:00"
     },
     {
-      "class_number":4279,
-      "subject":"SOC",
-      "catalog_number":"322",
-      "title":"Introduction to Field Research Methods",
-      "section":"LEC 001",
-      "weekdays":"W",
+      "class_number":3931,
+      "subject":"SPCOM",
+      "catalog_number":"111",
+      "title":"Leadership, Communication, and Collaboration",
+      "section":"LEC 003",
+      "weekdays":"TTh",
+      "start_time":"12:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":30,
+      "instructors":[
+        "Zimmerman,Amber L."
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    },
+    {
+      "class_number":3939,
+      "subject":"SPCOM",
+      "catalog_number":"111",
+      "title":"Leadership, Communication, and Collaboration",
+      "section":"LEC 011",
+      "weekdays":"TF",
       "start_time":"14:30",
       "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":18,
+      "enrollment_total":19,
       "instructors":[
-        "Mainwaring,Cetta"
+        "Zimmerman,Amber L."
       ],
       "building":"EV1",
       "room":"350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:34-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
     },
     {
-      "class_number":3154,
-      "subject":"SPCOM",
-      "catalog_number":"324",
-      "title":"Small Group Communication",
+      "class_number":4007,
+      "subject":"PACS",
+      "catalog_number":"660",
+      "title":"Justice and Gender",
       "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"08:30",
-      "end_time":"10:20",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":26,
+      "enrollment_total":2,
       "instructors":[
-        "Hartling,Shannon Lee"
+        "Drake,Anna Marie"
       ],
       "building":"EV1",
       "room":"350",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:41-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:54-05:00"
+    },
+    {
+      "class_number":5639,
+      "subject":"PLAN",
+      "catalog_number":"703",
+      "title":"Planning Professional Practice",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Seasons,Mark"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:03-05:00"
+    },
+    {
+      "class_number":8015,
+      "subject":"PLAN",
+      "catalog_number":"720",
+      "title":"Introductory Planning Poject Studio",
+      "section":"STU 001",
+      "weekdays":"Th",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":16,
+      "instructors":[
+        "Lewis,John L."
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:04-05:00"
+    },
+    {
+      "class_number":3952,
+      "subject":"PSCI",
+      "catalog_number":"624",
+      "title":"Justice and Gender",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":5,
+      "instructors":[
+        "Drake,Anna Marie"
+      ],
+      "building":"EV1",
+      "room":"350",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:07-05:00"
     }
   ]
 }

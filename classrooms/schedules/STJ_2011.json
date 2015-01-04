@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2740,
-    "timestamp":1415081642,
+    "requests":5596,
+    "timestamp":1420353903,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,204 +11,224 @@
   },
   "data":[
     {
-      "class_number":7712,
+      "class_number":7789,
       "subject":"ENGL",
-      "catalog_number":"108C",
-      "title":"Literature and the Environment",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"15:30",
-      "end_time":"16:50",
+      "catalog_number":"109",
+      "title":"Introduction to Academic Writing",
+      "section":"LEC 003",
+      "weekdays":"MTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":4,
+      "enrollment_total":16,
       "instructors":[
-        "Wriglesworth,Chad"
+        "Lobb,Diana Frances"
       ],
       "building":"STJ",
       "room":"2011",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:43-05:00"
     },
     {
-      "class_number":3572,
+      "class_number":7796,
       "subject":"ENGL",
-      "catalog_number":"200A",
-      "title":"Survey of British Literature 1",
+      "catalog_number":"119",
+      "title":"Communications in Mathematics & Computer Science",
+      "section":"LEC 004",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":20,
+      "instructors":[
+        "Humphreys,Sara Megan"
+      ],
+      "building":"STJ",
+      "room":"2011",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:44-05:00"
+    },
+    {
+      "class_number":3421,
+      "subject":"ENGL",
+      "catalog_number":"200B",
+      "title":"Survey of British Literature 2",
       "section":"LEC 002",
       "weekdays":"TTh",
       "start_time":"11:30",
       "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":39,
+      "enrollment_total":40,
       "instructors":[
-        "Kolentsis,Alysia Michelle"
+        "Acton,Carol"
       ],
       "building":"STJ",
       "room":"2011",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:07-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:45-05:00"
     },
     {
-      "class_number":3393,
+      "class_number":7800,
       "subject":"ENGL",
-      "catalog_number":"210I",
-      "title":"Legal Writing",
+      "catalog_number":"310B",
+      "title":"Chaucer 2",
       "section":"LEC 001",
       "weekdays":"TTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
+      "start_time":"10:00",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":38,
+      "enrollment_total":11,
       "instructors":[
-        "Devitt,Ryan Thomas"
+        "Klassen,Norman John"
       ],
       "building":"STJ",
       "room":"2011",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:08-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:49-05:00"
     },
     {
-      "class_number":7730,
-      "subject":"HIST",
-      "catalog_number":"313",
-      "title":"History of the Family in North America",
+      "class_number":4268,
+      "subject":"ENGL",
+      "catalog_number":"322",
+      "title":"Postcolonial Literature of the Americas",
       "section":"LEC 001",
-      "weekdays":"M",
+      "weekdays":"MW",
       "start_time":"11:30",
-      "end_time":"13:20",
+      "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":13,
+      "enrollment_total":10,
       "instructors":[
-        "Briggs,Catherine"
+        "Austen,Veronica Jane"
       ],
       "building":"STJ",
       "room":"2011",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:42-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:50-05:00"
     },
     {
-      "class_number":7730,
-      "subject":"HIST",
-      "catalog_number":"313",
-      "title":"History of the Family in North America",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":13,
-      "instructors":[
-        
-      ],
-      "building":"STJ",
-      "room":"2011",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:42-05:00"
-    },
-    {
-      "class_number":3128,
-      "subject":"PHIL",
-      "catalog_number":"100J",
-      "title":"Introduction to Philosophy",
+      "class_number":3822,
+      "subject":"ENGL",
+      "catalog_number":"344",
+      "title":"Modern American Literature",
       "section":"LEC 001",
       "weekdays":"TF",
       "start_time":"13:00",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Humphreys,Sara Megan"
+      ],
+      "building":"STJ",
+      "room":"2011",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:51-05:00"
+    },
+    {
+      "class_number":4348,
+      "subject":"HIST",
+      "catalog_number":"235",
+      "title":"History of Christianity",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":14,
+      "instructors":[
+        "Tataryn,Myroslaw"
+      ],
+      "building":"STJ",
+      "room":"2011",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
+    },
+    {
+      "class_number":8292,
+      "subject":"HIST",
+      "catalog_number":"254",
+      "title":"Canadian History: The National Period",
+      "section":"DIS 102",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
       "enrollment_total":17,
       "instructors":[
-        "Tremblay,Bruno"
+        "Heidt,Daniel"
       ],
       "building":"STJ",
       "room":"2011",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:46-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
     },
     {
-      "class_number":3129,
+      "class_number":3412,
       "subject":"PHIL",
       "catalog_number":"100J",
       "title":"Introduction to Philosophy",
-      "section":"LEC 002",
-      "weekdays":"TF",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "Tremblay,Bruno"
-      ],
-      "building":"STJ",
-      "room":"2011",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:46-05:00"
-    },
-    {
-      "class_number":3621,
-      "subject":"PHIL",
-      "catalog_number":"100J",
-      "title":"Introduction to Philosophy",
-      "section":"LEC 003",
-      "weekdays":"Th",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":27,
-      "instructors":[
-        "Stumpf,Andrew Douglas Heslop"
-      ],
-      "building":"STJ",
-      "room":"2011",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:46-05:00"
-    },
-    {
-      "class_number":4345,
-      "subject":"PHIL",
-      "catalog_number":"327",
-      "title":"Philosophy of Law",
       "section":"LEC 001",
       "weekdays":"MW",
-      "start_time":"18:30",
-      "end_time":"19:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":31,
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":"01\/05",
+      "end_date":"04\/06",
+      "enrollment_total":28,
       "instructors":[
         "Gregoire,Stephanie"
       ],
       "building":"STJ",
       "room":"2011",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:49-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:56-05:00"
     },
     {
-      "class_number":7237,
-      "subject":"SMF",
-      "catalog_number":"310",
-      "title":"Sexual Ethics",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"18:30",
-      "end_time":"21:20",
+      "class_number":4053,
+      "subject":"PHIL",
+      "catalog_number":"215",
+      "title":"Professional and Business Ethics",
+      "section":"LEC 002",
+      "weekdays":"WF",
+      "start_time":"10:00",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":32,
+      "enrollment_total":23,
       "instructors":[
-        "Nixon,Kevin"
+        "Stumpf,Andrew Douglas Heslop"
       ],
       "building":"STJ",
       "room":"2011",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:31-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:58-05:00"
+    },
+    {
+      "class_number":4349,
+      "subject":"RS",
+      "catalog_number":"240",
+      "title":"History of Christianity",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Tataryn,Myroslaw"
+      ],
+      "building":"STJ",
+      "room":"2011",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:46-05:00"
     }
   ]
 }

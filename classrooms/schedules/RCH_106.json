@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2702,
-    "timestamp":1415081630,
+    "requests":5560,
+    "timestamp":1420353890,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,324 +11,304 @@
   },
   "data":[
     {
-      "class_number":8251,
+      "class_number":7808,
       "subject":"BASE",
-      "catalog_number":"34",
-      "title":"Writing Skills",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"11:00",
+      "catalog_number":"46",
+      "title":"Oral Skills",
+      "section":"LEC 003",
+      "weekdays":"Th",
+      "start_time":"10:00",
       "end_time":"11:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":12,
+      "enrollment_total":17,
       "instructors":[
-        
+        "Gillies,Christine"
       ],
       "building":"RCH",
       "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:49-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:37-05:00"
     },
     {
-      "class_number":8025,
-      "subject":"CHEM",
-      "catalog_number":"420",
-      "title":"Special Topics in Analytical Chem",
-      "section":"LEC 002",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Karanassios,Vassili"
-      ],
-      "building":"RCH",
-      "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:23-05:00"
-    },
-    {
-      "class_number":7058,
-      "subject":"EARTH",
-      "catalog_number":"461",
-      "title":"Applied Geophysics 3",
-      "section":"LEC 001",
-      "weekdays":"TThF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Endres,Anthony L."
-      ],
-      "building":"RCH",
-      "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:46-05:00"
-    },
-    {
-      "class_number":5285,
-      "subject":"ERS",
-      "catalog_number":"375",
-      "title":"Special Readings\/Seminar on Select Topics",
-      "section":"RDG 001",
-      "weekdays":"WF",
+      "class_number":6845,
+      "subject":"BIOL",
+      "catalog_number":"349",
+      "title":"Synthetic Biology Project Design",
+      "section":"PRJ 001",
+      "weekdays":"TTh",
       "start_time":"14:30",
       "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":9,
+      "enrollment_total":7,
       "instructors":[
-        
+        "Charles,Trevor C"
       ],
       "building":"RCH",
       "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:16-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
     },
     {
-      "class_number":3263,
-      "subject":"FR",
-      "catalog_number":"192A",
-      "title":"French Language 1: Module 1",
-      "section":"ORL 106",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"10:20",
+      "class_number":5893,
+      "subject":"CS",
+      "catalog_number":"483",
+      "title":"Computational Techniques in Structural Bioinformatics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":14,
+      "enrollment_total":5,
+      "instructors":[
+        "Burkowski,Forbes"
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:03-05:00"
+    },
+    {
+      "class_number":3378,
+      "subject":"GER",
+      "catalog_number":"202",
+      "title":"Intermediate German II",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Boehringer,Michael"
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:28-05:00"
+    },
+    {
+      "class_number":3378,
+      "subject":"GER",
+      "catalog_number":"202",
+      "title":"Intermediate German II",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Boehringer,Michael"
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:28-05:00"
+    },
+    {
+      "class_number":4581,
+      "subject":"MSCI",
+      "catalog_number":"311",
+      "title":"Organizational Design and Technology",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"12:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
       "instructors":[
         
       ],
       "building":"RCH",
       "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:24-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:22-05:00"
     },
     {
-      "class_number":3540,
-      "subject":"FR",
-      "catalog_number":"192A",
-      "title":"French Language 1: Module 1",
-      "section":"ORL 115",
+      "class_number":4582,
+      "subject":"MSCI",
+      "catalog_number":"311",
+      "title":"Organizational Design and Technology",
+      "section":"TUT 102",
       "weekdays":"T",
       "start_time":"13:30",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":12,
+      "enrollment_total":21,
       "instructors":[
         
       ],
       "building":"RCH",
       "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:24-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:22-05:00"
     },
     {
-      "class_number":4704,
-      "subject":"ME",
-      "catalog_number":"100",
-      "title":"Introduction to Mechanical Engineering Practice 1",
-      "section":"TUT 205",
-      "weekdays":"Th",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":25,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
-    },
-    {
-      "class_number":8054,
-      "subject":"PSCI",
-      "catalog_number":"252",
-      "title":"Global South: Introduction to International Development",
-      "section":"DIS 102",
-      "weekdays":"M",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:02-05:00"
-    },
-    {
-      "class_number":8071,
-      "subject":"PSCI",
-      "catalog_number":"260",
-      "title":"Canadian Government & Politics",
-      "section":"DIS 105",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:02-05:00"
-    },
-    {
-      "class_number":3717,
+      "class_number":4317,
       "subject":"PSYCH",
       "catalog_number":"340",
       "title":"Training and Development",
-      "section":"DIS 103",
-      "weekdays":"W",
+      "section":"DIS 102",
+      "weekdays":"M",
       "start_time":"19:00",
       "end_time":"21:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":19,
+      "enrollment_total":25,
       "instructors":[
-        
+        "Michela,John"
       ],
       "building":"RCH",
       "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:09-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:32-05:00"
     },
     {
-      "class_number":3136,
-      "subject":"RUSS",
-      "catalog_number":"101",
-      "title":"Elementary Russian I",
+      "class_number":3406,
+      "subject":"SPAN",
+      "catalog_number":"201B",
+      "title":"Intermediate Spanish 2",
       "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"12:30",
-      "end_time":"13:20",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":14,
+      "enrollment_total":7,
       "instructors":[
-        "Reichert,Tetyana"
+        "Rivera Ayala,Sergio"
       ],
       "building":"RCH",
       "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:22-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
     },
     {
-      "class_number":3460,
-      "subject":"SPCOM",
-      "catalog_number":"223",
-      "title":"Public Speaking",
+      "class_number":3407,
+      "subject":"SPAN",
+      "catalog_number":"201B",
+      "title":"Intermediate Spanish 2",
       "section":"LEC 002",
-      "weekdays":"MW",
-      "start_time":"10:30",
+      "weekdays":"MWF",
+      "start_time":"11:30",
       "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":28,
+      "enrollment_total":10,
       "instructors":[
-        "Paci,Timothy P"
+        "Rivera Ayala,Sergio"
       ],
       "building":"RCH",
       "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:40-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:09-05:00"
     },
     {
-      "class_number":3569,
+      "class_number":3933,
       "subject":"SPCOM",
-      "catalog_number":"223",
-      "title":"Public Speaking",
-      "section":"LEC 004",
-      "weekdays":"WF",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        "Paci,Timothy P"
-      ],
-      "building":"RCH",
-      "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:40-05:00"
-    },
-    {
-      "class_number":8123,
-      "subject":"SPCOM",
-      "catalog_number":"223",
-      "title":"Public Speaking",
-      "section":"LEC 009",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"16:20",
+      "catalog_number":"111",
+      "title":"Leadership, Communication, and Collaboration",
+      "section":"LEC 005",
+      "weekdays":"MW",
+      "start_time":"16:30",
+      "end_time":"18:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":30,
       "instructors":[
-        "Doyle,Jennifer"
+        "Lazar,Karen"
       ],
       "building":"RCH",
       "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:40-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
     },
     {
-      "class_number":8128,
+      "class_number":3936,
       "subject":"SPCOM",
-      "catalog_number":"223",
-      "title":"Public Speaking",
-      "section":"LEC 014",
+      "catalog_number":"111",
+      "title":"Leadership, Communication, and Collaboration",
+      "section":"LEC 008",
       "weekdays":"MW",
       "start_time":"08:30",
       "end_time":"10:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":28,
+      "enrollment_total":23,
       "instructors":[
         "Stacey,Jeffery Edward"
       ],
       "building":"RCH",
       "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:40-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
     },
     {
-      "class_number":7057,
-      "subject":"EARTH",
-      "catalog_number":"668",
-      "title":"Advanced Applied Geophysics",
-      "section":"LEC 001",
-      "weekdays":"TThF",
-      "start_time":"08:30",
-      "end_time":"09:20",
+      "class_number":3937,
+      "subject":"SPCOM",
+      "catalog_number":"111",
+      "title":"Leadership, Communication, and Collaboration",
+      "section":"LEC 009",
+      "weekdays":"MW",
+      "start_time":"12:30",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":1,
+      "enrollment_total":30,
       "instructors":[
-        "Endres,Anthony L."
+        "Lazar,Karen"
       ],
       "building":"RCH",
       "room":"106",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:18-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    },
+    {
+      "class_number":3938,
+      "subject":"SPCOM",
+      "catalog_number":"111",
+      "title":"Leadership, Communication, and Collaboration",
+      "section":"LEC 010",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":29,
+      "instructors":[
+        "Lazar,Karen"
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:12-05:00"
+    },
+    {
+      "class_number":5898,
+      "subject":"CS",
+      "catalog_number":"683",
+      "title":"Computational Techniques in Structural Bioinformatics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Burkowski,Forbes"
+      ],
+      "building":"RCH",
+      "room":"106",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:04-05:00"
     }
   ]
 }

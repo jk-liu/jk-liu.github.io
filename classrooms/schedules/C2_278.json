@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2450,
-    "timestamp":1415081553,
+    "requests":5326,
+    "timestamp":1420353802,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,164 +11,104 @@
   },
   "data":[
     {
-      "class_number":7903,
+      "class_number":7015,
       "subject":"CHEM",
-      "catalog_number":"740",
-      "title":"Selected Topics in Theoretical Chemistry",
-      "section":"LEC 002",
+      "catalog_number":"750",
+      "title":"Selected Topics in Physical Chemistry",
+      "section":"LEC 001",
       "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
+      "start_time":"16:00",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":1,
       "instructors":[
-        "Baugh,Jonathan"
+        
       ],
       "building":"C2",
       "room":"278",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:06-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:52-05:00"
     },
     {
-      "class_number":6781,
-      "subject":"PHYS",
+      "class_number":4976,
+      "subject":"NANO",
       "catalog_number":"701",
-      "title":"Quantum Mechanics 1",
+      "title":"Fundamentals of Nanotechnology",
       "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:20",
+      "start_date":"01\/08",
+      "end_date":"02\/12",
+      "enrollment_total":20,
       "instructors":[
-        "Martin,James D D"
+        "Radovanovic,Pavle"
       ],
       "building":"C2",
       "room":"278",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:52-05:00"
     },
     {
-      "class_number":6782,
-      "subject":"PHYS",
-      "catalog_number":"704",
-      "title":"Statistical Physics 1",
+      "class_number":4977,
+      "subject":"NANO",
+      "catalog_number":"702",
+      "title":"Nanotechology Tools",
       "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"14:00",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:20",
+      "start_date":"02\/26",
+      "end_date":"04\/02",
+      "enrollment_total":20,
       "instructors":[
-        "Burkov,Anton A"
+        "Radovanovic,Pavle"
       ],
       "building":"C2",
       "room":"278",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:57-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:52-05:00"
     },
     {
-      "class_number":8470,
+      "class_number":6465,
       "subject":"PHYS",
-      "catalog_number":"716",
-      "title":"Special Topics in Subatomic and Nuclear Physcis",
+      "catalog_number":"706",
+      "title":"Electromagnetic Theory",
       "section":"LEC 001",
       "weekdays":"WF",
       "start_time":"10:00",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":1,
+      "enrollment_total":12,
       "instructors":[
         
       ],
       "building":"C2",
       "room":"278",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:57-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:59-05:00"
     },
     {
-      "class_number":6989,
+      "class_number":8375,
       "subject":"PHYS",
-      "catalog_number":"751",
-      "title":"Cellular Biophysics",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        
-      ],
-      "building":"C2",
-      "room":"278",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:57-05:00"
-    },
-    {
-      "class_number":6962,
-      "subject":"PHYS",
-      "catalog_number":"781",
-      "title":"Fundamentals of Astrophysics",
+      "catalog_number":"787",
+      "title":"Cosmology",
       "section":"LEC 001",
       "weekdays":"TTh",
       "start_time":"14:30",
       "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":5,
+      "enrollment_total":1,
       "instructors":[
-        "Afshordi,Niayesh"
+        "Hudson,Michael"
       ],
       "building":"C2",
       "room":"278",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:58-05:00"
-    },
-    {
-      "class_number":8469,
-      "subject":"PHYS",
-      "catalog_number":"781",
-      "title":"Fundamentals of Astrophysics",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"12:00",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Afshordi,Niayesh"
-      ],
-      "building":"C2",
-      "room":"278",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:58-05:00"
-    },
-    {
-      "class_number":5600,
-      "subject":"QIC",
-      "catalog_number":"890",
-      "title":"Topics in Quantum Information",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Baugh,Jonathan"
-      ],
-      "building":"C2",
-      "room":"278",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:09-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:01-05:00"
     }
   ]
 }

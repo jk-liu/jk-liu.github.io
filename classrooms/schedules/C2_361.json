@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2451,
-    "timestamp":1415081553,
+    "requests":5327,
+    "timestamp":1420353803,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,44 +11,24 @@
   },
   "data":[
     {
-      "class_number":8386,
-      "subject":"CHE",
-      "catalog_number":"641",
-      "title":"Physical Properties of Polymers",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"18:30",
-      "end_time":"20:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Gauthier,Mario"
-      ],
-      "building":"C2",
-      "room":"361",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:05-05:00"
-    },
-    {
-      "class_number":8385,
+      "class_number":6885,
       "subject":"CHEM",
-      "catalog_number":"771",
-      "title":"Physical Properties of Polymers",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"18:30",
-      "end_time":"20:50",
+      "catalog_number":"794",
+      "title":"Master's Seminar",
+      "section":"SEM 001",
+      "weekdays":"Th",
+      "start_time":"13:00",
+      "end_time":"16:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":8,
+      "enrollment_total":14,
       "instructors":[
-        "Gauthier,Mario"
+        "Mikkelsen,Susan R"
       ],
       "building":"C2",
       "room":"361",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:07-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:53-05:00"
     }
   ]
 }

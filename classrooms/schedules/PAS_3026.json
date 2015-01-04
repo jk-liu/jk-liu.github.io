@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2669,
-    "timestamp":1415081620,
+    "requests":5530,
+    "timestamp":1420353876,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,27 +11,7 @@
   },
   "data":[
     {
-      "class_number":3712,
-      "subject":"PSYCH",
-      "catalog_number":"393",
-      "title":"Research in Developmental Psychology",
-      "section":"SEM 002",
-      "weekdays":"MW",
-      "start_time":"16:30",
-      "end_time":"17:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        "Friedman,Ori"
-      ],
-      "building":"PAS",
-      "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:10-05:00"
-    },
-    {
-      "class_number":4047,
+      "class_number":4079,
       "subject":"PSYCH",
       "catalog_number":"621",
       "title":"Advanced Clinical Research",
@@ -41,17 +21,17 @@
       "end_time":"11:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":7,
+      "enrollment_total":6,
       "instructors":[
         "Rehman,Uzma"
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:04-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:09-05:00"
     },
     {
-      "class_number":4048,
+      "class_number":4080,
       "subject":"PSYCH",
       "catalog_number":"621",
       "title":"Advanced Clinical Research",
@@ -61,17 +41,17 @@
       "end_time":"11:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":4,
+      "enrollment_total":2,
       "instructors":[
         "Rehman,Uzma"
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:04-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:09-05:00"
     },
     {
-      "class_number":4049,
+      "class_number":4081,
       "subject":"PSYCH",
       "catalog_number":"621",
       "title":"Advanced Clinical Research",
@@ -81,17 +61,17 @@
       "end_time":"11:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":3,
+      "enrollment_total":1,
       "instructors":[
         "Rehman,Uzma"
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:04-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:09-05:00"
     },
     {
-      "class_number":4050,
+      "class_number":4082,
       "subject":"PSYCH",
       "catalog_number":"621",
       "title":"Advanced Clinical Research",
@@ -101,17 +81,37 @@
       "end_time":"11:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":3,
+      "enrollment_total":0,
       "instructors":[
         "Rehman,Uzma"
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:04-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:09-05:00"
     },
     {
-      "class_number":4054,
+      "class_number":7462,
+      "subject":"PSYCH",
+      "catalog_number":"690",
+      "title":"Special Topics in Social and Personality",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":11,
+      "instructors":[
+        "Bergsieker,Hilary"
+      ],
+      "building":"PAS",
+      "room":"3026",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:09-05:00"
+    },
+    {
+      "class_number":4083,
       "subject":"PSYCH",
       "catalog_number":"707",
       "title":"Cognitive Neuroscience Seminar",
@@ -127,11 +127,11 @@
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:05-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
     },
     {
-      "class_number":4055,
+      "class_number":4084,
       "subject":"PSYCH",
       "catalog_number":"707",
       "title":"Cognitive Neuroscience Seminar",
@@ -141,17 +141,17 @@
       "end_time":"14:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":6,
+      "enrollment_total":1,
       "instructors":[
         "Danckert,James"
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:05-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
     },
     {
-      "class_number":4056,
+      "class_number":4085,
       "subject":"PSYCH",
       "catalog_number":"707",
       "title":"Cognitive Neuroscience Seminar",
@@ -161,17 +161,17 @@
       "end_time":"14:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":2,
+      "enrollment_total":1,
       "instructors":[
         "Danckert,James"
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:05-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
     },
     {
-      "class_number":4057,
+      "class_number":4086,
       "subject":"PSYCH",
       "catalog_number":"707",
       "title":"Cognitive Neuroscience Seminar",
@@ -181,17 +181,17 @@
       "end_time":"14:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":1,
+      "enrollment_total":0,
       "instructors":[
         "Danckert,James"
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:05-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
     },
     {
-      "class_number":4058,
+      "class_number":4087,
       "subject":"PSYCH",
       "catalog_number":"710",
       "title":"Current Issues in Developmental Psych Seminar",
@@ -201,17 +201,17 @@
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":9,
+      "enrollment_total":8,
       "instructors":[
         "White,Katherine S"
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:05-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
     },
     {
-      "class_number":4059,
+      "class_number":4088,
       "subject":"PSYCH",
       "catalog_number":"710",
       "title":"Current Issues in Developmental Psych Seminar",
@@ -227,11 +227,11 @@
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:05-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
     },
     {
-      "class_number":4060,
+      "class_number":4089,
       "subject":"PSYCH",
       "catalog_number":"710",
       "title":"Current Issues in Developmental Psych Seminar",
@@ -241,17 +241,17 @@
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":2,
+      "enrollment_total":1,
       "instructors":[
         "White,Katherine S"
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:05-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
     },
     {
-      "class_number":4061,
+      "class_number":4401,
       "subject":"PSYCH",
       "catalog_number":"710",
       "title":"Current Issues in Developmental Psych Seminar",
@@ -267,75 +267,15 @@
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:05-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
     },
     {
-      "class_number":4062,
+      "class_number":4090,
       "subject":"PSYCH",
       "catalog_number":"714",
       "title":"Current Topics in Social Psych Seminar",
       "section":"SEM 001",
-      "weekdays":"W",
-      "start_time":"12:00",
-      "end_time":"13:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Wood,Joanne"
-      ],
-      "building":"PAS",
-      "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:05-05:00"
-    },
-    {
-      "class_number":4063,
-      "subject":"PSYCH",
-      "catalog_number":"714",
-      "title":"Current Topics in Social Psych Seminar",
-      "section":"SEM 002",
-      "weekdays":"W",
-      "start_time":"12:00",
-      "end_time":"13:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Wood,Joanne"
-      ],
-      "building":"PAS",
-      "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:05-05:00"
-    },
-    {
-      "class_number":4064,
-      "subject":"PSYCH",
-      "catalog_number":"714",
-      "title":"Current Topics in Social Psych Seminar",
-      "section":"SEM 003",
-      "weekdays":"W",
-      "start_time":"12:00",
-      "end_time":"13:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":4,
-      "instructors":[
-        "Wood,Joanne"
-      ],
-      "building":"PAS",
-      "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:05-05:00"
-    },
-    {
-      "class_number":4065,
-      "subject":"PSYCH",
-      "catalog_number":"714",
-      "title":"Current Topics in Social Psych Seminar",
-      "section":"SEM 004",
       "weekdays":"W",
       "start_time":"12:00",
       "end_time":"13:50",
@@ -347,11 +287,71 @@
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:05-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
     },
     {
-      "class_number":4066,
+      "class_number":4091,
+      "subject":"PSYCH",
+      "catalog_number":"714",
+      "title":"Current Topics in Social Psych Seminar",
+      "section":"SEM 002",
+      "weekdays":"W",
+      "start_time":"12:00",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Wood,Joanne"
+      ],
+      "building":"PAS",
+      "room":"3026",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
+    },
+    {
+      "class_number":4092,
+      "subject":"PSYCH",
+      "catalog_number":"714",
+      "title":"Current Topics in Social Psych Seminar",
+      "section":"SEM 003",
+      "weekdays":"W",
+      "start_time":"12:00",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Wood,Joanne"
+      ],
+      "building":"PAS",
+      "room":"3026",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
+    },
+    {
+      "class_number":4093,
+      "subject":"PSYCH",
+      "catalog_number":"714",
+      "title":"Current Topics in Social Psych Seminar",
+      "section":"SEM 004",
+      "weekdays":"W",
+      "start_time":"12:00",
+      "end_time":"13:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":1,
+      "instructors":[
+        "Wood,Joanne"
+      ],
+      "building":"PAS",
+      "room":"3026",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:10-05:00"
+    },
+    {
+      "class_number":4094,
       "subject":"PSYCH",
       "catalog_number":"747",
       "title":"C\/P Research Seminar",
@@ -361,17 +361,17 @@
       "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":4,
+      "enrollment_total":2,
       "instructors":[
         "Risko,Evan Frank"
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:08-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:12-05:00"
     },
     {
-      "class_number":4067,
+      "class_number":4095,
       "subject":"PSYCH",
       "catalog_number":"747",
       "title":"C\/P Research Seminar",
@@ -381,17 +381,17 @@
       "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":4,
+      "enrollment_total":2,
       "instructors":[
         "Risko,Evan Frank"
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:08-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:12-05:00"
     },
     {
-      "class_number":4068,
+      "class_number":4096,
       "subject":"PSYCH",
       "catalog_number":"747",
       "title":"C\/P Research Seminar",
@@ -401,17 +401,17 @@
       "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":3,
+      "enrollment_total":0,
       "instructors":[
         "Risko,Evan Frank"
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:08-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:12-05:00"
     },
     {
-      "class_number":4069,
+      "class_number":4097,
       "subject":"PSYCH",
       "catalog_number":"747",
       "title":"C\/P Research Seminar",
@@ -427,128 +427,28 @@
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:08-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:12-05:00"
     },
     {
-      "class_number":7892,
+      "class_number":7464,
       "subject":"PSYCH",
-      "catalog_number":"795",
-      "title":"Structure and Function in the Developing Brain",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"09:30",
+      "catalog_number":"783",
+      "title":"Neuroimaging of Cognition",
+      "section":"SEM 001",
+      "weekdays":"M",
+      "start_time":"08:30",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":12,
-      "instructors":[
-        "McAuley,Tara"
-      ],
-      "building":"PAS",
-      "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:08-05:00"
-    },
-    {
-      "class_number":3394,
-      "subject":"PSYCH",
-      "catalog_number":"884",
-      "title":"Special Topics in Industrial & Organizational Psychology",
-      "section":"RDG 001",
-      "weekdays":"T",
-      "start_time":"09:30",
-      "end_time":"11:50",
-      "start_date":null,
-      "end_date":null,
       "enrollment_total":9,
       "instructors":[
-        "Brown,Douglas J"
+        "Danckert,James"
       ],
       "building":"PAS",
       "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:08-05:00"
-    },
-    {
-      "class_number":4070,
-      "subject":"PSYCH",
-      "catalog_number":"885",
-      "title":"Industrial & Organizational Psychology Research Seminar",
-      "section":"SEM 001",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Shen,Winny"
-      ],
-      "building":"PAS",
-      "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:08-05:00"
-    },
-    {
-      "class_number":4071,
-      "subject":"PSYCH",
-      "catalog_number":"885",
-      "title":"Industrial & Organizational Psychology Research Seminar",
-      "section":"SEM 002",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Shen,Winny"
-      ],
-      "building":"PAS",
-      "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:08-05:00"
-    },
-    {
-      "class_number":4072,
-      "subject":"PSYCH",
-      "catalog_number":"885",
-      "title":"Industrial & Organizational Psychology Research Seminar",
-      "section":"SEM 003",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        "Shen,Winny"
-      ],
-      "building":"PAS",
-      "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:08-05:00"
-    },
-    {
-      "class_number":4073,
-      "subject":"PSYCH",
-      "catalog_number":"885",
-      "title":"Industrial & Organizational Psychology Research Seminar",
-      "section":"SEM 004",
-      "weekdays":"M",
-      "start_time":"11:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":3,
-      "instructors":[
-        "Shen,Winny"
-      ],
-      "building":"PAS",
-      "room":"3026",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:08-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:12-05:00"
     }
   ]
 }

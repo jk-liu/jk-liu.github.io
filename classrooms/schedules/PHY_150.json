@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2680,
-    "timestamp":1415081623,
+    "requests":5539,
+    "timestamp":1420353881,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,204 +11,164 @@
   },
   "data":[
     {
-      "class_number":6601,
-      "subject":"BIOL",
-      "catalog_number":"443",
-      "title":"Fermentation Biotechnology",
+      "class_number":5776,
+      "subject":"CS",
+      "catalog_number":"370",
+      "title":"Numerical Computation",
       "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"09:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":85,
-      "instructors":[
-        "Butler,Barbara J"
-      ],
-      "building":"PHY",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:59-05:00"
-    },
-    {
-      "class_number":6625,
-      "subject":"EARTH",
-      "catalog_number":"359",
-      "title":"Flow Through Porous Media",
-      "section":"LEC 001",
-      "weekdays":"MWTh",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":79,
-      "instructors":[
-        "Jones,Jon Paul"
-      ],
-      "building":"PHY",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:44-05:00"
-    },
-    {
-      "class_number":4912,
-      "subject":"ECE",
-      "catalog_number":"140",
-      "title":"Linear Circuits",
-      "section":"TUT 104",
-      "weekdays":"Th",
-      "start_time":"10:30",
+      "weekdays":"MWF",
+      "start_time":"11:30",
       "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":77,
+      "enrollment_total":68,
       "instructors":[
-        "Dabbagh,Mohamed-Yahia"
+        "Labahn,George"
       ],
       "building":"PHY",
       "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:50-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:59-05:00"
     },
     {
-      "class_number":3519,
-      "subject":"FR",
-      "catalog_number":"197",
-      "title":"French Culture & Literature: Origins to 1715",
+      "class_number":7735,
+      "subject":"CS",
+      "catalog_number":"370",
+      "title":"Numerical Computation",
+      "section":"LEC 002",
+      "weekdays":"MWF",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":68,
+      "instructors":[
+        "Labahn,George"
+      ],
+      "building":"PHY",
+      "room":"150",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:59-05:00"
+    },
+    {
+      "class_number":3637,
+      "subject":"PHIL",
+      "catalog_number":"110B",
+      "title":"Introduction to Philosophy: Ethics and Values",
       "section":"LEC 001",
-      "weekdays":"WF",
+      "weekdays":"MW",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Lowry,Christopher"
+      ],
+      "building":"PHY",
+      "room":"150",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:56-05:00"
+    },
+    {
+      "class_number":6967,
+      "subject":"PHYS",
+      "catalog_number":"175",
+      "title":"Introduction to the Universe",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"13:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":74,
+      "instructors":[
+        "Epp,Richard J"
+      ],
+      "building":"PHY",
+      "room":"150",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:05-05:00"
+    },
+    {
+      "class_number":5746,
+      "subject":"PMATH",
+      "catalog_number":"450",
+      "title":"Lebesgue Integration and Fourier Analysis",
+      "section":"LEC 001",
+      "weekdays":"TTh",
       "start_time":"11:00",
       "end_time":"12:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":30,
       "instructors":[
-        "Abd-Elrazak,Loula"
-      ],
-      "building":"PHY",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:24-05:00"
-    },
-    {
-      "class_number":5830,
-      "subject":"MATH",
-      "catalog_number":"114",
-      "title":"Linear Algebra for Science",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"16:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":87,
-      "instructors":[
         
       ],
       "building":"PHY",
       "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:19-05:00"
     },
     {
-      "class_number":6661,
-      "subject":"PHYS",
-      "catalog_number":"111",
-      "title":"Physics 1",
-      "section":"LEC 002",
-      "weekdays":"MWF",
-      "start_time":"14:30",
-      "end_time":"15:20",
+      "class_number":6176,
+      "subject":"PMATH",
+      "catalog_number":"467",
+      "title":"Topology",
+      "section":"LEC 001",
+      "weekdays":"TThF",
+      "start_time":"12:30",
+      "end_time":"13:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":98,
+      "enrollment_total":14,
       "instructors":[
-        "Hawthorn,David"
+        "Park,Doug"
       ],
       "building":"PHY",
       "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:52-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:19-05:00"
     },
     {
-      "class_number":6712,
-      "subject":"PHYS",
-      "catalog_number":"121",
-      "title":"Mechanics",
-      "section":"TUT 102",
-      "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":84,
-      "instructors":[
-        
-      ],
-      "building":"PHY",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":6926,
-      "subject":"PHYS",
-      "catalog_number":"121",
-      "title":"Mechanics",
-      "section":"TUT 106",
-      "weekdays":"T",
-      "start_time":"11:30",
+      "class_number":6092,
+      "subject":"PMATH",
+      "catalog_number":"650",
+      "title":"Lebesgue Integration and Fourier Analysis",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"11:00",
       "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":63,
+      "enrollment_total":1,
       "instructors":[
         
       ],
       "building":"PHY",
       "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:04-05:00"
     },
     {
-      "class_number":6771,
-      "subject":"PHYS",
-      "catalog_number":"334",
-      "title":"Quantum Physics 2",
+      "class_number":6208,
+      "subject":"PMATH",
+      "catalog_number":"667",
+      "title":"Topology",
       "section":"LEC 001",
-      "weekdays":"TWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
+      "weekdays":"TThF",
+      "start_time":"12:30",
+      "end_time":"13:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":28,
+      "enrollment_total":5,
       "instructors":[
-        "Melko,Roger G"
+        "Park,Doug"
       ],
       "building":"PHY",
       "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:55-05:00"
-    },
-    {
-      "class_number":6721,
-      "subject":"PHYS",
-      "catalog_number":"434",
-      "title":"Quantum Physics 3",
-      "section":"LEC 001",
-      "weekdays":"MTF",
-      "start_time":"08:30",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":56,
-      "instructors":[
-        "Martin-Martinez,Eduardo"
-      ],
-      "building":"PHY",
-      "room":"150",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:04-05:00"
     }
   ]
 }

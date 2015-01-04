@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2641,
-    "timestamp":1415081612,
+    "requests":5500,
+    "timestamp":1420353865,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,106 +11,24 @@
   },
   "data":[
     {
-      "class_number":3092,
-      "subject":"CROAT",
-      "catalog_number":"101",
-      "title":"Elementary Croatian 1",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:30",
-      "end_time":"12:20",
+      "class_number":5407,
+      "subject":"ERS",
+      "catalog_number":"410",
+      "title":"Environmental Analysis and Solutions VI: Ecosocial Systems",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"13:30",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":15,
       "instructors":[
-        "Petrovic,Ivana"
+        
       ],
       "building":"ML",
       "room":"212",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:33-05:00"
-    },
-    {
-      "class_number":3284,
-      "subject":"CROAT",
-      "catalog_number":"201",
-      "title":"Intermediate Croatian I",
-      "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Petrovic,Ivana"
-      ],
-      "building":"ML",
-      "room":"212",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:33-05:00"
-    },
-    {
-      "class_number":3692,
-      "subject":"REES",
-      "catalog_number":"273",
-      "title":"Croatian Culture and Literature",
-      "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":6,
-      "instructors":[
-        "Petrovic,Ivana"
-      ],
-      "building":"ML",
-      "room":"212",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:16-05:00"
-    },
-    {
-      "class_number":3694,
-      "subject":"GER",
-      "catalog_number":"600",
-      "title":"Methods of Research",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":2,
-      "instructors":[
-        "Malone,Paul",
-        "Liebscher,Grit"
-      ],
-      "building":"ML",
-      "room":"212",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:33-05:00"
-    },
-    {
-      "class_number":3834,
-      "subject":"GER",
-      "catalog_number":"700",
-      "title":"Methods of Research",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Liebscher,Grit",
-        "Malone,Paul"
-      ],
-      "building":"ML",
-      "room":"212",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:34-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:00-05:00"
     }
   ]
 }

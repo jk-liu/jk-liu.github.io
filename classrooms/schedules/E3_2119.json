@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2514,
-    "timestamp":1415081573,
+    "requests":5385,
+    "timestamp":1420353825,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,144 +11,124 @@
   },
   "data":[
     {
-      "class_number":4537,
-      "subject":"CIVE",
-      "catalog_number":"265",
+      "class_number":4622,
+      "subject":"ME",
+      "catalog_number":"115",
       "title":"Structure and Properties of Materials",
-      "section":"LAB 201",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":49,
-      "instructors":[
-        "Walbridge,Scott"
-      ],
-      "building":"E3",
-      "room":"2119",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:27-05:00"
-    },
-    {
-      "class_number":4538,
-      "subject":"CIVE",
-      "catalog_number":"265",
-      "title":"Structure and Properties of Materials",
-      "section":"LAB 202",
+      "section":"LAB 101",
       "weekdays":"T",
       "start_time":"14:30",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":49,
+      "enrollment_total":56,
       "instructors":[
-        "Walbridge,Scott"
+        "Yavuz,Mustafa"
       ],
       "building":"E3",
       "room":"2119",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:27-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
     },
     {
-      "class_number":5189,
-      "subject":"CIVE",
-      "catalog_number":"265",
+      "class_number":4727,
+      "subject":"ME",
+      "catalog_number":"115",
       "title":"Structure and Properties of Materials",
-      "section":"LAB 203",
+      "section":"LAB 102",
       "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"16:20",
+      "start_time":"14:30",
+      "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":52,
+      "enrollment_total":57,
       "instructors":[
-        "Walbridge,Scott"
+        "Yavuz,Mustafa"
       ],
       "building":"E3",
       "room":"2119",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:27-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
     },
     {
-      "class_number":4592,
+      "class_number":4627,
       "subject":"ME",
       "catalog_number":"230",
       "title":"Control of Properties of Materials",
       "section":"LAB 101",
       "weekdays":"Th",
-      "start_time":"08:30",
-      "end_time":"11:20",
+      "start_time":"13:30",
+      "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":58,
+      "enrollment_total":55,
       "instructors":[
         
       ],
       "building":"E3",
       "room":"2119",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:16-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
     },
     {
-      "class_number":5149,
+      "class_number":5210,
       "subject":"ME",
       "catalog_number":"230",
       "title":"Control of Properties of Materials",
       "section":"LAB 102",
       "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"11:20",
+      "start_time":"13:30",
+      "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":61,
+      "enrollment_total":54,
       "instructors":[
         
       ],
       "building":"E3",
       "room":"2119",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:16-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:13-05:00"
     },
     {
-      "class_number":5064,
-      "subject":"ME",
-      "catalog_number":"235",
-      "title":"Materials Science and Engineering",
-      "section":"LAB 201",
+      "class_number":7469,
+      "subject":"MTE",
+      "catalog_number":"111",
+      "title":"Structure and Properties of Materials",
+      "section":"LAB 101",
+      "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Mayer,Michael"
+      ],
+      "building":"E3",
+      "room":"2119",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:24-05:00"
+    },
+    {
+      "class_number":7470,
+      "subject":"MTE",
+      "catalog_number":"111",
+      "title":"Structure and Properties of Materials",
+      "section":"LAB 102",
       "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"11:20",
+      "start_time":"13:30",
+      "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":30,
+      "enrollment_total":49,
       "instructors":[
-        
+        "Mayer,Michael"
       ],
       "building":"E3",
       "room":"2119",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:16-05:00"
-    },
-    {
-      "class_number":5065,
-      "subject":"ME",
-      "catalog_number":"235",
-      "title":"Materials Science and Engineering",
-      "section":"LAB 202",
-      "weekdays":"W",
-      "start_time":"08:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        
-      ],
-      "building":"E3",
-      "room":"2119",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:16-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:24-05:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2426,
-    "timestamp":1415081545,
+    "requests":5305,
+    "timestamp":1420353796,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,44 +11,24 @@
   },
   "data":[
     {
-      "class_number":8130,
+      "class_number":7545,
       "subject":"BIOL",
-      "catalog_number":"614",
-      "title":"Bioinformatics Tools and Techniques",
+      "catalog_number":"606",
+      "title":"Advanced Aquatic Ecology",
       "section":"LEC 001",
       "weekdays":"W",
-      "start_time":"13:30",
-      "end_time":"15:20",
+      "start_time":"18:00",
+      "end_time":"20:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":10,
+      "enrollment_total":6,
       "instructors":[
-        "McConkey,Brendan J"
+        "Swanson,Heidi"
       ],
       "building":"B1",
       "room":"273",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:04-05:00"
-    },
-    {
-      "class_number":8131,
-      "subject":"BIOL",
-      "catalog_number":"618",
-      "title":"Advanced Microbial Physiology",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":1,
-      "instructors":[
-        "Ma,Kesen"
-      ],
-      "building":"B1",
-      "room":"273",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:04-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:46-05:00"
     }
   ]
 }

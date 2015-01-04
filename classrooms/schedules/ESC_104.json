@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2553,
-    "timestamp":1415081585,
+    "requests":5417,
+    "timestamp":1420353837,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,71 +11,11 @@
   },
   "data":[
     {
-      "class_number":7109,
+      "class_number":6748,
       "subject":"BIOL",
-      "catalog_number":"130L",
-      "title":"Cell Biology Laboratory",
-      "section":"LAB 029",
-      "weekdays":"F",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":32,
-      "instructors":[
-        "Miskovic,Dragana"
-      ],
-      "building":"ESC",
-      "room":"104",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:55-05:00"
-    },
-    {
-      "class_number":7110,
-      "subject":"BIOL",
-      "catalog_number":"130L",
-      "title":"Cell Biology Laboratory",
-      "section":"LAB 030",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Miskovic,Dragana"
-      ],
-      "building":"ESC",
-      "room":"104",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:55-05:00"
-    },
-    {
-      "class_number":7111,
-      "subject":"BIOL",
-      "catalog_number":"130L",
-      "title":"Cell Biology Laboratory",
-      "section":"LAB 031",
-      "weekdays":"F",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":28,
-      "instructors":[
-        "Miskovic,Dragana"
-      ],
-      "building":"ESC",
-      "room":"104",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:55-05:00"
-    },
-    {
-      "class_number":6828,
-      "subject":"BIOL",
-      "catalog_number":"240L",
-      "title":"Microbiology Laboratory",
-      "section":"LAB 009",
+      "catalog_number":"301",
+      "title":"Human Anatomy",
+      "section":"LAB 101",
       "weekdays":"M",
       "start_time":"14:30",
       "end_time":"17:20",
@@ -83,19 +23,19 @@
       "end_date":null,
       "enrollment_total":32,
       "instructors":[
-        "Duxbury,Cheryl"
+        "Wolff,Bruce Richard"
       ],
       "building":"ESC",
       "room":"104",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:42-05:00"
     },
     {
-      "class_number":6829,
+      "class_number":6749,
       "subject":"BIOL",
-      "catalog_number":"240L",
-      "title":"Microbiology Laboratory",
-      "section":"LAB 010",
+      "catalog_number":"301",
+      "title":"Human Anatomy",
+      "section":"LAB 102",
       "weekdays":"M",
       "start_time":"19:00",
       "end_time":"21:50",
@@ -103,19 +43,19 @@
       "end_date":null,
       "enrollment_total":32,
       "instructors":[
-        "Duxbury,Cheryl"
+        "Wolff,Bruce Richard"
       ],
       "building":"ESC",
       "room":"104",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:42-05:00"
     },
     {
-      "class_number":6830,
+      "class_number":6750,
       "subject":"BIOL",
-      "catalog_number":"240L",
-      "title":"Microbiology Laboratory",
-      "section":"LAB 011",
+      "catalog_number":"301",
+      "title":"Human Anatomy",
+      "section":"LAB 103",
       "weekdays":"T",
       "start_time":"09:30",
       "end_time":"12:20",
@@ -123,39 +63,39 @@
       "end_date":null,
       "enrollment_total":32,
       "instructors":[
-        "Duxbury,Cheryl"
+        "Wolff,Bruce Richard"
       ],
       "building":"ESC",
       "room":"104",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:42-05:00"
     },
     {
-      "class_number":6831,
+      "class_number":6751,
       "subject":"BIOL",
-      "catalog_number":"240L",
-      "title":"Microbiology Laboratory",
-      "section":"LAB 012",
+      "catalog_number":"301",
+      "title":"Human Anatomy",
+      "section":"LAB 104",
       "weekdays":"T",
       "start_time":"14:30",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":30,
+      "enrollment_total":32,
       "instructors":[
-        "Duxbury,Cheryl"
+        "Wolff,Bruce Richard"
       ],
       "building":"ESC",
       "room":"104",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:42-05:00"
     },
     {
-      "class_number":6832,
+      "class_number":6752,
       "subject":"BIOL",
-      "catalog_number":"240L",
-      "title":"Microbiology Laboratory",
-      "section":"LAB 013",
+      "catalog_number":"301",
+      "title":"Human Anatomy",
+      "section":"LAB 105",
       "weekdays":"T",
       "start_time":"19:00",
       "end_time":"21:50",
@@ -163,39 +103,19 @@
       "end_date":null,
       "enrollment_total":32,
       "instructors":[
-        "Duxbury,Cheryl"
+        "Wolff,Bruce Richard"
       ],
       "building":"ESC",
       "room":"104",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:42-05:00"
     },
     {
-      "class_number":6833,
+      "class_number":6753,
       "subject":"BIOL",
-      "catalog_number":"240L",
-      "title":"Microbiology Laboratory",
-      "section":"LAB 014",
-      "weekdays":"W",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":31,
-      "instructors":[
-        "Duxbury,Cheryl"
-      ],
-      "building":"ESC",
-      "room":"104",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
-    },
-    {
-      "class_number":6862,
-      "subject":"BIOL",
-      "catalog_number":"240L",
-      "title":"Microbiology Laboratory",
-      "section":"LAB 015",
+      "catalog_number":"301",
+      "title":"Human Anatomy",
+      "section":"LAB 106",
       "weekdays":"W",
       "start_time":"14:30",
       "end_time":"17:20",
@@ -203,19 +123,19 @@
       "end_date":null,
       "enrollment_total":32,
       "instructors":[
-        "Duxbury,Cheryl"
+        "Wolff,Bruce Richard"
       ],
       "building":"ESC",
       "room":"104",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:42-05:00"
     },
     {
-      "class_number":6879,
+      "class_number":6754,
       "subject":"BIOL",
-      "catalog_number":"240L",
-      "title":"Microbiology Laboratory",
-      "section":"LAB 016",
+      "catalog_number":"301",
+      "title":"Human Anatomy",
+      "section":"LAB 107",
       "weekdays":"W",
       "start_time":"19:00",
       "end_time":"21:50",
@@ -223,19 +143,19 @@
       "end_date":null,
       "enrollment_total":32,
       "instructors":[
-        "Duxbury,Cheryl"
+        "Wolff,Bruce Richard"
       ],
       "building":"ESC",
       "room":"104",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:42-05:00"
     },
     {
-      "class_number":6880,
+      "class_number":6755,
       "subject":"BIOL",
-      "catalog_number":"240L",
-      "title":"Microbiology Laboratory",
-      "section":"LAB 017",
+      "catalog_number":"301",
+      "title":"Human Anatomy",
+      "section":"LAB 108",
       "weekdays":"Th",
       "start_time":"09:30",
       "end_time":"12:20",
@@ -243,19 +163,19 @@
       "end_date":null,
       "enrollment_total":32,
       "instructors":[
-        "Duxbury,Cheryl"
+        "Wolff,Bruce Richard"
       ],
       "building":"ESC",
       "room":"104",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:42-05:00"
     },
     {
-      "class_number":6944,
+      "class_number":6793,
       "subject":"BIOL",
-      "catalog_number":"240L",
-      "title":"Microbiology Laboratory",
-      "section":"LAB 018",
+      "catalog_number":"301",
+      "title":"Human Anatomy",
+      "section":"LAB 109",
       "weekdays":"Th",
       "start_time":"14:30",
       "end_time":"17:20",
@@ -263,12 +183,52 @@
       "end_date":null,
       "enrollment_total":32,
       "instructors":[
-        "Duxbury,Cheryl"
+        "Wolff,Bruce Richard"
       ],
       "building":"ESC",
       "room":"104",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:42-05:00"
+    },
+    {
+      "class_number":6808,
+      "subject":"BIOL",
+      "catalog_number":"301",
+      "title":"Human Anatomy",
+      "section":"LAB 110",
+      "weekdays":"Th",
+      "start_time":"19:00",
+      "end_time":"21:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"ESC",
+      "room":"104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:42-05:00"
+    },
+    {
+      "class_number":6893,
+      "subject":"BIOL",
+      "catalog_number":"301",
+      "title":"Human Anatomy",
+      "section":"LAB 111",
+      "weekdays":"F",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":32,
+      "instructors":[
+        "Wolff,Bruce Richard"
+      ],
+      "building":"ESC",
+      "room":"104",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:42-05:00"
     }
   ]
 }

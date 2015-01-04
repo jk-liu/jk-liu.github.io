@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2612,
-    "timestamp":1415081604,
+    "requests":5470,
+    "timestamp":1420353855,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,364 +11,244 @@
   },
   "data":[
     {
-      "class_number":5628,
-      "subject":"CO",
-      "catalog_number":"330",
-      "title":"Combinatorial Enumeration",
+      "class_number":6091,
+      "subject":"AMATH",
+      "catalog_number":"342",
+      "title":"Computational Methods for Differential Equations",
       "section":"LEC 001",
-      "weekdays":"MWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":38,
-      "instructors":[
-        "Purbhoo,Kevin"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:30-05:00"
-    },
-    {
-      "class_number":6064,
-      "subject":"CS",
-      "catalog_number":"136",
-      "title":"Elementary Algorithm Design and Data Abstraction",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":105,
-      "instructors":[
-        "Petrick,Mark"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:35-05:00"
-    },
-    {
-      "class_number":5856,
-      "subject":"CS",
-      "catalog_number":"350",
-      "title":"Operating Systems",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":81,
-      "instructors":[
-        "Wong,Bernard"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:38-05:00"
-    },
-    {
-      "class_number":5716,
-      "subject":"CS",
-      "catalog_number":"430",
-      "title":"Applications Software Engineering",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":44,
-      "instructors":[
-        "Kou,Tian"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:39-05:00"
-    },
-    {
-      "class_number":3614,
-      "subject":"ECON",
-      "catalog_number":"201",
-      "title":"Microeconomic Theory 1",
-      "section":"LEC 005",
-      "weekdays":"T",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":98,
-      "instructors":[
-        "He,Zhen"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:56-05:00"
-    },
-    {
-      "class_number":3770,
-      "subject":"ECON",
-      "catalog_number":"202",
-      "title":"Macroeconomic Theory 1",
-      "section":"LEC 003",
-      "weekdays":"TTh",
+      "weekdays":"TThF",
       "start_time":"11:30",
-      "end_time":"12:50",
+      "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":99,
+      "enrollment_total":17,
       "instructors":[
-        "Vaughan,Maryann"
+        "De Sterck,Hans"
       ],
       "building":"MC",
       "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:24-05:00"
     },
     {
-      "class_number":3446,
-      "subject":"ECON",
-      "catalog_number":"211",
-      "title":"Introduction to Mathematical Economics",
-      "section":"LEC 001",
-      "weekdays":"MTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":48,
-      "instructors":[
-        "George,Ryan"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:56-05:00"
-    },
-    {
-      "class_number":8140,
-      "subject":"KIN",
-      "catalog_number":"429",
-      "title":"Bone and Joint Health",
+      "class_number":5889,
+      "subject":"CS",
+      "catalog_number":"343",
+      "title":"Concurrent and Parallel Programming",
       "section":"LEC 001",
       "weekdays":"TTh",
       "start_time":"13:00",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":101,
+      "enrollment_total":72,
       "instructors":[
-        "Giangregorio,Lora Marie"
+        "Kierstead,Caroline"
       ],
       "building":"MC",
       "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:04-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:56-05:00"
     },
     {
-      "class_number":5831,
-      "subject":"MATH",
-      "catalog_number":"114",
-      "title":"Linear Algebra for Science",
-      "section":"TUT 102",
-      "weekdays":"F",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":105,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5675,
-      "subject":"MATH",
-      "catalog_number":"127",
-      "title":"Calculus 1 for the Sciences",
+      "class_number":5784,
+      "subject":"CS",
+      "catalog_number":"348",
+      "title":"Introduction to Database Management",
       "section":"LEC 001",
-      "weekdays":"MWF",
+      "weekdays":"MW",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":95,
+      "instructors":[
+        "Weddell,Grant"
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:57-05:00"
+    },
+    {
+      "class_number":3314,
+      "subject":"ECON",
+      "catalog_number":"201",
+      "title":"Microeconomic Theory 1",
+      "section":"LEC 002",
+      "weekdays":"MW",
       "start_time":"11:30",
-      "end_time":"12:20",
+      "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":99,
+      "enrollment_total":85,
       "instructors":[
-        "Woody,Owen Zeno"
+        "Rajsic,Predrag"
       ],
       "building":"MC",
       "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
     },
     {
-      "class_number":5678,
+      "class_number":6051,
       "subject":"MATH",
       "catalog_number":"127",
       "title":"Calculus 1 for the Sciences",
-      "section":"LEC 004",
+      "section":"LEC 002",
       "weekdays":"MWF",
-      "start_time":"12:30",
-      "end_time":"13:20",
+      "start_time":"09:30",
+      "end_time":"10:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":64,
+      "enrollment_total":87,
       "instructors":[
-        "Rajabi,Sayeh"
+        "McKinnon,David"
       ],
       "building":"MC",
       "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
     },
     {
-      "class_number":5912,
+      "class_number":6320,
       "subject":"MATH",
       "catalog_number":"127",
       "title":"Calculus 1 for the Sciences",
-      "section":"TUT 107",
+      "section":"TUT 104",
       "weekdays":"M",
       "start_time":"17:30",
       "end_time":"18:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":86,
+      "enrollment_total":74,
       "instructors":[
         
       ],
       "building":"MC",
       "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:09-05:00"
     },
     {
-      "class_number":5754,
-      "subject":"MATH",
-      "catalog_number":"228",
-      "title":"Differential Equations for Physics and Chemistry",
-      "section":"TUT 101",
+      "class_number":4928,
+      "subject":"NE",
+      "catalog_number":"402",
+      "title":"Nanotechnology Engineering Practice",
+      "section":"SEM 001",
       "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":97,
+      "instructors":[
+        "Maheshwari,Vivek"
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:36-05:00"
+    },
+    {
+      "class_number":7007,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 101",
+      "weekdays":"M",
       "start_time":"08:30",
       "end_time":"09:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":91,
+      "enrollment_total":85,
       "instructors":[
-        
+        "Bohlouli Zanjani,Parisa"
       ],
       "building":"MC",
       "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:13-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:03-05:00"
     },
     {
-      "class_number":6089,
-      "subject":"MATH",
-      "catalog_number":"235",
-      "title":"Linear Algebra 2 for Honours Mathematics",
-      "section":"LEC 006",
+      "class_number":7010,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 104",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":83,
+      "instructors":[
+        "Bohlouli Zanjani,Parisa"
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:03-05:00"
+    },
+    {
+      "class_number":7011,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 105",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":104,
+      "instructors":[
+        "Bohlouli Zanjani,Parisa"
+      ],
+      "building":"MC",
+      "room":"2017",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:03-05:00"
+    },
+    {
+      "class_number":6072,
+      "subject":"STAT",
+      "catalog_number":"220",
+      "title":"Probability (Non-Specialist Level)",
+      "section":"LEC 001",
       "weekdays":"MWF",
       "start_time":"10:30",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":53,
+      "enrollment_total":18,
       "instructors":[
-        "Rooney,Brendan"
+        "Roberts,Collin Donald"
       ],
       "building":"MC",
       "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:13-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:15-05:00"
     },
     {
-      "class_number":7288,
-      "subject":"SE",
-      "catalog_number":"463",
-      "title":"Software Requirements Specification and Analysis",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":84,
-      "instructors":[
-        "Trefler,Richard"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:28-05:00"
-    },
-    {
-      "class_number":6086,
+      "class_number":5754,
       "subject":"STAT",
-      "catalog_number":"240",
-      "title":"Probability (Advanced Level)",
+      "catalog_number":"333",
+      "title":"Applied Probability",
       "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":48,
-      "instructors":[
-        
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:43-05:00"
-    },
-    {
-      "class_number":6294,
-      "subject":"STAT",
-      "catalog_number":"331",
-      "title":"Applied Linear Models",
-      "section":"LEC 002",
-      "weekdays":"MW",
+      "weekdays":"MTh",
       "start_time":"14:30",
       "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":90,
+      "enrollment_total":68,
       "instructors":[
-        "Zhu,Yeying"
+        "Shen,Yi"
       ],
       "building":"MC",
       "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:43-05:00"
-    },
-    {
-      "class_number":6053,
-      "subject":"STAT",
-      "catalog_number":"373",
-      "title":"Regression and Forecasting Methods in Finance",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":44,
-      "instructors":[
-        "Fahmy,Hany"
-      ],
-      "building":"MC",
-      "room":"2017",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:44-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:16-05:00"
     }
   ]
 }

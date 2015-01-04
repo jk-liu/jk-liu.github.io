@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2687,
-    "timestamp":1415081625,
+    "requests":5546,
+    "timestamp":1420353884,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,904 +11,484 @@
   },
   "data":[
     {
-      "class_number":7082,
+      "class_number":6961,
       "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 023",
-      "weekdays":"T",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":"09\/16",
-      "end_date":"09\/16",
-      "enrollment_total":23,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7082,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 023",
-      "weekdays":"T",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":"09\/30",
-      "end_date":"09\/30",
-      "enrollment_total":23,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7082,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 023",
-      "weekdays":"T",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":"10\/14",
-      "end_date":"10\/14",
-      "enrollment_total":23,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7082,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 023",
-      "weekdays":"T",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":"10\/28",
-      "end_date":"10\/28",
-      "enrollment_total":23,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7082,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 023",
-      "weekdays":"T",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":"11\/11",
-      "end_date":"11\/11",
-      "enrollment_total":23,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7083,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 024",
+      "catalog_number":"175L",
+      "title":"Introduction to the Universe Laboratory",
+      "section":"LAB 001",
       "weekdays":"T",
       "start_time":"14:30",
       "end_time":"17:20",
-      "start_date":"09\/16",
-      "end_date":"09\/16",
+      "start_date":"01\/20",
+      "end_date":"01\/20",
       "enrollment_total":23,
       "instructors":[
-        "Dinh,Tan Ngoc N"
+        
       ],
       "building":"PHY",
       "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:05-05:00"
     },
     {
-      "class_number":7083,
+      "class_number":6961,
       "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 024",
+      "catalog_number":"175L",
+      "title":"Introduction to the Universe Laboratory",
+      "section":"LAB 001",
       "weekdays":"T",
       "start_time":"14:30",
       "end_time":"17:20",
-      "start_date":"09\/30",
-      "end_date":"09\/30",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
       "enrollment_total":23,
       "instructors":[
-        "Dinh,Tan Ngoc N"
+        
       ],
       "building":"PHY",
       "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:05-05:00"
     },
     {
-      "class_number":7083,
+      "class_number":6962,
       "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 024",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"10\/14",
-      "end_date":"10\/14",
-      "enrollment_total":23,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7083,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 024",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"10\/28",
-      "end_date":"10\/28",
-      "enrollment_total":23,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7083,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 024",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"11\/11",
-      "end_date":"11\/11",
-      "enrollment_total":23,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7179,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 025",
+      "catalog_number":"175L",
+      "title":"Introduction to the Universe Laboratory",
+      "section":"LAB 002",
       "weekdays":"W",
       "start_time":"14:30",
       "end_time":"17:20",
-      "start_date":"09\/17",
-      "end_date":"09\/17",
-      "enrollment_total":23,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7179,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 025",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"10\/01",
-      "end_date":"10\/01",
-      "enrollment_total":23,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7179,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 025",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"10\/15",
-      "end_date":"10\/15",
-      "enrollment_total":23,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7179,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 025",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"10\/29",
-      "end_date":"10\/29",
-      "enrollment_total":23,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7179,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 025",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"11\/12",
-      "end_date":"11\/12",
-      "enrollment_total":23,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7180,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 026",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":"09\/18",
-      "end_date":"09\/18",
+      "start_date":"01\/21",
+      "end_date":"01\/21",
       "enrollment_total":24,
       "instructors":[
-        "Dinh,Tan Ngoc N"
+        
       ],
       "building":"PHY",
       "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:05-05:00"
     },
     {
-      "class_number":7180,
+      "class_number":6962,
       "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 026",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":"10\/02",
-      "end_date":"10\/02",
+      "catalog_number":"175L",
+      "title":"Introduction to the Universe Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"02\/04",
+      "end_date":"02\/04",
       "enrollment_total":24,
       "instructors":[
-        "Dinh,Tan Ngoc N"
+        
       ],
       "building":"PHY",
       "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:05-05:00"
     },
     {
-      "class_number":7180,
+      "class_number":6963,
       "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 026",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":"10\/16",
-      "end_date":"10\/16",
-      "enrollment_total":24,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7180,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 026",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":"10\/30",
-      "end_date":"10\/30",
-      "enrollment_total":24,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7180,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 026",
-      "weekdays":"Th",
-      "start_time":"09:30",
-      "end_time":"12:20",
-      "start_date":"11\/13",
-      "end_date":"11\/13",
-      "enrollment_total":24,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7181,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 027",
+      "catalog_number":"175L",
+      "title":"Introduction to the Universe Laboratory",
+      "section":"LAB 003",
       "weekdays":"Th",
       "start_time":"14:30",
       "end_time":"17:20",
-      "start_date":"09\/18",
-      "end_date":"09\/18",
+      "start_date":"01\/22",
+      "end_date":"01\/22",
       "enrollment_total":22,
       "instructors":[
-        "Dinh,Tan Ngoc N"
+        
       ],
       "building":"PHY",
       "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:05-05:00"
     },
     {
-      "class_number":7181,
+      "class_number":6963,
       "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 027",
+      "catalog_number":"175L",
+      "title":"Introduction to the Universe Laboratory",
+      "section":"LAB 003",
       "weekdays":"Th",
       "start_time":"14:30",
       "end_time":"17:20",
-      "start_date":"10\/02",
-      "end_date":"10\/02",
+      "start_date":"02\/05",
+      "end_date":"02\/05",
       "enrollment_total":22,
       "instructors":[
-        "Dinh,Tan Ngoc N"
+        
       ],
       "building":"PHY",
       "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:05-05:00"
     },
     {
-      "class_number":7181,
+      "class_number":6964,
       "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 027",
-      "weekdays":"Th",
+      "catalog_number":"175L",
+      "title":"Introduction to the Universe Laboratory",
+      "section":"LAB 004",
+      "weekdays":"F",
       "start_time":"14:30",
       "end_time":"17:20",
-      "start_date":"10\/16",
-      "end_date":"10\/16",
-      "enrollment_total":22,
+      "start_date":"01\/23",
+      "end_date":"01\/23",
+      "enrollment_total":0,
       "instructors":[
-        "Dinh,Tan Ngoc N"
+        
       ],
       "building":"PHY",
       "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:05-05:00"
     },
     {
-      "class_number":7181,
+      "class_number":6964,
       "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 027",
-      "weekdays":"Th",
+      "catalog_number":"175L",
+      "title":"Introduction to the Universe Laboratory",
+      "section":"LAB 004",
+      "weekdays":"F",
       "start_time":"14:30",
       "end_time":"17:20",
-      "start_date":"10\/30",
-      "end_date":"10\/30",
-      "enrollment_total":22,
+      "start_date":"02\/06",
+      "end_date":"04\/06",
+      "enrollment_total":0,
       "instructors":[
-        "Dinh,Tan Ngoc N"
+        
       ],
       "building":"PHY",
       "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:05-05:00"
     },
     {
-      "class_number":7181,
+      "class_number":6965,
       "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 027",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":"11\/13",
-      "end_date":"11\/13",
-      "enrollment_total":22,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7182,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 028",
-      "weekdays":"T",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"09\/16",
-      "end_date":"09\/16",
-      "enrollment_total":16,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7182,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 028",
-      "weekdays":"T",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"09\/30",
-      "end_date":"09\/30",
-      "enrollment_total":16,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7182,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 028",
-      "weekdays":"T",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"10\/14",
-      "end_date":"10\/14",
-      "enrollment_total":16,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7182,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 028",
-      "weekdays":"T",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"10\/28",
-      "end_date":"10\/28",
-      "enrollment_total":16,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7182,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 028",
-      "weekdays":"T",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"11\/11",
-      "end_date":"11\/11",
-      "enrollment_total":16,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7183,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 029",
-      "weekdays":"W",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"09\/17",
-      "end_date":"09\/17",
-      "enrollment_total":16,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7183,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 029",
-      "weekdays":"W",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"10\/01",
-      "end_date":"10\/01",
-      "enrollment_total":16,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7183,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 029",
-      "weekdays":"W",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"10\/15",
-      "end_date":"10\/15",
-      "enrollment_total":16,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7183,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 029",
-      "weekdays":"W",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"10\/29",
-      "end_date":"10\/29",
-      "enrollment_total":16,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7183,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 029",
-      "weekdays":"W",
-      "start_time":"18:00",
-      "end_time":"21:50",
-      "start_date":"11\/12",
-      "end_date":"11\/12",
-      "enrollment_total":16,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7184,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 030",
-      "weekdays":"Th",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"09\/18",
-      "end_date":"09\/18",
-      "enrollment_total":13,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7184,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 030",
-      "weekdays":"Th",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"10\/02",
-      "end_date":"10\/02",
-      "enrollment_total":13,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7184,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 030",
-      "weekdays":"Th",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"10\/16",
-      "end_date":"10\/16",
-      "enrollment_total":13,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7184,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 030",
-      "weekdays":"Th",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"10\/30",
-      "end_date":"10\/30",
-      "enrollment_total":13,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7184,
-      "subject":"PHYS",
-      "catalog_number":"111L",
-      "title":"Physics 1 Laboratory",
-      "section":"LAB 030",
-      "weekdays":"Th",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":"11\/13",
-      "end_date":"11\/13",
-      "enrollment_total":13,
-      "instructors":[
-        "Dinh,Tan Ngoc N"
-      ],
-      "building":"PHY",
-      "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":7154,
-      "subject":"PHYS",
-      "catalog_number":"224L",
+      "catalog_number":"242L",
       "title":"Electricity and Magnetism Laboratory",
       "section":"LAB 001",
-      "weekdays":"Th",
+      "weekdays":"T",
       "start_time":"14:30",
       "end_time":"17:20",
-      "start_date":"09\/25",
-      "end_date":"09\/25",
+      "start_date":"02\/24",
+      "end_date":"02\/24",
+      "enrollment_total":16,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"318",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
+    },
+    {
+      "class_number":6965,
+      "subject":"PHYS",
+      "catalog_number":"242L",
+      "title":"Electricity and Magnetism Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/10",
+      "end_date":"03\/10",
+      "enrollment_total":16,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"318",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
+    },
+    {
+      "class_number":6965,
+      "subject":"PHYS",
+      "catalog_number":"242L",
+      "title":"Electricity and Magnetism Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":16,
+      "instructors":[
+        "Gardiner,Jeff"
+      ],
+      "building":"PHY",
+      "room":"318",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
+    },
+    {
+      "class_number":6966,
+      "subject":"PHYS",
+      "catalog_number":"242L",
+      "title":"Electricity and Magnetism Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"02\/25",
+      "end_date":"02\/25",
       "enrollment_total":7,
       "instructors":[
         "Gardiner,Jeff"
       ],
       "building":"PHY",
       "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:54-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
     },
     {
-      "class_number":7154,
+      "class_number":6966,
       "subject":"PHYS",
-      "catalog_number":"224L",
+      "catalog_number":"242L",
       "title":"Electricity and Magnetism Laboratory",
-      "section":"LAB 001",
-      "weekdays":"Th",
+      "section":"LAB 002",
+      "weekdays":"W",
       "start_time":"14:30",
       "end_time":"17:20",
-      "start_date":"10\/09",
-      "end_date":"10\/09",
+      "start_date":"03\/11",
+      "end_date":"03\/11",
       "enrollment_total":7,
       "instructors":[
         "Gardiner,Jeff"
       ],
       "building":"PHY",
       "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:54-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
     },
     {
-      "class_number":7154,
+      "class_number":6966,
       "subject":"PHYS",
-      "catalog_number":"224L",
+      "catalog_number":"242L",
       "title":"Electricity and Magnetism Laboratory",
-      "section":"LAB 001",
-      "weekdays":"Th",
+      "section":"LAB 002",
+      "weekdays":"W",
       "start_time":"14:30",
       "end_time":"17:20",
-      "start_date":"10\/23",
-      "end_date":"10\/23",
+      "start_date":"03\/25",
+      "end_date":"03\/25",
       "enrollment_total":7,
       "instructors":[
         "Gardiner,Jeff"
       ],
       "building":"PHY",
       "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:54-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
     },
     {
-      "class_number":7154,
+      "class_number":6871,
       "subject":"PHYS",
-      "catalog_number":"224L",
-      "title":"Electricity and Magnetism Laboratory",
+      "catalog_number":"260L",
+      "title":"Intermediate Physics Laboratory",
       "section":"LAB 001",
-      "weekdays":"Th",
+      "weekdays":"T",
       "start_time":"14:30",
       "end_time":"17:20",
-      "start_date":"11\/06",
-      "end_date":"11\/06",
-      "enrollment_total":7,
+      "start_date":"01\/13",
+      "end_date":"01\/13",
+      "enrollment_total":16,
       "instructors":[
-        "Gardiner,Jeff"
+        "Dinh,Tan Ngoc N"
       ],
       "building":"PHY",
       "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:54-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
     },
     {
-      "class_number":7154,
+      "class_number":6871,
       "subject":"PHYS",
-      "catalog_number":"224L",
-      "title":"Electricity and Magnetism Laboratory",
+      "catalog_number":"260L",
+      "title":"Intermediate Physics Laboratory",
       "section":"LAB 001",
-      "weekdays":"Th",
+      "weekdays":"T",
       "start_time":"14:30",
       "end_time":"17:20",
-      "start_date":"11\/20",
-      "end_date":"11\/20",
-      "enrollment_total":7,
+      "start_date":"01\/27",
+      "end_date":"01\/27",
+      "enrollment_total":16,
       "instructors":[
-        "Gardiner,Jeff"
+        "Dinh,Tan Ngoc N"
       ],
       "building":"PHY",
       "room":"318",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:54-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
+    },
+    {
+      "class_number":6871,
+      "subject":"PHYS",
+      "catalog_number":"260L",
+      "title":"Intermediate Physics Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"14:00",
+      "end_time":"17:20",
+      "start_date":"02\/10",
+      "end_date":"02\/10",
+      "enrollment_total":16,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"318",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
+    },
+    {
+      "class_number":6871,
+      "subject":"PHYS",
+      "catalog_number":"260L",
+      "title":"Intermediate Physics Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/03",
+      "end_date":"03\/03",
+      "enrollment_total":16,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"318",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
+    },
+    {
+      "class_number":6871,
+      "subject":"PHYS",
+      "catalog_number":"260L",
+      "title":"Intermediate Physics Laboratory",
+      "section":"LAB 001",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/17",
+      "end_date":"03\/17",
+      "enrollment_total":16,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"318",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
+    },
+    {
+      "class_number":6872,
+      "subject":"PHYS",
+      "catalog_number":"260L",
+      "title":"Intermediate Physics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"01\/14",
+      "end_date":"01\/14",
+      "enrollment_total":12,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"318",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
+    },
+    {
+      "class_number":6872,
+      "subject":"PHYS",
+      "catalog_number":"260L",
+      "title":"Intermediate Physics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"01\/28",
+      "end_date":"01\/28",
+      "enrollment_total":12,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"318",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
+    },
+    {
+      "class_number":6872,
+      "subject":"PHYS",
+      "catalog_number":"260L",
+      "title":"Intermediate Physics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"02\/11",
+      "end_date":"02\/11",
+      "enrollment_total":12,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"318",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
+    },
+    {
+      "class_number":6872,
+      "subject":"PHYS",
+      "catalog_number":"260L",
+      "title":"Intermediate Physics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/04",
+      "end_date":"03\/04",
+      "enrollment_total":12,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"318",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
+    },
+    {
+      "class_number":6872,
+      "subject":"PHYS",
+      "catalog_number":"260L",
+      "title":"Intermediate Physics Laboratory",
+      "section":"LAB 002",
+      "weekdays":"W",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":"03\/18",
+      "end_date":"03\/18",
+      "enrollment_total":12,
+      "instructors":[
+        "Dinh,Tan Ngoc N"
+      ],
+      "building":"PHY",
+      "room":"318",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
     }
   ]
 }

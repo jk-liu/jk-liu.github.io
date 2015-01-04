@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2737,
-    "timestamp":1415081641,
+    "requests":5593,
+    "timestamp":1420353902,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,384 +11,244 @@
   },
   "data":[
     {
-      "class_number":8257,
-      "subject":"BASE",
-      "catalog_number":"42",
-      "title":"Academic Skills",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":14,
-      "instructors":[
-        "Morgan,Christine Elizabeth"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:49-05:00"
-    },
-    {
-      "class_number":6519,
-      "subject":"CHINA",
-      "catalog_number":"272R",
-      "title":"Chinese Culture and Society",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Bao,Huai"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:25-05:00"
-    },
-    {
-      "class_number":3176,
-      "subject":"ENGL",
-      "catalog_number":"129R",
-      "title":"Written Academic English",
-      "section":"LEC 001",
-      "weekdays":"TWF",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Lane,Daryaneh"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:06-05:00"
-    },
-    {
-      "class_number":8293,
-      "subject":"ENGL",
-      "catalog_number":"140R",
-      "title":"The Use of English 1",
-      "section":"LEC 006",
-      "weekdays":"T",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":26,
-      "instructors":[
-        "Al Ethari,Lamees"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:07-05:00"
-    },
-    {
-      "class_number":8294,
-      "subject":"ENGL",
-      "catalog_number":"140R",
-      "title":"The Use of English 1",
-      "section":"LEC 007",
-      "weekdays":"Th",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":20,
-      "instructors":[
-        "Al Ethari,Lamees"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:07-05:00"
-    },
-    {
-      "class_number":7951,
-      "subject":"ESL",
-      "catalog_number":"102R",
-      "title":"Error Correction in Academic Writing",
-      "section":"LEC 009",
-      "weekdays":"MTTh",
+      "class_number":7813,
+      "subject":"EASIA",
+      "catalog_number":"300R",
+      "title":"Politics & Diplomacy of Contemporary Japan",
+      "section":"SEM 001",
+      "weekdays":"W",
       "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":15,
-      "instructors":[
-        "Wolczuk,Agnieszka"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:18-05:00"
-    },
-    {
-      "class_number":7953,
-      "subject":"ESL",
-      "catalog_number":"102R",
-      "title":"Error Correction in Academic Writing",
-      "section":"LEC 011",
-      "weekdays":"MWF",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":18,
-      "instructors":[
-        "So,Margaret Ming Ching"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:18-05:00"
-    },
-    {
-      "class_number":8034,
-      "subject":"FINE",
-      "catalog_number":"252",
-      "title":"Religion in Popular Film",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"18:30",
-      "end_time":"21:20",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":11,
       "instructors":[
-        "Bekkering,Denis"
+        "Lee,Seung Hyok"
       ],
       "building":"REN",
       "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:20-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:16-05:00"
     },
     {
-      "class_number":6486,
-      "subject":"JAPAN",
-      "catalog_number":"101R",
-      "title":"First-Year Japanese 1",
-      "section":"TUT 204",
-      "weekdays":"Th",
-      "start_time":"13:00",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Burns,Eri"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:57-05:00"
-    },
-    {
-      "class_number":6496,
-      "subject":"JAPAN",
-      "catalog_number":"101R",
-      "title":"First-Year Japanese 1",
-      "section":"TUT 205",
-      "weekdays":"Th",
+      "class_number":7820,
+      "subject":"EFAS",
+      "catalog_number":"34",
+      "title":"Writing Skills",
+      "section":"LEC 002",
+      "weekdays":"F",
       "start_time":"11:30",
-      "end_time":"12:50",
+      "end_time":"12:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":24,
+      "enrollment_total":0,
       "instructors":[
-        "Burns,Eri"
+        "Slot,Corinne"
       ],
       "building":"REN",
       "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:57-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:39-05:00"
     },
     {
-      "class_number":6497,
-      "subject":"JAPAN",
-      "catalog_number":"101R",
-      "title":"First-Year Japanese 1",
-      "section":"TUT 206",
+      "class_number":4415,
+      "subject":"ENGL",
+      "catalog_number":"108A",
+      "title":"The Superhero",
+      "section":"LEC 002",
       "weekdays":"Th",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Burns,Eri"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:57-05:00"
-    },
-    {
-      "class_number":4109,
-      "subject":"RS",
-      "catalog_number":"270R",
-      "title":"Religion in Popular Film",
-      "section":"LEC 001",
-      "weekdays":"M",
       "start_time":"18:30",
       "end_time":"21:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":10,
+      "enrollment_total":35,
       "instructors":[
-        "Bekkering,Denis"
+        "Lobb,Diana Frances"
       ],
       "building":"REN",
       "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:20-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:42-05:00"
     },
     {
-      "class_number":7979,
-      "subject":"SI",
-      "catalog_number":"101R",
-      "title":"Introduction to Arabic 1",
-      "section":"LEC 002",
-      "weekdays":"TTh",
+      "class_number":6358,
+      "subject":"KOREA",
+      "catalog_number":"102R",
+      "title":"First-Year Korean 2",
+      "section":"LEC 001",
+      "weekdays":"W",
       "start_time":"14:30",
       "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":19,
+      "enrollment_total":46,
       "instructors":[
-        "Al-Azraki,Amir"
+        "Kim,Young Gon G"
       ],
       "building":"REN",
       "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:29-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:03-05:00"
     },
     {
-      "class_number":6522,
-      "subject":"SI",
-      "catalog_number":"201R",
-      "title":"Intermediate Arabic 1",
+      "class_number":7866,
+      "subject":"PSYCH",
+      "catalog_number":"349R",
+      "title":"Cross-Cultural Psychology",
       "section":"LEC 001",
-      "weekdays":"WF",
+      "weekdays":"TF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Yoshida,Emiko"
+      ],
+      "building":"REN",
+      "room":"2107",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:33-05:00"
+    },
+    {
+      "class_number":6399,
+      "subject":"SDS",
+      "catalog_number":"131R",
+      "title":"Social Ideas, Social Policy and Political Practice",
+      "section":"LEC 001",
+      "weekdays":"MW",
       "start_time":"16:00",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":18,
+      "enrollment_total":47,
       "instructors":[
-        "Al Ali,Kanan"
+        "Romkey,Theresa Lea"
       ],
       "building":"REN",
       "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:30-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:51-05:00"
     },
     {
-      "class_number":6435,
-      "subject":"SOCWK",
-      "catalog_number":"220R",
-      "title":"Social Work with Individuals - Theory and Practice 1",
+      "class_number":7868,
+      "subject":"SDS",
+      "catalog_number":"210R",
+      "title":"Children's Rights in Canada",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":39,
+      "instructors":[
+        "Blokhuis,Jason C."
+      ],
+      "building":"REN",
+      "room":"2107",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:51-05:00"
+    },
+    {
+      "class_number":6410,
+      "subject":"SDS",
+      "catalog_number":"353R",
+      "title":"The Evolution of Family Law in Canadian Society",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"15:00",
+      "end_time":"16:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":38,
       "instructors":[
-        "Boyd,Jon Allan"
+        "Briggs,Catherine"
       ],
       "building":"REN",
       "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:36-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:53-05:00"
     },
     {
-      "class_number":6447,
-      "subject":"SOCWK",
-      "catalog_number":"300R",
-      "title":"Canadian Social Welfare Policy",
+      "class_number":6456,
+      "subject":"SI",
+      "catalog_number":"315R",
+      "title":"Islam, Women, and the Modern World",
       "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"10:00",
-      "end_time":"11:20",
+      "weekdays":"W",
+      "start_time":"18:00",
+      "end_time":"20:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":33,
+      "enrollment_total":9,
       "instructors":[
-        "Case,Robert A."
+        "Habib,Maha"
       ],
       "building":"REN",
       "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:36-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:56-05:00"
     },
     {
-      "class_number":6467,
-      "subject":"SWREN",
-      "catalog_number":"220R",
-      "title":"Social Work with Individuals - Theory and Practice 1",
+      "class_number":7881,
+      "subject":"SOC",
+      "catalog_number":"101R",
+      "title":"Introduction to Sociology",
       "section":"LEC 001",
       "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
+      "start_time":"11:30",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":1,
+      "enrollment_total":38,
       "instructors":[
-        "Boyd,Jon Allan"
+        "Roberts,Sharon Elizabeth"
       ],
       "building":"REN",
       "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:46-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:59-05:00"
     },
     {
-      "class_number":6468,
-      "subject":"SWREN",
-      "catalog_number":"300R",
-      "title":"Canadian Social Welfare Policy",
+      "class_number":7882,
+      "subject":"SOC",
+      "catalog_number":"101R",
+      "title":"Introduction to Sociology",
+      "section":"LEC 002",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":50,
+      "instructors":[
+        "Roberts,Sharon Elizabeth"
+      ],
+      "building":"REN",
+      "room":"2107",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:59-05:00"
+    },
+    {
+      "class_number":6359,
+      "subject":"SOCWK",
+      "catalog_number":"120R",
+      "title":"Introduction to Social Work",
       "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"10:00",
+      "weekdays":"T",
+      "start_time":"08:30",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":1,
+      "enrollment_total":50,
       "instructors":[
-        "Case,Robert A."
+        "Oba,Olufunke"
       ],
       "building":"REN",
       "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:47-05:00"
-    },
-    {
-      "class_number":5594,
-      "subject":"ESL",
-      "catalog_number":"601R",
-      "title":"Speaking English for Professional Purposes",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":23,
-      "instructors":[
-        "Rehm,Stefan"
-      ],
-      "building":"REN",
-      "room":"2107",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:28-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:15:06-05:00"
     }
   ]
 }

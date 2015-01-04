@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2551,
-    "timestamp":1415081584,
+    "requests":5415,
+    "timestamp":1420353837,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,265 +11,344 @@
   },
   "data":[
     {
-      "class_number":4674,
+      "class_number":5083,
       "subject":"ECE",
-      "catalog_number":"604",
-      "title":"Stochastic Processes",
+      "catalog_number":"415",
+      "title":"Multimedia Communications",
       "section":"LEC 001",
-      "weekdays":"M",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Yang,En-Hui H"
+      ],
+      "building":"EIT",
+      "room":"3151",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
+    },
+    {
+      "class_number":7051,
+      "subject":"PHYS",
+      "catalog_number":"468",
+      "title":"Introduction to the Implementation of Quantum Information Processing",
+      "section":"LEC 001",
+      "weekdays":"Th",
       "start_time":"08:30",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":32,
+      "enrollment_total":7,
       "instructors":[
-        "Zhuang,Weihua"
+        "Wilson,Christopher C.M."
       ],
       "building":"EIT",
       "room":"3151",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:18-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:12-05:00"
     },
     {
-      "class_number":4675,
+      "class_number":4920,
       "subject":"ECE",
-      "catalog_number":"611",
-      "title":"Digital Communications",
+      "catalog_number":"610",
+      "title":"Broadband  Communication Networks",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Rosenberg,Catherine"
+      ],
+      "building":"EIT",
+      "room":"3151",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:11-05:00"
+    },
+    {
+      "class_number":4920,
+      "subject":"ECE",
+      "catalog_number":"610",
+      "title":"Broadband  Communication Networks",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":"02\/03",
+      "end_date":"02\/03",
+      "enrollment_total":10,
+      "instructors":[
+        "Rosenberg,Catherine"
+      ],
+      "building":"EIT",
+      "room":"3151",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:11-05:00"
+    },
+    {
+      "class_number":4920,
+      "subject":"ECE",
+      "catalog_number":"610",
+      "title":"Broadband  Communication Networks",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":"03\/24",
+      "end_date":"03\/24",
+      "enrollment_total":10,
+      "instructors":[
+        "Rosenberg,Catherine"
+      ],
+      "building":"EIT",
+      "room":"3151",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:11-05:00"
+    },
+    {
+      "class_number":4896,
+      "subject":"ECE",
+      "catalog_number":"612",
+      "title":"Information Theory",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Khandani,Amir Keyvan K"
+      ],
+      "building":"EIT",
+      "room":"3151",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:11-05:00"
+    },
+    {
+      "class_number":8091,
+      "subject":"ECE",
+      "catalog_number":"617",
+      "title":"Data Compression with Applications to Speech and Image Coding",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
+      "instructors":[
+        "Yang,En-Hui H"
+      ],
+      "building":"EIT",
+      "room":"3151",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:11-05:00"
+    },
+    {
+      "class_number":5117,
+      "subject":"ECE",
+      "catalog_number":"666",
+      "title":"Power Systems Operation",
       "section":"LEC 001",
       "weekdays":"F",
       "start_time":"11:30",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":14,
+      "enrollment_total":13,
       "instructors":[
-        "Yang,En-Hui H"
+        "Bhattacharya,Kankar"
       ],
       "building":"EIT",
       "room":"3151",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:19-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:12-05:00"
     },
     {
-      "class_number":5150,
+      "class_number":4525,
       "subject":"ECE",
-      "catalog_number":"630",
-      "title":"Physics and Models of Semiconductor Devices",
+      "catalog_number":"688",
+      "title":"Nonlinear Systems",
       "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":30,
-      "instructors":[
-        "Goldthorpe,Irene"
-      ],
-      "building":"EIT",
-      "room":"3151",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:19-05:00"
-    },
-    {
-      "class_number":4678,
-      "subject":"ECE",
-      "catalog_number":"636",
-      "title":"Analog MOS and Bipolar Integrated Circuits",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Leung,Bosco"
-      ],
-      "building":"EIT",
-      "room":"3151",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:19-05:00"
-    },
-    {
-      "class_number":5016,
-      "subject":"ECE",
-      "catalog_number":"637",
-      "title":"Design of VLSI MOS Integrated Circuits",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"19:00",
-      "end_time":"21:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Sachdev,Manoj",
-        "Neale,Adam John"
-      ],
-      "building":"EIT",
-      "room":"3151",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:19-05:00"
-    },
-    {
-      "class_number":4962,
-      "subject":"ECE",
-      "catalog_number":"639",
-      "title":"Characteristics & Applications of Amorphous Silicon",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":5,
-      "instructors":[
-        "Wong,William S."
-      ],
-      "building":"EIT",
-      "room":"3151",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:19-05:00"
-    },
-    {
-      "class_number":4781,
-      "subject":"ECE",
-      "catalog_number":"662",
-      "title":"Power Systems Analysis and Control",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Canizares,Claudio"
-      ],
-      "building":"EIT",
-      "room":"3151",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:21-05:00"
-    },
-    {
-      "class_number":5152,
-      "subject":"ECE",
-      "catalog_number":"667",
-      "title":"Sustainable Distributed Power Generation",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":26,
-      "instructors":[
-        "El-Sadaany,Ehab Fahmy"
-      ],
-      "building":"EIT",
-      "room":"3151",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:21-05:00"
-    },
-    {
-      "class_number":4995,
-      "subject":"ECE",
-      "catalog_number":"671",
-      "title":"Microwave and RF Engineering",
-      "section":"LEC 001",
-      "weekdays":"T",
-      "start_time":"17:30",
-      "end_time":"20:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":10,
-      "instructors":[
-        "Safavi-Naeini,Safieddin"
-      ],
-      "building":"EIT",
-      "room":"3151",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:21-05:00"
-    },
-    {
-      "class_number":4771,
-      "subject":"ECE",
-      "catalog_number":"675",
-      "title":"Radiation & Propagation of Electromagnetic Fields",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"14:30",
-      "end_time":"17:20",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":7,
       "instructors":[
-        "Safavi-Naeini,Safieddin"
+        "Wang,David W L"
       ],
       "building":"EIT",
       "room":"3151",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:21-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:13-05:00"
     },
     {
-      "class_number":8019,
+      "class_number":5153,
       "subject":"ECE",
-      "catalog_number":"730",
-      "title":"Special Topics in Solid State Devices",
+      "catalog_number":"770",
+      "title":"Special Topics in Antenna and Microwave Theory",
       "section":"LEC 002",
       "weekdays":"W",
       "start_time":"08:30",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":0,
+      "enrollment_total":2,
       "instructors":[
-        "Aziz,Hany"
+        "Majedi,Amir H"
       ],
       "building":"EIT",
       "room":"3151",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:22-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:14-05:00"
     },
     {
-      "class_number":4996,
-      "subject":"ECE",
-      "catalog_number":"750",
-      "title":"Special Topics in Computer Software",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Kamel,Mohamed S"
-      ],
-      "building":"EIT",
-      "room":"3151",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:22-05:00"
-    },
-    {
-      "class_number":8277,
+      "class_number":5270,
       "subject":"ECE",
       "catalog_number":"770",
       "title":"Special Topics in Antenna and Microwave Theory",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"17:30",
-      "end_time":"20:20",
+      "section":"LEC 003",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":6,
+      "enrollment_total":1,
       "instructors":[
-        "Mansour,Raafat"
+        "Wilson,Christopher C.M."
       ],
       "building":"EIT",
       "room":"3151",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:22-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:14-05:00"
+    },
+    {
+      "class_number":5311,
+      "subject":"ECE",
+      "catalog_number":"770",
+      "title":"Special Topics in Antenna and Microwave Theory",
+      "section":"LEC 004",
+      "weekdays":"M",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Saini,Simarjeet S."
+      ],
+      "building":"EIT",
+      "room":"3151",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:14-05:00"
+    },
+    {
+      "class_number":4526,
+      "subject":"ECE",
+      "catalog_number":"784",
+      "title":"Introduction to Stochastic Calculus",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":2,
+      "instructors":[
+        "Heunis,Andrew J"
+      ],
+      "building":"EIT",
+      "room":"3151",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:14-05:00"
+    },
+    {
+      "class_number":7082,
+      "subject":"PHYS",
+      "catalog_number":"768",
+      "title":"Special Topics in Quantum Information Processing",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Wilson,Christopher C.M."
+      ],
+      "building":"EIT",
+      "room":"3151",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:01-05:00"
+    },
+    {
+      "class_number":5699,
+      "subject":"QIC",
+      "catalog_number":"750",
+      "title":"Implementation of Quantum Information Processing",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":18,
+      "instructors":[
+        "Wilson,Christopher C.M."
+      ],
+      "building":"EIT",
+      "room":"3151",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:12-05:00"
+    },
+    {
+      "class_number":5695,
+      "subject":"QIC",
+      "catalog_number":"885",
+      "title":"Quantum Electronics and Photonics",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Majedi,Amir H"
+      ],
+      "building":"EIT",
+      "room":"3151",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:13-05:00"
+    },
+    {
+      "class_number":5719,
+      "subject":"STAT",
+      "catalog_number":"902",
+      "title":"Theory of Probability 2",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Heunis,Andrew J"
+      ],
+      "building":"EIT",
+      "room":"3151",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:18-05:00"
     }
   ]
 }

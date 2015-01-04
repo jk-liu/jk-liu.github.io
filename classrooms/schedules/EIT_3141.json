@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2550,
-    "timestamp":1415081584,
+    "requests":5414,
+    "timestamp":1420353836,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,164 +11,144 @@
   },
   "data":[
     {
-      "class_number":4671,
+      "class_number":8130,
       "subject":"ECE",
-      "catalog_number":"682",
-      "title":"Multivariable Control Systems",
+      "catalog_number":"605",
+      "title":"Queueing Systems",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"14:30",
-      "end_time":"17:20",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":9,
+      "enrollment_total":3,
       "instructors":[
-        "Miller,Daniel E"
+        "Mazumdar,Ravi"
       ],
       "building":"EIT",
       "room":"3141",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:21-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:11-05:00"
     },
     {
-      "class_number":8017,
+      "class_number":5263,
       "subject":"ECE",
-      "catalog_number":"710",
-      "title":"Special Topics in Communications and Information Theory",
+      "catalog_number":"614",
+      "title":"Communications Over Fading Dispersive Channels",
       "section":"LEC 001",
       "weekdays":"W",
-      "start_time":"15:30",
-      "end_time":"18:20",
+      "start_time":"08:30",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":5,
+      "enrollment_total":4,
       "instructors":[
-        "Damen,Mohamed Oussama"
+        "Zhuang,Weihua"
       ],
       "building":"EIT",
       "room":"3141",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:21-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:11-05:00"
     },
     {
-      "class_number":8018,
+      "class_number":8256,
       "subject":"ECE",
-      "catalog_number":"710",
-      "title":"Special Topics in Communications and Information Theory",
-      "section":"LEC 002",
-      "weekdays":"T",
+      "catalog_number":"658",
+      "title":"Component Based Software",
+      "section":"LEC 001",
+      "weekdays":"Th",
       "start_time":"11:30",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":7,
+      "enrollment_total":19,
       "instructors":[
-        "Ho,Pin-Han"
+        "Tahvildari,Ladan"
       ],
       "building":"EIT",
       "room":"3141",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:21-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:12-05:00"
     },
     {
-      "class_number":5205,
+      "class_number":5265,
       "subject":"ECE",
-      "catalog_number":"730",
-      "title":"Special Topics in Solid State Devices",
+      "catalog_number":"672",
+      "title":"Optoelectronic Devices",
       "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Yoon,Youngki"
-      ],
-      "building":"EIT",
-      "room":"3141",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:22-05:00"
-    },
-    {
-      "class_number":8020,
-      "subject":"ECE",
-      "catalog_number":"730",
-      "title":"Special Topics in Solid State Devices",
-      "section":"LEC 003",
       "weekdays":"M",
       "start_time":"08:30",
       "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":10,
+      "enrollment_total":12,
       "instructors":[
-        "Cui,Bo"
+        "Ban,Dayan"
       ],
       "building":"EIT",
       "room":"3141",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:22-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:13-05:00"
     },
     {
-      "class_number":8489,
+      "class_number":5151,
       "subject":"ECE",
-      "catalog_number":"770",
-      "title":"Special Topics in Antenna and Microwave Theory",
-      "section":"LEC 002",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":7,
-      "instructors":[
-        "Ramahi,Omar"
-      ],
-      "building":"EIT",
-      "room":"3141",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:22-05:00"
-    },
-    {
-      "class_number":8542,
-      "subject":"ECE",
-      "catalog_number":"770",
-      "title":"Special Topics in Antenna and Microwave Theory",
-      "section":"LEC 003",
+      "catalog_number":"686",
+      "title":"Filtering and Control of Stochastic Linear Systems",
+      "section":"LEC 001",
       "weekdays":"M",
       "start_time":"11:30",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":0,
+      "enrollment_total":9,
       "instructors":[
-        "Bajcsy,Michal"
+        "Heunis,Andrew J"
       ],
       "building":"EIT",
       "room":"3141",
-      "term":1149,
-      "last_updated":"2014-11-04T01:05:22-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:13-05:00"
     },
     {
-      "class_number":8548,
-      "subject":"QIC",
-      "catalog_number":"890",
-      "title":"Topics in Quantum Information",
-      "section":"LEC 003",
-      "weekdays":"M",
+      "class_number":5266,
+      "subject":"ECE",
+      "catalog_number":"710",
+      "title":"Special Topics in Communications and Information Theory",
+      "section":"LEC 001",
+      "weekdays":"T",
       "start_time":"11:30",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":5,
+      "enrollment_total":8,
       "instructors":[
-        "Bajcsy,Michal"
+        "Shen,Sherman"
       ],
       "building":"EIT",
       "room":"3141",
-      "term":1149,
-      "last_updated":"2014-11-04T01:06:09-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:13-05:00"
+    },
+    {
+      "class_number":5308,
+      "subject":"ECE",
+      "catalog_number":"750",
+      "title":"Special Topics in Computer Software",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"17:30",
+      "end_time":"20:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":9,
+      "instructors":[
+        "Ganesh,Vijay"
+      ],
+      "building":"EIT",
+      "room":"3141",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:14-05:00"
     }
   ]
 }

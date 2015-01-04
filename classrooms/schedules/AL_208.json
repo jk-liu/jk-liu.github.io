@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2410,
-    "timestamp":1415081541,
+    "requests":5290,
+    "timestamp":1420353791,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,344 +11,284 @@
   },
   "data":[
     {
-      "class_number":3744,
-      "subject":"AFM",
-      "catalog_number":"482",
-      "title":"Performance Measurement and Organization Control",
+      "class_number":8123,
+      "subject":"ARBUS",
+      "catalog_number":"200",
+      "title":"Entrepreneurship Principles and Practices",
       "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":59,
-      "instructors":[
-        "Manning,Thomas"
-      ],
-      "building":"AL",
-      "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:26-05:00"
-    },
-    {
-      "class_number":7042,
-      "subject":"BIOL",
-      "catalog_number":"473",
-      "title":"Mammalian Reproduction",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":89,
-      "instructors":[
-        "Engelhardt,Heidi"
-      ],
-      "building":"AL",
-      "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:00-05:00"
-    },
-    {
-      "class_number":7704,
-      "subject":"CLAS",
-      "catalog_number":"242",
-      "title":"Survey of Roman Art and Architecture",
-      "section":"LEC 001",
-      "weekdays":"WF",
+      "weekdays":"Th",
       "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":24,
-      "instructors":[
-        "Hardiman,Craig"
-      ],
-      "building":"AL",
-      "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:29-05:00"
-    },
-    {
-      "class_number":4913,
-      "subject":"ECE",
-      "catalog_number":"140",
-      "title":"Linear Circuits",
-      "section":"TUT 105",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":79,
-      "instructors":[
-        "Wei,Lan"
-      ],
-      "building":"AL",
-      "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:50-05:00"
-    },
-    {
-      "class_number":7705,
-      "subject":"FINE",
-      "catalog_number":"242",
-      "title":"Survey of Roman Art and Architecture",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        "Hardiman,Craig"
-      ],
-      "building":"AL",
-      "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:20-05:00"
-    },
-    {
-      "class_number":5260,
-      "subject":"GEOG",
-      "catalog_number":"309",
-      "title":"Physical Climatology",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"16:00",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":59,
+      "enrollment_total":87,
       "instructors":[
-        "Nwaishi,Felix Chinaegbo"
+        "Malleck,Geoff"
       ],
       "building":"AL",
       "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:33-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:32-05:00"
     },
     {
-      "class_number":5351,
-      "subject":"GEOG",
-      "catalog_number":"356",
-      "title":"Resources Management",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
+      "class_number":8124,
+      "subject":"ARBUS",
+      "catalog_number":"200",
+      "title":"Entrepreneurship Principles and Practices",
+      "section":"PRA 101",
+      "weekdays":"Th",
+      "start_time":"17:30",
+      "end_time":"18:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":54,
+      "enrollment_total":87,
       "instructors":[
-        "Shannon,Meghan Brianna Sarah"
+        "Malleck,Geoff"
       ],
       "building":"AL",
       "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:33-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:32-05:00"
     },
     {
-      "class_number":8091,
-      "subject":"GER",
-      "catalog_number":"220",
-      "title":"Once Upon a Fairy Tale: Fairy Tales, Then and Now",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"08:00",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        "Malone,Paul"
-      ],
-      "building":"AL",
-      "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:36-05:00"
-    },
-    {
-      "class_number":3181,
-      "subject":"GRK",
-      "catalog_number":"101",
-      "title":"Introductory Ancient Greek 1",
-      "section":"LEC 001",
-      "weekdays":"MThF",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        "Faulkner,Andrew"
-      ],
-      "building":"AL",
-      "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:38-05:00"
-    },
-    {
-      "class_number":3679,
-      "subject":"GRK",
-      "catalog_number":"101",
-      "title":"Introductory Ancient Greek 1",
-      "section":"TUT 101",
-      "weekdays":"W",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":19,
-      "instructors":[
-        
-      ],
-      "building":"AL",
-      "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:38-05:00"
-    },
-    {
-      "class_number":5679,
-      "subject":"MATH",
-      "catalog_number":"127",
-      "title":"Calculus 1 for the Sciences",
-      "section":"LEC 005",
-      "weekdays":"MWF",
-      "start_time":"13:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":100,
-      "instructors":[
-        "Dunbar,Fiona Emer Siobhan"
-      ],
-      "building":"AL",
-      "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":5828,
-      "subject":"MATH",
-      "catalog_number":"127",
-      "title":"Calculus 1 for the Sciences",
-      "section":"LEC 006",
-      "weekdays":"MWF",
-      "start_time":"12:30",
-      "end_time":"13:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":97,
-      "instructors":[
-        "Dunbar,Fiona Emer Siobhan"
-      ],
-      "building":"AL",
-      "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":3268,
-      "subject":"PHIL",
-      "catalog_number":"110B",
-      "title":"Introduction to Philosophy: Ethics and Values",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":41,
-      "instructors":[
-        "Marino,Patricia"
-      ],
-      "building":"AL",
-      "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:46-05:00"
-    },
-    {
-      "class_number":4119,
-      "subject":"PSYCH",
-      "catalog_number":"306",
-      "title":"Perception",
-      "section":"LEC 001",
-      "weekdays":"TTh",
+      "class_number":3837,
+      "subject":"ARBUS",
+      "catalog_number":"302",
+      "title":"Marketing: Principles of Marketing and Consumer Economics",
+      "section":"LEC 004",
+      "weekdays":"TF",
       "start_time":"13:00",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":78,
+      "enrollment_total":22,
       "instructors":[
-        "Ellard,Colin G"
+        "Mesta,Olivia"
       ],
       "building":"AL",
       "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:08-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:32-05:00"
     },
     {
-      "class_number":7813,
-      "subject":"PSYCH",
-      "catalog_number":"355",
-      "title":"Intergroup Relations",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":100,
-      "instructors":[
-        "Bergsieker,Hilary"
-      ],
-      "building":"AL",
-      "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:09-05:00"
-    },
-    {
-      "class_number":8092,
-      "subject":"REES",
-      "catalog_number":"220",
-      "title":"Once Upon a Fairy Tale: Fairy Tales, Then and Now",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"08:00",
-      "end_time":"09:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":47,
-      "instructors":[
-        "Malone,Paul"
-      ],
-      "building":"AL",
-      "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:16-05:00"
-    },
-    {
-      "class_number":8115,
-      "subject":"SPCOM",
-      "catalog_number":"204",
-      "title":"Leadership, Teams, and Communication",
+      "class_number":3504,
+      "subject":"ARTS",
+      "catalog_number":"111",
+      "title":"Career Development and Decision-Making",
       "section":"LEC 001",
       "weekdays":"MW",
       "start_time":"16:00",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":77,
+      "enrollment_total":85,
       "instructors":[
-        "Paci,Timothy P"
+        "Hayden,Jayne"
       ],
       "building":"AL",
       "room":"208",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:40-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:35-05:00"
+    },
+    {
+      "class_number":3322,
+      "subject":"ECON",
+      "catalog_number":"304",
+      "title":"Monetary Economics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":100,
+      "instructors":[
+        "Lam,Jean-Paul"
+      ],
+      "building":"AL",
+      "room":"208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:35-05:00"
+    },
+    {
+      "class_number":3323,
+      "subject":"ECON",
+      "catalog_number":"321",
+      "title":"Introduction to Econometrics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":51,
+      "instructors":[
+        "Pierard,Emmanuelle"
+      ],
+      "building":"AL",
+      "room":"208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:35-05:00"
+    },
+    {
+      "class_number":3324,
+      "subject":"ECON",
+      "catalog_number":"332",
+      "title":"International Finance",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"16:00",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "He,Zhen"
+      ],
+      "building":"AL",
+      "room":"208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:36-05:00"
+    },
+    {
+      "class_number":3836,
+      "subject":"ECON",
+      "catalog_number":"344",
+      "title":"Marketing: Principles of Marketing and Consumer Economics",
+      "section":"LEC 004",
+      "weekdays":"TF",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":31,
+      "instructors":[
+        "Mesta,Olivia"
+      ],
+      "building":"AL",
+      "room":"208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:36-05:00"
+    },
+    {
+      "class_number":4128,
+      "subject":"GBDA",
+      "catalog_number":"204",
+      "title":"Applied Leadership and Management",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":41,
+      "instructors":[
+        "Siebel-Achenbach,Sebastian"
+      ],
+      "building":"AL",
+      "room":"208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:14-05:00"
+    },
+    {
+      "class_number":8070,
+      "subject":"HIST",
+      "catalog_number":"266",
+      "title":"The British Empire 1857-1956",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"08:30",
+      "end_time":"09:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":26,
+      "instructors":[
+        "Gorman,Daniel P"
+      ],
+      "building":"AL",
+      "room":"208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":7009,
+      "subject":"PHYS",
+      "catalog_number":"111",
+      "title":"Physics 1",
+      "section":"TUT 103",
+      "weekdays":"F",
+      "start_time":"09:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":103,
+      "instructors":[
+        "Bohlouli Zanjani,Parisa"
+      ],
+      "building":"AL",
+      "room":"208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:03-05:00"
+    },
+    {
+      "class_number":7905,
+      "subject":"PSCI",
+      "catalog_number":"250",
+      "title":"The Comparative Politics of State and Nation",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":54,
+      "instructors":[
+        "Jaworsky,John S"
+      ],
+      "building":"AL",
+      "room":"208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:21-05:00"
+    },
+    {
+      "class_number":3614,
+      "subject":"ECON",
+      "catalog_number":"651",
+      "title":"Labour Economics",
+      "section":"LEC 001",
+      "weekdays":"MW",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Ferrer,Ana"
+      ],
+      "building":"AL",
+      "room":"208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:17-05:00"
+    },
+    {
+      "class_number":7410,
+      "subject":"ME",
+      "catalog_number":"725",
+      "title":"Special Topics in Advanced Stress Analysis",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"13:00",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Worswick,Michael J"
+      ],
+      "building":"AL",
+      "room":"208",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:47-05:00"
     }
   ]
 }

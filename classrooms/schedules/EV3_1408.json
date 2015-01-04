@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2571,
-    "timestamp":1415081591,
+    "requests":5433,
+    "timestamp":1420353842,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,208 +11,227 @@
   },
   "data":[
     {
-      "class_number":5631,
-      "subject":"ACTSC",
-      "catalog_number":"431",
-      "title":"Loss Models 1",
+      "class_number":3803,
+      "subject":"ARBUS",
+      "catalog_number":"302",
+      "title":"Marketing: Principles of Marketing and Consumer Economics",
+      "section":"LEC 002",
+      "weekdays":"MTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":35,
+      "instructors":[
+        "Rodenburg,Kathleen"
+      ],
+      "building":"EV3",
+      "room":"1408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:32-05:00"
+    },
+    {
+      "class_number":5932,
+      "subject":"CO",
+      "catalog_number":"481",
+      "title":"Introduction to Quantum Information Processing",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":7,
+      "instructors":[
+        "Mosca,Michele"
+      ],
+      "building":"EV3",
+      "room":"1408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:46-05:00"
+    },
+    {
+      "class_number":5933,
+      "subject":"CS",
+      "catalog_number":"467",
+      "title":"Introduction to Quantum Information Processing",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":22,
+      "instructors":[
+        "Mosca,Michele"
+      ],
+      "building":"EV3",
+      "room":"1408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:02-05:00"
+    },
+    {
+      "class_number":3315,
+      "subject":"ECON",
+      "catalog_number":"202",
+      "title":"Macroeconomic Theory 1",
       "section":"LEC 001",
       "weekdays":"WF",
       "start_time":"13:00",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":114,
+      "enrollment_total":54,
       "instructors":[
-        "Weng,Chengguo"
+        "Rahman,Fiona Tasnim"
       ],
       "building":"EV3",
       "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:11-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:32-05:00"
     },
     {
-      "class_number":3146,
-      "subject":"DRAMA",
-      "catalog_number":"101A",
-      "title":"Introduction to the Theatre 1",
+      "class_number":3318,
+      "subject":"ECON",
+      "catalog_number":"220",
+      "title":"The Principles of Entrepreneurship",
       "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
+      "weekdays":"T",
+      "start_time":"18:30",
+      "end_time":"21:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":67,
+      "enrollment_total":89,
       "instructors":[
-        "Roberts-Smith,Jennifer"
+        "Rose,David George"
       ],
       "building":"EV3",
       "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:41-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:33-05:00"
     },
     {
-      "class_number":3191,
+      "class_number":3622,
       "subject":"ECON",
-      "catalog_number":"201",
-      "title":"Microeconomic Theory 1",
+      "catalog_number":"344",
+      "title":"Marketing: Principles of Marketing and Consumer Economics",
       "section":"LEC 002",
-      "weekdays":"TTh",
-      "start_time":"13:00",
+      "weekdays":"MTh",
+      "start_time":"08:30",
+      "end_time":"09:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":24,
+      "instructors":[
+        "Rodenburg,Kathleen"
+      ],
+      "building":"EV3",
+      "room":"1408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:36-05:00"
+    },
+    {
+      "class_number":5566,
+      "subject":"ENBUS",
+      "catalog_number":"409",
+      "title":"Special Topics in Environment and Business",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"11:30",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":99,
+      "enrollment_total":50,
       "instructors":[
-        "Nimubona,Alain-Desire"
+        "Whiting,Graham Tavis"
       ],
       "building":"EV3",
       "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:40-05:00"
     },
     {
-      "class_number":8183,
-      "subject":"ECON",
-      "catalog_number":"381",
-      "title":"Special Topics",
-      "section":"SEM 001",
-      "weekdays":"Th",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":43,
-      "instructors":[
-        "Fatima,Nafeez"
-      ],
-      "building":"EV3",
-      "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:59-05:00"
-    },
-    {
-      "class_number":5399,
-      "subject":"ENBUS",
-      "catalog_number":"204",
-      "title":"Principles of Industrial Ecology",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":113,
-      "instructors":[
-        "Walker,Sean Glenn"
-      ],
-      "building":"EV3",
-      "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:02-05:00"
-    },
-    {
-      "class_number":5477,
-      "subject":"ENBUS",
-      "catalog_number":"311",
-      "title":"Green Marketing",
+      "class_number":5540,
+      "subject":"ENVS",
+      "catalog_number":"200",
+      "title":"Field Ecology",
       "section":"LEC 001",
       "weekdays":"M",
       "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":46,
-      "instructors":[
-        "Ratcliffe,William"
-      ],
-      "building":"EV3",
-      "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:02-05:00"
-    },
-    {
-      "class_number":5381,
-      "subject":"ENBUS",
-      "catalog_number":"402A",
-      "title":"Environment and Business Project",
-      "section":"PRJ 001",
-      "weekdays":"TTh",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":112,
-      "instructors":[
-        "Murray,Daniel",
-        "Lynes,Jennifer Kristin"
-      ],
-      "building":"EV3",
-      "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:02-05:00"
-    },
-    {
-      "class_number":3094,
-      "subject":"FR",
-      "catalog_number":"151",
-      "title":"Basic French 1",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:30",
-      "end_time":"11:20",
+      "end_time":"20:20",
       "start_date":null,
       "end_date":null,
       "enrollment_total":101,
       "instructors":[
-        "Kliashchuk,Mikalai"
+        "Yates,Colin Nathan"
       ],
       "building":"EV3",
       "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:24-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:57-05:00"
     },
     {
-      "class_number":5261,
-      "subject":"GEOG",
-      "catalog_number":"387",
-      "title":"Spatial Databases",
+      "class_number":5600,
+      "subject":"ENVS",
+      "catalog_number":"401",
+      "title":"Environmental Law",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"13:30",
+      "weekdays":"MW",
+      "start_time":"14:30",
+      "end_time":"15:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":34,
+      "instructors":[
+        "McGowan,Katharine Albertine"
+      ],
+      "building":"EV3",
+      "room":"1408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:58-05:00"
+    },
+    {
+      "class_number":5395,
+      "subject":"ERS",
+      "catalog_number":"111",
+      "title":"Environmental Analysis and Solutions II: Experiential Approaches",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"14:30",
       "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":57,
+      "enrollment_total":87,
       "instructors":[
-        "Feick,Robert"
+        "Markvart,Tanya"
       ],
       "building":"EV3",
       "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:33-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:58-05:00"
     },
     {
-      "class_number":3531,
-      "subject":"HIST",
-      "catalog_number":"200",
-      "title":"History and Film",
+      "class_number":4301,
+      "subject":"GER",
+      "catalog_number":"180",
+      "title":"German and Russian Literary Masterpieces",
       "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"18:30",
-      "end_time":"21:20",
+      "weekdays":"MTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":71,
+      "enrollment_total":8,
       "instructors":[
-        "Schweitzer,David"
+        "Malone,Paul"
       ],
       "building":"EV3",
       "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:40-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:28-05:00"
     },
     {
-      "class_number":5374,
+      "class_number":5487,
       "subject":"INTEG",
       "catalog_number":"10",
       "title":"Knowledge Integration Seminar",
@@ -222,154 +241,174 @@
       "end_time":"15:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":99,
+      "enrollment_total":103,
       "instructors":[
         "Gorbet,Robert B"
       ],
       "building":"EV3",
       "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:49-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:43-05:00"
     },
     {
-      "class_number":2801,
-      "subject":"KIN",
-      "catalog_number":"242",
-      "title":"Introduction to Movement Disorders",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"11:30",
-      "end_time":"12:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":141,
-      "instructors":[
-        "Middleton,Laura"
-      ],
-      "building":"EV3",
-      "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:02-05:00"
-    },
-    {
-      "class_number":2810,
-      "subject":"KIN",
-      "catalog_number":"340",
-      "title":"Musculoskeletal Injuries in Work and Sport",
+      "class_number":6777,
+      "subject":"PHYS",
+      "catalog_number":"467",
+      "title":"Introduction to Quantum Information Processing",
       "section":"LEC 001",
       "weekdays":"TTh",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":139,
-      "instructors":[
-        "Burns,Robert William"
-      ],
-      "building":"EV3",
-      "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:02-05:00"
-    },
-    {
-      "class_number":5422,
-      "subject":"PLAN",
-      "catalog_number":"102",
-      "title":"Professional Communication",
-      "section":"LEC 001",
-      "weekdays":"W",
-      "start_time":"09:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":128,
-      "instructors":[
-        "Mitchell,Carrie"
-      ],
-      "building":"EV3",
-      "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:57-05:00"
-    },
-    {
-      "class_number":5255,
-      "subject":"PLAN",
-      "catalog_number":"210",
-      "title":"Urban Planning Design and the Environment",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"09:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":122,
-      "instructors":[
-        "Hammond,Karen"
-      ],
-      "building":"EV3",
-      "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:58-05:00"
-    },
-    {
-      "class_number":5336,
-      "subject":"PLAN",
-      "catalog_number":"300",
-      "title":"Planning Theory",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":90,
-      "instructors":[
-        "Dean,Jennifer Asanin"
-      ],
-      "building":"EV3",
-      "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:58-05:00"
-    },
-    {
-      "class_number":5256,
-      "subject":"PLAN",
-      "catalog_number":"387",
-      "title":"Spatial Databases",
-      "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"13:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":11,
-      "instructors":[
-        "Feick,Robert"
-      ],
-      "building":"EV3",
-      "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:59-05:00"
-    },
-    {
-      "class_number":5790,
-      "subject":"ACTSC",
-      "catalog_number":"831",
-      "title":"Loss Models 1",
-      "section":"LEC 001",
-      "weekdays":"WF",
       "start_time":"13:00",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":4,
+      "enrollment_total":34,
       "instructors":[
-        "Weng,Chengguo"
+        "Mosca,Michele"
       ],
       "building":"EV3",
       "room":"1408",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:58-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:12-05:00"
+    },
+    {
+      "class_number":5552,
+      "subject":"PLAN",
+      "catalog_number":"203",
+      "title":"Transportation Planning and Analysis",
+      "section":"LEC 001",
+      "weekdays":"TF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":122,
+      "instructors":[
+        "Woudsma,Clarence"
+      ],
+      "building":"EV3",
+      "room":"1408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":5449,
+      "subject":"PLAN",
+      "catalog_number":"403",
+      "title":"Professional Practice, Public and Private Administration",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"09:30",
+      "end_time":"12:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":79,
+      "instructors":[
+        
+      ],
+      "building":"EV3",
+      "room":"1408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:14-05:00"
+    },
+    {
+      "class_number":5390,
+      "subject":"PLAN",
+      "catalog_number":"471",
+      "title":"Planning Law",
+      "section":"LEC 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":91,
+      "instructors":[
+        "Snider,Scott"
+      ],
+      "building":"EV3",
+      "room":"1408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:15-05:00"
+    },
+    {
+      "class_number":4302,
+      "subject":"REES",
+      "catalog_number":"180",
+      "title":"German and Russian Literary Masterpieces",
+      "section":"LEC 001",
+      "weekdays":"MTh",
+      "start_time":"10:00",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":17,
+      "instructors":[
+        "Malone,Paul"
+      ],
+      "building":"EV3",
+      "room":"1408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:43-05:00"
+    },
+    {
+      "class_number":7200,
+      "subject":"SE",
+      "catalog_number":"350",
+      "title":"Operating Systems",
+      "section":"TUT 101",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":119,
+      "instructors":[
+        "Reidemeister,Thomas"
+      ],
+      "building":"EV3",
+      "room":"1408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:55-05:00"
+    },
+    {
+      "class_number":7497,
+      "subject":"SOC",
+      "catalog_number":"201",
+      "title":"Victims and Society",
+      "section":"LEC 001",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":110,
+      "instructors":[
+        "Nelson,Adie"
+      ],
+      "building":"EV3",
+      "room":"1408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:59-05:00"
+    },
+    {
+      "class_number":5380,
+      "subject":"PLAN",
+      "catalog_number":"630",
+      "title":"Planning Law",
+      "section":"SEM 001",
+      "weekdays":"W",
+      "start_time":"18:30",
+      "end_time":"21:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":3,
+      "instructors":[
+        "Snider,Scott"
+      ],
+      "building":"EV3",
+      "room":"1408",
+      "term":1151,
+      "last_updated":"2014-12-15T06:17:02-05:00"
     }
   ]
 }

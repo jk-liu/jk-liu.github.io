@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2493,
-    "timestamp":1415081567,
+    "requests":5368,
+    "timestamp":1420353817,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,284 +11,304 @@
   },
   "data":[
     {
-      "class_number":6573,
-      "subject":"BIOL",
-      "catalog_number":"342",
-      "title":"Molecular Biotechnology 1",
-      "section":"TUT 102",
-      "weekdays":"Th",
+      "class_number":6060,
+      "subject":"CO",
+      "catalog_number":"227",
+      "title":"Introduction to Optimization (Non-Specialist Level)",
+      "section":"LEC 001",
+      "weekdays":"MWTh",
       "start_time":"13:30",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":54,
+      "enrollment_total":36,
       "instructors":[
-        "Dupont,Christine"
+        "Roh,Patrick Young"
       ],
       "building":"DWE",
       "room":"3518",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:57-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:43-05:00"
     },
     {
-      "class_number":4557,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"TUT 130",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":51,
-      "instructors":[
-        "Scott,Alison Jean"
-      ],
-      "building":"DWE",
-      "room":"3518",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4655,
-      "subject":"CHE",
-      "catalog_number":"102",
-      "title":"Chemistry for Engineers",
-      "section":"TUT 132",
-      "weekdays":"F",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":45,
-      "instructors":[
-        "Scott,Alison Jean"
-      ],
-      "building":"DWE",
-      "room":"3518",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:14-05:00"
-    },
-    {
-      "class_number":4900,
-      "subject":"ECE",
-      "catalog_number":"105",
-      "title":"Physics of Electrical Engineering 1",
-      "section":"TUT 103",
-      "weekdays":"M",
-      "start_time":"08:30",
-      "end_time":"10:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":46,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3518",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:50-05:00"
-    },
-    {
-      "class_number":7948,
-      "subject":"ESL",
-      "catalog_number":"101R",
-      "title":"Oral Communications for Academic Purposes",
-      "section":"LEC 002",
-      "weekdays":"MWF",
+      "class_number":5785,
+      "subject":"CS",
+      "catalog_number":"450",
+      "title":"Computer Architecture",
+      "section":"LEC 001",
+      "weekdays":"WF",
       "start_time":"11:30",
       "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":18,
+      "enrollment_total":35,
       "instructors":[
-        "Zehr,Roslyn"
+        "Morton,Andrew"
       ],
       "building":"DWE",
       "room":"3518",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:18-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:01-05:00"
     },
     {
-      "class_number":7661,
-      "subject":"FR",
-      "catalog_number":"354",
-      "title":"19th-Century French Literature",
+      "class_number":6480,
+      "subject":"EARTH",
+      "catalog_number":"438",
+      "title":"Engineering Geology",
       "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:30",
-      "end_time":"11:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":21,
-      "instructors":[
-        "Gauthier,Nicolas"
-      ],
-      "building":"DWE",
-      "room":"3518",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:26-05:00"
-    },
-    {
-      "class_number":5662,
-      "subject":"MATH",
-      "catalog_number":"115",
-      "title":"Linear Algebra for Engineering",
-      "section":"TUT 108",
       "weekdays":"T",
-      "start_time":"14:30",
-      "end_time":"16:20",
+      "start_time":"10:30",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":46,
+      "enrollment_total":26,
       "instructors":[
-        
+        "Evans,Stephen G."
       ],
       "building":"DWE",
       "room":"3518",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:13-05:00"
     },
     {
-      "class_number":5668,
-      "subject":"MATH",
-      "catalog_number":"115",
-      "title":"Linear Algebra for Engineering",
-      "section":"TUT 114",
-      "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":51,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3518",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
-    },
-    {
-      "class_number":6146,
-      "subject":"MATH",
-      "catalog_number":"116",
-      "title":"Calculus 1 for Engineering",
-      "section":"TUT 116",
+      "class_number":6480,
+      "subject":"EARTH",
+      "catalog_number":"438",
+      "title":"Engineering Geology",
+      "section":"LEC 001",
       "weekdays":"Th",
       "start_time":"08:30",
       "end_time":"10:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":47,
+      "enrollment_total":26,
       "instructors":[
-        
+        "Evans,Stephen G."
       ],
       "building":"DWE",
       "room":"3518",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:11-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:13-05:00"
     },
     {
-      "class_number":8162,
-      "subject":"MTE",
-      "catalog_number":"100",
-      "title":"Mechatronics Engineering",
-      "section":"TUT 206",
-      "weekdays":"F",
-      "start_time":"10:30",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":31,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3518",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:22-05:00"
-    },
-    {
-      "class_number":6703,
-      "subject":"PHYS",
-      "catalog_number":"115",
-      "title":"Mechanics",
-      "section":"TUT 108",
+      "class_number":7043,
+      "subject":"EARTH",
+      "catalog_number":"438",
+      "title":"Engineering Geology",
+      "section":"LAB 101",
       "weekdays":"T",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":51,
-      "instructors":[
-        
-      ],
-      "building":"DWE",
-      "room":"3518",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
-    },
-    {
-      "class_number":6704,
-      "subject":"PHYS",
-      "catalog_number":"115",
-      "title":"Mechanics",
-      "section":"TUT 109",
-      "weekdays":"W",
       "start_time":"08:30",
       "end_time":"10:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":41,
+      "enrollment_total":26,
+      "instructors":[
+        "Evans,Stephen G."
+      ],
+      "building":"DWE",
+      "room":"3518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:13-05:00"
+    },
+    {
+      "class_number":4959,
+      "subject":"ECE",
+      "catalog_number":"155",
+      "title":"Engineering Design with Embedded Systems",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Zarnett,Jeffrey"
+      ],
+      "building":"DWE",
+      "room":"3518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:21-05:00"
+    },
+    {
+      "class_number":8064,
+      "subject":"HIST",
+      "catalog_number":"302",
+      "title":"Public History: Remembering and Forgetting in Canada and Beyond",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"11:30",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":8,
+      "instructors":[
+        "Roy,Susan"
+      ],
+      "building":"DWE",
+      "room":"3518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:34-05:00"
+    },
+    {
+      "class_number":7445,
+      "subject":"MSCI",
+      "catalog_number":"435",
+      "title":"Advanced Optimization Techniques",
+      "section":"TUT 101",
+      "weekdays":"Th",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":6,
       "instructors":[
         
       ],
       "building":"DWE",
       "room":"3518",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:53-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:23-05:00"
     },
     {
-      "class_number":7063,
-      "subject":"PHYS",
-      "catalog_number":"461",
-      "title":"Nanophysics",
-      "section":"LEC 001",
-      "weekdays":"WF",
-      "start_time":"13:00",
-      "end_time":"14:20",
+      "class_number":7471,
+      "subject":"MTE",
+      "catalog_number":"111",
+      "title":"Structure and Properties of Materials",
+      "section":"TUT 201",
+      "weekdays":"F",
+      "start_time":"13:30",
+      "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":13,
+      "enrollment_total":49,
       "instructors":[
-        "Lupascu,Adrian A."
+        "Mayer,Michael"
       ],
       "building":"DWE",
       "room":"3518",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:56-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:24-05:00"
     },
     {
-      "class_number":3957,
-      "subject":"PSCI",
-      "catalog_number":"324",
-      "title":"Contemporary Political Philosophy",
-      "section":"LEC 001",
+      "class_number":7472,
+      "subject":"MTE",
+      "catalog_number":"111",
+      "title":"Structure and Properties of Materials",
+      "section":"TUT 202",
       "weekdays":"M",
+      "start_time":"10:30",
+      "end_time":"13:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":49,
+      "instructors":[
+        "Mayer,Michael"
+      ],
+      "building":"DWE",
+      "room":"3518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:24-05:00"
+    },
+    {
+      "class_number":7475,
+      "subject":"MTE",
+      "catalog_number":"119",
+      "title":"Statics",
+      "section":"TUT 102",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":52,
+      "instructors":[
+        "Inal,Kaan"
+      ],
+      "building":"DWE",
+      "room":"3518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:24-05:00"
+    },
+    {
+      "class_number":4384,
+      "subject":"RS",
+      "catalog_number":"203",
+      "title":"Hinduism",
+      "section":"LEC 001",
+      "weekdays":"Th",
       "start_time":"14:30",
       "end_time":"17:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":11,
+      "enrollment_total":17,
       "instructors":[
-        "Drake,Anna Marie"
+        "Campbell,Patricia Anne"
       ],
       "building":"DWE",
       "room":"3518",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:03-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:45-05:00"
+    },
+    {
+      "class_number":5708,
+      "subject":"CS",
+      "catalog_number":"650",
+      "title":"Computer Architecture",
+      "section":"LEC 001",
+      "weekdays":"WF",
+      "start_time":"11:30",
+      "end_time":"12:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Morton,Andrew"
+      ],
+      "building":"DWE",
+      "room":"3518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:03-05:00"
+    },
+    {
+      "class_number":6690,
+      "subject":"EARTH",
+      "catalog_number":"638",
+      "title":"Advanced Engineering Geology",
+      "section":"LEC 001",
+      "weekdays":"T",
+      "start_time":"10:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Evans,Stephen G."
+      ],
+      "building":"DWE",
+      "room":"3518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:08-05:00"
+    },
+    {
+      "class_number":6690,
+      "subject":"EARTH",
+      "catalog_number":"638",
+      "title":"Advanced Engineering Geology",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"08:30",
+      "end_time":"10:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":0,
+      "instructors":[
+        "Evans,Stephen G."
+      ],
+      "building":"DWE",
+      "room":"3518",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:08-05:00"
     }
   ]
 }

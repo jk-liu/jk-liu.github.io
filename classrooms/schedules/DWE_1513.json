@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2483,
-    "timestamp":1415081564,
+    "requests":5359,
+    "timestamp":1420353814,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,44 +11,84 @@
   },
   "data":[
     {
-      "class_number":4932,
+      "class_number":4881,
       "subject":"CHE",
-      "catalog_number":"490",
-      "title":"Chemical Engineering Lab 5",
+      "catalog_number":"390",
+      "title":"Chemical Engineering Lab 3",
       "section":"LAB 001",
-      "weekdays":"T",
-      "start_time":"10:30",
+      "weekdays":"M",
+      "start_time":"13:30",
       "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":33,
+      "enrollment_total":42,
       "instructors":[
-        "Ganeshalingam,Sivasubramaniam"
+        "Zhang,Mingqian (John)"
       ],
       "building":"DWE",
       "room":"1513",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:17-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:17-05:00"
     },
     {
-      "class_number":4933,
+      "class_number":4882,
       "subject":"CHE",
-      "catalog_number":"490",
-      "title":"Chemical Engineering Lab 5",
+      "catalog_number":"390",
+      "title":"Chemical Engineering Lab 3",
       "section":"LAB 002",
-      "weekdays":"Th",
-      "start_time":"10:30",
-      "end_time":"16:20",
+      "weekdays":"F",
+      "start_time":"08:30",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":36,
+      "enrollment_total":42,
       "instructors":[
-        "Ganeshalingam,Sivasubramaniam"
+        "Zhang,Mingqian (John)"
       ],
       "building":"DWE",
       "room":"1513",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:17-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:17-05:00"
+    },
+    {
+      "class_number":4608,
+      "subject":"CHE",
+      "catalog_number":"524",
+      "title":"Process Control Laboratory",
+      "section":"LAB 101",
+      "weekdays":"T",
+      "start_time":"08:30",
+      "end_time":"11:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":12,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"DWE",
+      "room":"1513",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:22-05:00"
+    },
+    {
+      "class_number":4609,
+      "subject":"CHE",
+      "catalog_number":"524",
+      "title":"Process Control Laboratory",
+      "section":"LAB 102",
+      "weekdays":"Th",
+      "start_time":"15:30",
+      "end_time":"18:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":4,
+      "instructors":[
+        "Ricardez Sandoval,Luis Alberto"
+      ],
+      "building":"DWE",
+      "room":"1513",
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:22-05:00"
     }
   ]
 }

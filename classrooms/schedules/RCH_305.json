@@ -1,7 +1,7 @@
 {
   "meta":{
-    "requests":2717,
-    "timestamp":1415081635,
+    "requests":5575,
+    "timestamp":1420353895,
     "status":200,
     "message":"Request successful",
     "method_id":1223,
@@ -11,364 +11,265 @@
   },
   "data":[
     {
-      "class_number":6600,
+      "class_number":5739,
+      "subject":"AMATH",
+      "catalog_number":"361",
+      "title":"Continuum Mechanics",
+      "section":"LEC 001",
+      "weekdays":"MWF",
+      "start_time":"14:30",
+      "end_time":"15:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":21,
+      "instructors":[
+        "Waite,Michael L."
+      ],
+      "building":"RCH",
+      "room":"305",
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:25-05:00"
+    },
+    {
+      "class_number":6867,
       "subject":"BIOL",
       "catalog_number":"335L",
       "title":"Molecular Biology Techniques",
       "section":"TUT 101",
       "weekdays":"W",
-      "start_time":"14:30",
-      "end_time":"15:20",
+      "start_time":"10:30",
+      "end_time":"11:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":40,
+      "enrollment_total":42,
       "instructors":[
+        "Duxbury,Cheryl",
         "Duncker,Bernard"
       ],
       "building":"RCH",
       "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:57-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:09:43-05:00"
     },
     {
-      "class_number":6596,
-      "subject":"BIOL",
-      "catalog_number":"370",
-      "title":"Comparative Animal Physiology 1",
+      "class_number":6796,
+      "subject":"CHEM",
+      "catalog_number":"212",
+      "title":"Structure and Bonding",
       "section":"LEC 001",
-      "weekdays":"M",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":79,
-      "instructors":[
-        "Nesan,Dinushan"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:00:58-05:00"
-    },
-    {
-      "class_number":4530,
-      "subject":"CIVE",
-      "catalog_number":"204",
-      "title":"Statics and Solid Mechanics 2",
-      "section":"TUT 101",
-      "weekdays":"F",
+      "weekdays":"MWF",
       "start_time":"08:30",
-      "end_time":"10:20",
+      "end_time":"09:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":76,
+      "enrollment_total":82,
       "instructors":[
-        "Potapenko,Stan"
+        "Lee,Sonny S.C."
       ],
       "building":"RCH",
       "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:26-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:10:26-05:00"
     },
     {
-      "class_number":6040,
-      "subject":"CS",
-      "catalog_number":"145",
-      "title":"Designing Functional Programs (Advanced Level)",
+      "class_number":5292,
+      "subject":"ECE",
+      "catalog_number":"404",
+      "title":"Geometrical and Physical Optics",
       "section":"LEC 001",
       "weekdays":"TTh",
-      "start_time":"14:30",
-      "end_time":"15:50",
+      "start_time":"13:00",
+      "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":63,
+      "enrollment_total":21,
       "instructors":[
-        "Ragde,Prabhakar"
+        "Choi,Kyung Soo"
       ],
       "building":"RCH",
       "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:36-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:27-05:00"
     },
     {
-      "class_number":6137,
-      "subject":"CS",
-      "catalog_number":"348",
-      "title":"Introduction to Database Management",
-      "section":"LEC 003",
-      "weekdays":"MW",
-      "start_time":"08:30",
-      "end_time":"09:50",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":58,
-      "instructors":[
-        "Barsalou,Edward Lawrence"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:38-05:00"
-    },
-    {
-      "class_number":5715,
-      "subject":"CS",
-      "catalog_number":"370",
-      "title":"Numerical Computation",
+      "class_number":4897,
+      "subject":"ECE",
+      "catalog_number":"488",
+      "title":"Multivariable Control Systems",
       "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":73,
-      "instructors":[
-        "Batty,Christopher"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:38-05:00"
-    },
-    {
-      "class_number":6629,
-      "subject":"EARTH",
-      "catalog_number":"440",
-      "title":"Quaternary Geology",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":60,
-      "instructors":[
-        "Ross,Martin"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:01:45-05:00"
-    },
-    {
-      "class_number":3573,
-      "subject":"HIST",
-      "catalog_number":"113",
-      "title":"Canadian Business History: Innovators and Entrepreneurs",
-      "section":"LEC 001",
-      "weekdays":"TTh",
-      "start_time":"16:00",
-      "end_time":"17:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":64,
-      "instructors":[
-        "Briggs,Catherine"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:40-05:00"
-    },
-    {
-      "class_number":3760,
-      "subject":"HIST",
-      "catalog_number":"243",
-      "title":"A History of the Workplace: Europe 1750 to the Present",
-      "section":"LEC 001",
-      "weekdays":"MW",
-      "start_time":"10:00",
-      "end_time":"11:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":34,
-      "instructors":[
-        "Siebel-Achenbach,Sebastian"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:41-05:00"
-    },
-    {
-      "class_number":3582,
-      "subject":"HRM",
-      "catalog_number":"301",
-      "title":"Strategic Human Resources Management",
-      "section":"LEC 001",
-      "weekdays":"Th",
-      "start_time":"18:30",
-      "end_time":"21:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":77,
-      "instructors":[
-        "Di Ruzza,Vince"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:02:47-05:00"
-    },
-    {
-      "class_number":4705,
-      "subject":"ME",
-      "catalog_number":"100",
-      "title":"Introduction to Mechanical Engineering Practice 1",
-      "section":"TUT 206",
-      "weekdays":"Th",
+      "weekdays":"MWF",
       "start_time":"13:30",
       "end_time":"14:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":26,
+      "enrollment_total":47,
       "instructors":[
-        
+        "Wang,David W L"
       ],
       "building":"RCH",
       "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:15-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:11:30-05:00"
     },
     {
-      "class_number":4832,
-      "subject":"ME",
-      "catalog_number":"250",
-      "title":"Thermodynamics 1",
-      "section":"TUT 103",
-      "weekdays":"F",
-      "start_time":"15:30",
-      "end_time":"16:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":29,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:16-05:00"
-    },
-    {
-      "class_number":4833,
-      "subject":"ME",
-      "catalog_number":"250",
-      "title":"Thermodynamics 1",
-      "section":"TUT 104",
-      "weekdays":"F",
-      "start_time":"14:30",
-      "end_time":"15:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":31,
-      "instructors":[
-        
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:16-05:00"
-    },
-    {
-      "class_number":4628,
-      "subject":"MSCI",
-      "catalog_number":"331",
-      "title":"Introduction to Optimization",
-      "section":"TUT 101",
-      "weekdays":"Th",
+      "class_number":4325,
+      "subject":"HIST",
+      "catalog_number":"209",
+      "title":"Health, Disease and Medicine in Canadian History, 1500 to the Present",
+      "section":"LEC 001",
+      "weekdays":"TF",
       "start_time":"11:30",
-      "end_time":"12:20",
+      "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":37,
+      "enrollment_total":19,
       "instructors":[
-        "Rahman,Syed Khaleel"
+        "MacDougall,Heather A"
       ],
       "building":"RCH",
       "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:03:21-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:12:33-05:00"
     },
     {
-      "class_number":7301,
-      "subject":"SE",
-      "catalog_number":"212",
-      "title":"Logic and Computation",
+      "class_number":6155,
+      "subject":"MATBUS",
+      "catalog_number":"470",
+      "title":"Derivatives",
       "section":"LEC 001",
       "weekdays":"MW",
       "start_time":"11:30",
       "end_time":"12:50",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":80,
+      "enrollment_total":60,
       "instructors":[
-        "Vakili,Amirhossein"
+        "Freeland,R Keith"
       ],
       "building":"RCH",
       "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:28-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:07-05:00"
     },
     {
-      "class_number":7965,
-      "subject":"SE",
-      "catalog_number":"212",
-      "title":"Logic and Computation",
-      "section":"LEC 002",
-      "weekdays":"MW",
-      "start_time":"13:00",
-      "end_time":"14:20",
+      "class_number":4583,
+      "subject":"MSCI",
+      "catalog_number":"311",
+      "title":"Organizational Design and Technology",
+      "section":"TUT 103",
+      "weekdays":"T",
+      "start_time":"15:30",
+      "end_time":"16:20",
       "start_date":null,
       "end_date":null,
-      "enrollment_total":71,
-      "instructors":[
-        "Day,Nancy"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:28-05:00"
-    },
-    {
-      "class_number":7298,
-      "subject":"SE",
-      "catalog_number":"390",
-      "title":"Design Project Planning",
-      "section":"LEC 001",
-      "weekdays":"F",
-      "start_time":"12:30",
-      "end_time":"14:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":83,
-      "instructors":[
-        "Czarnecki,Krzysztof"
-      ],
-      "building":"RCH",
-      "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:28-05:00"
-    },
-    {
-      "class_number":7289,
-      "subject":"SE",
-      "catalog_number":"463",
-      "title":"Software Requirements Specification and Analysis",
-      "section":"TUT 101",
-      "weekdays":"F",
-      "start_time":"11:30",
-      "end_time":"12:20",
-      "start_date":null,
-      "end_date":null,
-      "enrollment_total":84,
+      "enrollment_total":23,
       "instructors":[
         
       ],
       "building":"RCH",
       "room":"305",
-      "term":1149,
-      "last_updated":"2014-11-04T01:04:28-05:00"
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:22-05:00"
+    },
+    {
+      "class_number":4584,
+      "subject":"MSCI",
+      "catalog_number":"311",
+      "title":"Organizational Design and Technology",
+      "section":"TUT 104",
+      "weekdays":"T",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"305",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:22-05:00"
+    },
+    {
+      "class_number":4575,
+      "subject":"MSCI",
+      "catalog_number":"331",
+      "title":"Introduction to Optimization",
+      "section":"TUT 101",
+      "weekdays":"W",
+      "start_time":"16:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":38,
+      "instructors":[
+        
+      ],
+      "building":"RCH",
+      "room":"305",
+      "term":1151,
+      "last_updated":"2014-12-15T06:13:22-05:00"
+    },
+    {
+      "class_number":7044,
+      "subject":"PHYS",
+      "catalog_number":"256",
+      "title":"Geometrical and Physical Optics",
+      "section":"LEC 001",
+      "weekdays":"TTh",
+      "start_time":"13:00",
+      "end_time":"14:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":15,
+      "instructors":[
+        "Choi,Kyung Soo"
+      ],
+      "building":"RCH",
+      "room":"305",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:07-05:00"
+    },
+    {
+      "class_number":5519,
+      "subject":"PLAN",
+      "catalog_number":"110",
+      "title":"Visual Approaches to Design and Communication",
+      "section":"LEC 001",
+      "weekdays":"M",
+      "start_time":"09:30",
+      "end_time":"10:50",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":59,
+      "instructors":[
+        "Lewis,John L."
+      ],
+      "building":"RCH",
+      "room":"305",
+      "term":1151,
+      "last_updated":"2014-12-15T06:14:13-05:00"
+    },
+    {
+      "class_number":7411,
+      "subject":"ME",
+      "catalog_number":"735",
+      "title":"Special Topics - Welding and Joining",
+      "section":"LEC 001",
+      "weekdays":"Th",
+      "start_time":"14:30",
+      "end_time":"17:20",
+      "start_date":null,
+      "end_date":null,
+      "enrollment_total":10,
+      "instructors":[
+        "Zhou,Norman YunHong"
+      ],
+      "building":"RCH",
+      "room":"305",
+      "term":1151,
+      "last_updated":"2014-12-15T06:16:48-05:00"
     }
   ]
 }
