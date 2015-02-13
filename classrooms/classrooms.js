@@ -235,7 +235,7 @@ function collectInfo() {
 
 	else {
 		// if input returns no information
-		document.getElementById("displayStatus").innerHTML="<strong>Room selected has no classes scheduled or does not exist.</strong>";
+		document.getElementById("displayStatus").innerHTML="<strong>Room selected has no classes scheduled or does not exist.<br><a href=\"javascript:showRm('','')\">Search for empty rooms</a></strong>";
 		$("#displayStatus").slideDown(800);
 	}
 }
