@@ -250,6 +250,6 @@ function showRm(rmNum, day) {
 	collectInfo();
 }
 
-$( "select" ).change(function() {
+$( "#buildings" ).change(function() {
 	showRm('','');
 });
