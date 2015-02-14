@@ -249,3 +249,7 @@ function showRm(rmNum, day) {
 	
 	collectInfo();
 }
+
+$( "select" ).change(function() {
+	showRm('','');
+});
