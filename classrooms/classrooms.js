@@ -1,8 +1,10 @@
 function onLoad() {
     var storedBuilding = localStorage.getItem("storedBuilding");
-    $("#buildings").val(storedBuilding);
 
-    if (storedBuilding != "") collectInfo();
+    if (storedBuilding != "") {
+		$("#buildings").val(storedBuilding);
+		collectInfo();
+	}
 }
 
 function getDayofWeek() {
