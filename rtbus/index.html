@@ -12,20 +12,47 @@
     <div class="container">
       <h2>rtbus</h2>
 
-	<div class="col-sm-12"><h4>202 iXpress The Boardwalk - Conestoga College</h4></div>
-	<div class="col-sm-12" id="conestoga202boardwalk"></div>
+	    <div class="col-sm-12"><h4>202 iXpress The Boardwalk - Conestoga College</h4></div>
+	    <div class="col-sm-12" id="conestoga202boardwalk"></div>
 	
-	<div class="col-sm-12"><h4>200 iXpress Ainsle Terminal - Laurier</h4></div>
-	<div class="col-sm-12" id="laurier200ainsle"></div>
+	    <div class="col-sm-12"><h4>200 iXpress Ainsle Terminal - Laurier</h4></div>
+	    <div class="col-sm-12" id="laurier200ainsle"></div>
 	
-	<div class="col-sm-12"><h4>200 iXpress Conestoga Mall - Victoria</h4></div>
-	<div class="col-sm-12" id="victoria202conestoga"></div>
+	    <div class="col-sm-12"><h4>200 iXpress Conestoga Mall - Victoria</h4></div>
+	    <div class="col-sm-12" id="victoria200conestoga"></div>
 	
-	<div class="col-sm-12"><h4>202 iXpress Conestoga Mall - Laurier</h4></div>
-	<div class="col-sm-12" id="laurier202conestoga"></div>
+	    <div class="col-sm-12"><h4>202 iXpress Conestoga Mall - Laurier</h4></div>
+	    <div class="col-sm-12" id="laurier202conestoga"></div>
 	
+        <div class="col-sm-12" id="customBusTitle"><h4>Custom Bus</h4></div>
+        <div class="col-sm-12" id="customBusInfo"></div>
+
+        <form role="form" action="javascript:customInfo()">
+            <div class="col-sm-6">
+                <br>
+                <label for="text">Stop Number</label>
+                <input type="tel" class="form-control" id="inputStopId">
+            </div>
+            
+            <div class="col-sm-6">
+                <br>
+                <label for="text">Bus Number</label>
+                <input type="tel" class="form-control" id="inputRouteId">
+                <br>
+            </div>
+        </form>
+
+        <div class="col-sm-12 hidden-xs">
+            <button onclick="customInfo()" type="submit" class="btn btn-warning btn-block">Submit</button>
+            <br>
+        </div>
+
+        <div class="col-sm-12 visible-xs">
+            <center><button onclick="customInfo()" type="submit" class="btn btn-warning btn-circle btn-lg"><i class="glyphicon glyphicon-search"></i></button></center>
+            <br>
+        </div>
 	</div>
-	
+
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
 	<script src="rtbus.js"></script>

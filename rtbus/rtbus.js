@@ -1,18 +1,33 @@
+var baseUrl = "https://jsonp.nodejitsu.com/?callback=&url=http%3A%2F%2Frealtimemap.grt.ca%2FStop%2FGetStopInfo%3FstopId%3D";
+var routeUrl = "%26routeId%3D";
+
 function main() {
-    $.getJSON('https://jsonp.nodejitsu.com/?callback=&url=http%3A%2F%2Frealtimemap.grt.ca%2FStop%2FGetStopInfo%3FstopId%3D2832%26routeId%3D202', function (data) {
-        setDivs(data.stopTimes, "conestoga202boardwalk")
-    });
-    
-    $.getJSON('https://jsonp.nodejitsu.com/?callback=&url=http%3A%2F%2Frealtimemap.grt.ca%2FStop%2FGetStopInfo%3FstopId%3D3620%26routeId%3D200', function (data) {
-        setDivs(data.stopTimes, "laurier200ainsle")
+    $('#inputStopId').val(localStorage.getItem("savedStopId"));
+    $('#inputRouteId').val(localStorage.getItem("savedRouteId"));
+    customInfo();
+
+    sendJSONtoDiv(2832, 202, "conestoga202boardwalk");
+    sendJSONtoDiv(3620, 200, "laurier200ainsle");
+    sendJSONtoDiv(1893, 200, "victoria200conestoga");
+    sendJSONtoDiv(3620, 202, "laurier202conestoga");
+}
+
+function customInfo() {
+    var stopId = $("#inputStopId").val();
+    var routeId = $("#inputRouteId").val();
+
+    $.getJSON(baseUrl + stopId + routeUrl + routeId, function (data) {
+        document.getElementById("customBusTitle").innerHTML = "<h4>" + data.stopTimes[0].HeadSign + " - " + stopId + "</h4>";
+        setDivs(data.stopTimes, "customBusInfo");
     });
 
-    $.getJSON('https://jsonp.nodejitsu.com/?callback=&url=http%3A%2F%2Frealtimemap.grt.ca%2FStop%2FGetStopInfo%3FstopId%3D1893%26routeId%3D200', function (data) {
-        setDivs(data.stopTimes, "victoria202conestoga")
-    });
+    localStorage.setItem("savedStopId", stopId);
+    localStorage.setItem("savedRouteId", routeId);
+}
 
-    $.getJSON('https://jsonp.nodejitsu.com/?callback=&url=http%3A%2F%2Frealtimemap.grt.ca%2FStop%2FGetStopInfo%3FstopId%3D3620%26routeId%3D202', function (data) {
-        setDivs(data.stopTimes, "laurier202conestoga")
+function sendJSONtoDiv(stopId, routeId, divID) {
+    $.getJSON(baseUrl + stopId + routeUrl + routeId, function (data) {
+        setDivs(data.stopTimes, divID);
     });
 }
 
