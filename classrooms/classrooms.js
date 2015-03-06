@@ -1,3 +1,10 @@
+function onLoad() {
+    var storedBuilding = localStorage.getItem("storedBuilding");
+    $("#buildings").val(storedBuilding);
+
+    if (storedBuilding != "") collectInfo();
+}
+
 function getDayofWeek() {
     var d = new Date();
     var weekday = new Array(7);
@@ -41,7 +48,9 @@ function UrlExists(url) {
 }
 
 function collectInfo() {
-	var building = $( "#buildings option:selected" ).val();
+    var building = $("#buildings option:selected").val();
+    localStorage.setItem("storedBuilding", building);
+
 	var roomNumber =  document.getElementById('room').value;
 	var dayOfWeek =  document.getElementById('dayOfWeek').value;
 	var urlFull = "schedules/"+building+"_"+roomNumber+".json";
