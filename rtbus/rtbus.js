@@ -35,8 +35,15 @@ function setDivs(data, divID) {
     var outputString = "<ul>";
 
     for (var i in data) {
+        var d = new Date();
+        d.setMinutes(d.getMinutes() + data[i].Minutes);
+
+        var hourStr = d.getHours();
+        var minuteStr = d.getMinutes() < 10 ? "0" + d.getMinutes() : d.getMinutes();
+        var amPm = hourStr < 12 ? "AM" : "PM";
+
         outputString += "<li>";
-        outputString += data[i].Minutes + "m";
+        outputString += data[i].Minutes + "m | " + d.getHours() + ":" + minuteStr + " " + amPm;
         outputString += "</li>";
     }
 
