@@ -2,6 +2,16 @@ var baseUrl = "https://jsonp.nodejitsu.com/?callback=&url=http%3A%2F%2Frealtimem
 var routeUrl = "%26routeId%3D";
 
 function main() {
+    $('#disp1').slideUp();
+    $('#disp2').slideUp();
+    $('#disp3').slideUp();
+    $('#disp4').slideUp();
+
+    $('#conestoga202boardwalk').slideUp();
+    $('#laurier200ainsle').slideUp();
+    $('#victoria200conestoga').slideUp();
+    $('#laurier202conestoga').slideUp();
+
     $('#inputStopId').val(localStorage.getItem("savedStopId"));
     $('#inputRouteId').val(localStorage.getItem("savedRouteId"));
     customInfo();
@@ -9,16 +19,16 @@ function main() {
     var d = new Date();
 
     if (d.getHours() < 12) {
-        $('#disp3').hide();
-        $('#disp4').hide();
+        $('#disp1').slideDown();
+        $('#disp2').slideDown();
 
         sendJSONtoDiv(2832, 202, "conestoga202boardwalk");
         sendJSONtoDiv(3620, 200, "laurier200ainsle");
     }
 
     else {
-        $('#disp1').hide();
-        $('#disp2').hide();
+        $('#disp3').slideDown();
+        $('#disp4').slideDown();
 
         sendJSONtoDiv(1893, 200, "victoria200conestoga");
         sendJSONtoDiv(3620, 202, "laurier202conestoga");
@@ -29,9 +39,14 @@ function customInfo() {
     var stopId = $("#inputStopId").val();
     var routeId = $("#inputRouteId").val();
 
+    $('#customBusTitle').slideUp();
+    $('#customBusInfo').slideUp();
+
     $.getJSON(baseUrl + stopId + routeUrl + routeId, function (data) {
         var customBusTitle = "<h4>" + data.stopTimes[0].HeadSign + "</h4>";
         customBusTitle += "<h5> Stop #" + stopId + "</h5>";
+
+        $('#customBusTitle').slideDown();
 
         document.getElementById("customBusTitle").innerHTML = customBusTitle;
         setDivs(data.stopTimes, "customBusInfo");
@@ -68,4 +83,5 @@ function setDivs(data, divID) {
     outputString += "</table>";
  
     document.getElementById(divID).innerHTML = outputString;
+    $("#"+divID).slideDown();
 }
