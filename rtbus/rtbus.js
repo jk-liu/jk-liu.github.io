@@ -17,7 +17,10 @@ function customInfo() {
     var routeId = $("#inputRouteId").val();
 
     $.getJSON(baseUrl + stopId + routeUrl + routeId, function (data) {
-        document.getElementById("customBusTitle").innerHTML = "<h4>" + data.stopTimes[0].HeadSign + " - " + stopId + "</h4>";
+        var customBusTitle = "<h4>" + data.stopTimes[0].HeadSign + "</h4>";
+        customBusTitle += "<h5> Stop #" + stopId + "</h5>";
+
+        document.getElementById("customBusTitle").innerHTML = customBusTitle;
         setDivs(data.stopTimes, "customBusInfo");
     });
 
@@ -32,22 +35,24 @@ function sendJSONtoDiv(stopId, routeId, divID) {
 }
 
 function setDivs(data, divID) {
-    var outputString = "<ul>";
-
+    var outputString = "<table class=\"table table-condensed\"><th>ETA</th><th>Time</th>";
+ 
     for (var i in data) {
         var d = new Date();
         d.setMinutes(d.getMinutes() + data[i].Minutes);
-
+ 
         var hourStr = d.getHours();
-        var minuteStr = d.getMinutes() < 10 ? "0" + d.getMinutes() : d.getMinutes();
         var amPm = hourStr < 12 ? "AM" : "PM";
-
-        outputString += "<li>";
-        outputString += data[i].Minutes + "m | " + d.getHours() + ":" + minuteStr + " " + amPm;
+        var minuteStr = d.getMinutes() < 10 ? "0" + d.getMinutes() : d.getMinutes();
+ 
+        hourStr = hourStr > 12 ? hourStr-12 : hourStr;
+       
+        outputString += "<tr><td>";
+        outputString += data[i].Minutes + "m </td><td> " + hourStr + ":" + minuteStr + " " + amPm + "</td></tr>";
         outputString += "</li>";
     }
-
-    outputString += "</ul>";
-
+ 
+    outputString += "</table>";
+ 
     document.getElementById(divID).innerHTML = outputString;
 }
