@@ -6,10 +6,23 @@ function main() {
     $('#inputRouteId').val(localStorage.getItem("savedRouteId"));
     customInfo();
 
-    sendJSONtoDiv(2832, 202, "conestoga202boardwalk");
-    sendJSONtoDiv(3620, 200, "laurier200ainsle");
-    sendJSONtoDiv(1893, 200, "victoria200conestoga");
-    sendJSONtoDiv(3620, 202, "laurier202conestoga");
+    var d = new Date();
+
+    if (d.getHours() < 12) {
+        $('#disp3').hide();
+        $('#disp4').hide();
+
+        sendJSONtoDiv(2832, 202, "conestoga202boardwalk");
+        sendJSONtoDiv(3620, 200, "laurier200ainsle");
+    }
+
+    else {
+        $('#disp1').hide();
+        $('#disp2').hide();
+
+        sendJSONtoDiv(1893, 200, "victoria200conestoga");
+        sendJSONtoDiv(3620, 202, "laurier202conestoga");
+    }
 }
 
 function customInfo() {
