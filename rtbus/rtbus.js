@@ -65,8 +65,8 @@ function customInfo() {
             format: "json"
         },
     function (data) {
-        var customBusTitle = "<h4>" + data.query.results.json.stopTimes[0].HeadSign + "</h4>";
-        customBusTitle += "<h5>" + stopName + " - Stop #" + stopId + "</h5>";
+        var customBusTitle = "<h4><i class=\"fa fa-bus\"></i> " + data.query.results.json.stopTimes[0].HeadSign + "</h4>";
+        customBusTitle += "<h5><i class=\"fa fa-map-marker\"></i> " + stopName + " - Stop #" + stopId + "</h5>";
 
         $('#customBusTitle').hide();
         $('#customBusTitle').html(customBusTitle);
