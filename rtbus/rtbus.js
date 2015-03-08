@@ -95,7 +95,7 @@ function setDivs(data, divID) {
  
     for (var i in data) {
         var d = new Date();
-        d.setMinutes(d.getMinutes() + data[i].Minutes);
+        d.setTime(d.getTime() + (data[i].Minutes*60*1000));
  
         var hourStr = d.getHours();
         var amPm = hourStr < 12 ? "AM" : "PM";
