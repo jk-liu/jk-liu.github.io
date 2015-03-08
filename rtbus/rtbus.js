@@ -102,7 +102,8 @@ function setDivs(data, divID) {
         var minuteStr = d.getMinutes() < 10 ? "0" + d.getMinutes() : d.getMinutes();
  
         hourStr = hourStr > 12 ? hourStr-12 : hourStr;
-       
+		hourStr = hourStr == 0 ? 12 : hourStr;
+		
         outputString += "<tr><td>";
         outputString += data[i].Minutes + "m </td><td> " + hourStr + ":" + minuteStr + " " + amPm + "</td></tr>";
         outputString += "</li>";
