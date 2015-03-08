@@ -1,17 +1,18 @@
-var baseUrl = "https://jsonp.nodejitsu.com/?callback=&url=http%3A%2F%2Frealtimemap.grt.ca%2FStop%2FGetStopInfo%3FstopId%3D";
-var routeUrl = "%26routeId%3D";
+var YqlUrl = "http://query.yahooapis.com/v1/public/yql";
+var baseUrl = "select * from json where url=\"http://realtimemap.grt.ca/Stop/GetStopInfo?stopId=";
+var routeUrl = "&routeId=";
 var spinnerHtml = "<i class=\"fa fa-refresh fa-spin fa-2x\"></i>";
 
 function main() {
-    $('#disp1').slideUp();
-    $('#disp2').slideUp();
-    $('#disp3').slideUp();
-    $('#disp4').slideUp();
+    $('#disp1').hide();
+    $('#disp2').hide();
+    $('#disp3').hide();
+    $('#disp4').hide();
 
-    $('#conestoga202boardwalk').slideUp();
-    $('#laurier200ainsle').slideUp();
-    $('#victoria200conestoga').slideUp();
-    $('#laurier202conestoga').slideUp();
+    $('#conestoga202boardwalk').hide();
+    $('#laurier200ainsle').hide();
+    $('#victoria200conestoga').hide();
+    $('#laurier202conestoga').hide();
 
     $('#inputStopId').val(localStorage.getItem("savedStopId"));
     $('#inputRouteId').val(localStorage.getItem("savedRouteId"));
@@ -20,20 +21,20 @@ function main() {
     var d = new Date();
 
     if (d.getHours() < 12) {
-        $('#disp1').slideDown();
-        $('#disp2').slideDown();
-		$('#conestoga202boardwalk').slideDown();
-		$('#laurier200ainsle').slideDown();
+        $('#disp1').show();
+        $('#disp2').show();
+        $('#conestoga202boardwalk').show();
+		$('#laurier200ainsle').show();
 		
         sendJSONtoDiv(2832, 202, "conestoga202boardwalk");
         sendJSONtoDiv(3620, 200, "laurier200ainsle");
     }
 
     else {
-        $('#disp3').slideDown();
-        $('#disp4').slideDown();
-		$('#victoria200conestoga').slideDown();
-		$('#laurier202conestoga').slideDown();
+        $('#disp3').show();
+        $('#disp4').show();
+        $('#victoria200conestoga').show();
+		$('#laurier202conestoga').show();
 		
         sendJSONtoDiv(1893, 200, "victoria200conestoga");
         sendJSONtoDiv(3620, 202, "laurier202conestoga");
@@ -44,13 +45,13 @@ function customInfo() {
     var stopId = $("#inputStopId").val();
     var routeId = $("#inputRouteId").val();
 
-    $('#customBusTitle').slideUp();
+    $('#customBusTitle').hide();
     $('#customBusTitle').html("<h4>Route " + routeId + "</h4><h5>Stop #" + stopId + "</h5>");
-    $('#customBusTitle').slideDown();
+    $('#customBusTitle').show();
 
-    $('#customBusInfo').slideUp();
+    $('#customBusInfo').hide();
     $('#customBusInfo').html(spinnerHtml);
-    $('#customBusInfo').slideDown();
+    $('#customBusInfo').show();
 
 	var stopName = "";
 	
@@ -58,15 +59,20 @@ function customInfo() {
 		stopName = data[(stopId-1000)];
 	});
 	
-    $.getJSON(baseUrl + stopId + routeUrl + routeId, function (data) {
-        var customBusTitle = "<h4>" + data.stopTimes[0].HeadSign + "</h4>";
+	$.getJSON(YqlUrl,
+        {
+            q: baseUrl + stopId + routeUrl + routeId + "\"",
+            format: "json"
+        },
+    function (data) {
+        var customBusTitle = "<h4>" + data.query.results.json.stopTimes[0].HeadSign + "</h4>";
         customBusTitle += "<h5>" + stopName + " - Stop #" + stopId + "</h5>";
 
-        $('#customBusTitle').slideUp();
+        $('#customBusTitle').hide();
         $('#customBusTitle').html(customBusTitle);
-        $('#customBusTitle').slideDown();
+        $('#customBusTitle').show();
 
-        setDivs(data.stopTimes, "customBusInfo");
+        setDivs(data.query.results.json.stopTimes, "customBusInfo");
     });
 
     localStorage.setItem("savedStopId", stopId);
@@ -74,8 +80,13 @@ function customInfo() {
 }
 
 function sendJSONtoDiv(stopId, routeId, divID) {
-    $.getJSON(baseUrl + stopId + routeUrl + routeId, function (data) {
-        setDivs(data.stopTimes, divID);
+    $.getJSON(YqlUrl, 
+        {
+            q: baseUrl + stopId + routeUrl + routeId + "\"",
+            format: "json"
+        },
+    function (data) {
+        setDivs(data.query.results.json.stopTimes, divID);
     });
 }
 
@@ -99,7 +110,7 @@ function setDivs(data, divID) {
  
     outputString += "</table>";
  
-	$("#"+divID).slideUp();
-    document.getElementById(divID).innerHTML = outputString;
-    $("#"+divID).slideDown();
+    $("#" + divID).hide();
+    $("#" + divID).html(outputString);
+    $("#" + divID).show();
 }
