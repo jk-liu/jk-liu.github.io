@@ -13,57 +13,69 @@
     <div class="container">
       <h2>rtbus</h2>
 
-	    <div class="col-sm-12" id="disp1">
-            <h4><i class="fa fa-bus"></i> 202 iXpress The Boardwalk</h4>
-            <h5><i class="fa fa-map-marker"></i> Conestoga College</h5>
-        </div>
-	    <div class="col-sm-12" id="conestoga202boardwalk"><i class="fa fa-refresh fa-spin fa-2x"></i></div>
-	
-        <div class="col-sm-12" id="disp2">
-            <h4><i class="fa fa-bus"></i> 200 iXpress Ainsle Terminal</h4>
-            <h5><i class="fa fa-map-marker"></i> Laurier</h5>
-        </div>
-	    <div class="col-sm-12" id="laurier200ainsle"><i class="fa fa-refresh fa-spin fa-2x"></i></div>
-	
-        <div class="col-sm-12" id="disp3">
-            <h4><i class="fa fa-bus"></i> 200 iXpress Conestoga Mall</h4>
-            <h5><i class="fa fa-map-marker"></i> Victoria</h5>
-        </div>
-	    <div class="col-sm-12" id="victoria200conestoga"><i class="fa fa-refresh fa-spin fa-2x"></i></div>
-	
-        <div class="col-sm-12" id="disp4">
-            <h4><i class="fa fa-bus"></i> 202 iXpress Conestoga Mall</h4>
-            <h5><i class="fa fa-map-marker"></i> Laurier</h5>
-        </div>
-	    <div class="col-sm-12" id="laurier202conestoga"><i class="fa fa-refresh fa-spin fa-2x"></i></div>
-	
-        <div class="col-sm-12" id="customBusTitle"><h4>Custom Bus</h4></div>
-        <div class="col-sm-12" id="customBusInfo"><i class="fa fa-refresh fa-spin fa-2x"></i></div>
+	    <div class="col-sm-6 col-md-4">
+			<div class="col-sm-12" id="disp1">
+				<h4><i class="fa fa-bus"></i> 202 iXpress The Boardwalk</h4>
+				<h5><i class="fa fa-map-marker"></i> Conestoga College</h5>
+			</div>
+			<div class="col-sm-12" id="conestoga202boardwalk"><i class="fa fa-refresh fa-spin fa-2x"></i></div>
+		</div>
+		
+		<div class="col-sm-6 col-md-4">		
+			<div class="col-sm-12" id="disp2">
+				<h4><i class="fa fa-bus"></i> 200 iXpress Ainsle Terminal</h4>
+				<h5><i class="fa fa-map-marker"></i> Laurier</h5>
+			</div>
+			<div class="col-sm-12" id="laurier200ainsle"><i class="fa fa-refresh fa-spin fa-2x"></i></div>
+		</div>
+		
+		<div class="col-sm-6 col-md-4">
+			<div class="col-sm-12" id="disp3">
+				<h4><i class="fa fa-bus"></i> 200 iXpress Conestoga Mall</h4>
+				<h5><i class="fa fa-map-marker"></i> Victoria</h5>
+			</div>
+			<div class="col-sm-12" id="victoria200conestoga"><i class="fa fa-refresh fa-spin fa-2x"></i></div>
+		</div>
 
-        <form role="form" action="javascript:customInfo()">
-            <div class="col-sm-6">
-                <br>
-                <label for="text">Stop Number</label>
-                <input type="tel" class="form-control" id="inputStopId">
-            </div>
-            
-            <div class="col-sm-6">
-                <br>
-                <label for="text">Bus Number</label>
-                <input type="tel" class="form-control" id="inputRouteId">
-                <br>
-            </div>
-        </form>
+		<div class="col-sm-6 col-md-4">
+			<div class="col-sm-12" id="disp4">
+				<h4><i class="fa fa-bus"></i> 202 iXpress Conestoga Mall</h4>
+				<h5><i class="fa fa-map-marker"></i> Laurier</h5>
+			</div>
+			<div class="col-sm-12" id="laurier202conestoga"><i class="fa fa-refresh fa-spin fa-2x"></i></div>
+		</div>
 
-        <div class="col-sm-12 hidden-xs">
-            <button onclick="customInfo()" type="submit" class="btn btn-warning btn-block">Submit</button>
-            <br>
-        </div>
+		<div class="col-sm-6 col-md-4">
+			<div class="col-sm-12" id="customBusTitle"><h4>Custom Bus</h4></div>
+			<div class="col-sm-12" id="customBusInfo"><i class="fa fa-refresh fa-spin fa-2x"></i></div>
+		</div>
 
-        <div class="col-sm-12 visible-xs">
-            <center><button onclick="customInfo()" type="submit" class="btn btn-warning btn-circle btn-lg"><i class="glyphicon glyphicon-search"></i></button></center>
-            <br>
-        </div>
+		<div class="col-sm-12">
+			<form role="form" action="javascript:customInfo()">
+				<div class="col-sm-6">
+					<br>
+					<label for="text">Stop Number</label>
+					<input type="tel" class="form-control" id="inputStopId">
+				</div>
+
+				<div class="col-sm-6">
+					<br>
+					<label for="text">Bus Number</label>
+					<input type="tel" class="form-control" id="inputRouteId">
+					<br>
+				</div>
+			</form>
+
+			<div class="col-sm-12 hidden-xs">
+				<button onclick="customInfo()" type="submit" class="btn btn-warning btn-block">Submit</button>
+				<br>
+			</div>
+
+			<div class="col-sm-12 visible-xs">
+				<center><button onclick="customInfo()" type="submit" class="btn btn-warning btn-circle btn-lg"><i class="glyphicon glyphicon-search"></i></button></center>
+				<br>
+			</div>
+		</div>
 
         <div class="col-sm-12"><i>Times are usually accurate, but not guaranteed.</i></div>
 	</div>
