@@ -16,7 +16,7 @@ function main() {
 
     $('#inputStopId').val(localStorage.getItem("savedStopId"));
     $('#inputRouteId').val(localStorage.getItem("savedRouteId"));
-    customInfo();
+    if ($('#inputStopId').val() != "") customInfo();
 
     var d = new Date();
 
@@ -44,6 +44,8 @@ function main() {
 function customInfo() {
     var stopId = $("#inputStopId").val();
     var routeId = $("#inputRouteId").val();
+
+    $('#customDisplay').show();
 
     $('#customBusTitle').hide();
     $('#customBusTitle').html("<h4>Route " + routeId + "</h4><h5>Stop #" + stopId + "</h5>");
