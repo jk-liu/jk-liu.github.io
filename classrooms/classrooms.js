@@ -1,7 +1,7 @@
 function onLoad() {
     var storedBuilding = localStorage.getItem("storedBuilding");
 
-    if (storedBuilding != "") {
+    if (storedBuilding != "undefined") {
 		$("#buildings").val(storedBuilding);
 		collectInfo();
 	}
