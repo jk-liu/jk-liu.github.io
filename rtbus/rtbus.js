@@ -2,6 +2,7 @@ var YqlUrl = "http://query.yahooapis.com/v1/public/yql";
 var baseUrl = "select * from json where url=\"http://realtimemap.grt.ca/Stop/GetStopInfo?stopId=";
 var routeUrl = "&routeId=";
 var spinnerHtml = "<i class=\"fa fa-refresh fa-spin fa-2x\"></i>";
+var showOnlyNextBus = true;
 
 function main() {
     $('#disp1').hide();
@@ -42,43 +43,64 @@ function main() {
 }
 
 function customInfo() {
-    var stopId = $("#inputStopId").val();
+    var stopId = parseInt($("#inputStopId").val());
     var routeId = $("#inputRouteId").val();
 
     $('#customDisplay').show();
-
     $('#customBusTitle').hide();
-    $('#customBusTitle').html("<h4>Route " + routeId + "</h4><h5>Stop #" + stopId + "</h5>");
-    $('#customBusTitle').show();
 
+    var customBusTitle = "<h4><i class=\"fa fa-bus\"></i> Route " + routeId + "</h4>";
+    customBusTitle += "<h5><i class=\"fa fa-map-marker\"></i> #" + stopId + "</h5>";
+    $('#customBusTitle').html(customBusTitle);
+
+    $('#customBusTitle').show();
     $('#customBusInfo').hide();
     $('#customBusInfo').html(spinnerHtml);
     $('#customBusInfo').show();
 
 	var stopName = "";
+
+	if (stopId >= 1000 && stopId <= 3949) {
+	    $.getJSON("stops.json", function (data) {
+	        stopName = data[(stopId-1000)];
+	    });
+
+	    $.getJSON(YqlUrl,
+            {
+                q: baseUrl + stopId + routeUrl + routeId + "\"",
+                format: "json"
+            },
+        function (data) {
+            if (stopName == "") {
+                $("#customBusInfo").html("Invalid stop number");
+                $("#customBusInfo").show();
+            }
+        
+            else if (data.query.results.json.hasOwnProperty('stopTimes')) {
+                var customBusTitle = "<h4><i class=\"fa fa-bus\"></i> " + data.query.results.json.stopTimes[0].HeadSign + "</h4>";
+                customBusTitle += "<h5><i class=\"fa fa-map-marker\"></i> " + stopName + " - #" + stopId + "</h5>";
+
+                $('#customBusTitle').hide();
+                $('#customBusTitle').html(customBusTitle);
+                $('#customBusTitle').show();
+
+                setDivs(data.query.results.json.stopTimes, "customBusInfo");
+            }
+
+            else {
+                $("#customBusInfo").html("Invalid stop number or bus route");
+                $("#customBusInfo").show();
+            }
+        });
+	    
+	    localStorage.setItem("savedStopId", stopId);
+	    localStorage.setItem("savedRouteId", routeId);
+	}
 	
-	$.getJSON("stops.json", function (data) {
-		stopName = data[(stopId-1000)];
-	});
-	
-	$.getJSON(YqlUrl,
-        {
-            q: baseUrl + stopId + routeUrl + routeId + "\"",
-            format: "json"
-        },
-    function (data) {
-        var customBusTitle = "<h4><i class=\"fa fa-bus\"></i> " + data.query.results.json.stopTimes[0].HeadSign + "</h4>";
-        customBusTitle += "<h5><i class=\"fa fa-map-marker\"></i> " + stopName + " - Stop #" + stopId + "</h5>";
-
-        $('#customBusTitle').hide();
-        $('#customBusTitle').html(customBusTitle);
-        $('#customBusTitle').show();
-
-        setDivs(data.query.results.json.stopTimes, "customBusInfo");
-    });
-
-    localStorage.setItem("savedStopId", stopId);
-    localStorage.setItem("savedRouteId", routeId);
+	else {
+	    $("#customBusInfo").html("Invalid stop number");
+	    $("#customBusInfo").show();
+	}
 }
 
 function sendJSONtoDiv(stopId, routeId, divID) {
@@ -93,26 +115,46 @@ function sendJSONtoDiv(stopId, routeId, divID) {
 }
 
 function setDivs(data, divID) {
-    var outputString = "<table class=\"table table-condensed\"><th>ETA</th><th>Time</th>";
- 
-    for (var i in data) {
+    if (showOnlyNextBus) {
+        var outputString = "<table class=\"table table-condensed\">";
+
         var d = new Date();
-        d.setTime(d.getTime() + (data[i].Minutes*60*1000));
- 
+        d.setTime(d.getTime() + (data[0].Minutes * 60 * 1000));
+
         var hourStr = d.getHours();
         var amPm = hourStr < 12 ? "AM" : "PM";
         var minuteStr = d.getMinutes() < 10 ? "0" + d.getMinutes() : d.getMinutes();
- 
-        hourStr = hourStr > 12 ? hourStr-12 : hourStr;
-		hourStr = hourStr == 0 ? 12 : hourStr;
-		
-        outputString += "<tr><td>";
-        outputString += data[i].Minutes + "m </td><td> " + hourStr + ":" + minuteStr + " " + amPm + "</td></tr>";
-        outputString += "</li>";
+
+        hourStr = hourStr > 12 ? hourStr - 12 : hourStr;
+        hourStr = hourStr == 0 ? 12 : hourStr;
+
+        outputString += "<td style=\"vertical-align:middle\"><p style=\"font-size:40px\">" + data[0].Minutes + "m </p></td>";
+        outputString += "<td style=\"vertical-align:middle\"><p style=\"text-align:right\"><b>" + hourStr + ":" + minuteStr + " " + amPm + "</b></p></td></tr>";
+
+        outputString += "</table>";
     }
- 
-    outputString += "</table>";
- 
+
+    else {
+        var outputString = "<table class=\"table table-condensed\"><th>ETA</th><th>Time</th>";
+
+        for (var i in data) {
+            var d = new Date();
+            d.setTime(d.getTime() + (data[i].Minutes * 60 * 1000));
+
+            var hourStr = d.getHours();
+            var amPm = hourStr < 12 ? "AM" : "PM";
+            var minuteStr = d.getMinutes() < 10 ? "0" + d.getMinutes() : d.getMinutes();
+
+            hourStr = hourStr > 12 ? hourStr - 12 : hourStr;
+            hourStr = hourStr == 0 ? 12 : hourStr;
+
+            outputString += "<tr><td>";
+            outputString += data[i].Minutes + "m </td><td> " + hourStr + ":" + minuteStr + " " + amPm + "</td></tr>";
+        }
+
+        outputString += "</table>";
+    }
+
     $("#" + divID).hide();
     $("#" + divID).html(outputString);
     $("#" + divID).show();
