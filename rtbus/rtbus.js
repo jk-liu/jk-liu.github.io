@@ -1,7 +1,7 @@
 var YqlUrl = "http://query.yahooapis.com/v1/public/yql";
 var baseUrl = "select * from json where url=\"http://realtimemap.grt.ca/Stop/GetStopInfo?stopId=";
 var routeUrl = "&routeId=";
-var spinnerHtml = "<i class=\"fa fa-refresh fa-spin fa-2x\"></i>";
+var spinnerHtml = "<p style=\"text-align:center; padding:20px\"><i class=\"fa fa-refresh fa-spin fa-2x\"></i></p>";
 var showOnlyNextBus = true;
 
 function main() {
