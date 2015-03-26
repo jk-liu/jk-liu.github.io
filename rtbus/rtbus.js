@@ -2,7 +2,7 @@ var YqlUrl = "http://query.yahooapis.com/v1/public/yql";
 var baseUrl = "select * from json where url=\"http://realtimemap.grt.ca/Stop/GetStopInfo?stopId=";
 var routeUrl = "&routeId=";
 var spinnerHtml = "<p style=\"text-align:center; padding:20px\"><i class=\"fa fa-refresh fa-spin fa-2x\"></i></p>";
-var showOnlyNextBus = true;
+var showOnlyNextBus = false;
 
 function main() {
     $('#disp1').hide();
@@ -37,7 +37,7 @@ function main() {
         $('#victoria200conestoga').show();
 		$('#laurier202conestoga').show();
 		
-        sendJSONtoDiv(1893, 200, "victoria200conestoga");
+		sendJSONtoDiv(2550, 7, "victoria200conestoga");
         sendJSONtoDiv(3620, 202, "laurier202conestoga");
     }
 }
@@ -135,7 +135,7 @@ function setDivs(data, divID) {
     }
 
     else {
-        var outputString = "<table class=\"table table-condensed\"><th>ETA</th><th>Time</th>";
+        var outputString = "<table class=\"table table-condensed\"><th>ETA</th><th><p style=\"text-align:right\">Time</p></th>";
 
         for (var i in data) {
             var d = new Date();
@@ -148,8 +148,13 @@ function setDivs(data, divID) {
             hourStr = hourStr > 12 ? hourStr - 12 : hourStr;
             hourStr = hourStr == 0 ? 12 : hourStr;
 
-            outputString += "<tr><td>";
-            outputString += data[i].Minutes + "m </td><td> " + hourStr + ":" + minuteStr + " " + amPm + "</td></tr>";
+            if (i == 0) {
+                outputString += "<tr><td style=\"vertical-align:middle\"><p style=\"font-size:40px\">" + data[i].Minutes + "m </p></td>";
+                outputString += "<td style=\"vertical-align:middle\"><p style=\"text-align:right\"><b>" + hourStr + ":" + minuteStr + " " + amPm + "</b></p></td></tr></tr>";
+            } else {
+                outputString += "<tr><td>";
+                outputString += data[i].Minutes + "m </td><td style=\"vertical-align:middle\"><p style=\"text-align:right\"><b>" + hourStr + ":" + minuteStr + " " + amPm + "</b></p></td></tr>";
+            }
         }
 
         outputString += "</table>";
