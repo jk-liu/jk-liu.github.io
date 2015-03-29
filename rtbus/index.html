@@ -51,7 +51,7 @@
         </div>
 
         <div class="col-sm-12">
-            <form id="customBusForm" role="form" onsubmit="customInfo()">
+            <form id="customBusForm" role="form" action="javascript:customInfo()">
                 <div class="col-sm-6">
                     <label for="text">Bus Route</label>
                     <input type="tel" class="form-control" id="inputRouteId">
@@ -61,17 +61,17 @@
                     <label for="text">Stop Number</label>
                     <input type="tel" class="form-control" id="inputStopId">
                 </div>
+
+                <div class="col-sm-12 hidden-xs">
+                    <br>
+                    <button type="submit" class="btn btn-warning btn-block">Submit</button>
+                </div>
+
+                <div class="col-sm-12 visible-xs">
+                    <br>
+                    <center><button type="submit" class="btn btn-warning btn-circle btn-lg"><i class="glyphicon glyphicon-search"></i></button></center>
+                </div>
             </form>
-
-            <div class="col-sm-12 hidden-xs">
-                <br>
-                <button onclick="customInfo()" type="submit" class="btn btn-warning btn-block">Submit</button>
-            </div>
-
-            <div class="col-sm-12 visible-xs">
-                <br>
-                <center><button onclick="customInfo()" type="submit" class="btn btn-warning btn-circle btn-lg"><i class="glyphicon glyphicon-search"></i></button></center>
-            </div>
         </div>
 
         <div class="col-sm-12">
