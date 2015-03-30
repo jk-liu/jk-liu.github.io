@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>rtbus Editor</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" /> <!--320-->
+    <!-meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/custom.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="col-sm-12">
+            <h2>
+                rtbus Editor
+                <a style="vertical-align: middle; font-size:10.5px" class="label label-primary" href="index.html" role="button">
+                    <i class="fa fa-arrow-left"></i> Go back
+                </a>
+            </h2>
+        </div>
+
+        <div class="col-sm-6">
+            <div class="input-group" style="margin-bottom:5px">
+                <span class="input-group-addon"><i class="fa fa-bus fa-fw"></i></span>
+                <input class="form-control" type="tel" id="formRouteId" placeholder="Bus Route">
+            </div>
+            <div class="input-group" style="margin-bottom:5px">
+                <span class="input-group-addon"><i class="fa fa-map-marker fa-fw"></i></span>
+                <input class="form-control" type="tel" id="formStopId" placeholder="Stop Number">
+            </div>
+            <div class="input-group" style="margin-bottom:5px">
+                <span class="input-group-addon"><i class="fa fa-clock-o fa-fw"></i></span>
+                <input class="form-control" type="tel" id="formLowerHour" placeholder="Start hour to display (0 - 23)">
+            </div>
+            <div class="input-group" style="margin-bottom:5px">
+                <span class="input-group-addon"><i class="fa fa-clock-o fa-fw"></i></span>
+                <input class="form-control" type="tel" id="formUpperHour" placeholder="End hour to display (0 - 23)">
+            </div>
+        </div>
+
+        <div class="col-sm-12">
+            <a class="btn btn-info" onclick="addSavedStop()">
+                <i class="fa fa-plus-circle fa-lg"></i> Add
+            </a>
+        </div>
+
+        <div class="col-sm-6">
+            <h3>Saved Stops</h3>
+            <div id="savedStopsDiv"></div>
+        </div>
+
+        <div class="col-sm-12">
+            <h3>Settings</h3>
+            <label class="checkbox-inline"><input type="checkbox" id="isShowAllStopsEnabled">Show all stops</label>
+            <label class="checkbox-inline"><input type="checkbox" id="isOnlyShowNextBusEnabled">Show only next bus</label>
+
+            <br><br>
+            <a class="btn btn-danger" onclick="clearSavedStops()">
+                <i class="fa fa-trash-o fa-lg"></i> Clear All Stops
+            </a>
+        </div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="rtbusEdit.js"></script>
+</body>
+
+</html>
+

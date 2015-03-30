@@ -1,125 +1,164 @@
+/******************************
+*          CONSTANTS          *
+******************************/
+
+var DIV_ROOT = "divStop";
+var DIV_BUS_TITLE = "divBusTitle";
+var DIV_BUS_INFO = "divBusInfo";
+var LOCALSTORAGE_KEY = "rtbusData";
+var LOCALSTORAGE_SETTINGS_KEY = "rtbusSettings";
+
+// URLs
 var YqlUrl = "http://query.yahooapis.com/v1/public/yql";
 var baseUrl = "select * from json where url=\"http://realtimemap.grt.ca/Stop/GetStopInfo?stopId=";
 var routeUrl = "&routeId=";
+
 var spinnerHtml = "<p style=\"text-align:center; padding:20px\"><i class=\"fa fa-refresh fa-spin fa-2x\"></i></p>";
-var showOnlyNextBus = false;
+
+// settings
+var isShowAllStopsEnabled = false;
+var isOnlyShowNextBusEnabled = true;
+var stopsList = [];
+
+// when document is loaded call main
+$(document).ready(main);
 
 function main() {
-    $('#disp1').hide();
-    $('#disp2').hide();
-    $('#disp3').hide();
-    $('#disp4').hide();
-
-    $('#conestoga202boardwalk').hide();
-    $('#laurier200ainsle').hide();
-    $('#victoria200conestoga').hide();
-    $('#laurier202conestoga').hide();
-
-    $('#inputStopId').val(localStorage.getItem("savedStopId"));
-    $('#inputRouteId').val(localStorage.getItem("savedRouteId"));
-    if ($('#inputStopId').val() != "") customInfo();
-
-    var d = new Date();
-
-    if (d.getHours() < 12) {
-        $('#disp1').show();
-        $('#disp2').show();
-        $('#conestoga202boardwalk').show();
-		$('#laurier200ainsle').show();
-		
-        sendJSONtoDiv(2832, 202, "conestoga202boardwalk");
-        sendJSONtoDiv(3620, 200, "laurier200ainsle");
+    var settings = StoredSettings.get();
+    if (settings != null) {
+        if (settings.hasOwnProperty("isShowAllStopsEnabled"))
+            isShowAllStopsEnabled = settings.isShowAllStopsEnabled;
+        if (settings.hasOwnProperty("isOnlyShowNextBusEnabled"))
+            isOnlyShowNextBusEnabled = settings.isOnlyShowNextBusEnabled;
     }
 
+    stopsList = StoredStops.get();
+    // stopsList.push(new BusStop(202, 2832, 0, 12));
+    // stopsList.push(new BusStop(200, 3620, 0, 12));
+    // stopsList.push(new BusStop(7, 1911, 0, 23));
+    //stopsList.push(new BusStop(12, 2667, 0, 23));
+    //stopsList.push(new BusStop(8, 2667, 0, 23));
+
+    // StoredStops.set(stopsList);
+    if (stopsList.length > 0) {
+        initLayout(stopsList.length);
+        requestDataForLayout(stopsList.length);
+    }
     else {
-        $('#disp3').show();
-        $('#disp4').show();
-        $('#victoria200conestoga').show();
-		$('#laurier202conestoga').show();
-		
-		sendJSONtoDiv(2550, 7, "victoria200conestoga");
-        sendJSONtoDiv(3620, 202, "laurier202conestoga");
+        var emptyMsg = "<h4>No stops have been set, you can set stops <a href=\"editor.html\">here</a>.</h4>";
+        $("#mainLayout").fadeOut(400, function () { $("#mainLayout").html(emptyMsg); });
+        $("#mainLayout").fadeIn();
     }
 }
 
-function customInfo() {
-    var stopId = parseInt($("#inputStopId").val());
-    var routeId = $("#inputRouteId").val();
+/******************************
+*           LAYOUT            *
+******************************/
 
-    $('#customDisplay').show();
-    $('#customBusTitle').hide();
+function initLayout(n) {
+    var divContent = "";
 
-    var customBusTitle = "<h4><i class=\"fa fa-bus\"></i> Route " + routeId + "</h4>";
-    customBusTitle += "<h5><i class=\"fa fa-map-marker\"></i> #" + stopId + "</h5>";
-    $('#customBusTitle').html(customBusTitle);
+    // create the divs to set later on
+    for (i = 0; i < n; i++) {
+        divContent += "<div class=\"col-sm-6 col-md-4\" id=\"" + DIV_ROOT + i + "\" onclick=\"getDataForLayout(" + i + ", false)\" style=\"display: none;\">";
+        divContent += "<div class=\"col-sm-12\" id=\"" + DIV_BUS_TITLE + i + "\"></div>";
+        divContent += "<div class=\"col-sm-12\" id=\"" + DIV_BUS_INFO + i + "\">" + spinnerHtml + "</div>";
+        divContent += "</div>";
+    }
 
-    $('#customBusTitle').show();
-    $('#customBusInfo').hide();
-    $('#customBusInfo').html(spinnerHtml);
-    $('#customBusInfo').show();
+    divContent += "<div class=\"col-sm-12\" id=\"refreshTutorial\"><span class=\"label label-default\"><i class=\"fa fa-info-circle\"></i> Tap on a section to refresh</span><br><br></div>";
+    $("#mainLayout").html(divContent);
+}
 
-	var stopName = "";
+function requestDataForLayout(n) {
+    var d = new Date();
 
-	if (stopId >= 1000 && stopId <= 3949) {
-	    $.getJSON("stops.json", function (data) {
-	        stopName = data[(stopId-1000)];
-	    });
+    for (i = 0; i < n; i++) {
+        // only show if within hour range
+        if (d.getHours() >= stopsList[i].lowerHour && d.getHours() <= stopsList[i].upperHour) {
+            getDataForLayout(i, true);
+        }
+        // otherwise if -1 or manual overide then hour filtering disabled
+        else if (stopsList[i].hour == -1 || isShowAllStopsEnabled) {
+            getDataForLayout(i, true);
+        }
+    }
+}
 
-	    $.getJSON(YqlUrl,
-            {
-                q: baseUrl + stopId + routeUrl + routeId + "\"",
-                format: "json"
-            },
-        function (data) {
+function getDataForLayout(n, isFirstLoad) {
+    // show layout
+    $("#" + DIV_ROOT + n).show();
+    document.getElementById(DIV_ROOT + n).onclick = function () {};         // disable click
+
+    var stopName;
+    var busTitle = "<h4><i class=\"fa fa-bus\"></i> Route " + stopsList[n].routeId + "</h4>";
+    busTitle += "<h5><i class=\"fa fa-map-marker\"></i> #" + stopsList[n].stopId + "</h5>";
+
+    if (!isFirstLoad) {
+        // set display info to spinner and show
+        $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html(spinnerHtml); });
+        $("#" + DIV_BUS_INFO + n).fadeIn();
+
+        // hide tutorial text
+        $("#refreshTutorial").slideUp();
+    } else {
+        $("#" + DIV_BUS_TITLE + n).html(busTitle);
+    }
+
+    if (stopsList[n].stopId >= 1000 && stopsList[n].stopId <= 3949) {
+        $.getJSON("stops.json", function (data) {
+            stopName = data[(stopsList[n].stopId - 1000)];
             if (stopName == "") {
-                $("#customBusInfo").html("Invalid stop number");
-                $("#customBusInfo").show();
-            }
-        
-            else if (data.query.results.json.hasOwnProperty('stopTimes')) {
-                var customBusTitle = "<h4><i class=\"fa fa-bus\"></i> " + data.query.results.json.stopTimes[0].HeadSign + "</h4>";
-                customBusTitle += "<h5><i class=\"fa fa-map-marker\"></i> " + stopName + " - #" + stopId + "</h5>";
-
-                $('#customBusTitle').hide();
-                $('#customBusTitle').html(customBusTitle);
-                $('#customBusTitle').show();
-
-                setDivs(data.query.results.json.stopTimes, "customBusInfo");
+                $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Invalid stop number"); });
+                $("#" + DIV_BUS_INFO + n).fadeIn();
             }
 
             else {
-                $("#customBusInfo").html("Invalid stop number or bus route");
-                $("#customBusInfo").show();
+                $.getJSON(YqlUrl,
+                    {
+                        q: baseUrl + stopsList[n].stopId + routeUrl + stopsList[n].routeId + "\"",
+                        format: "json"
+                    },
+
+                function (data) {
+                    if (data.query.results.json.hasOwnProperty('stopTimes')) {
+                        //if (true) {
+                            busTitle = "<h4><i class=\"fa fa-bus\"></i> " + data.query.results.json.stopTimes[0].HeadSign + "</h4>";
+                        //} else {
+                        //    busTitle = "<h4><i class=\"fa fa-bus\"></i> Route " + stopsList[n].routeId + "</h4>";
+                        //}
+
+                        busTitle += "<h5><i class=\"fa fa-map-marker\"></i> " + stopName + " - #" + stopsList[n].stopId + "</h5>";
+
+                        $("#" + DIV_BUS_TITLE + n).html(busTitle);
+
+                        setDivs(data.query.results.json.stopTimes, DIV_BUS_INFO + n);
+                    }
+
+                    else {
+                        $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Buses may not be running at this time, otherwise check that the bus route and stop combination are valid."); });
+                        $("#" + DIV_BUS_INFO + n).fadeIn();
+                    }
+                });
             }
         });
-	    
-	    localStorage.setItem("savedStopId", stopId);
-	    localStorage.setItem("savedRouteId", routeId);
-	}
-	
-	else {
-	    $("#customBusInfo").html("Invalid stop number");
-	    $("#customBusInfo").show();
-	}
-}
+    }
 
-function sendJSONtoDiv(stopId, routeId, divID) {
-    $.getJSON(YqlUrl, 
-        {
-            q: baseUrl + stopId + routeUrl + routeId + "\"",
-            format: "json"
-        },
-    function (data) {
-        setDivs(data.query.results.json.stopTimes, divID);
-    });
+    else {
+        $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Invalid stop number"); });
+        $("#" + DIV_BUS_INFO + n).fadeIn();
+    }
 }
 
 function setDivs(data, divID) {
-    if (showOnlyNextBus) {
-        var outputString = "<table class=\"table table-condensed\">";
+    var outputString = "<table class=\"table table-condensed\">";
+    if (!isOnlyShowNextBusEnabled) {
+         outputString += "<th>ETA</th><th><p style=\"text-align:right\">Time</p></th>";
+    }
 
+    for (var i = 0; i < data.length; i++) {
         var d = new Date();
-        d.setTime(d.getTime() + (data[0].Minutes * 60 * 1000));
+        d.setTime(d.getTime() + (data[i].Minutes * 60 * 1000));
 
         var hourStr = d.getHours();
         var amPm = hourStr < 12 ? "AM" : "PM";
@@ -128,39 +167,47 @@ function setDivs(data, divID) {
         hourStr = hourStr > 12 ? hourStr - 12 : hourStr;
         hourStr = hourStr == 0 ? 12 : hourStr;
 
-        outputString += "<td style=\"vertical-align:middle\"><p style=\"font-size:40px\">" + data[0].Minutes + "m </p></td>";
-        outputString += "<td style=\"vertical-align:middle\"><p style=\"text-align:right\"><b>" + hourStr + ":" + minuteStr + " " + amPm + "</b></p></td></tr>";
-
-        outputString += "</table>";
-    }
-
-    else {
-        var outputString = "<table class=\"table table-condensed\"><th>ETA</th><th><p style=\"text-align:right\">Time</p></th>";
-
-        for (var i in data) {
-            var d = new Date();
-            d.setTime(d.getTime() + (data[i].Minutes * 60 * 1000));
-
-            var hourStr = d.getHours();
-            var amPm = hourStr < 12 ? "AM" : "PM";
-            var minuteStr = d.getMinutes() < 10 ? "0" + d.getMinutes() : d.getMinutes();
-
-            hourStr = hourStr > 12 ? hourStr - 12 : hourStr;
-            hourStr = hourStr == 0 ? 12 : hourStr;
-
-            if (i == 0) {
-                outputString += "<tr><td style=\"vertical-align:middle\"><p style=\"font-size:40px\">" + data[i].Minutes + "m </p></td>";
-                outputString += "<td style=\"vertical-align:middle\"><p style=\"text-align:right\"><b>" + hourStr + ":" + minuteStr + " " + amPm + "</b></p></td></tr></tr>";
-            } else {
-                outputString += "<tr><td>";
-                outputString += data[i].Minutes + "m </td><td style=\"vertical-align:middle\"><p style=\"text-align:right\"><b>" + hourStr + ":" + minuteStr + " " + amPm + "</b></p></td></tr>";
-            }
+        if (i == 0) {
+            outputString += "<tr><td style=\"vertical-align:middle\"><p style=\"font-size:40px\">" + data[i].Minutes + "m </p></td>";
+            outputString += "<td style=\"vertical-align:middle\"><p style=\"text-align:right\"><b>" + hourStr + ":" + minuteStr + " " + amPm + "</b></p></td></tr></tr>";
+        } else {
+            outputString += "<tr><td>";
+            outputString += data[i].Minutes + "m </td><td style=\"vertical-align:middle\"><p style=\"text-align:right\"><b>" + hourStr + ":" + minuteStr + " " + amPm + "</b></p></td></tr>";
         }
 
-        outputString += "</table>";
+        if (isOnlyShowNextBusEnabled) break;
     }
 
-    $("#" + divID).hide();
-    $("#" + divID).html(outputString);
-    $("#" + divID).show();
+    outputString += "</table>";
+
+    var divNum = divID.substring(10);
+
+    $("#" + divID).fadeOut(400, function () { $("#" + divID).html(outputString); });
+    $("#" + divID).fadeIn(400, function () {
+        document.getElementById(DIV_ROOT + divNum).onclick = function () { getDataForLayout(divNum, false) };         // reenable click after receieving result
+    });
+}
+
+var StoredStops = {
+    get: function () {
+        var rtbusData = JSON.parse(localStorage.getItem(LOCALSTORAGE_KEY));
+        if (rtbusData == null) return [];
+        else return rtbusData;
+    },
+    set: function (stops) { localStorage.setItem(LOCALSTORAGE_KEY, JSON.stringify(stops)); },
+    clear: function () { localStorage.removeItem(LOCALSTORAGE_KEY); }
+};
+
+var StoredSettings = {
+    get: function () {
+        var rtbusSettings = JSON.parse(localStorage.getItem(LOCALSTORAGE_SETTINGS_KEY));
+        return rtbusSettings;
+    }
+};
+
+function BusStop(routeId, stopId, lowerHour, upperHour) {
+    this.routeId = routeId;
+    this.stopId = stopId;
+    this.lowerHour = lowerHour;
+    this.upperHour = upperHour;
 }

@@ -9,92 +9,38 @@
     <link rel="stylesheet" href="css/custom.css">
 </head>
 
-<body onload="main()">
+<body>
     <div class="container">
-        <h2>rtbus</h2>
-
-        <div class="col-sm-6 col-md-4" id="disp1" style="display: none;">
-            <div class="col-sm-12">
-                <h4><i class="fa fa-bus"></i> 202 iXpress The Boardwalk</h4>
-                <h5><i class="fa fa-map-marker"></i> Conestoga College - #2832</h5>
-            </div>
-            <div class="col-sm-12" id="conestoga202boardwalk"><p style="text-align:center; padding:20px"><i class="fa fa-refresh fa-spin fa-2x"></i></p></div>
+        <div class="col-sm-12">
+            <h2>rtbus 
+                <a style="vertical-align: middle; font-size:10.5px" class="label label-primary" href="editor.html" role="button">
+                    <i class="fa fa-pencil"></i> Edit Stops
+                </a>
+            </h2>
         </div>
-
-        <div class="col-sm-6 col-md-4" id="disp2" style="display: none;">
-            <div class="col-sm-12">
-                <h4><i class="fa fa-bus"></i> 200 iXpress Ainsle Terminal</h4>
-                <h5><i class="fa fa-map-marker"></i> Laurier - #3620</h5>
-            </div>
-            <div class="col-sm-12" id="laurier200ainsle"><p style="text-align:center; padding:20px"><i class="fa fa-refresh fa-spin fa-2x"></i></p></div>
-        </div>
-
-        <div class="col-sm-6 col-md-4" id="disp3" style="display: none;">
-            <div class="col-sm-12">
-                <h4><i class="fa fa-bus"></i> 7D/E UW</h4>
-                <h5><i class="fa fa-map-marker"></i> Charles Street Terminal - #2550</h5>
-            </div>
-            <div class="col-sm-12" id="victoria200conestoga"><p style="text-align:center; padding:20px"><i class="fa fa-refresh fa-spin fa-2x"></i></p></div>
-        </div>
-
-        <div class="col-sm-6 col-md-4" id="disp4" style="display: none;">
-            <div class="col-sm-12">
-                <h4><i class="fa fa-bus"></i> 202 iXpress Conestoga Mall</h4>
-                <h5><i class="fa fa-map-marker"></i> Laurier - #3620</h5>
-            </div>
-            <div class="col-sm-12" id="laurier202conestoga"><p style="text-align:center; padding:20px"><i class="fa fa-refresh fa-spin fa-2x"></i></p></div>
-        </div>
-
-        <div class="col-sm-6 col-md-4" id="customDisplay" style="display: none;">
-            <div class="col-sm-12" id="customBusTitle"><h4>Custom Bus</h4></div>
-            <div class="col-sm-12" id="customBusInfo"><p style="text-align:center; padding:20px"><i class="fa fa-refresh fa-spin fa-2x"></i></p></div>
-        </div>
+		
+        <div id="mainLayout"></div>
 
         <div class="col-sm-12">
-            <form id="customBusForm" role="form" action="javascript:customInfo()">
-                <div class="col-sm-6">
-                    <label for="text">Bus Route</label>
-                    <input type="tel" class="form-control" id="inputRouteId">
-                </div>
-
-                <div class="col-sm-6">
-                    <label for="text">Stop Number</label>
-                    <input type="tel" class="form-control" id="inputStopId">
-                </div>
-
-                <div class="col-sm-12 hidden-xs">
-                    <br>
-                    <button type="submit" class="btn btn-warning btn-block">Submit</button>
-                </div>
-
-                <div class="col-sm-12 visible-xs">
-                    <br>
-                    <center><button type="submit" class="btn btn-warning btn-circle btn-lg"><i class="glyphicon glyphicon-search"></i></button></center>
-                </div>
-            </form>
-        </div>
-
-        <div class="col-sm-12">
-            <br>
             <i>Times are usually accurate, but not guaranteed.</i><br>
-            <p style="font-size:9px">Data retrieval<a href="https://www.yahoo.com/?ilc=401" target="_blank"> <img src="https://poweredby.yahoo.com/white_retina.png" width="134" height="29" /> </a></p>
+            <p style="font-size:9px">Data retrieval powered by <a href="https://www.yahoo.com/?ilc=401" target="_blank">YAHOO!</a></p>
         </div>
     </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
     <script src="rtbus.js"></script>
-
+   
     <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
-                (i[r].q = i[r].q || []).push(arguments)
-            }, i[r].l = 1 * new Date(); a = s.createElement(o),
-            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
 
-        ga('create', 'UA-59654912-1', 'auto');
-        ga('send', 'pageview');
+    ga('create', 'UA-59654912-1', 'auto');
+    ga('send', 'pageview');
     </script>
 </body>
 
