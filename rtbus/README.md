@@ -1,2 +1,2 @@
 # Real Time Bus
-Quick and dirty list of buses and times to stop
+A mobile friendly view of real time bus stop arrival times, still very much a work in progress.
