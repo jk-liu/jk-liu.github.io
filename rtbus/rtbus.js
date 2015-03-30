@@ -33,13 +33,7 @@ function main() {
     }
 
     stopsList = StoredStops.get();
-    // stopsList.push(new BusStop(202, 2832, 0, 12));
-    // stopsList.push(new BusStop(200, 3620, 0, 12));
-    // stopsList.push(new BusStop(7, 1911, 0, 23));
-    //stopsList.push(new BusStop(12, 2667, 0, 23));
-    //stopsList.push(new BusStop(8, 2667, 0, 23));
 
-    // StoredStops.set(stopsList);
     if (stopsList.length > 0) {
         initLayout(stopsList.length);
         requestDataForLayout(stopsList.length);
@@ -79,7 +73,7 @@ function requestDataForLayout(n) {
             getDataForLayout(i, true);
         }
         // otherwise if -1 or manual overide then hour filtering disabled
-        else if (stopsList[i].hour == -1 || isShowAllStopsEnabled) {
+        else if (stopsList[i].lowerHour == -1 || isShowAllStopsEnabled) {
             getDataForLayout(i, true);
         }
     }
@@ -88,7 +82,8 @@ function requestDataForLayout(n) {
 function getDataForLayout(n, isFirstLoad) {
     // show layout
     $("#" + DIV_ROOT + n).show();
-    document.getElementById(DIV_ROOT + n).onclick = function () {};         // disable click
+    // disable click to avoid queuing multiple requests
+    document.getElementById(DIV_ROOT + n).onclick = function () {};
 
     var stopName;
     var busTitle = "<h4><i class=\"fa fa-bus\"></i> Route " + stopsList[n].routeId + "</h4>";
@@ -121,13 +116,15 @@ function getDataForLayout(n, isFirstLoad) {
                     },
 
                 function (data) {
-                    if (data.query.results.json.hasOwnProperty('stopTimes')) {
-                        //if (true) {
-                            busTitle = "<h4><i class=\"fa fa-bus\"></i> " + data.query.results.json.stopTimes[0].HeadSign + "</h4>";
-                        //} else {
-                        //    busTitle = "<h4><i class=\"fa fa-bus\"></i> Route " + stopsList[n].routeId + "</h4>";
-                        //}
+                    if (data == null) {
+                        $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Server error, tap to try again.<br><br>"); });
+                        $("#" + DIV_BUS_INFO + n).fadeIn();
+                        // reenable click after receiving result
+                        document.getElementById(DIV_ROOT + n).onclick = function () { getDataForLayout(n, false) };
+                    }
 
+                    else if (data.query.results.json.hasOwnProperty('stopTimes')) {
+                        busTitle = "<h4><i class=\"fa fa-bus\"></i> " + data.query.results.json.stopTimes[0].HeadSign + "</h4>";
                         busTitle += "<h5><i class=\"fa fa-map-marker\"></i> " + stopName + " - #" + stopsList[n].stopId + "</h5>";
 
                         $("#" + DIV_BUS_TITLE + n).html(busTitle);
@@ -136,12 +133,47 @@ function getDataForLayout(n, isFirstLoad) {
                     }
 
                     else {
-                        $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Buses may not be running at this time, otherwise check that the bus route and stop combination are valid."); });
+                        $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Buses may not be running at this time, otherwise check that the bus route and stop combination are valid.<br><br>"); });
                         $("#" + DIV_BUS_INFO + n).fadeIn();
+                        // reenable click after receiving result
+                        document.getElementById(DIV_ROOT + n).onclick = function () { getDataForLayout(n, false) };
                     }
                 });
             }
         });
+    }
+
+    else if (stopsList[n].stopId >= 5000 && stopsList[n].stopId <= 5015) {
+            $.getJSON(YqlUrl,
+                {
+                    q: baseUrl + stopsList[n].stopId + routeUrl + stopsList[n].routeId + "\"",
+                    format: "json"
+                },
+
+            function (data) {
+                if (data == null) {
+                    $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Server error, tap to try again.<br><br>"); });
+                    $("#" + DIV_BUS_INFO + n).fadeIn();
+                    // reenable click after receiving result
+                    document.getElementById(DIV_ROOT + n).onclick = function () { getDataForLayout(n, false) };
+                }
+
+                else if (data.query.results.json.hasOwnProperty('stopTimes')) {
+                    busTitle = "<h4><i class=\"fa fa-bus\"></i> " + data.query.results.json.stopTimes[0].HeadSign + "</h4>";
+                    busTitle += "<h5><i class=\"fa fa-map-marker\"></i> Detour - #" + stopsList[n].stopId + "</h5>";
+
+                    $("#" + DIV_BUS_TITLE + n).html(busTitle);
+
+                    setDivs(data.query.results.json.stopTimes, DIV_BUS_INFO + n);
+                }
+
+                else {
+                    $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Buses may not be running at this time, otherwise check that the bus route and stop combination are valid.<br><br>"); });
+                    $("#" + DIV_BUS_INFO + n).fadeIn();
+                    // reenable click after receiving result
+                    document.getElementById(DIV_ROOT + n).onclick = function () { getDataForLayout(n, false) };
+                }
+            });
     }
 
     else {
@@ -184,7 +216,8 @@ function setDivs(data, divID) {
 
     $("#" + divID).fadeOut(400, function () { $("#" + divID).html(outputString); });
     $("#" + divID).fadeIn(400, function () {
-        document.getElementById(DIV_ROOT + divNum).onclick = function () { getDataForLayout(divNum, false) };         // reenable click after receieving result
+        // reenable click after receiving result
+        document.getElementById(DIV_ROOT + divNum).onclick = function () { getDataForLayout(divNum, false) };
     });
 }
 
