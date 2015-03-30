@@ -1,7 +1,6 @@
 /******************************
 *          CONSTANTS          *
 ******************************/
-
 var LOCALSTORAGE_KEY = "rtbusData";
 var LOCALSTORAGE_SETTINGS_KEY = "rtbusSettings";
 
@@ -26,13 +25,14 @@ function main() {
 ******************************/
 function displayStoredStops() {
     var divContent = "<table class=\"table table-condensed\">";
-    divContent += "<th>Route</th><th>Stop #</th><th>Start Hour</th><th>End Hour</th>";
+    divContent += "<th><i class=\"fa fa-bus\"></th><th><i class=\"fa fa-map-marker\"></th><th>Start</th><th>End</th><th><i class=\"fa fa-trash\"></i></th>";
     for (var i = 0; i < stopsList.length; i++) {
         divContent += "<tr>";
         divContent += "<td>" + stopsList[i].routeId + "</td>";
-        divContent += "<td>" + stopsList[i].stopId + "</td>";;
-        divContent += "<td>" + stopsList[i].lowerHour + "</td>";;
-        divContent += "<td>" + stopsList[i].upperHour + "</td>";;
+        divContent += "<td>" + stopsList[i].stopId + "</td>";
+        divContent += "<td>" + stopsList[i].lowerHour + "</td>";
+        divContent += "<td>" + stopsList[i].upperHour + "</td>";
+        divContent += "<td>" + "<center><i class=\"fa fa-times\" onclick=\"deleteSavedStop(" + i + ")\"></i>" + "</center></td>";;
         divContent += "</tr>";
     }
 
@@ -74,6 +74,12 @@ function addSavedStop() {
     displayStoredStops();
 }
 
+function deleteSavedStop(n) {
+    stopsList.splice(n, 1);
+    StoredStops.set(stopsList);
+    displayStoredStops();
+}
+
 function clearSavedStops() {
     if (confirm("Are you sure you want to clear all stops? This action cannot be undone.") == true) {
         StoredStops.clear();
@@ -107,6 +113,13 @@ function BusStop(routeId, stopId, lowerHour, upperHour) {
     this.upperHour = upperHour;
 }
 
+/******************************
+*          LISTENERS          *
+******************************/
+$("#formLowerHour").on('input propertychange paste', function () {
+    var lowerHour = $("#formLowerHour").val();
+    $("#formUpperHour").attr("placeholder", "End hour to display (" + ++lowerHour + " - 23)");
+});
 
 $("input:checkbox").click(function () {
     Settings[this.id] = this.checked;

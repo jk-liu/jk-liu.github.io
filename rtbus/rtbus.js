@@ -72,8 +72,8 @@ function requestDataForLayout(n) {
         if (d.getHours() >= stopsList[i].lowerHour && d.getHours() <= stopsList[i].upperHour) {
             getDataForLayout(i, true);
         }
-        // otherwise if -1 or manual overide then hour filtering disabled
-        else if (stopsList[i].lowerHour == -1 || isShowAllStopsEnabled) {
+        // otherwise if empty or manual overide then hour filtering disabled
+        else if (stopsList[i].lowerHour == "" || isShowAllStopsEnabled) {
             getDataForLayout(i, true);
         }
     }

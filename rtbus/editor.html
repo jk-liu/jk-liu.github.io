@@ -7,6 +7,10 @@
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="css/custom.css">
+
+    <style>
+        td, th { text-align: center; }
+    </style>
 </head>
 
 <body>
@@ -31,7 +35,7 @@
             </div>
             <div class="input-group" style="margin-bottom:5px">
                 <span class="input-group-addon"><i class="fa fa-clock-o fa-fw"></i></span>
-                <input class="form-control" type="tel" id="formLowerHour" placeholder="Start hour to display (0 - 23)">
+                <input class="form-control" type="tel" id="formLowerHour" placeholder="Start hour to display (0 - 22)">
             </div>
             <div class="input-group" style="margin-bottom:5px">
                 <span class="input-group-addon"><i class="fa fa-clock-o fa-fw"></i></span>
@@ -59,6 +63,15 @@
             <a class="btn btn-danger" onclick="clearSavedStops()">
                 <i class="fa fa-trash-o fa-lg"></i> Clear All Stops
             </a>
+            <br><br>
+        </div>
+
+        <div class="col-sm-6">
+            <h3>Info</h3>
+            <p>Set a start and end hour to have that stop display only between those hours so that the page does not become too crowded.</p>
+            <p>For example, set the buses for your morning commute to display from 0-12, and buses for evening commute from 12-23.</p>
+            <p>If you do not want to show stops depending on hour just leave the fields blank.</p>
+            <p>If you want to show all stops, check the show all stops option.</p>
         </div>
     </div>
 
@@ -68,4 +81,3 @@
 </body>
 
 </html>
-
