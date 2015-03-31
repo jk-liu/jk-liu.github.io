@@ -64,8 +64,8 @@ var Regex = {
 function addSavedStop() {
     var routeId = $("#formRouteId").val();
     var stopId = $("#formStopId").val();
-    var lowerHour = $("#formLowerHour").val();
-    var upperHour = $("#formUpperHour").val();
+    var lowerHour = parseInt($("#formLowerHour").val());
+    var upperHour = parseInt($("#formUpperHour").val());
 
     var isInvalid = false;
 
