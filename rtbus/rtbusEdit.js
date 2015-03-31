@@ -58,14 +58,14 @@ function showSettingsOnPage() {
 var Regex = {
     routeId: /^[1-9][0-9]{0,2}$/,
     stopId: /^[1-5][0-9]{3}$/,
-    hourValidation: function (n) { return !isNaN(parseInt(n)) && n >= 0 && n <= 23; }
+    hourValidation: function (n) { return !isNaN(parseInt(n)) && parseInt(n) >= 0 && parseInt(n) <= 23; }
 }
 
 function addSavedStop() {
     var routeId = $("#formRouteId").val();
     var stopId = $("#formStopId").val();
-    var lowerHour = parseInt($("#formLowerHour").val());
-    var upperHour = parseInt($("#formUpperHour").val());
+    var lowerHour = $("#formLowerHour").val();
+    var upperHour = $("#formUpperHour").val();
 
     var isInvalid = false;
 
