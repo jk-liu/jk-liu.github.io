@@ -32,7 +32,7 @@ function displayStoredStops() {
         divContent += "<td>" + stopsList[i].stopId + "</td>";
         divContent += "<td>" + stopsList[i].lowerHour + "</td>";
         divContent += "<td>" + stopsList[i].upperHour + "</td>";
-        divContent += "<td>" + "<center><i class=\"fa fa-times\" onclick=\"deleteSavedStop(" + i + ")\"></i>" + "</center></td>";;
+        divContent += "<td>" + "<a href=\"javascript:deleteSavedStop(" + i + ")\"<i class=\"fa fa-times\"></i></td>";;
         divContent += "</tr>";
     }
 
@@ -56,22 +56,45 @@ function showSettingsOnPage() {
 *           UTILITY           *
 ******************************/
 function addSavedStop() {
+    var routeIdRegex = /^[1-5][0-9]{0,2}$/;
+    var stopIdRegex = /^[1-5][0-9]{3}$/;
+    var hourValidation = function (n) { return !isNaN(parseInt(n)) && n >= 0 && n <= 23; };
+
     var routeId = $("#formRouteId").val();
     var stopId = $("#formStopId").val();
     var lowerHour = $("#formLowerHour").val();
     var upperHour = $("#formUpperHour").val();
 
-    // clear the form
-    $("#formRouteId").val("");
-    $("#formStopId").val("");
-    $("#formLowerHour").val("");
-    $("#formUpperHour").val("");
+    // error checking
+    if (!routeIdRegex.test(routeId)) {
+        alert("Bus route is invalid");
+    }
+    else if (!stopIdRegex.test(stopId)) {
+        alert("Stop number is invalid");
+    }
+    else if (lowerHour != "" && !hourValidation(lowerHour)) {
+        alert("Start hour must be between 0-23");
+    }
+    else if (upperHour != "" && !hourValidation(upperHour)) {
+        alert("End hour must be between 0-23");
+    }
+    else if ((lowerHour != "" && upperHour == "") || (lowerHour == "" && upperHour != "")) {
+        alert("Both start hour and end hour must be filled");
+    }
+    else if (lowerHour != "" && upperHour != "" && !(lowerHour < upperHour)) {
+        alert("Start hour must be less than end hour");
+    }
+    else {
+        // clear the form
+        $("#formRouteId").val("");
+        $("#formStopId").val("");
+        $("#formLowerHour").val("");
+        $("#formUpperHour").val("");
 
-    // TODO: add error checking
-    stopsList.push(new BusStop(routeId, stopId, lowerHour, upperHour));
-
-    StoredStops.set(stopsList);
-    displayStoredStops();
+        stopsList.push(new BusStop(routeId, stopId, lowerHour, upperHour));
+        StoredStops.set(stopsList);
+        displayStoredStops();
+    }
 }
 
 function deleteSavedStop(n) {
@@ -118,6 +141,7 @@ function BusStop(routeId, stopId, lowerHour, upperHour) {
 ******************************/
 $("#formLowerHour").on('input propertychange paste', function () {
     var lowerHour = $("#formLowerHour").val();
+    lowerHour = isNaN(parseInt(lowerHour)) ? -1 : parseInt(lowerHour);
     $("#formUpperHour").attr("placeholder", "End hour to display (" + ++lowerHour + " - 23)");
 });
 
