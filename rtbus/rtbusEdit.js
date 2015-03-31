@@ -67,26 +67,49 @@ function addSavedStop() {
     var lowerHour = $("#formLowerHour").val();
     var upperHour = $("#formUpperHour").val();
 
+    var isInvalid = false;
+
+    // set the form to valid again
+    $("#formRouteId").parent("div").removeClass("has-error");
+    $("#formStopId").parent("div").removeClass("has-error");
+    $("#formLowerHour").parent("div").removeClass("has-error");
+    $("#formUpperHour").parent("div").removeClass("has-error");
+
     // error checking
     if (!Regex.routeId.test(routeId)) {
-        alert("Bus route is invalid");
+        if (!isInvalid) alert("Bus route is invalid");
+        $("#formRouteId").parent("div").addClass("has-error");
+        isInvalid = true;
     }
-    else if (!Regex.stopId.test(stopId)) {
-        alert("Stop number is invalid");
+    if (!Regex.stopId.test(stopId)) {
+        if (!isInvalid) alert("Stop number is invalid");
+        $("#formStopId").parent("div").addClass("has-error");
+        isInvalid = true;
     }
-    else if (lowerHour != "" && !Regex.hourValidation(lowerHour)) {
-        alert("Start hour must be between 0-23");
+    if (lowerHour != "" && !Regex.hourValidation(lowerHour)) {
+        if (!isInvalid) alert("Start hour must be between 0-23");
+        $("#formLowerHour").parent("div").addClass("has-error");
+        isInvalid = true;
     }
-    else if (upperHour != "" && !Regex.hourValidation(upperHour)) {
-        alert("End hour must be between 0-23");
+    if (upperHour != "" && !Regex.hourValidation(upperHour)) {
+        if (!isInvalid) alert("End hour must be between 0-23");
+        $("#formUpperHour").parent("div").addClass("has-error");
+        isInvalid = true;
     }
-    else if ((lowerHour != "" && upperHour == "") || (lowerHour == "" && upperHour != "")) {
-        alert("Both start hour and end hour must be filled");
+    if ((lowerHour != "" && upperHour == "") || (lowerHour == "" && upperHour != "")) {
+        if (!isInvalid) alert("Both start hour and end hour must be filled");
+        $("#formLowerHour").parent("div").addClass("has-error");
+        $("#formUpperHour").parent("div").addClass("has-error");
+        isInvalid = true;
     }
-    else if (lowerHour != "" && upperHour != "" && !(lowerHour < upperHour)) {
-        alert("Start hour must be less than end hour");
+    if (lowerHour != "" && upperHour != "" && !(lowerHour < upperHour)) {
+        if (!isInvalid) alert("Start hour must be less than end hour");
+        $("#formLowerHour").parent("div").addClass("has-error");
+        $("#formUpperHour").parent("div").addClass("has-error");
+        isInvalid = true;
     }
-    else {
+    
+    if (!isInvalid) {
         // clear the form
         $("#formRouteId").val("");
         $("#formStopId").val("");
