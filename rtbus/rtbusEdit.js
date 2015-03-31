@@ -56,7 +56,7 @@ function showSettingsOnPage() {
 *           UTILITY           *
 ******************************/
 var Regex = {
-    routeId: /^[1-5][0-9]{0,2}$/,
+    routeId: /^[1-9][0-9]{0,2}$/,
     stopId: /^[1-5][0-9]{3}$/,
     hourValidation: function (n) { return !isNaN(parseInt(n)) && n >= 0 && n <= 23; }
 }
