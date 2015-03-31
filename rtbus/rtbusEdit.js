@@ -55,27 +55,29 @@ function showSettingsOnPage() {
 /******************************
 *           UTILITY           *
 ******************************/
-function addSavedStop() {
-    var routeIdRegex = /^[1-5][0-9]{0,2}$/;
-    var stopIdRegex = /^[1-5][0-9]{3}$/;
-    var hourValidation = function (n) { return !isNaN(parseInt(n)) && n >= 0 && n <= 23; };
+var Regex = {
+    routeId: /^[1-5][0-9]{0,2}$/,
+    stopId: /^[1-5][0-9]{3}$/,
+    hourValidation: function (n) { return !isNaN(parseInt(n)) && n >= 0 && n <= 23; }
+}
 
+function addSavedStop() {
     var routeId = $("#formRouteId").val();
     var stopId = $("#formStopId").val();
     var lowerHour = $("#formLowerHour").val();
     var upperHour = $("#formUpperHour").val();
 
     // error checking
-    if (!routeIdRegex.test(routeId)) {
+    if (!Regex.routeId.test(routeId)) {
         alert("Bus route is invalid");
     }
-    else if (!stopIdRegex.test(stopId)) {
+    else if (!Regex.stopId.test(stopId)) {
         alert("Stop number is invalid");
     }
-    else if (lowerHour != "" && !hourValidation(lowerHour)) {
+    else if (lowerHour != "" && !Regex.hourValidation(lowerHour)) {
         alert("Start hour must be between 0-23");
     }
-    else if (upperHour != "" && !hourValidation(upperHour)) {
+    else if (upperHour != "" && !Regex.hourValidation(upperHour)) {
         alert("End hour must be between 0-23");
     }
     else if ((lowerHour != "" && upperHour == "") || (lowerHour == "" && upperHour != "")) {
@@ -142,6 +144,7 @@ function BusStop(routeId, stopId, lowerHour, upperHour) {
 $("#formLowerHour").on('input propertychange paste', function () {
     var lowerHour = $("#formLowerHour").val();
     lowerHour = isNaN(parseInt(lowerHour)) ? -1 : parseInt(lowerHour);
+    lowerHour = (lowerHour > 22 || lowerHour < 0) ? -1 : lowerHour;
     $("#formUpperHour").attr("placeholder", "End hour to display (" + ++lowerHour + " - 23)");
 });
 
