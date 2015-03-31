@@ -87,7 +87,7 @@ function getDataForLayout(n, isFirstLoad) {
 
     var stopName;
     var busTitle = "<h4><i class=\"fa fa-bus\"></i> Route " + stopsList[n].routeId + "</h4>";
-    busTitle += "<h5><i class=\"fa fa-map-marker\"></i> #" + stopsList[n].stopId + "</h5>";
+    busTitle += "<h5><i class=\"fa fa-map-marker\"></i> Stop #" + stopsList[n].stopId + "</h5>";
 
     if (!isFirstLoad) {
         // set display info to spinner and show
@@ -152,7 +152,7 @@ function getDataForLayout(n, isFirstLoad) {
     }
 
     // detours
-    else if (stopsList[n].stopId >= 5000 && stopsList[n].stopId <= 5015) {
+    else if (stopsList[n].stopId >= 3950 && stopsList[n].stopId <= 5050) {
         $.getJSON(YqlUrl,
             {
                 q: baseUrl + stopsList[n].stopId + routeUrl + stopsList[n].routeId + "\"",
@@ -171,11 +171,19 @@ function getDataForLayout(n, isFirstLoad) {
             else if (data.query.results.json.hasOwnProperty('stopTimes')) {
                 if (data.query.results.json.stopTimes.hasOwnProperty('length')) {
                     busTitle = "<h4><i class=\"fa fa-bus\"></i> " + data.query.results.json.stopTimes[0].HeadSign + "</h4>";
-                    busTitle += "<h5><i class=\"fa fa-map-marker\"></i> Detour - #" + stopsList[n].stopId + "</h5>";
+                    if (stopsList[n].stopId >= 3950 && stopsList[n].stopId <= 4999) {
+                        busTitle += "<h5><i class=\"fa fa-map-marker\"></i> Stop #" + stopsList[n].stopId + "</h5>";
+                    } else {
+                        busTitle += "<h5><i class=\"fa fa-map-marker\"></i> Detour - #" + stopsList[n].stopId + "</h5>";
+                    }
                     setDivs(data.query.results.json.stopTimes, DIV_BUS_INFO + n);
                 } else {
                     busTitle = "<h4><i class=\"fa fa-bus\"></i> " + data.query.results.json.stopTimes.HeadSign + "</h4>";
-                    busTitle += "<h5><i class=\"fa fa-map-marker\"></i> Detour - #" + stopsList[n].stopId + "</h5>";
+                    if (stopsList[n].stopId >= 3950 && stopsList[n].stopId <= 4999) {
+                        busTitle += "<h5><i class=\"fa fa-map-marker\"></i> Stop #" + stopsList[n].stopId + "</h5>";
+                    } else {
+                        busTitle += "<h5><i class=\"fa fa-map-marker\"></i> Detour - #" + stopsList[n].stopId + "</h5>";
+                    }
                     setDivs([data.query.results.json.stopTimes], DIV_BUS_INFO + n);
                 }
 
