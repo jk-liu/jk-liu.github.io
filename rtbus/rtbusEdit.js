@@ -168,7 +168,7 @@ $("#formLowerHour").on('input propertychange paste', function () {
     var lowerHour = $("#formLowerHour").val();
     lowerHour = isNaN(parseInt(lowerHour)) ? -1 : parseInt(lowerHour);
     lowerHour = (lowerHour > 22 || lowerHour < 0) ? -1 : lowerHour;
-    $("#formUpperHour").attr("placeholder", "End hour to display (" + ++lowerHour + " - 23)");
+    $("#formUpperHour").attr("placeholder", "End hour (" + ++lowerHour + " - 23)");
 });
 
 $("input:checkbox").click(function () {
