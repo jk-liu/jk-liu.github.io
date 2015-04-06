@@ -3,7 +3,8 @@
 ******************************/
 
 var DIV_ROOT = "divStop";
-var DIV_BUS_TITLE = "divBusTitle";
+var DIV_ROUTE_TITLE = "divRouteTitle";
+var DIV_STOP_TITLE = "divStopTitle";
 var DIV_BUS_INFO = "divBusInfo";
 var LOCALSTORAGE_KEY = "rtbusData";
 var LOCALSTORAGE_SETTINGS_KEY = "rtbusSettings";
@@ -55,7 +56,10 @@ function initLayout(n) {
     // create the divs to set later on
     for (i = 0; i < n; i++) {
         divContent += "<div class=\"col-sm-6 col-md-4\" id=\"" + DIV_ROOT + i + "\" onclick=\"getDataForLayout(" + i + ", false)\" style=\"display: none;\">";
-        divContent += "<div class=\"col-sm-12\" id=\"" + DIV_BUS_TITLE + i + "\"></div>";
+        divContent += "<div class=\"col-sm-12\">";
+        divContent += "<h4><i class=\"fa fa-bus\"></i> <span id=\"" + DIV_ROUTE_TITLE + i + "\"</span></h4>";
+        divContent += "<h5><i class=\"fa fa-map-marker\"></i> <span id=\"" + DIV_STOP_TITLE + i + "\"</span></h5>";
+        divContent += "</div>";
         divContent += "<div class=\"col-sm-12\" id=\"" + DIV_BUS_INFO + i + "\">" + spinnerHtml + "</div>";
         divContent += "</div>";
     }
@@ -85,128 +89,76 @@ function getDataForLayout(n, isFirstLoad) {
     // disable click to avoid queuing multiple requests
     document.getElementById(DIV_ROOT + n).onclick = function () {};
 
-    var stopName;
-    var busTitle = "<h4><i class=\"fa fa-bus\"></i> Route " + stopsList[n].routeId + "</h4>";
-    busTitle += "<h5><i class=\"fa fa-map-marker\"></i> Stop #" + stopsList[n].stopId + "</h5>";
-
-    if (!isFirstLoad) {
+    // only show placeholder information on first load
+    if (isFirstLoad) {
+        setRouteTitle(n, "Route " + stopsList[n].routeId);
+        setStopTitle(n, "Stop #" + stopsList[n].stopId);
+    }
+    else {
         // set display info to spinner and show
         $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html(spinnerHtml); });
         $("#" + DIV_BUS_INFO + n).fadeIn();
 
         // hide tutorial text
         $("#refreshTutorial").slideUp();
-    } else {
-        $("#" + DIV_BUS_TITLE + n).html(busTitle);
     }
 
-    // regular bus stops
+    // for regular bus stops it's possible to get its name
     if (stopsList[n].stopId >= 1000 && stopsList[n].stopId <= 3949) {
         $.getJSON("stops.json", function (data) {
-            stopName = data[(stopsList[n].stopId - 1000)];
-            if (stopName == "") {
-                $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Invalid stop number"); });
-                $("#" + DIV_BUS_INFO + n).fadeIn();
-            }
-
-            else {
-                $.getJSON(YqlUrl,
-                    {
-                        q: baseUrl + stopsList[n].stopId + routeUrl + stopsList[n].routeId + "\"",
-                        format: "json"
-                    },
-
-                function (data) {
-                    if (data == null) {
-                        $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Server error, tap to try again.<br><br>"); });
-                        $("#" + DIV_BUS_INFO + n).fadeIn(400, function () {
-                            // reenable click after receiving result
-                            document.getElementById(DIV_ROOT + divNum).onclick = function () { getDataForLayout(divNum, false) };
-                        });
-                    }
-
-                    else if (data.query.results.json.hasOwnProperty('stopTimes')) {
-                        if (data.query.results.json.stopTimes.hasOwnProperty('length')) {
-                            busTitle = "<h4><i class=\"fa fa-bus\"></i> " + data.query.results.json.stopTimes[0].HeadSign + "</h4>";
-                            busTitle += "<h5><i class=\"fa fa-map-marker\"></i> " + stopName + " - #" + stopsList[n].stopId + "</h5>";
-                            setDivs(data.query.results.json.stopTimes, DIV_BUS_INFO + n);
-                        } else {
-                            busTitle = "<h4><i class=\"fa fa-bus\"></i> " + data.query.results.json.stopTimes.HeadSign + "</h4>";
-                            busTitle += "<h5><i class=\"fa fa-map-marker\"></i> " + stopName + " - #" + stopsList[n].stopId + "</h5>";
-                            setDivs([data.query.results.json.stopTimes], DIV_BUS_INFO + n);
-                        }
-
-                        $("#" + DIV_BUS_TITLE + n).html(busTitle);
-                    }
-
-                    else {
-                        $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Buses may not be running at this time, otherwise check that the bus route and stop combination are valid.<br><br>"); });
-                        $("#" + DIV_BUS_INFO + n).fadeIn(400, function () {
-                            // reenable click after receiving result
-                            document.getElementById(DIV_ROOT + divNum).onclick = function () { getDataForLayout(divNum, false) };
-                        });
-                    }
-                });
+            var stopName = data[(stopsList[n].stopId - 1000)];
+            if (stopName != "") {
+                setStopTitle(n, stopName + " - #" + stopsList[n].stopId);
             }
         });
     }
 
-    // detours
+    // other stops that are not listed
     else if (stopsList[n].stopId >= 3950 && stopsList[n].stopId <= 5050) {
-        $.getJSON(YqlUrl,
-            {
-                q: baseUrl + stopsList[n].stopId + routeUrl + stopsList[n].routeId + "\"",
-                format: "json"
-            },
-
-        function (data) {
-            if (data == null) {
-                $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Server error, tap to try again.<br><br>"); });
-                $("#" + DIV_BUS_INFO + n).fadeIn(400, function () {
-                    // reenable click after receiving result
-                    document.getElementById(DIV_ROOT + divNum).onclick = function () { getDataForLayout(divNum, false) };
-                });
-            }
-
-            else if (data.query.results.json.hasOwnProperty('stopTimes')) {
-                if (data.query.results.json.stopTimes.hasOwnProperty('length')) {
-                    busTitle = "<h4><i class=\"fa fa-bus\"></i> " + data.query.results.json.stopTimes[0].HeadSign + "</h4>";
-                    if (stopsList[n].stopId >= 3950 && stopsList[n].stopId <= 4999) {
-                        busTitle += "<h5><i class=\"fa fa-map-marker\"></i> Stop #" + stopsList[n].stopId + "</h5>";
-                    } else {
-                        busTitle += "<h5><i class=\"fa fa-map-marker\"></i> Detour - #" + stopsList[n].stopId + "</h5>";
-                    }
-                    setDivs(data.query.results.json.stopTimes, DIV_BUS_INFO + n);
-                } else {
-                    busTitle = "<h4><i class=\"fa fa-bus\"></i> " + data.query.results.json.stopTimes.HeadSign + "</h4>";
-                    if (stopsList[n].stopId >= 3950 && stopsList[n].stopId <= 4999) {
-                        busTitle += "<h5><i class=\"fa fa-map-marker\"></i> Stop #" + stopsList[n].stopId + "</h5>";
-                    } else {
-                        busTitle += "<h5><i class=\"fa fa-map-marker\"></i> Detour - #" + stopsList[n].stopId + "</h5>";
-                    }
-                    setDivs([data.query.results.json.stopTimes], DIV_BUS_INFO + n);
-                }
-
-                $("#" + DIV_BUS_TITLE + n).html(busTitle);
-            }
-
-            else {
-                $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Buses may not be running at this time, otherwise check that the bus route and stop combination are valid.<br><br>"); });
-                $("#" + DIV_BUS_INFO + n).fadeIn(400, function () {
-                    // reenable click after receiving result
-                    document.getElementById(DIV_ROOT + divNum).onclick = function () { getDataForLayout(divNum, false) };
-                });
-            }
-        });
+        // 5xxx stops are detours
+        if (stopsList[n].stopId >= 5000) {
+            setStopTitle(n, "Detour #" + stopsList[n].stopId)
+        } else {
+            setStopTitle(n, "Stop #" + stopsList[n].stopId)
+        }
     }
 
-    else {
-        $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Invalid stop number"); });
-        $("#" + DIV_BUS_INFO + n).fadeIn();
-    }
+    $.getJSON(YqlUrl,
+        {
+            q: baseUrl + stopsList[n].stopId + routeUrl + stopsList[n].routeId + "\"",
+            format: "json"
+        },
+
+    function (data) {
+        if (data == null || data.query.results == null) {
+            $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Server error, tap to try again.<br><br>"); });
+            $("#" + DIV_BUS_INFO + n).fadeIn(400, function () {
+                // reenable click after receiving result
+                document.getElementById(DIV_ROOT + n).onclick = function () { getDataForLayout(n, false) };
+            });
+        }
+
+        else if (data.query.results.json.hasOwnProperty('stopTimes')) {
+            if (data.query.results.json.stopTimes.hasOwnProperty('length')) {
+                setRouteTitle(n, data.query.results.json.stopTimes[0].HeadSign);
+                setDivs(n, data.query.results.json.stopTimes);
+            } else {
+                setRouteTitle(n, data.query.results.json.stopTimes.HeadSign);
+                setDivs(n, [data.query.results.json.stopTimes]);
+            }
+        }
+
+        else {
+            $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html("Buses may not be running at this time, otherwise check that the bus route and stop combination are valid.<br><br>"); });
+            $("#" + DIV_BUS_INFO + n).fadeIn(400, function () {
+                // reenable click after receiving result
+                document.getElementById(DIV_ROOT + n).onclick = function () { getDataForLayout(n, false) };
+            });
+        }
+    });
 }
 
-function setDivs(data, divID) {
+function setDivs(n, data) {
     var outputString = "<table class=\"table table-condensed\">";
 
     for (var i = 0; i < data.length; i++) {
@@ -233,14 +185,21 @@ function setDivs(data, divID) {
 
     outputString += "</table>";
 
-    var divNum = divID.substring(10);
-
-    $("#" + divID).fadeOut(400, function () { $("#" + divID).html(outputString); });
-    $("#" + divID).fadeIn(400, function () {
+    $("#" + DIV_BUS_INFO + n).fadeOut(400, function () { $("#" + DIV_BUS_INFO + n).html(outputString); });
+    $("#" + DIV_BUS_INFO + n).fadeIn(400, function () {
         // reenable click after receiving result
-        document.getElementById(DIV_ROOT + divNum).onclick = function () { getDataForLayout(divNum, false) };
+        document.getElementById(DIV_ROOT + n).onclick = function () { getDataForLayout(n, false) };
     });
 }
+
+function setRouteTitle(n, routeStr) {
+    $("#" + DIV_ROUTE_TITLE + n).html(routeStr);
+}
+
+function setStopTitle(n, stopStr) {
+    $("#" + DIV_STOP_TITLE + n).html(stopStr);
+}
+
 
 var StoredStops = {
     get: function () {
