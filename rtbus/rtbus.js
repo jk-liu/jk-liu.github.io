@@ -40,7 +40,7 @@ function main() {
         requestDataForLayout(stopsList.length);
     }
     else {
-        var emptyMsg = "<h4>No stops have been set, you can set stops <a href=\"editor.html\">here</a>.</h4>";
+        var emptyMsg = "<h4>No stops have been set, you can set stops by tapping Edit Stops.</h4>";
         $("#mainLayout").fadeOut(400, function () { $("#mainLayout").html(emptyMsg); });
         $("#mainLayout").fadeIn();
     }
