@@ -173,11 +173,11 @@ function setDivs(n, data) {
         hourStr = hourStr == 0 ? 12 : hourStr;
 
         if (i == 0) {
-            outputString += "<tr><td style=\"vertical-align:middle\"><p style=\"font-size:40px\">" + data[i].Minutes + "m </p></td>";
+            outputString += "<tr><td style=\"vertical-align:middle\"><p style=\"font-size:40px\">" + data[i].Minutes + "min </p></td>";
             outputString += "<td style=\"vertical-align:middle\"><p style=\"text-align:right\"><b>" + hourStr + ":" + minuteStr + " " + amPm + "</b></p></td></tr></tr>";
         } else {
             outputString += "<tr><td>";
-            outputString += data[i].Minutes + "m </td><td style=\"vertical-align:middle\"><p style=\"text-align:right\"><b>" + hourStr + ":" + minuteStr + " " + amPm + "</b></p></td></tr>";
+            outputString += data[i].Minutes + "min </td><td style=\"vertical-align:middle\"><p style=\"text-align:right\"><b>" + hourStr + ":" + minuteStr + " " + amPm + "</b></p></td></tr>";
         }
 
         if (isOnlyShowNextBusEnabled) break;
