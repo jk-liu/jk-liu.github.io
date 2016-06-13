@@ -2,13 +2,73 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 400;
     background: #fafafa;
-    color: #444;
+    color: #333;
 }
 
-.bio-icon {
-    color: #444
+p {
+    margin-top: 0;
+    margin-bottom: 1em;
 }
 
-.img-circle {
+h2 {
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h4 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h5 {
+    font-size: .9em;
+    font-weight: 600;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+/****************************************
+                  BIO
+*****************************************/
+a.bio-icon {
+    color: #888
+}
+
+h1.bio-name {
+    font-weight: 900;
+    font-size: 3em;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+img.bio-image {
     border-radius: 50%;
+    display: block;
+    width: 180px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.bio-contact {
+    display: block;
+    text-align: center;
+    letter-spacing: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1em;
+}
+
+div.bio-sections {
+    max-width: 500px;
+    padding: .5em;
+    margin-left: auto;
+    margin-right: auto;
 }
