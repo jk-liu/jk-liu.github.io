@@ -1,8 +1,11 @@
+html {
+    background-color: #eee;
+}
+
 body {
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 400;
-    background: #fafafa;
-    color: #333;
+    color: #000;
 }
 
 p {
@@ -34,28 +37,29 @@ h5 {
 }
 
 a {
-    color: #333;
+    color: #000;
     transition: color 0.2s ease;
     text-decoration: none;
 }
 
 a:hover {
-    color: #888;
+    color: #444;
 }
 
 /****************************************
                   BIO
 *****************************************/
 a.bio-icon {
-    color: #888;
+    color: #000;
     transition: color 0.2s ease;
 }
 
 a.bio-icon:hover {
-    color: #000;
+    color: #aaa;
 }
 
 h1.bio-name {
+    color: #000;
     font-weight: 900;
     font-size: 3em;
     text-align: center;
@@ -75,7 +79,7 @@ img.bio-image {
 #bio-header {
     width: 200px;
     margin: auto;
-    padding: 2em;
+    padding: 1em;
 }
 
 #bio-contact {
@@ -88,8 +92,27 @@ img.bio-image {
 }
 
 #bio-sections {
+    background-color: rgba(255, 255, 255, 0.7);
     max-width: 500px;
-    padding: .5em;
+    padding: 1em;
     margin-left: auto;
     margin-right: auto;
+}
+
+/* wider than tablet screen */
+@media screen and (min-width: 768px) {
+    html {
+        /* background image is 934KB, not loaded on phone screen to save data */
+        background: url("../images/fancy-bg.jpg") no-repeat center center fixed;
+        background-size: cover;
+    }
+
+    h1.bio-name {
+        color: #fff;
+    }
+
+    a.bio-icon {
+        color: #fff
+    }
+
 }
