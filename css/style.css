@@ -33,11 +33,26 @@ h5 {
     margin-bottom: 0;
 }
 
+a {
+    color: #333;
+    transition: color 0.2s ease;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #888;
+}
+
 /****************************************
                   BIO
 *****************************************/
 a.bio-icon {
-    color: #888
+    color: #888;
+    transition: color 0.2s ease;
+}
+
+a.bio-icon:hover {
+    color: #000;
 }
 
 h1.bio-name {
@@ -57,7 +72,13 @@ img.bio-image {
     margin-right: auto;
 }
 
-div.bio-contact {
+#bio-header {
+    width: 200px;
+    margin: auto;
+    padding: 2em;
+}
+
+#bio-contact {
     display: block;
     text-align: center;
     letter-spacing: 10px;
@@ -66,7 +87,7 @@ div.bio-contact {
     margin-bottom: 1em;
 }
 
-div.bio-sections {
+#bio-sections {
     max-width: 500px;
     padding: .5em;
     margin-left: auto;
