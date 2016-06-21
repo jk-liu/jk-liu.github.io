@@ -1,5 +1,5 @@
 html {
-    background-color: #eee;
+	background: linear-gradient( -25deg, #011a25, #3ea0eb);
 }
 
 body {
@@ -42,6 +42,13 @@ a {
     text-decoration: none;
 }
 
+a.semi-bold-blue {
+    color: #288ccc;
+	font-weight: 600;
+    transition: color 0.2s ease;
+    text-decoration: none;
+}
+
 a:hover {
     color: #444;
 }
@@ -50,7 +57,7 @@ a:hover {
                   BIO
 *****************************************/
 a.bio-icon {
-    color: #000;
+    color: #fff;
     transition: color 0.2s ease;
 }
 
@@ -59,7 +66,7 @@ a.bio-icon:hover {
 }
 
 h1.bio-name {
-    color: #000;
+    color: #fff;
     font-weight: 900;
     font-size: 3em;
     text-align: center;
@@ -94,7 +101,7 @@ img.bio-image {
 #bio-sections {
     background-color: rgba(255, 255, 255, 0.7);
     max-width: 500px;
-    padding: 1em;
+    padding: .5em 1em;
     margin-left: auto;
     margin-right: auto;
 }
@@ -106,13 +113,4 @@ img.bio-image {
         background: url("../images/fancy-bg.jpg") no-repeat center center fixed;
         background-size: cover;
     }
-
-    h1.bio-name {
-        color: #fff;
-    }
-
-    a.bio-icon {
-        color: #fff
-    }
-
 }
